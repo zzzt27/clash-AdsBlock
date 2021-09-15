@@ -1,9 +1,10 @@
 # clashBlock
 
 ## Source List
-* Adaway
+* Adaway LAST UPDATE 15-9-21
 > https://adaway.org/hosts.txt
-* oisd
+* oisd LAST UPDATE 15-9-21
+> 90174 rules
 > https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt
 
 
