@@ -8290,7 +8290,7 @@ payload:
   - DOMAIN,validate.onecount.net
 
 # [onedrive.com]
-23.77.251.5 image.mail.onedrive.com
+#23.77.251.5 image.mail.onedrive.com
 
 # [onefeed.co.uk]
   - DOMAIN,tracking.onefeed.co.uk
