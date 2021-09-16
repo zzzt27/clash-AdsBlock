@@ -5,7 +5,7 @@
 NAME | LINK | UPDATE | RULES COUNT
 ------------ | ------------- | ------------- | -------------
 [Adaway](https://adaway.org/) | https://adaway.org/hosts.txt | **15-09-21** | 8122
-[oisd](https://oisd.nl/) | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt | **15-09-21** | 90174
+[oisd](https://oisd.nl/) | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt | **16-09-21** | 90339
 
 ## HOW TO
 
