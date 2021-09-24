@@ -2,7 +2,6 @@
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # Last converted - Mon, 20 Sep 2021 19:00:17 +.0100
-#
 
 payload:
   - '+.nsparket.top'
