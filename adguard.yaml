@@ -2967,7 +2967,7 @@ payload:
 
   - '+.hub.fghtem.com'
 
-  - '+.rcdn.pro'$badfilter'
+  - '+.rcdn.pro'
 #
 
 #
