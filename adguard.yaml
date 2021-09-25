@@ -1,21 +1,4 @@
-#
-# Title: AdGuard DNS filter
-# Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-# Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-# License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-# Last modified: 2021-09-25T06:04:04.483Z
-#
-# Compiled by @adguard/hostlist-compiler v1.0.12
-#
-#
-# Source name: AdGuard Base filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
-# The rules with hints are at the end of file
-#
+
 payload:
   - '+.rowensalmner.com'
   - '+.attendantsteakfax.com'
@@ -2188,12 +2171,12 @@ payload:
   - '+.traqueto.com'
   - '+.wheelches.info'
   - '+.menemier.info'
-  - '+.therses.co'
+  - '+.therses.com'
   - '+.xijgedjgg5f55.com'
   - '+.bitvertise.io'
   - '+.coinverti.com'
   - '+.parlaka.com'
-  - '+.attenhance.co'
+  - '+.attenhance.com'
   - '+.langtzet.info'
   - '+.fm6dz864.top'
   - '+.ixeq490u20.com'
@@ -2617,8 +2600,8 @@ payload:
   - '+.ssl4me.cf'
   - '+.putrr*.com'
   - '+.motohem.com'
-  - '+.mobioffertrck.co'
-  - '+.trklvs.co'
+  - '+.mobioffertrck.com'
+  - '+.trklvs.com'
   - '+.suocloud.com'
   - '+.wirelesstube.mobi'
   - '+.vkkpv.com'
@@ -2640,7 +2623,7 @@ payload:
   - '+.dskfv.de'
   - '+.t.mtagmonetizationb.com'
   - '+.uqie4nzy.com'
-  - '+.globaladmedia.net
+  - '+.globaladmedia.net'
   - '+.xiniuz.com'
   - '+.ulife17yeter.com'
   - '+.siphic5.top'
@@ -2675,7 +2658,7 @@ payload:
   - '+.adspeed.net'
   - '+.adspynet.com'
   - '+.adsrvgateway.com'
-  - '+.adsrvmedia.adk2.co'$important
+  - '+.adsrvmedia.adk2.co'$important'
   - '+.adtech.com'
   - '+.adternal.com'
   - '+.adtomafusion.net'
@@ -2707,7 +2690,7 @@ payload:
   - '+.az708531.vo.msecnd.net'
   - '+.banner.dabi.ir'
   - '+.bannery.hledejceny.cz'
-  - '+.bbcdn.go.evolutionmedia.bbelements.co
+  - '+.bbcdn.go.evolutionmedia.bbelements.co'
   - '+.bedebadum.net'
   - '+.bee7.com'
   - '+.best.infoiswhatwedo.com'
@@ -2765,7 +2748,7 @@ payload:
   - '+.epom.com'
   - '+.eropayper.com'
   - '+.euym8eel.club'
-  - '+.evolutionmedia.bbelements.co'
+  - '+.evolutionmedia.bbelements.com'
   - '+.exitintel.com'
   - '+.exogripper.com'
   - '+.ext.movixhub.com'
@@ -2853,7 +2836,7 @@ payload:
   - '+.offergo.net'
   - '+.offpageads.com'
   - '+.onclicktop.com'
-  - '+.onderlea.info
+  - '+.onderlea.info'
   - '+.ongkidcasarv.com'
   - '+.onlinesupaads.com'
   - '+.onlinewebfind.com'
@@ -2920,7 +2903,7 @@ payload:
   - '+.super-promo.cyme.info'
   - '+.syndication.jsadapi.com'
   - '+.syngrestic.com'
-  - '+.synhandler.net
+  - '+.synhandler.net'
   - '+.t.booksuper.info'
   - '+.advertiseserve.com'
   - '+.tagdelivery.com'
@@ -2955,40 +2938,40 @@ payload:
   - '+.yesadvertising.com'
   - '+.zanox.com'
   - '+.zeti.com'
-#+ NOT_OPTIMIZED
+
   - '+.o333o.com'
-#+ NOT_OPTIMIZED
+
   - '+.ew740.cn'
-#+ NOT_OPTIMIZED
+
   - '+.mqgpo.com'
-#+ NOT_OPTIMIZED
+
   - '+.dianomi.com'
-#+ NOT_OPTIMIZED
+
   - '+.xk0x.cn'
-#+ NOT_OPTIMIZED
+
   - '+.olc0.cn'
-#+ NOT_OPTIMIZED
+
   - '+.leaderhistliness.info'
-#+ NOT_OPTIMIZED
+
   - '+.resumersvo.fun'
-#+ NOT_OPTIMIZED
+
   - '+.yiatelychur.top'
 #
-# https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
+
   - '+.stripe.rs-1028-a.com'
 #
-# Ads reinjection (For apps only)
-#+ NOT_PLATFORM(windows, mac, android)
-#+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
-#+ NOT_PLATFORM(windows, mac, android)
-#+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
+
+
+
+
+
   - '+.hub.fghtem.com'
-#+ NOT_PLATFORM(windows, mac, android)
-  - '+.rcdn.pro'$badfilter
+
+  - '+.rcdn.pro'$badfilter'
 #
-# https://github.com/AdguardTeam/AdguardFilters/issues/31688
+
 #
-  - '+.d71e6dd31a026d45.co'
+  - '+.d71e6dd31a026d45.com'
   - '+.xdbwc.com'
   - '+.cb8717377086c72d.com'
   - '+.go.mobiprotg.com'
@@ -2996,17 +2979,17 @@ payload:
   - '+.large-format.net'
   - '+.november-lax.com'
 #
-# https://github.com/AdguardTeam/AdguardFilters/issues/23271
+
   - '+.samsungads.com'
-# https://github.com/AdguardTeam/AdGuardHome/issues/1046
+
   - '+.samsungtvads.com'
 
 #
-# Source name: AdGuard Base filter ad servers first-party
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers_firstparty.txt
+
+
 #
 #
-# Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+
 #
   - '+.dq06u9lt5akr2.cloudfront.net'
   - '+.asg.faperoni.com'
@@ -3172,79 +3155,61 @@ payload:
   - '+.js.bulkhentai.com'
 
 #
-# Source name: AdGuard Base filter ad servers foreign
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/foreign.txt
+
+
 #
-# https://github.com/AdguardTeam/AdguardFilters/issues/17139
+
   - '+.gjc.gjirafa.com'
   - '+.code.ainsyndication.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/54572
+
   - '+.ads1-adselo.com'
   - '+.adsy.mail.bg'
-# https://github.com/AdguardTeam/AdguardFilters/issues/17278
+
   - '+.subs.vingd.com'
-#+ NOT_OPTIMIZED
+
   - '+.banner.mob.hr'
-# https://github.com/AdguardTeam/AdguardFilters/issues/45953
+
   - '+.rsz.sk'
-# https://github.com/AdguardTeam/AdguardFilters/issues/41373
+
   - '+.bannery.navratdoreality.cz'
   - '+.report.seznamzpravy.cz'
   - '+.crystal-ad.ge'
-# https://github.com/AdguardTeam/AdguardFilters/issues/58569
+
   - '+.a.b.napiszar.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/19323
+
   - '+.pijama.*.elasticbeanstalk.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/84644
+
   - '+.ads.priel.co.kr'
   - '+.zumads.vrixon.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/64374
+
   - '+.partner.pocketing.tv'
   - '+.stream.spongead.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/23346
+
   - '+.innorame.com'
   - '+.ap.delfi.ee'
   - '+.ado.delfi.ee'
 #
-#---------------------------------------------------------------------
-#--------------------------- Luxembourgish ---------------------------
-#---------------------------------------------------------------------
-#
-# spellchecker.lu ad
-  - '+.reklammen.spellchecker.lu'
-  - '+.widget.tippebannere.no'
-# https://github.com/AdguardTeam/AdguardFilters/issues/37023
-  - '+.kaprila.com'
-  - '+.sabavision.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/5103
-  - '+.llog.pl'
-#
-  - '+.bsxmuny.wp.pl'
-  - '+.fusion.sydsvenskan.se'
-# https://github.com/AdguardTeam/AdguardFilters/issues/51547
-  - '+.hbplatform.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/38159
-  - '+.affiliate.k4.tinhte.vn'
-# https://github.com/AdguardTeam/AdguardFilters/issues/8077
-#+ NOT_PLATFORM(windows, mac, android)
-  - '+.delivery.senvangvn.com'
+
+
 
 #
-# Source name: AdGuard Base filter cryptominers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt
-#
-#
-# Another miners
-# sample url for one of the miners: silimbompom.com/142711235a1c137.2.n.2.1.js
-#                                   http://dzizsih.ru/0492012435a3a223.2.n.2.1.js
-#                                   http://nddmcconmqsy.ru/7492512165a41313.3.n.2.1.l60.js
-#                                   http://jwduahujge.ru/0741703015aacf2.3.1.1.1.l80.js
- - '+.n.2.1.js'
- - '+.n.2.1.l60.js'
- - '+.1.1.1.l80.js'
- - '+.3.n.2.1.l50.js
- - '+.3.n.2.2.l30.js
-#
+
+  - '+.reklammen.spellchecker.lu'
+  - '+.widget.tippebannere.no'
+
+  - '+.kaprila.com'
+  - '+.sabavision.com'
+  - '+.llog.pl'
+  - '+.bsxmuny.wp.pl'
+  - '+.fusion.sydsvenskan.se'
+  - '+.hbplatform.com'
+  - '+.affiliate.k4.tinhte.vn'
+  - '+.delivery.senvangvn.com'
+  - '+.n.2.1.js'
+  - '+.n.2.1.l60.js'
+  - '+.1.1.1.l80.js'
+  - '+.3.n.2.1.l50.js'
+  - '+.3.n.2.2.l30.js'
   - '+.monerominer.rocks'
   - '+.cloud-miner.de'
   - '+.webminepool.com'
@@ -3255,7 +3220,7 @@ payload:
   - '+.statdynamic.com'
   - '+.jwuqescfqa.xyz'
   - '+.ethereum-pocket.de'
-://mine.torrent.pw'
+  - '+.mine.torrent.pw'
   - '+.play.yo.onvid.club'
   - '+.besstahete.info'
   - '+.statpipe.ru'
@@ -3400,27 +3365,16 @@ vkcdnservice.appspot.com'
   - '+.xbasfbno.info'
   - '+.xy.nullrefexcep.com'
   - '+.yrdrtzmsmt.com'
-# don't add `'` to these rules
-  - '+.jshosting.bid
-  - '+.freecontent.date
-  - '+.hostingcloud.download
-  - '+.freecontent.bid
-  - '+.freecontent.racing
-  - '+.freecontent.strea'
+  - '+.jshosting.bid'
+  - '+.freecontent.date'
+  - '+.hostingcloud.download'
+  - '+.freecontent.bid'
+  - '+.freecontent.racing'
+  - '+.freecontent.stream'
   - '+.s*.web.flashx.co'
   - '+.s*.site.flashx.cc'
   - '+.s*.skencituer.com'
   - '+.mine.torrent.pw'
-#
-# Whitelist
-#
-
-
-#
-# Source name: EasyList ad servers
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-#
-# Non-flagged (Generic blocks)
   - '+.006a039c957c142bb.com'
   - '+.00aaa2d81c1d174.com'
   - '+.012469af389a1d1246d.com'
@@ -4951,7 +4905,7 @@ vkcdnservice.appspot.com'
   - '+.attentionsauditoriummall.com'
   - '+.attenuatecripple.com'
   - '+.au2m8.com'
-  - '+.auberginecorny.co'
+  - '+.auberginecorny.com'
   - '+.auberginises.xyz'
   - '+.auchoons.net'
   - '+.aud3g.com'
@@ -5591,7 +5545,7 @@ vkcdnservice.appspot.com'
   - '+.braggingreorganizeunderworld.com'
   - '+.brainian.club'
   - '+.brainient.com'
-  - '+.brainlesseither.co'
+  - '+.brainlesseither.com'
   - '+.brainlyads.com'
   - '+.braintb.com'
   - '+.brakesoutright.com'
@@ -5629,7 +5583,7 @@ vkcdnservice.appspot.com'
   - '+.breedtagask.com'
   - '+.bricksdrumdaughterinlaw.com'
   - '+.bridgetrack.com'
-  - '+.briefcroakapprentice.co'
+  - '+.briefcroakapprentice.com'
   - '+.brighteroption.com'
   - '+.brightonclick.com'
   - '+.brightoverwhelm.com'
@@ -5638,7 +5592,7 @@ vkcdnservice.appspot.com'
   - '+.brinkobdurate.com'
   - '+.brinkstretching.com'
   - '+.briticatederfd.site'
-  - '+.britishattemptingtrend.co'
+  - '+.britishattemptingtrend.com'
   - '+.brittleformat.com'
   - '+.broadcastingdeliberateverification.com'
   - '+.broadlystipulate.com'
@@ -5683,7 +5637,7 @@ vkcdnservice.appspot.com'
   - '+.budvawshes.ru'
   - '+.buggiesgyronny.com'
   - '+.buggrater.com'
-  - '+.bugputrescentdeliberately.co'
+  - '+.bugputrescentdeliberately.com'
   - '+.bugsphnhl.com'
   - '+.buhatfjrk9dje10eme.com'
   - '+.buildhoodpip.club'
@@ -5816,7 +5770,7 @@ vkcdnservice.appspot.com'
   - '+.canonch.pro'
   - '+.canyboysho.info'
   - '+.cap-cap-pop.com'
-  - '+.capacygre.top
+  - '+.capacygre.top'
   - '+.caphaiks.com'
   - '+.cappens-dreperor.com'
   - '+.capriceprop.com'
@@ -5973,7 +5927,7 @@ vkcdnservice.appspot.com'
   - '+.chairwaydenew.site'
   - '+.chaiseviscountsturgeon.com'
   - '+.chaissoo.com'
-  - '+.chalkedapplaudincident.co'
+  - '+.chalkedapplaudincident.com'
   - '+.challengedeprave.com'
   - '+.chameleon.ad'
   - '+.chancesmusicalinterrogation.com'
@@ -7520,7 +7474,7 @@ vkcdnservice.appspot.com'
   - '+.encountryf.pro'
   - '+.encouragementsubwayfather.com'
   - '+.encroachradarenginedriver.com'
-  - '+.encumberbloom.co'
+  - '+.encumberbloom.com'
   - '+.encyclopaediaapplaudawfully.com'
   - '+.endovmwy.com'
   - '+.endriawoolr.top'
@@ -14619,7 +14573,7 @@ vkcdnservice.appspot.com'
   - '+.temposnitehah.work'
   - '+.temptationnecklace.com'
   - '+.temptedcreationnovel.com'
-  - '+.tenantattackedoctober.co'
+  - '+.tenantattackedoctober.com'
   - '+.tend-new.com'
   - '+.tendents.club'
   - '+.tensecolonialismwandering.com'
@@ -15280,7 +15234,7 @@ vkcdnservice.appspot.com'
   - '+.untruewring.com'
   - '+.unumbonum.com'
   - '+.unwillingcalumny.com'
-  - '+.unwiseoccasionalinscribe.co'
+  - '+.unwiseoccasionalinscribe.com'
   - '+.unwofulcountys.com'
   - '+.uod2quk646.com'
   - '+.uopmcdnpad.com'
@@ -15726,7 +15680,7 @@ vkcdnservice.appspot.com'
   - '+.warumbistdusoarm.space'
   - '+.washedinmate.com'
   - '+.washingfueltorn.com'
-  - '+.wasp-182b.co'
+  - '+.wasp-182b.com'
   - '+.wasprenovate.com'
   - '+.wastedcooperate.com'
   - '+.wastesshimssat.world'
@@ -16551,9 +16505,7 @@ vkcdnservice.appspot.com'
   - '+.zyxyveshe.com'
   - '+.zzdb5p4upiug.com'
   - '+.zzoacwqfw.com'
-# Pi hole
   - '+.exoclick.com'
-# Third-party
   - '+.123date.me'
   - '+.152media.com'
   - '+.2beon.co.kr'
@@ -18081,15 +18033,8 @@ vkcdnservice.appspot.com'
   - '+.zemanta.com'
   - '+.zeropark.com'
   - '+.zwaar.org'
-# IP addresses
-# Non-English (instead of allowlisting ads)
   - '+.adhood.com'
   - '+.atresadvertising.com'
-
-#
-# Source name: EasyList ad servers third-party
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
-#
   - '+.1080872514.rsc.cdn77.org'
   - '+.1675450967.rsc.cdn77.org'
   - '+.a.ucoz.net'
@@ -18484,18 +18429,6 @@ vkcdnservice.appspot.com'
   - '+.noadblock.org'
   - '+.onfocus.io'
   - '+.secretmedia.com'
-#
-# Source name: AdGuard Mobile Ads filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
-#
-#   - '+.mobileapptracking.com' - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
-#
-# FluBot / Cabassous malware
-# https://github.com/prodaft/malware-ioc/tree/master/FluBot
   - '+.xjnwqdospderqtk.ru'
   - '+.nfiuerwtftasnuk.com'
   - '+.qoisocrldvnesni.ru'
@@ -18504,74 +18437,58 @@ vkcdnservice.appspot.com'
   - '+.krvpsegjeukhoqk.su'
   - '+.auqcmkubxjmeeyf.ru'
   - '+.vloxaloyfmdqxti.ru'
-# https://github.com/AdguardTeam/AdguardFilters/issues/74651
-# com.opera.app.newslite
   - '+.s-adx.op-mobile.opera.com'
   - '+.s.adx.opera.com'
-# Apps by Ketchapp
   - '+.ketchapp.org'
   - '+.cdn-ketchapp.akamaized.net'
-#
-# Samsung mobile ads
   - '+.sspapi-prd.samsungrs.com'
-#
-# Appnext
   - '+.api.appnxt.net'
   - '+.apis.appnxt.net'
-#
-# https://github.com/AdguardTeam/AdguardFilters/issues/3933
-# Yandex apps
   - '+.banners-slb.mobile.yandex.net'
   - '+.banners.mobile.yandex.net'
-#
-# Crypto-mining -- block completely on mobile (without third-party)
   - '+.coinhive.com'
   - '+.coin-hive.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/54135
   - '+.adv0*.msa.cdn.mediaset.net'
-# Micromax India
   - '+.ads.go2reach.com'
   - '+.mimicromax.com'
-# 3B Meteo
-# Duodian
   - '+.bi.yeshen.com'
   - '+.launcher.us.yeshen.com'
-# iHandy
+
   - '+.search.adcaffe.com'
   - '+.monitor.adcaffe.com'
-# Hawk Internet (TCL)
+
   - '+.ad-api.ehawk.com'
   - '+.gwrtdp-tn690BFAdt.tclclouds.com'
-# MoboTap
+
   - '+.mobotoolpush.moboapps.io'
-# Duodian (Nox/Aiad)
+
   - '+.ssp.mediation.trnox.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/20567
+
   - '+.bu1.duba.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/11291
+
   - '+.behacdn.ksmobile.net'
   - '+.p-behacdn.ksmobile.net'
-# https://github.com/AdguardTeam/AdguardFilters/issues/8642
+
   - '+.crosspromotion.weplayer.cc'
   - '+.ad.weplayer.cc'
-# https://forum.adguard.com/index.php?threads/24268/
+
   - '+.mobile-campaigns.avast.com'
-# https://forum.adguard.com/index.php?threads/s-photo-editor-missed-ads-android.21096/
+
   - '+.adpush.goforandroid.com'
-# https://forum.adguard.com/index.php?threads/dodonpachi-unlimited-missed-ads-android.21000/
+
   - '+.dzpu6za66svjl.cloudfront.net'
-# https://github.com/AdguardTeam/AdguardFilters/issues/4757
+
   - '+.ad.flipboard.com'
-# https://github.com/AdguardTeam/AdguardFilters/issues/4645
+
   - '+.adserver.shadow.snapads.com'
   - '+.ads-chunks.prod.ihrhls.com'
-# Watch ABC
+
   - '+.api.ads.watchabc.go.com'
-# https://play.google.com/store/apps/details?id=fr.playsoft.teleloisirs
+
   - '+.ad.prismamediadigital.com'
-# Supership.jp (also mobile ads)
+
   - '+.socdm.com'
-# Criteo mobile ads
+
   - '+.criteo.com'
   - '+.criteo.net'
 #
@@ -18596,7 +18513,7 @@ vkcdnservice.appspot.com'
   - '+.pasta.esfile.duapps.com'
   - '+.api.mobula.sdk.duapps.com'
   - '+.ad.duapps.com'
-# Ads on some Chinese smartphones
+
   - '+.ufz.doesxyz.com'
   - '+.id1.cn'
   - '+.xdrig.com'
@@ -18606,7 +18523,7 @@ vkcdnservice.appspot.com'
   - '+.plugin.mobopay.baidu.com'
   - '+.mo.freeindoapp.com'
 #
-# com.kakao.talk
+
   - '+.adcr.naver.com'
   - '+.ad.kakaocorp.com'
   - '+.ad.kakao.com'
@@ -18737,12 +18654,12 @@ vkcdnservice.appspot.com'
   - '+.look.kfiopkln.com'
   - '+.adplex.co.kr'
   - '+.tveta.naver.net'
-  - '+.deliveryengine.adswizz.co'
+  - '+.deliveryengine.adswizz.com'
   - '+.h5.wannaplay.cn'
   - '+.adsapi.manhuaren.com'
   - '+.euadsapi.manhuaren.com'
   - '+.msg.ettoday.net'
-  - '+.d1zkodo2u3p4pe.cloudfront.net
+  - '+.d1zkodo2u3p4pe.cloudfront.net'
   - '+.ad-ettoday.cdn.hinet.net'
   - '+.adv-ettoday.cdn.hinet.net'
   - '+.adv.ettoday.net'
@@ -18830,7 +18747,7 @@ vkcdnservice.appspot.com'
   - '+.jssdk.rayjump.com'
   - '+.adtheorent.com'
   - '+.qgss8.com'
-  - '+.api.cloudmobi.net
+  - '+.api.cloudmobi.net'
   - '+.polymorphicads.jp'
   - '+.cdns.lodeo.io'
   - '+.ingamesads.gameloft.com'
@@ -18860,12 +18777,12 @@ vkcdnservice.appspot.com'
   - '+.ad.myinstashot.com'
   - '+.net.rayjump.com'
   - '+.ad.cauly.co.kr'
-  - '+.config.appjolt.co'
+  - '+.config.appjolt.com'
   - '+.rtb.platform.glispa.com'
   - '+.adflake.com'
   - '+.ads.aitype.net'
   - '+.ad-creatives-public.commondatastorage.googleapis.com'
-://o0e.ru'
+  - '+.o0e.ru'
   - '+.1mp.mobi'
   - '+.abtest.swrve.com'
   - '+.ad*.nexage.com'
@@ -19180,65 +19097,65 @@ vkcdnservice.appspot.com'
   - '+.yhdichan.com'
   - '+.youmi.net'
   - '+.zoglafi.info'
-#+ NOT_OPTIMIZED
+
   - '+.recreativ.ru'
-#+ NOT_OPTIMIZED
+
   - '+.hqsjc.com'
-#+ PLATFORM(ios)
-  - '+.deloton.com$important
-#+ PLATFORM(ios)
-  - '+.oclasrv.com$important
-#----- For HTTPS websites when HTTPS filtering is disabled ------
+
+  - '+.deloton.com$important'
+
+  - '+.oclasrv.com$important'
+
   - '+.jfduv7.com'
   - '+.n152adserv.com'
   - '+.rg.yottos.com'
   - '+.weboohost.com'
-#----------------------------------------------------------------
+
 
 #
-# Source name: AdGuard Tracking Protection filter third-party trackers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+
+
 #
 #
-# Blocking Firebase crash reporting is quite problematic:
-# https://github.com/AdguardTeam/AdguardForAndroid/issues/1334#issuecomment-319302543
-#   - '+.app-measurement.com'
+
+
+
 #
-# Crashlytics is commented by @ameshkov.
-# The reason for unblocking crashlytics is to not make developers life worse by breaking crash reporting.
-# In a hostile network like when an ad blocker is present, apps might be crashing, and these errors need to be
-# reported to devs, otherwise they won't learn about the issue and won't fix it.
-# Also, it is not a common third-party analytics tracker, Crashlytics is not used for collecting users' data.
-#   - '+.e.crashlytics.com'
-#   - '+.settings.crashlytics.com'
+
+
+
+
+
+
+
 #
-# The list of bug-tracker services(Sentry, etc.)
-# Add as commented rules. Will be used in additional list and/or strict DNS
-#   - '+.crashlyticsreports-pa.googleapis.com'
-#   - '+.e.crashlytics.com'
-#   - '+.settings.crashlytics.com'
-#   - '+.sessions.bugsnag.com'
-#   - '+.notify.bugsnag.com'
-#   - '+.crashlytics2.l.google.com'
-#   - '+.crashlyticsreports-pa.googleapis.com'
-#   - '+.bugly.qcloud.com'
-#   - '+.admob-app-id-*.firebaseio.com'
-#   - '+.events.split.io'
-#   - '+.apptrace.com'
-#   - '+.opentelemetry.io'
-#   - '+.crash-reports.browser.yandex.net'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #
 #
-#   - '+.ensighten.com'$third-party - not a tracker
+
 #
-# Be careful when blocking snssdk.com. It is used also for legal purposes
+
   - '+.mcs.snssdk.com'
   - '+.log-hl.snssdk.com'
   - '+.ib.snssdk.com'
   - '+.xlog.snssdk.com'
   - '+.log.snssdk.com'
-#  - '+.i.snssdk.com/log/*
-#  - '+.i.snssdk.com/slardar/sdk.js
+
+
 #
   - '+.seoab.io'
   - '+.cdn.preciso.net'
@@ -19584,8 +19501,8 @@ vkcdnservice.appspot.com'
   - '+.lcs.loginfra.com'
   - '+.adblock-analytics.io'
   - '+.aukana.jp'
-  - '+.stat.tiara.
-  - '+.track.tiara.
+  - '+.stat.tiara.*'
+  - '+.track.tiara.*'
   - '+.doubleverify.com'
   - '+.volvelle.tech'
   - '+.audiencemanager.de'
@@ -19662,7 +19579,7 @@ vkcdnservice.appspot.com'
   - '+.tracker.durasite.net'
   - '+.growthrx.in'
   - '+.clickcease.com'
-  - '+.logs.juspay.in
+  - '+.logs.juspay.in'
   - '+.logs.datadoghq.eu'
   - '+.zprk.io'
   - '+.getstat.net'
@@ -19875,7 +19792,7 @@ vkcdnservice.appspot.com'
   - '+.clickanalytics208.com'
   - '+.logs.roku.com'
   - '+.cdn.driveback.ru'
-  - '+.tms-st.cdn.ngenix.net
+  - '+.tms-st.cdn.ngenix.net'
   - '+.track.aplaut.io'
   - '+.stat.tildacdn.com'
   - '+.cervell.io'
@@ -19898,7 +19815,7 @@ vkcdnservice.appspot.com'
   - '+.statsp.fpop.net'
   - '+.micpn.com'
   - '+.conductrics.com'
-  - '+.zorosrv.co'
+  - '+.zorosrv.com'
   - '+.api.cazamba.com'
   - '+.maliva-mcs.byteoversea.com'
   - '+.sgali-mcs.byteoversea.com'
@@ -20950,7 +20867,7 @@ vkcdnservice.appspot.com'
   - '+.hit2map.com'
   - '+.hitbox.com'
   - '+.hitcount.dk'
-  - '+.hitcounter.ru
+  - '+.hitcounter.ru'
   - '+.hitcountersonline.com'
   - '+.hitcounterstats.com'
   - '+.hitfarm.com'
@@ -21734,7 +21651,7 @@ vkcdnservice.appspot.com'
   - '+.scoutanalytics.net'
   - '+.scrippscontroller.com'
   - '+.script.ag'
-  - '+.script.opentracker.net
+  - '+.script.opentracker.net'
   - '+.scriptil.com'
   - '+.scripts21.com'
   - '+.scriptshead.com'
@@ -22338,18 +22255,18 @@ vkcdnservice.appspot.com'
   - '+.zqtk.net'
   - '+.zroitracker.com'
 #
-# relateddigital.com domains
+
   - '+.visilabs.com'
   - '+.visilabs.net'
 #
-# Assertive Yield (Ad Analytics) - '+.ay.delivery'
+
 #
-# https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
+
   - '+.functionalclam.com'
 #
-# Admiral domains
-# These domains are used for tracking purposes according to the data that is being sent there.
-# More info: https://getadmiral.com/products/measure
+
+
+
 #
   - '+.glisteningguide.com'
   - '+.railwayreason.com'
@@ -23297,7 +23214,7 @@ vkcdnservice.appspot.com'
   - '+.xovq5nemr.com'
   - '+.zbwp6ghm.com'
 #
-# TikTok
+
   - '+.xlog.tiktokv.com'
   - '+.xlog-va.tiktokv.com'
   - '+.log*-*.tiktokv.com'
@@ -23306,11 +23223,11 @@ vkcdnservice.appspot.com'
   - '+.mcs-va-*.tiktokv.com'
   - '+.analytics.tiktok.com'
 #
-# start: Big Star Labs
+
   - '+.yourblocksite.com'
   - '+.taskapi.net'
-# https://github.com/AdguardTeam/AdguardFilters/issues/42797
-# goguardian tracking
+
+
   - '+.beacon-fullpage-predictor.goguardian.com'
   - '+.countvoncount.goguardian.com'
   - '+.ext.goguardian.com'
@@ -23327,7 +23244,7 @@ vkcdnservice.appspot.com'
   - '+.x3-policy-maker.goguardian.com'
   - '+.x3-predictor.goguardian.com'
 #
-# Baidu
+
   - '+.als.baidu.com'
   - '+.afd.baidu.com'
   - '+.wkctj.baidu.com'
@@ -23335,16 +23252,16 @@ vkcdnservice.appspot.com'
   - '+.caclick.baidu.com'
   - '+.wkclick.baidu.com'
 #
-# Keyade
+
   - '+.keyade.net'
   - '+.keyade.com'
-# Criteo
+
   - '+.storetail.io'
   - '+.dnsdelegation.io'
-# AT Internet
+
   - '+.at-o.net'
   - '+.atinternet.com'
-# Eulerian
+
   - '+.euleriancdn.net'
   - '+.eulerian.net'
   - '+.mj23.eulerian.com'
@@ -23356,42 +23273,42 @@ vkcdnservice.appspot.com'
   - '+.eulerian.brandalley.fr'
   - '+.eulerian.belambra.fr'
   - '+.eulerian.belambra.be'
-# Adobe Experience Cloud
+
   - '+.data.adobedc.net'
-# Commanders Act
+
   - '+.tagcommander.com'
   - '+.commandersact.com'
-# Wizaly
+
   - '+.wizaly.com'
-# Ingenious Technologies
+
   - '+.affex.org'
-# Yesware
+
   - '+.t.yesware.com'
 
 #
-# Source name: AdGuard Tracking Protection filter first-party trackers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+
+
 #
 #
-# Section contains the list of tracking servers, which are hosted on useful sites as subdomains
+
 #
-# https://github.com/AdguardTeam/AdguardFilters/issues/25467
+
 #
-# Big Star Labs
+
   - '+.ben.crxmouse.com'
   - '+.api2.poperblocker.com'
-# start: unimania
+
   - '+.d10vy5gom1ed53.cloudfront.net'
   - '+.um-public-panel-prod.s3.amazonaws.com'
   - '+.collection-endpoint-prod.herokuapp.com'
   - '+.collection-endpoint-staging.herokuapp.com'
-# end:
+
 #
-# This rule breaks Australian sites
-#+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
+
+
 #
-# https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
-# Disabled in DNS filter
+
+
 #
   - '+.tms.oracle.com'
   - '+.tim.nextinpact.com'
@@ -23824,7 +23741,7 @@ vkcdnservice.appspot.com'
   - '+.tr.snapchat.com'
   - '+.atlas1.krone.at'
   - '+.spr.bild.de'
-  - '+.pixel.wp.pl'$important
+  - '+.pixel.wp.pl'$important'
   - '+.dot.wp.pl'
   - '+.player-feedback-v1.glomex.com'
   - '+.track.sohu.com'
@@ -23856,7 +23773,7 @@ vkcdnservice.appspot.com'
   - '+.collecte.audience.acpm.fr'
   - '+.stats.otempo.com.br'
   - '+.banstat.nadavi.net'
-  - '+.pixel.4players.de'$important
+  - '+.pixel.4players.de'$important'
   - '+.lexip.4players.de'
   - '+.monitor-targeting-failures.sqrt-5041.de'
   - '+.analytics.businessinsider.com'
@@ -24244,7 +24161,7 @@ vkcdnservice.appspot.com'
   - '+.t-ak.hulu.com'
   - '+.t.blinkist.com'
   - '+.t.cinemablend.com'
-  - '+.t.delfi.
+  - '+.t.delfi.*'
   - '+.t.eharmony.com'
   - '+.t.my.jobs'
   - '+.t.vimeo.com'
@@ -24269,7 +24186,7 @@ vkcdnservice.appspot.com'
   - '+.track.ugamezone.com'
   - '+.track.wildblue.com'
   - '+.track.workablemetro.com'
-  - '+.track.zalando.
+  - '+.track.zalando.*'
   - '+.track.zomato.com'
   - '+.tracker-api.my.com'
   - '+.tracker.anandtech.com'
@@ -24302,7 +24219,7 @@ vkcdnservice.appspot.com'
   - '+.tracking.moneyam.com'
   - '+.tracking.mycapture.com'
   - '+.tracking.nextdoor.com'
-  - '+.tracking.olx.
+  - '+.tracking.olx.*'
   - '+.tracking.porndoelabs.com'
   - '+.tracking.realtor.com'
   - '+.tracking.resumecompanion.com'
@@ -24336,7 +24253,7 @@ vkcdnservice.appspot.com'
   - '+.pixel.europapress.net'
   - '+.front.optimonk.com'
   - '+.tracker.affirm.com'
-  - '+.track.datescan.info
+  - '+.track.datescan.info'
   - '+.log.aliyuncs.com'
   - '+.d10lpsik1i8c69.cloudfront.net'
   - '+.stg-data-collector.playbuzz.com'
@@ -24413,7 +24330,7 @@ vkcdnservice.appspot.com'
   - '+.atm.youku.com'
   - '+.bt.phorm.com'
   - '+.br.phorm.com'
-  - '+.button.blogs.yandex.
+  - '+.button.blogs.yandex.*'
   - '+.bia.brightinfo.com'
   - '+.beacon-1.newrelic.com'
   - '+.beacon.guim.co.uk'
@@ -24422,7 +24339,7 @@ vkcdnservice.appspot.com'
   - '+.b.aol.com'
   - '+.b.grvcdn.com'
   - '+.b.oix.net'
-  - '+.c.bigmir.net
+  - '+.c.bigmir.net'
   - '+.c.hit.ua'
   - '+.c.msn.com'
   - '+.c.newsinc.com'
@@ -24494,7 +24411,7 @@ vkcdnservice.appspot.com'
   - '+.hm.baidu.com'
   - '+.ichnaea.netflix.com'
   - '+.ig.fp.oix.net'
-  - '+.img.opentracker.net
+  - '+.img.opentracker.net'
   - '+.in.cuebiq.com'
   - '+.informer.yandex.ru'
   - '+.infostroy.nnov.ru'
@@ -24545,7 +24462,7 @@ vkcdnservice.appspot.com'
   - '+.pixelg.adswizz.com'
   - '+.pixel.bild.de'
   - '+.pixel.condenastdigital.com'
-  - '+.pixel.quantserve.co'
+  - '+.pixel.quantserve.com'
   - '+.pixel.watch'
   - '+.pixel.wp.com'
   - '+.pings.conviva.com'
@@ -24781,8 +24698,8 @@ vkcdnservice.appspot.com'
   - '+.collector.xhamster.com'
   - '+.cnt.xhamster.com'
   - '+.d1uy7uzra011au.cloudfront.net'
-  - '+.pixel.4players.de
-  - '+.subpixel.4players.de
+  - '+.pixel.4players.de'
+  - '+.subpixel.4players.de'
   - '+.r.my.com'
   - '+.tracking.g2crowd.com'
   - '+.mtrcs.samba.tv'
@@ -24921,7 +24838,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.thj.astrakhan.ru'
   - '+.track.ultimate-guitar.com'
   - '+.intent.cbsi.com'
-://r.i.ua'
+  - '+.r.i.ua'
   - '+.analyticapi.piri.net'
   - '+.analytics-rollout-*.amazonaws.com'
   - '+.analytics-static.ugc.bazaarvoice.com'
@@ -25030,22 +24947,22 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.w88.espn.com'
   - '+.xtag.autotrader.com'
   - '+.zdlogs.sphereup.com'
-# Tiktok app
+
   - '+.log.musical.ly'
   - '+.log2.musical.ly'
   - '+.frontier.musical.ly'
   - '+.xlog-va.musical.ly'
 
 #
-# Source name: AdGuard Tracking Protection filter mobile trackers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
+
+
 #
 #
-# Section contains rules for mobile analytics and spyware
+
 #
-# Do not block pixapi.net. It causes issues
+
 #
-# https://github.com/AdguardTeam/AdguardForAndroid/issues/249
+
   - '+.adeventtracker.spotify.com'
   - '+.do-not-tracker.org'
   - '+.eviltracker.net'
@@ -25057,51 +24974,51 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tracker.mtrtb.com'
   - '+.tracking.ws.eurosport.com'
   - '+.tracker.rqmob.com'
-  - '+.logconfig.polarisoffice.co'
-  - '+.analysis.polarisoffice.co'
+  - '+.logconfig.polarisoffice.com'
+  - '+.analysis.polarisoffice.com'
   - '+.fraudmetrix.cn'
   - '+.plbslog.umeng.com'
   - '+.analysys.cn'
   - '+.logs.supersonic.com'
-# xiaomi mi band app
+
   - '+.datacollector-*.dt.hicloud.com'
   - '+.app-analytics-ru.huami.com'
-# spb tv android app
+
   - '+.metrics.spbtv.com'
-# acestream android app
+
   - '+.android-stat.acestream.net'
-# whatsapp android app
+
   - '+.privatestats.whatsapp.net'
-# influxdb
+
   - '+.usage.influxdata.com'
-# grafana
+
   - '+.stats.grafana.org'
-# smotrim.ru
+
   - '+.rumstat.cdnvideo.ru'
 #
-# Swiftkey(Microsoft) Keyboard 
+
   - '+.telemetry.api.swiftkey.com'
   - '+.telemetry.swiftkey.com'
 #
-# QuQa.ch for Android
+
   - '+.analytics.qoqa.ninja'
   - '+.analytics-sprint.qoqa.com'
   - '+.analytics.qoqa.ch'
   - '+.analytics.qoqa.com'
 #
-# Appsflyer
-# QQ
+
+
   - '+.mtrace.qq.com'
   - '+.sngmta.qq.com'
-# QQ Music
+
   - '+.adstats.tencentmusic.com'
   - '+.monitor.music.qq.com'
   - '+.stat.y.qq.com'
-# Relap - avoid breaking their website on desktop
-# but make sure it's blocked in apps
-#+ PLATFORM(ios, android)
-#+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-# Kochava
+
+
+
+
+
   - '+.co.akisinn.info'
   - '+.co.dewrain.life'
   - '+.co.vaicore.site'
@@ -25185,8 +25102,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.umengjmacs.m.taobao.com'
   - '+.umengacs.m.taobao.com'
   - '+.analytics-api.liveapp.com'
-  - '+.log-collector.shopee.
-  - '+.seller-log-collector.shopee.
+  - '+.log-collector.shopee.*'
+  - '+.seller-log-collector.shopee.*'
   - '+.telemetry.voxeet.com'
   - '+.usertrack.appcpi.net'
   - '+.api*.amplitude.com'
@@ -25456,14 +25373,14 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ymtracking.com'
   - '+.upoll.umengcloud.com'
   - '+.utop.umengcloud.com'
-# KingRoot
+
   - '+.analy.qq.com'
 
 #
-# Source name: EasyPrivacy tracking servers
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
+
+
 #
-# Non-flagged (Generic blocks)
+
   - '+.adnext.co'
   - '+.adrtx.net'
   - '+.affvantage.com'
@@ -25552,7 +25469,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.wknd.ai'
   - '+.z0uolej1qnxzub1.info'
   - '+.zoomhead.xyz'
-# Third-party
+
   - '+.123stat.com'
   - '+.15gifts.com'
   - '+.247-inc.com'
@@ -26286,7 +26203,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.zeustechnology.com'
   - '+.zuyapixel.com'
   - '+.zuzab.com'
-# https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
+
   - '+.artfin.club'
   - '+.bemarts.club'
   - '+.bogglecool.club'
@@ -26311,10 +26228,10 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.supertraders.info'
   - '+.tradesecretz.info'
   - '+.vicspendig.club'
-# revprotect
+
   - '+.pphwrevr.com'
-# Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
-# Notification servers (Tracking/Fingerprinting users)
+
+
   - '+.accengage.net'
   - '+.actirinius.com'
   - '+.aimtell.com'
@@ -26384,7 +26301,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.wwclickserv.club'
   - '+.wwclicktm.club'
   - '+.xtremepush.com'
-# Fingerprinting
+
   - '+.citrusad.net'
   - '+.clickguardian.app'
   - '+.clickyab.com'
@@ -26398,7 +26315,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ravelin.net'
   - '+.sealine.pro'
   - '+.spideraf.com'
-# Mining
+
  - '+.1.1.1.l80.js'
  - '+.n.2.1.js'
  - '+.n.2.1.l50.js'
@@ -26411,7 +26328,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.aleinvest.xyz'
   - '+.altpool.pro'
   - '+.andlache.com'
-  - '+.anybest.site
+  - '+.anybest.site'
   - '+.authcaptcha.com'
   - '+.authedmine.eu'
   - '+.axoncoho.tk'
@@ -26442,8 +26359,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.cloudflareinsights.com'
   - '+.cnhv.co'
   - '+.coinhiveproxy.com'
-  - '+.coinimp.co'
-  - '+.coinimp.net
+  - '+.coinimp.com'
+  - '+.coinimp.net'
   - '+.coinminerz.com'
   - '+.coinminingonline.com'
   - '+.coinwebmining.com'
@@ -26481,9 +26398,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.f1tbit.com'
   - '+.filmoljupci.com'
   - '+.flare-analytics.com'
-  - '+.freecontent.bid
-  - '+.freecontent.date
-  - '+.freecontent.strea'
+  - '+.freecontent.bid'
+  - '+.freecontent.date'
+  - '+.freecontent.stream'
   - '+.g1thub.com'
   - '+.gay-hotvideo.net'
   - '+.googleanalytcs.com'
@@ -26495,9 +26412,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.hashvault.pro'
   - '+.hashzone.io'
   - '+.hostcontent.live'
-  - '+.hostingcloud.faith
-  - '+.hostingcloud.party
-  - '+.hostingcloud.racing
+  - '+.hostingcloud.faith'
+  - '+.hostingcloud.party'
+  - '+.hostingcloud.racing'
   - '+.igg.biz'
   - '+.investhash.com'
   - '+.istlandoll.com'
@@ -26571,7 +26488,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.verifier.live'
   - '+.verifypow.com'
   - '+.videoplayer2.xyz'
-  - '+.wasm.strea'
+  - '+.wasm.stream'
   - '+.wbmwss.beetv.net'
   - '+.webassembly.stream'
   - '+.webmine.pro'
@@ -26581,7 +26498,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.xmrpool.net'
   - '+.yuebofa.cc'
   - '+.zlx.com.br'
-# Admiral
+
   - '+.abstractedauthority.com'
   - '+.aheadmachine.com'
   - '+.annoyedairport.com'
@@ -26628,8 +26545,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tiresomethunder.com'
 
 #
-# Source name: EasyPrivacy third-party tracking servers
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
+
+
 #
   - '+.100widgets.com'
   - '+.3p-geo.yahoo.com'
@@ -26754,7 +26671,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.bacon.getcarro.com'
   - '+.bacon.section.io'
   - '+.barium.cheezdev.com'
-  - '+.bc.geocities.
+  - '+.bc.geocities.*'
   - '+.beacon.affil.walmart.com'
   - '+.beacon.errorception.com'
   - '+.beacon.flow.io'
@@ -26864,7 +26781,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.d20kffh39acpue.cloudfront.net'
   - '+.d21y75miwcfqoq.cloudfront.net'
   - '+.d23pi6hvdpcc5i.cloudfront.net'
-  - '+.d241ujsiy3yht0.cloudfront.net
+  - '+.d241ujsiy3yht0.cloudfront.net'
   - '+.d24cze5sab2jwg.cloudfront.net'
   - '+.d24rtvkqjwgutp.cloudfront.net'
   - '+.d25ezbwokoefx6.cloudfront.net'
@@ -27302,7 +27219,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tracker.marinsoftware.com'
   - '+.tracker.mrpfd.com'
   - '+.tracker.timesgroup.com'
-  - '+.tracker.twenga.
+  - '+.tracker.twenga.*'
   - '+.tracker.wigzopush.com'
   - '+.tracker.wpserveur.net'
   - '+.trackerapi.truste.com'
@@ -27378,7 +27295,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.x.disq.us'
   - '+.x.weather.com'
   - '+.xt.persosa.com'
-# https://d3ward.github.io/toolz/adblock.html
+
   - '+.adsdk.yandex.ru'
   - '+.analytics-api.samsunghealthcn.com'
   - '+.analytics.samsungknox.com'
@@ -27398,7 +27315,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sa.api.intl.miui.com'
   - '+.stat.xiaomi.com'
   - '+.supportmetrics.apple.com'
-# taboola
+
   - '+.urc.taboolasyndication.com'
   - '+.fyrsbckgi-c.global.ssl.fastly.net'
   - '+.mjca-yijws.global.ssl.fastly.net'
@@ -27413,12 +27330,12 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sgphctileh-a.akamaihd.net'
   - '+.uhytajrtpo-a.akamaihd.net'
   - '+.zvsuhljiha-a.akamaihd.net'
-# fastly
+
   - '+.7q1z79gxsi.global.ssl.fastly.net'
   - '+.clarium.global.ssl.fastly.net'
   - '+.dfapvmql-q.global.ssl.fastly.net'
   - '+.vwonwkaqvq-a.global.ssl.fastly.net'
-# Seals, Websecurity, Protection etc. Unnecessary third-party scripts
+
   - '+.beyondsecurity.com'
   - '+.cyveillance.com'
   - '+.nsg.symantec.com'
@@ -27444,10 +27361,10 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.widgets.trustedshops.com'
 
 #
-# Source name: EasyPrivacy international tracking servers
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
+
+
 #
-# German
+
   - '+.3ng6p6m0.de'
   - '+.adcrowd.com'
   - '+.adquality.ch'
@@ -27492,7 +27409,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.usage.seibert-media.io'
   - '+.usemaxserver.de'
   - '+.vtracy.de'
-# French
+
   - '+.7x4.fr'
   - '+.7x5.fr'
   - '+.admo.tv'
@@ -27544,10 +27461,10 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.uzerly.net'
   - '+.winitout.com'
   - '+.ywywjrlbsuv.com'
-# Armenian
-# Belarusian
+
+
   - '+.call-tracking.by'
-# Bulgarian
+
   - '+.365dmp.com'
   - '+.ad7.com'
   - '+.adop.cc'
@@ -27593,36 +27510,36 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.yigao.com'
   - '+.zampda.net'
   - '+.ztcadx.com'
-# Croatian
-# Czech
+
+
   - '+.affilbox.cz'
   - '+.analights.com'
   - '+.programmatic.cz'
   - '+.semnicneposilejte.cz'
-# Danish
+
   - '+.digitaladvisor.dk'
   - '+.jubiitag.dk'
-# Dutch
+
   - '+.synovite-scripts.com'
-# Estonian
-# Finnish
+
+
   - '+.leiki.com'
   - '+.tracking*.euroads.fi'
-# Greek
+
   - '+.linkwi.se'
-# Hebrew
+
   - '+.analyti.io'
   - '+.erate.co.il'
   - '+.fortvision.com'
   - '+.lead.im'
   - '+.mimgoal.com'
-# Hungarian
+
   - '+.gpr.hu'
   - '+.p24.hu'
   - '+.ripost.services'
-# Icelandic
-# Indonesian
-# Italian
+
+
+
   - '+.buzzoole.com'
   - '+.cpmktg.com'
   - '+.digital-metric.com'
@@ -27635,7 +27552,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sphostserver.com'
   - '+.trick17.it'
   - '+.websanalytic.com'
-# Japanese
+
   - '+.accesstrade.net'
   - '+.admatrix.jp'
   - '+.adplan7.com'
@@ -27683,7 +27600,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.trackfeed.com'
   - '+.triver.jp'
   - '+.ukw.jp'
-# Korean
+
   - '+.acrosspf.com'
   - '+.adpick.co.kr'
   - '+.adtive.com'
@@ -27691,18 +27608,18 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.dawin.tv'
   - '+.oevery.com'
   - '+.tenping.kr'
-# Latvian
+
   - '+.mcloudglobal.com'
   - '+.ppdb.pl'
   - '+.top.lv'
   - '+.wos.lv'
   - '+.maxtraffic.com'
   - '+.mxapis.com'
-# Norwegian
-# Persian
+
+
   - '+.amarfa.ir'
   - '+.rvkcpqz.com'
-# Polish
+
   - '+.adschoom.com'
   - '+.caanalytics.com'
   - '+.clickmatic.pl'
@@ -27715,7 +27632,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sare25.com'
   - '+.snrbox.com'
   - '+.tagcdn.com'
-# Portuguese
+
   - '+.ad5track.com'
   - '+.clearsale.com.br'
   - '+.denakop.com'
@@ -27724,7 +27641,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.premiumads.com.br'
   - '+.sambaads.com'
   - '+.trugaze.io'
-# Romanian
+
   - '+.2parale.ro'
   - '+.pahtag.tech'
   - '+.profitshare.ro'
@@ -27787,11 +27704,11 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.webturn.ru'
   - '+.webvisor.com'
   - '+.wwgate.ru'
-# Serbian
+
   - '+.midas-network.com'
-# Slovak
+
   - '+.algopine.com'
-# Spanish
+
   - '+.botize.com'
   - '+.ccrtvi.com'
   - '+.contadordevisitas.es'
@@ -27800,7 +27717,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.easysol.net'
   - '+.flags.es'
   - '+.mabaya.com'
-# Swedish
+
   - '+.adten.eu'
   - '+.adtr.io'
   - '+.citypaketet.se'
@@ -27810,18 +27727,18 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sifomedia.se'
   - '+.tidningsnatet.se'
   - '+.yieldbird.com'
-# Thai
+
   - '+.d-stats.com'
-# Turkish
-# Ukranian
+
+
   - '+.mediatraffic.com.ua'
   - '+.znctrack.net'
-# Vietnamese
+
   - '+.contineljs.com'
 
 #
-# Source name: EasyPrivacy third-party international tracking servers
-# Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
+
+
 #
   - '+.ablida.net'
   - '+.analytics.audionow.de'
@@ -27930,10 +27847,10 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.visitping.rossel.be'
   - '+.wrapper.lemde.fr'
   - '+.zebestof.com'
-# Croatian
+
   - '+.aff*.kolektiva.net'
   - '+.analytics.styria.hr'
-# Chinese
+
 -logging.nextmedia.com'
   - '+.analytics.meituan.net'
   - '+.atanx.alicdn.com'
@@ -27968,9 +27885,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tracking.cat898.com'
   - '+.useg.nextdigital.com.hk'
   - '+.v.emedia.cn'
-# Croatian
+
   - '+.tracking.vid4u.org'
-# Czech
+
   - '+.bisko.mall.tv'
   - '+.bnr.alza.cz'
   - '+.counter.cnw.cz'
@@ -27999,13 +27916,13 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.hottraffic.nl'
   - '+.stat.24liveplus.com'
   - '+.statistics.rbi-nl.com'
-# Estonian
+
   - '+.counter.zone.ee'
   - '+.dnt-userreport.com'
   - '+.inpref.s3.amazonaws.com'
   - '+.insight.fonecta.fi'
   - '+.tags.op-palvelut.fi'
-# Georgian
+
   - '+.links.boom.ge'
   - '+.rum.marquardmedia.hu'
   - '+.videostat-new.index.hu'
@@ -28076,19 +27993,19 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.performanceplay.co.kr'
   - '+.sas.nsm-corp.com'
   - '+.teralog.techhub.co.kr'
-# Latvian
+
   - '+.counter.hackers.lv'
-# Lithuanian
+
   - '+.top.chebra.lt'
   - '+.top.dating.lt'
   - '+.top.dkd.lt'
-# Norwegian
+
   - '+.engage-cdn.schibsted.media'
   - '+.log.medietall.no'
   - '+.webhit.snd.no'
-# Persian
+
   - '+.analytics.aasaam.com'
-# Polish
+
   - '+.analytics.greensender.pl'
   - '+.cmp.dreamlab.pl'
   - '+.dsg.interia.pl'
@@ -28099,7 +28016,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.stats.asp24.pl'
   - '+.stats.ulixes.pl'
   - '+.statystyki.panelek.com'
-# Portuguese
+
   - '+.api.nobeta.com.br'
   - '+.events.chaordicsystems.com'
   - '+.hitserver.ibope.com.br'
@@ -28143,9 +28060,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tbe.tom.ru'
   - '+.top.elec.ru'
   - '+.track.spacepush.ru'
-# Slovak
+
   - '+.stat.ringier.sk'
-# Spanish
+
   - '+.1to1.bbva.com'
   - '+.analitica.webrpp.com'
   - '+.contadores.miarroba.com'
@@ -28162,29 +28079,29 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.webpixel.smartmeapp.com'
   - '+.counter.mtgnewmedia.se'
   - '+.vizzit.se'
-# Tajik
+
   - '+.pixel.smartmedia.tj'
-# Thai
+
   - '+.sal.isanook.com'
   - '+.stat.matichon.co.th'
-# Turkish
+
   - '+.st.tmgrup.com.tr'
-# Ukranian
+
   - '+.informers.sinoptik.ua'
   - '+.tracker.esputnik.com'
-# Vietnamese
+
   - '+.f-emc.ngsp.gov.vn'
   - '+.tracking.aita.gov.vn'
 
 #
-# Source name: AdGuard Spanish/Portuguese filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
+
+
 #
 #
-# Section contains list of advertising networks
+
 #
-# https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
-#   - '+.addevweb.com'$third-party
+
+
 #
   - '+.bloco.top'
   - '+.fireadsone.com'
@@ -28313,11 +28230,11 @@ charlestownwyllie.oaklawnnonantum.com'
 #
 
 #
-# Source name: AdGuard Russian filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
+
+
 #
 #
-# Содержит доменные имена, использующиеся рекламными сетями.
+
 #
   - '+.rbtwo.bid'
   - '+.glvczl.com'
@@ -28541,7 +28458,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.farantitid.racing'
   - '+.zgxrht.com'
   - '+.gswtol.com'
-  - '+.yxhstwzjbu.info
+  - '+.yxhstwzjbu.info'
   - '+.sayhinews.com'
   - '+.traffer.biz'
   - '+.bpioqb.com'
@@ -29304,10 +29221,10 @@ charlestownwyllie.oaklawnnonantum.com'
  - '+.webhop.net'
  - '+.work-proxy.info'
  - '+.yourbesttraf.info'
-://*.a-akamaihd.com'
-://gj7.ru'
-://jhf.ru'
-://kma.biz'
+  - '+.*.a-akamaihd.com'
+  - '+.gj7.ru'
+  - '+.jhf.ru'
+  - '+.kma.biz'
   - '+.octopusads.net'
   - '+.us6odtasve.ru'
   - '+.00bloggers.ru'
@@ -29327,7 +29244,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.1177ea804fbd7d1430c4.date'
   - '+.123fvd.com'
   - '+.1bestgoods.com'
-  - '+.1biznes.net
+  - '+.1biznes.net'
   - '+.1cb4faaf56af2497ac01.date'
   - '+.1mint1.info'
   - '+.1pop.ru'
@@ -29449,7 +29366,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.admelon.ru'
   - '+.admilk.ru'
   - '+.admitlead.ru'
-  - '+.admulti.
+  - '+.admulti.*'
   - '+.admxr.com'
   - '+.adname.ru'
   - '+.adne.info'
@@ -29471,7 +29388,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.adselector.ru'
   - '+.adsellers.net'
   - '+.adsentiz.ru'
-  - '+.adserver1.
+  - '+.adserver1.*'
   - '+.adservone.com'
   - '+.adsgid.com'
   - '+.adsliv.ru'
@@ -29483,7 +29400,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.adtags.pro'
   - '+.adtraff.ru'
   - '+.adultpay.net'
-  - '+.adulttiz.co'
+  - '+.adulttiz.com'
   - '+.adulttraffic.ru'
   - '+.adv-first.ru'
   - '+.adv-target.ru'
@@ -29535,7 +29452,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.adxgeeks.com'
   - '+.adylalahb.ru'
   - '+.aerontre.com'
-  - '+.afdads.co'
+  - '+.afdads.com'
   - '+.afficent.com'
   - '+.affiliate.astraweb.com'
   - '+.affiliates.a2hosting.com'
@@ -29559,12 +29476,12 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.aknice.info'
   - '+.aksessuarov.ru'
   - '+.albanmagnit.ru'
-  - '+.alemobile.ru
+  - '+.alemobile.ru'
   - '+.alfainternet.su'
   - '+.alfatarget.ru'
   - '+.ali-bestshop.ru'
   - '+.alibestru.ru'
-  - '+.alienradar.ru
+  - '+.alienradar.ru'
   - '+.aliexpress-internet.ru'
   - '+.aliexpresskupit.ru'
   - '+.aliru1.ru'
@@ -29576,7 +29493,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.allbn.net'
   - '+.allergiya-na.ru'
   - '+.allibestru.ru'
-  - '+.allmt.co'
+  - '+.allmt.com'
   - '+.allmysource.ru'
   - '+.alloffs.ru'
   - '+.allowac.com'
@@ -29587,7 +29504,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.alltizer.ru'
   - '+.alltop100.ru'
   - '+.allzdorovy.ru'
-  - '+.almosto.co'
+  - '+.almosto.com'
   - '+.alpari.ru'
   - '+.alphacash.biz'
   - '+.alslz.top'
@@ -29651,7 +29568,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.avpris.ru'
   - '+.avxcore.com'
   - '+.awesomeredirector.com'
-  - '+.awmengine.net
+  - '+.awmengine.net'
   - '+.axlpf.xyz'
   - '+.aymcsx.ru'
   - '+.azartaffiliates.com'
@@ -29680,9 +29597,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ban.xxxvid.ru'
   - '+.banamertur.com'
   - '+.banerator.silvercdn.com'
-  - '+.banner-in.net
+  - '+.banner-in.net'
   - '+.banner-media.ru'
-  - '+.banner.kiev.ua
+  - '+.banner.kiev.ua'
   - '+.banner.lbs.km.ru'
   - '+.bannerbook.ru'
   - '+.bannerbro.ru'
@@ -29738,7 +29655,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.betimogolef.com'
   - '+.bf41f552ceb9a150ee17.date'
   - '+.bgclck.me'
-  - '+.bgrndi.co'
+  - '+.bgrndi.com'
   - '+.bidtraffic.ru'
   - '+.bigbord.net'
   - '+.bigclick.me'
@@ -29778,7 +29695,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.bold-in.ru'
   - '+.bolshoykush.ru'
   - '+.bombeers.ru'
-  - '+.bondzgi*.
+  - '+.bondzgi*.*'
   - '+.bongacash.com'
   - '+.bongobono.com'
   - '+.boobzi.com'
@@ -29826,7 +29743,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.c.cpa6.ru'
   - '+.c.cpl2.ru'
   - '+.c704655a9050bdcc.com'
-  - '+.cafddfcagfegjchbabd.ru
+  - '+.cafddfcagfegjchbabd.ru'
   - '+.cajkov.ru'
   - '+.camadmin.ru'
   - '+.campeut.com'
@@ -29909,7 +29826,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.clickscapture.com'
   - '+.clicktoclick.ru'
   - '+.clickunderad.com'
-  - '+.clickvip.ru
+  - '+.clickvip.ru'
   - '+.cliennes.com'
   - '+.clme.biz'
   - '+.clvw.net'
@@ -29955,7 +29872,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.cpgweb.net'
   - '+.cpiyz.com'
   - '+.cpm.worldoftanks.com'
-  - '+.cpmsolution.ru
+  - '+.cpmsolution.ru'
   - '+.cppgf.com'
   - '+.cprekl.com'
   - '+.cqhciif9bjtplrc.ru'
@@ -30031,7 +29948,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.dinthorop.ru'
   - '+.dintsupnejec.ru'
   - '+.dioperu.com'
-  - '+.dircash-promost.co'
+  - '+.dircash-promost.com'
   - '+.directlnk.org'
   - '+.directnow.me'
   - '+.dirkino-traff.ru'
@@ -30042,7 +29959,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.djchfgacdfaaadfdc.ru'
   - '+.djpff.top'
   - '+.djuzsbnnm.biz'
-  - '+.dl.qcash.ws
+  - '+.dl.qcash.ws'
   - '+.dlfja.gdn'
   - '+.dlyamedikov.ru'
   - '+.dmoid.top'
@@ -30062,7 +29979,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.doskki.com'
   - '+.dostavka.ru'
   - '+.dosugcz.info'
-  - '+.dosugcz.net
+  - '+.dosugcz.net'
   - '+.dounwil.ru'
   - '+.download.mediaplay.ru'
   - '+.dreamlog.ru'
@@ -30090,7 +30007,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.easy.mmoney.services'
   - '+.eatp.evztib.xyz'
   - '+.ebazucebid.com'
-  - '+.eberalofe.pro
+  - '+.eberalofe.pro'
   - '+.ebmzp.top'
   - '+.ecadikenaz.com'
   - '+.ecapolefud.com'
@@ -30126,7 +30043,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ekulavabuf.com'
   - '+.elephant.fotostrana.ru'
   - '+.elevoy.ru'
-  - '+.eliterudating.co'
+  - '+.eliterudating.com'
   - '+.elle.alljournal.ru'
   - '+.elnpe.com'
   - '+.elparmo.ru'
@@ -30148,14 +30065,14 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.eropays2.com'
   - '+.erotikdeal.com'
   - '+.erotraf.com'
-  - '+.eroxdating.co'
+  - '+.eroxdating.com'
   - '+.err.cloudbit.rocks'
   - '+.errtmotmw.pw'
   - '+.esc-team.com'
   - '+.esliga.ru'
   - '+.estiques.com'
   - '+.et-cod.com'
-  - '+.et-code.ru
+  - '+.et-code.ru'
   - '+.etarg.ru'
   - '+.etrase.info'
   - '+.ettalhap.com'
@@ -30215,12 +30132,12 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.fitfas.ru'
   - '+.fjjuo.com'
   - '+.fkehg.com'
-  - '+.flambo777.ru
+  - '+.flambo777.ru'
   - '+.flapoint.ru'
   - '+.fleshlight-russia.com'
   - '+.fleshyourlight.com'
   - '+.flipdigital.ru'
-  - '+.flipflapflo.
+  - '+.flipflapflo.*'
   - '+.float-l.ru'
   - '+.fmates.ru'
   - '+.fnbmlwip.biz'
@@ -30271,7 +30188,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.gatewey.net'
   - '+.gawxf.com'
   - '+.gbaseby.ru'
-  - '+.gbs.gamingmedia.ru
+  - '+.gbs.gamingmedia.ru'
   - '+.gcjehafhajjhcdicaeb.ru'
   - '+.gcuter.ru'
   - '+.gddrio.com'
@@ -30314,7 +30231,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.glamurka.net'
   - '+.globalstars.ru'
   - '+.globalteaser.com'
-  - '+.globalteaser.ru
+  - '+.globalteaser.ru'
   - '+.globaltizer.ru'
   - '+.glojune.biz'
   - '+.glordd.com'
@@ -30347,7 +30264,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.gonews*.net'
   - '+.good-traf.ru'
   - '+.good-traff.ru'
-  - '+.goodadvert.
+  - '+.goodadvert.*'
   - '+.goodkind.ru'
   - '+.goodlooknews.net'
   - '+.goodsbrowser.com'
@@ -30452,9 +30369,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.iclbodnew.pro'
   - '+.iclckk.com'
   - '+.icmil.ru'
-  - '+.icq-window.
-  - '+.icqwindow.
-  - '+.ictowaz.ru
+  - '+.icq-window.*'
+  - '+.icqwindow.*'
+  - '+.ictowaz.ru'
   - '+.idaschop.ru'
   - '+.idpojar.ru'
   - '+.idvd.su'
@@ -30483,7 +30400,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.imazicusez.com'
   - '+.img1458.r.worldssl.net'
   - '+.img1461.r.worldssl.net'
-  - '+.imgg.dt00.net
+  - '+.imgg.dt00.net'
   - '+.iminevanez.com'
   - '+.impressionsme.net'
   - '+.imtowoz.ru'
@@ -30521,7 +30438,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ipapin.info'
   - '+.ipgettraff.info'
   - '+.ipgold.ru'
-  - '+.iphone-caviar.ru*entranceId
+  - '+.iphone-caviar.ru*entranceId'
   - '+.iphonetopsite.ru'
   - '+.ipml-qvr8go.ru'
   - '+.ipurl.ru'
@@ -30550,7 +30467,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ivetki.ru'
   - '+.ivoxua.socratos.net'
   - '+.iwhha.top'
-  - '+.ixtyted.ru
+  - '+.ixtyted.ru'
   - '+.iygac.com'
   - '+.iygke.com'
   - '+.izdagda.ru'
@@ -30577,8 +30494,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.jpkwk.top'
   - '+.jrdcd.biz'
   - '+.js.gdsln.ru'
-  - '+.js.goods.redtram.co'
-  - '+.js.novatizer.co'
+  - '+.js.goods.redtram.com'
+  - '+.js.novatizer.com'
   - '+.js.textshift.net'
   - '+.juppser.ru'
   - '+.justmi4.co.in'
@@ -30645,8 +30562,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.kjaay.com'
   - '+.kkkiski4u.com'
   - '+.kkpur.xyz'
-  - '+.kliklink.ru
-  - '+.klikmoney.net
+  - '+.kliklink.ru'
+  - '+.klikmoney.net'
   - '+.klivz.com'
   - '+.klyunker.ru'
   - '+.kmndj.top'
@@ -30729,7 +30646,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.letorrent.org'
   - '+.letsjanua.com'
   - '+.letsjanuary.com'
-  - '+.letssex.
+  - '+.letssex.*'
   - '+.leuxq.com'
   - '+.level1cdn.com'
   - '+.levelpay.ru'
@@ -30747,7 +30664,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.lineoflife.ru'
   - '+.lingospot.com'
   - '+.link.ru'
-  - '+.linkexchange.
+  - '+.linkexchange.*'
   - '+.linkfeed.ru'
   - '+.linkmyc.com'
   - '+.linkpeoples.com'
@@ -30764,7 +30681,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.lioil.club'
   - '+.listat.biz'
   - '+.litiumo.com'
-  - '+.littel.biz
+  - '+.littel.biz'
   - '+.littel.net'
   - '+.liveclix.net'
   - '+.livedecmov.com'
@@ -30787,7 +30704,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.lolper.ru'
   - '+.loltrk.com'
   - '+.lolxm.xyz'
-  - '+.loneday.co'
+  - '+.loneday.com'
   - '+.look-reklama.ru'
   - '+.lookszone.ru'
   - '+.lopiner.ru'
@@ -30878,16 +30795,16 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.mediabaf.ru'
   - '+.mediabanner.net'
   - '+.mediacartel.ru'
-  - '+.mediacontext.
+  - '+.mediacontext.*'
   - '+.mediacot.com'
   - '+.mediadar.ru'
   - '+.mediainform.net'
-  - '+.medialand.
+  - '+.medialand.*'
   - '+.medianaft.com'
   - '+.medianaft.ru'
   - '+.medianetworks.ru'
   - '+.mediaportal.ru'
-  - '+.mediarich.cc
+  - '+.mediarich.cc'
   - '+.mediarich.us'
   - '+.mediarotate.com'
   - '+.mediaunder.info'
@@ -30937,18 +30854,18 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.missrich.net'
   - '+.mix1traff.ru'
   - '+.mixtraff.com'
-  - '+.mjavagames.ru
+  - '+.mjavagames.ru'
   - '+.mkavkaz.ru'
   - '+.mmassa.com'
   - '+.mmcispartners.com'
-  - '+.mobatori.co'
+  - '+.mobatori.com'
   - '+.mobatory.com'
   - '+.mobi-bobi.info'
   - '+.mobi-mobi.info'
   - '+.mobiile-service.ru'
   - '+.mobioffers.ru'
   - '+.mobisway.info'
-  - '+.mobitema.ru
+  - '+.mobitema.ru'
   - '+.modastro.ee'
   - '+.modelatos.com'
   - '+.moe.video'
@@ -30959,8 +30876,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.monbonsai.info'
   - '+.money-domen.com'
   - '+.money-in-net.ru'
-  - '+.moneymaiker.ru
-  - '+.moneysyst.biz
+  - '+.moneymaiker.ru'
+  - '+.moneysyst.biz'
   - '+.moneytrap.ru'
   - '+.moogle.ru'
   - '+.morar.biz'
@@ -30980,13 +30897,13 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.mpay69.biz'
   - '+.mpay69.pw'
   - '+.mpays.pw'
-  - '+.mptri.net
+  - '+.mptri.net'
   - '+.mqmh.uihdlx.xyz'
   - '+.mrbasic.com'
   - '+.msrv.su'
-  - '+.mt-data.ru
-  - '+.mtdata1.ru
-  - '+.mtdata10.ru
+  - '+.mt-data.ru'
+  - '+.mtdata1.ru'
+  - '+.mtdata10.ru'
   - '+.mtdatahaba.rocks'
   - '+.mtwbedsl.biz'
   - '+.muchhetont.ru'
@@ -31066,7 +30983,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.news.pustgovorjat.ru'
   - '+.news.rk345dno.ru'
   - '+.news.trendovo.com.ua'
-  - '+.news2you.ru
+  - '+.news2you.ru'
   - '+.newsfeed.net.ua'
   - '+.newsonlynews.com'
   - '+.newsportal1.com'
@@ -31085,7 +31002,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ngads.com'
   - '+.nhotewi.ru'
   - '+.nhqqv.space'
-  - '+.nightdate.ru
+  - '+.nightdate.ru'
   - '+.nigvbyd.net'
   - '+.nihewfi.net'
   - '+.ninavyg.ru'
@@ -31104,7 +31021,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.novbrom.com'
   - '+.novem.pl'
   - '+.novfox2.com'
-  - '+.novoteka.ru
+  - '+.novoteka.ru'
   - '+.novwolf.com'
   - '+.now09.ru'
   - '+.now73.ru'
@@ -31123,7 +31040,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.nztrt.top'
   - '+.obhodsb.com'
   - '+.obigre.ru'
-  - '+.obislame.ru
+  - '+.obislame.ru'
   - '+.obitel.org'
   - '+.obkatra.ru'
   - '+.obladv.ru'
@@ -31183,7 +31100,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.only4men.ru'
   - '+.ooredrr.com'
   - '+.opekom.ru'
-  - '+.openads.ab-daily.by
+  - '+.openads.ab-daily.by'
   - '+.openlinks.ru'
   - '+.openunder.net'
   - '+.openx.com'
@@ -31283,7 +31200,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.pixxxocl.ml'
   - '+.placeoff.ru'
   - '+.planetapozitiva.ru'
-  - '+.platinumcode.net
+  - '+.platinumcode.net'
   - '+.play2.biz'
   - '+.pleasedirect.me'
   - '+.pleasemeright.com'
@@ -31306,15 +31223,15 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.pomolation.ru'
   - '+.ponyvod.ru'
   - '+.pool5.info'
-  - '+.pop-parad.
-  - '+.pop-under.
+  - '+.pop-parad.*'
+  - '+.pop-under.*'
   - '+.pop.mrstiff.com'
   - '+.popinads.com'
-  - '+.poptraf.
-  - '+.popunder.
-  - '+.popupclick.
+  - '+.poptraf.*'
+  - '+.popunder.*'
+  - '+.popupclick.*'
   - '+.popups.ru'
-  - '+.popuptraf.
+  - '+.popuptraf.*'
   - '+.pornin.ru'
   - '+.pornoadvid.info'
   - '+.pornorunet.ru'
@@ -31322,7 +31239,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.pornovau.club'
   - '+.portak.net'
   - '+.portech315.net'
-  - '+.poshalim.
+  - '+.poshalim.*'
   - '+.post.rmbn.net'
   - '+.powertraf.com'
   - '+.poyva.com'
@@ -31348,9 +31265,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.promo.partner.alawar.ru'
   - '+.promo.rzonline.ru'
   - '+.promobit.pw'
-  - '+.promoblocks.ru
+  - '+.promoblocks.ru'
   - '+.promoboom.org'
-  - '+.promobuster.net
+  - '+.promobuster.net'
   - '+.promobuster.org'
   - '+.promocenter.biz'
   - '+.promocns.com'
@@ -31369,11 +31286,11 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.prospero.ru'
   - '+.prostolos.ru'
   - '+.prostopartnerka.ru'
-  - '+.protizer.net
+  - '+.protizer.net'
   - '+.protrafv2.com'
-  - '+.psma01.co'
-  - '+.psma02.co'
-  - '+.psma03.co'
+  - '+.psma01.com'
+  - '+.psma02.com'
+  - '+.psma03.com'
   - '+.psmardr.com'
   - '+.ptgiweiu.com'
   - '+.ptrck.ru'
@@ -31389,7 +31306,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.putana-cz.org'
   - '+.putana.cz'
   - '+.putanki.org'
-  - '+.puxrotate.ru
+  - '+.puxrotate.ru'
   - '+.pwnz.org'
   - '+.pzlzv.com'
   - '+.pzzzv.biz'
@@ -31442,7 +31359,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.realtraf.net'
   - '+.reasulty.com'
   - '+.rebevengwas.com'
-  - '+.rebill.me
+  - '+.rebill.me'
   - '+.reborko.com'
   - '+.rec2000.at.ua'
   - '+.rec3re23.com'
@@ -31512,10 +31429,10 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.rorer.ru'
   - '+.rot.rusoul.ru'
   - '+.rot.spotsniper.ru'
-  - '+.rotaban.
-  - '+.rotabanner.
+  - '+.rotaban.*'
+  - '+.rotabanner.*'
   - '+.rotation-context.ru'
-  - '+.rotator.
+  - '+.rotator.*'
   - '+.rotator.promokrot.com'
   - '+.rs-context.ru'
   - '+.rsuuc.com'
@@ -31536,11 +31453,11 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.rugirls.online'
   - '+.ruigra.com'
   - '+.runetki.tv'
-  - '+.ruscams.co'
+  - '+.ruscams.com'
   - '+.ruschopi.ru'
   - '+.ruscontext.com'
   - '+.rushkolnik.ru'
-  - '+.rusrestbest.
+  - '+.rusrestbest.*'
   - '+.russerials.club'
   - '+.russian-cuties.info'
   - '+.rustds.click'
@@ -31669,7 +31586,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.slopeac.com'
   - '+.slot-888.ru'
   - '+.slowpoker.ru'
-  - '+.smart.allocine.fr
+  - '+.smart.allocine.fr'
   - '+.smartinfomarketing.ru'
   - '+.smigid.ru'
   - '+.smiinform.zone'
@@ -31678,7 +31595,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.smimarket.com'
   - '+.smonstr.ru'
   - '+.smpbhfiwr.com'
-  - '+.sn00.net
+  - '+.sn00.net'
   - '+.socadvnet.com'
   - '+.sochetat.net'
   - '+.softbn.ru'
@@ -31736,7 +31653,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.super-sxema.ru'
   - '+.superfastcomputer.ru'
   - '+.superlady.org'
-  - '+.superpcexpert.ru
+  - '+.superpcexpert.ru'
   - '+.superseksi.pw'
   - '+.superstyle.ru'
   - '+.supertop.ru'
@@ -31757,7 +31674,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.t-fb-w-sv-bn-7j.ru'
   - '+.t.4623.ru'
   - '+.t.pusk.ru'
-  - '+.talkfusion.co'
+  - '+.talkfusion.com'
   - '+.talysu.info'
   - '+.targetan.com'
   - '+.tastishi.ru'
@@ -31792,7 +31709,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.teasermedia.net'
   - '+.teasermoney.com'
   - '+.teasermoney.ru'
-  - '+.teasernet.
+  - '+.teasernet.*'
   - '+.teaserplay.ru'
   - '+.teaserpro.ru'
   - '+.teaserrotator.com'
@@ -31820,7 +31737,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tg.mybb.ru'
   - '+.tg2016.net'
   - '+.tgmygw.biz'
-  - '+.tgsmtdata4.pro
+  - '+.tgsmtdata4.pro'
   - '+.th700.com'
   - '+.the-people-group.com'
   - '+.thefoxads.ru'
@@ -31830,7 +31747,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.thor-media.ru'
   - '+.thor-z.com'
   - '+.thrilling.ru'
-  - '+.timedirect.ru
+  - '+.timedirect.ru'
   - '+.timeophone.com'
   - '+.tisagama.com'
   - '+.tisarama.com'
@@ -31838,7 +31755,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.titanpoker.com'
   - '+.tiutietur.com'
   - '+.tiz-et.ru'
-  - '+.tiz.neosmi.ru
+  - '+.tiz.neosmi.ru'
   - '+.tizer.in'
   - '+.tizer.passion.ru'
   - '+.tizer.ukraine-ru.net'
@@ -31869,7 +31786,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.tle.ru'
   - '+.tm-core.net'
   - '+.tmozs.com'
-  - '+.tmserver-2.net
+  - '+.tmserver-2.net'
   - '+.tmstrack.com'
   - '+.tn05.ru'
   - '+.tnd.ecefibwja.xyz'
@@ -31925,7 +31842,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.trafovod.com'
   - '+.trafpyat.ru'
   - '+.trafstore.com'
-  - '+.trafvip.in
+  - '+.trafvip.in'
   - '+.tramate.ru'
   - '+.transfto.com'
   - '+.transiz.ru'
@@ -31998,8 +31915,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.umrefebaot.biz'
   - '+.umyetor.ru'
   - '+.unads.ru'
-  - '+.under-click.
-  - '+.underclick.
+  - '+.under-click.*'
+  - '+.underclick.*'
   - '+.underdone.ru'
   - '+.undere.com'
   - '+.undleftranver.ru'
@@ -32087,8 +32004,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.video1132.com'
   - '+.videoburner2015.com'
   - '+.videocap.org'
-  - '+.videoclick.
-  - '+.videoclik.
+  - '+.videoclick.*'
+  - '+.videoclik.*'
   - '+.videofan.ru'
   - '+.videoframe.blue'
   - '+.videoklass.ru'
@@ -32190,8 +32107,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.waveview.info'
   - '+.wdfg.pro'
   - '+.web-centr.com'
-  - '+.web-rotation.net
-  - '+.web-visor.
+  - '+.web-rotation.net'
+  - '+.web-visor.*'
   - '+.webgringo.ru'
   - '+.webmasterskyi.com'
   - '+.webmedia.co.il'
@@ -32336,7 +32253,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ynwia.com'
   - '+.yohioo.com'
   - '+.yopik.club'
-  - '+.yottos.co'
+  - '+.yottos.com'
   - '+.youngrul.pro'
   - '+.yourclick.pw'
   - '+.yourfoxes.ru'
@@ -32397,7 +32314,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.zycvyudt.com'
   - '+.zz2017.ru'
 #
-# Ads reinjection (For apps only)
+
 #
   - '+.4jiqzr.ru'
   - '+.csp-oz66pp.ru'
@@ -32414,17 +32331,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.vt4dlx.ru'
   - '+.xifg6h.ru'
   - '+.zfvklk.ru'
-#
-#+ PLATFORM(ios, ext_android_cb, ext_safari)
-#+ NOT_PLATFORM(ios, ext_android_cb, ext_safari)
-
-#
-# Source name: AdGuard Russian filter ad servers first-party
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
-#
-#
-# Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
-#
   - '+.lzupkz.com'
   - '+.ad.tehno-rating.ru'
   - '+.r.z2.fm'
@@ -32475,52 +32381,52 @@ charlestownwyllie.oaklawnnonantum.com'
  - '+.freepicsel.ru'
  - '+.new-rutor.com.pl'
  - '+.pic2me.org'
-://*.012345b.xyz'
-://*.10pix.xyz'
-://*.111ae.xyz'
-://*.1abpix.xyz'
-://*.1acpix.xyz'
-://*.1alivs.xyz'
-://*.1sexxx.co'
-://*.2img-pic.ru'
-://*.anime-free.net'
-://*.bobfilm1.co'
-://*.dorgroup.com'
-://*.drampic.info'
-://*.fast2img.ru'
-://*.fasti2mages.ru'
-://*.free-torrents.eu.org'
-://*.freeimges.ru'
-://*.freepixs.ru'
-://*.freerutor.com'
-://*.gigantporno.com'
-://*.hd-720.biz'
-://*.images-pix.ru'
-://*.imagespics.ru'
-://*.imgbum.ru'
-://*.imgbun.ru'
-://*.imgpics.ru'
-://*.imgshance.ru'
-://*.imgspic.ru'
-://*.kinogo-720.co'
-://*.kuponykz.ru'
-://*.mnogabukaff.net'
-://*.photopix.info'
-://*.picmir.nu'
-://*.picstraff.ru'
-://*.pika-img.ru'
-://*.pintastic.by'
-://*.pix-images.ru'
-://*.porno-gid2.info'
-://*.pornogig.com'
-://*.propix.info'
-://*.protopix.info'
-://*.purum-pup-pum.ru'
-://*.rusdozor.ru'
-://*.screenpix.ru'
-://*.sexpornophoto.com'
-://*.simpsonsvideos.ru'
-://*.videopron.ru'
+  - '+.*.012345b.xyz'
+  - '+.*.10pix.xyz'
+  - '+.*.111ae.xyz'
+  - '+.*.1abpix.xyz'
+  - '+.*.1acpix.xyz'
+  - '+.*.1alivs.xyz'
+  - '+.*.1sexxx.com'
+  - '+.*.2img-pic.ru'
+  - '+.*.anime-free.net'
+  - '+.*.bobfilm1.co'
+  - '+.*.dorgroup.com'
+  - '+.*.drampic.info'
+  - '+.*.fast2img.ru'
+  - '+.*.fasti2mages.ru'
+  - '+.*.free-torrents.eu.org'
+  - '+.*.freeimges.ru'
+  - '+.*.freepixs.ru'
+  - '+.*.freerutor.com'
+  - '+.*.gigantporno.com'
+  - '+.*.hd-720.biz'
+  - '+.*.images-pix.ru'
+  - '+.*.imagespics.ru'
+  - '+.*.imgbum.ru'
+  - '+.*.imgbun.ru'
+  - '+.*.imgpics.ru'
+  - '+.*.imgshance.ru'
+  - '+.*.imgspic.ru'
+  - '+.*.kinogo-720.co'
+  - '+.*.kuponykz.ru'
+  - '+.*.mnogabukaff.net'
+  - '+.*.photopix.info'
+  - '+.*.picmir.nu'
+  - '+.*.picstraff.ru'
+  - '+.*.pika-img.ru'
+  - '+.*.pintastic.by'
+  - '+.*.pix-images.ru'
+  - '+.*.porno-gid2.info'
+  - '+.*.pornogig.com'
+  - '+.*.propix.info'
+  - '+.*.protopix.info'
+  - '+.*.purum-pup-pum.ru'
+  - '+.*.rusdozor.ru'
+  - '+.*.screenpix.ru'
+  - '+.*.sexpornophoto.com'
+  - '+.*.simpsonsvideos.ru'
+  - '+.*.videopron.ru'
   - '+.action.evrikak.ru'
   - '+.ad.4ertik.porn'
   - '+.ad.cbonds.info'
@@ -32538,7 +32444,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.af.1gdz.ru'
   - '+.afbanner.kinobomber3.online'
   - '+.aliru2.ru.p.pstl.live'
-  - '+.an.yandex.
+  - '+.an.yandex.*'
   - '+.b.1istochnik.ru'
   - '+.b.books555.com'
   - '+.b.povarenok.ru'
@@ -32547,7 +32453,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.banners.prikol.ru'
   - '+.banshop.gruntovik.ru'
   - '+.bet.championat.com'
-  - '+.bet.championat.com'$important
+  - '+.bet.championat.com'$important'
   - '+.tea.pornolomka.video'
   - '+.bn.kino-go.co'
   - '+.bn.take-profit.org'
@@ -32620,14 +32526,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ukrsvit.ukrmir.info'
   - '+.vozer.voffka.com'
   - '+.vw.onlinia.net'
-
-#
-# Source name: AdGuard Russian filter news exchange servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
-#
-#
-# Новостные тизерки
-#
   - '+.smi24.kz'
   - '+.virtonnews.com'
   - '+.top-js-metrics.top.my.ua'
@@ -32676,11 +32574,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.top-newsrustoria.ru'
   - '+.topruistory.ru'
   - '+.toprustory.ru'
-#
-# Source name: AdGuard Turkish filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
-#
-#
   - '+.bwcdn.xyz'
   - '+.wonoddgiris.com'
   - '+.aj2373.online'
@@ -32808,8 +32701,8 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.piaads.com'
   - '+.usa-media.net'
   - '+.paykasasitesi.com'
-://r.reklam*.com'
-://say.ac'
+  - '+.r.reklam*.com'
+  - '+.say.ac'
   - '+.0638.info'
   - '+.aadserving.com'
   - '+.ad*.tmgrup.com.tr'
@@ -32872,7 +32765,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.mobilup.com'
   - '+.mobilure.com'
   - '+.numarapaneli.com'
-  - '+.oddsring555.co'
+  - '+.oddsring555.com'
   - '+.parasino7.com'
   - '+.perabetads.com'
   - '+.pixenka.com'
@@ -32907,14 +32800,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.winaffiliates.com'
   - '+.xpornoizlex.net'
   - '+.xyztanitim.com'
-
-#
-# Source name: AdGuard Turkish filter ad servers first-party
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
-#
-#
-# Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
-#
   - '+.rek.yemlee.com'
   - '+.files.pbgiris.com'
   - '+.r20.club'
@@ -32964,32 +32849,12 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.ad.sacitaslan.com'
   - '+.cdn.hiperadverts.com'
   - '+.savoy.cubecdn.net'
-
-#
-# Source name: AdGuard French filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
   - '+.ukslphcgs.com'
   - '+.habrox.xyz'
   - '+.mystighty.info'
   - '+.sohjah-thahka.info'
   - '+.goitcl.com'
   - '+.mineralisasse.site'
-
-#
-# Source name: AdGuard Japanese filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
-# https://github.com/AdguardTeam/AdguardFilters/issues/23113
-#   - '+.weblio.jp'$third-party
-#
-# Yahoo
   - '+.promotionalads.yahoo.co.jp'
   - '+.adserver.yahoo.co.jp'
   - '+.smartads.mobile.yahoo.co.jp'
@@ -32999,44 +32864,25 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.logoole.yahoo.co.jp'
   - '+.yads.yahoo.co.jp'
   - '+.yads.yjtag.yahoo.co.jp'
-#
-# Supership.jp (also mobile ads)
-#
-# Shinobi.jp
   - '+.adf.shinobi.jp'
   - '+.bar*.shinobi.jp'
   - '+.ct1.shinobi.jp'
   - '+.ct2.shinobi.jp'
-#
-# Rakuten.co.jp
   - '+.affiliate.rakuten.co.jp'
   - '+.hbb.afl.rakuten.co.jp'
   - '+.hb.afl.rakuten.co.jp'
-#
-# Nikkeibp.co.jp
   - '+.bizad.nikkeibp.co.jp'
   - '+.adserve5.nikkeibp.co.jp'
-#
-# Livedoor.co'
   - '+.adv.livedoor.com'
-#
-# Gunosy.co'
   - '+.ad.gunosy.com'
   - '+.adapi.gunosy.com'
   - '+.adntokyo.gunosy.com'
   - '+.creatives.gunosy.com'
-#
-# Fc2.co'
   - '+.aimg.fc2.com'
   - '+.media5.fc2.com'
-#
-# Excite.co.jp
   - '+.adimp.excite.co.jp'
   - '+.adimpkwd.excite.co.jp'
-#
-# Eimg.jp
   - '+.adingo.jp.eimg.jp'
-#
   - '+.trading-ad.net'
   - '+.ads.ressp.net'
   - '+.resad.mediaid.click'
@@ -33268,11 +33114,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.widget-view.dmm.com'
   - '+.widget.zenback.jp'
   - '+.w.zenback.jp'
-
-#
-# Source name: AdGuard German filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
-#
   - '+.partners2.das-onlinespiel.de'
   - '+.ihreapotheken.de'
   - '+.intextlinks.idg.zone'
@@ -33294,14 +33135,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.twiago.com'
   - '+.bauernative.com'
   - '+.chickensaladandads.com'
-
-#
-# Source name: AdGuard Chinese filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
   - '+.tinkshop.cn'
   - '+.speedup.cyou'
   - '+.dj930.cn'
@@ -33504,28 +33337,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.t.njzrxx.xyz'
   - '+.yqrta.xyz'
   - '+.zjgfq.com'
-#
-# Source name: AdGuard Dutch filter ad servers
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
-#
-#
-# Section contains list of advertising networks
-#
   - '+.pexi.nl'
   - '+.adconfigproxy.azurewebsites.net'
-
-#
-# Source name: AdGuard Dutch filter ad servers first-party
-# Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
-#
-#
-# Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
-#
   - '+.content2.nrc.nl'
-#
-# Source name: EasyList Germany ad servers
-# Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
-#
   - '+.4adtf.com.'
   - '+.4adtf.com'
   - '+.4rm.de'
@@ -33775,13 +33589,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.za-ads.de'
   - '+.zieltracker.de'
   - '+.zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de'
-# Mobile
   - '+.avault.net'
-
-#
-# Source name: EasyList Italy ad servers
-# Source: https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt
-#
   - '+.24network.it'
   - '+.ad4mat.it'
   - '+.adagionet.com'
@@ -33905,11 +33713,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.yobee.it'
   - '+.zariumhb.com'
   - '+.zodiakactive.com'
-
-#
-# Source name: ABPindo ad servers
-# Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
-#
   - '+.188affiliates.com'
   - '+.1b969cef84d93b43.com'
   - '+.2go7v1nes8.com'
@@ -34090,19 +33893,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.yesads.com'
   - '+.yhig.info'
   - '+.ys3e965d.top'
-
-#
-# Source name: hostsVN ad servers
-# Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
-#
-# Title: hostsVN
-# Description: The filter contains ad and tracking networks in Vietnam.
-# Last modified: 24 Sep 2021 20:23 UTC+7
-# Version: 2109242023
-# Blocked: 1,001 rules
-# Expires: 1 days (update frequency)
-# Homepage: https://bigdargon.github.io/hostsVN/
-#
   - '+.24h-ad.24hstatic.com'
   - '+.24h-ipad-ad.24hstatic.com'
   - '+.ad-us.24hstatic.com'
@@ -35052,11 +34842,6 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me'
   - '+.v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me'
   - '+.wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me'
-
-#
-# Source name: EasyList China ad servers
-# Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
-#
   - '+.00-gov.cn'
   - '+.0024aaaa.com'
   - '+.008844.cc'
@@ -35081,7 +34866,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.1000dy.com'
   - '+.1002.men'
   - '+.100fenlm.com'
-  - '+.111.175.219.*.js
+  - '+.111.175.219.*.js'
   - '+.11111fs.com'
   - '+.113o.com'
   - '+.120571.com'
@@ -35121,7 +34906,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.201071.com'
   - '+.2018haoyunlai.com'
   - '+.201n.com'
-  - '+.218.26.217.*.html
+  - '+.218.26.217.*.html'
   - '+.21kk.cc'
   - '+.222im.com'
   - '+.23456dj.com'
@@ -36257,7 +36042,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.qianmeiby.com'
   - '+.qilashou.com'
   - '+.qingyanmjg.com'
-  - '+.qinqiaotrade.co'
+  - '+.qinqiaotrade.com'
   - '+.qiqiww.com'
   - '+.qiqiyii.com'
   - '+.qixedu.com'
@@ -36862,7 +36647,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.zzwpsm.cn'
   - '+.zzyonghao.com'
   - '+.1024mzs.pw'
-  - '+.1024wanzhai.
+  - '+.1024wanzhai.*'
   - '+.133gp.com'
   - '+.5lu8.com'
   - '+.7wkw.com'
@@ -36894,9 +36679,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.1.i999d.cn'
   - '+.100.admin5.com'
   - '+.100.pncdn.cn'
-  - '+.113.17.188.*.js
-  - '+.120.27.*.html
-  - '+.122.225.103.*.ht'
+  - '+.113.17.188.*.js'
+  - '+.120.27.*.html'
+  - '+.122.225.103.*.htm'
   - '+.201*.myhard.com'
   - '+.2016.bkill.net'
   - '+.3337723.com'
@@ -37057,7 +36842,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.i.wuhaolin.cn'
   - '+.iads.xinmin.cn'
   - '+.idcot.com'
-  - '+.img*.hc360.com'*.swf
+  - '+.img*.hc360.com'*.swf'
   - '+.img.3sjt.com'
   - '+.img.meipic.net'
   - '+.img1.126.net'
@@ -37068,7 +36853,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.impservice*.yodao.com'
   - '+.impservice*.youdao.com'
   - '+.inte.sogou.com'
-  - '+.itv.hexun.co'
+  - '+.itv.hexun.com'
   - '+.ivy.pconline.com.cn'
   - '+.iwanad.baidu.com'
   - '+.j.avz4.com'
@@ -37121,7 +36906,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.same*.stockstar.com'
   - '+.same.chinadaily.com.cn'
   - '+.same.eastmoney.com'
-  - '+.sax*.sina.
+  - '+.sax*.sina.*'
   - '+.sgg.southcn.com'
   - '+.share.gzdsw.com'
   - '+.sodhef.com'
@@ -37569,7 +37354,7 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.fpb*.51edu.com'
   - '+.fpb.sohu.com'
   - '+.fpb1.apple886.com'
-  - '+.fpb1.chinacar.
+  - '+.fpb1.chinacar.*'
   - '+.fpb1.tabuzhe.com'
   - '+.fwccw.com'
   - '+.fxjs.2541.com'
@@ -40396,16 +40181,16 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.sohu999.com'
   - '+.tcmdz.com'
 #
-# Source name: Additional rules
-# Source: Filters/rules.txt
+
+
 #
 #
-# Tracking
+
 #
-# This domain does not exist and is used for health checks
+
   - '+.abcounter.de'
   - '+.adc.api.nine.com.au'
-# https://github.com/AdguardTeam/AdguardDNS/issues/52
+
   - '+.mobileanalytics.*.amazonaws.com'
   - '+.analyzer52.fc2.com'
   - '+.clientlog.portal.office.com'
@@ -40423,12 +40208,9 @@ charlestownwyllie.oaklawnnonantum.com'
   - '+.stats.paypal.com'
   - '+.stats.wwitv.com'
   - '+.t.9gag.com'
-  - '+.t.delfi.
-  - '+.track.zalando.
-  - '+.tracking.olx.
-#
-# Ads
-#
+  - '+.t.delfi.*'
+  - '+.track.zalando.*'
+  - '+.tracking.olx.*'
   - '+.adocean.cz'
   - '+.tt.onthe.io'
   - '+.dualstack.adbert-web-lbs-*.elb.amazonaws.com'
