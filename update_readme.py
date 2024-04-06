@@ -33,6 +33,7 @@ def update_readme_item(item):
         last_modified_dt = datetime.strptime(last_modified_str, "%Y-%m-%dT%H:%M:%S%z")
         formatted_last_modified = last_modified_dt.strftime("%Y-%m-%d")
 
+        # Membuat string untuk bagian yang akan diperbarui di README.md
         readme_update = f"[{item['name']}]({item['url']}) | **{formatted_last_modified}** | {entries_count}"
 
         return readme_update
