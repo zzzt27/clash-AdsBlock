@@ -1,4 +1,4 @@
-# Ads Block by Oisd for Clash
+# Ads Block by osid for clash
 
 ## HOW TO
 
