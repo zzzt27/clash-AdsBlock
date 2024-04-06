@@ -4,9 +4,9 @@
 
 NAME | UPDATE | RULES COUNT
 ------------ | ------------- | -------------
-[oisd_small](https://small.oisd.nl/domainswild) | **16-09-21** | 90339
-[oisd_big](https://big.oisd.nl/domainswild) | **16-09-21** | 90339
-[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | **16-09-21** | 90339
+[oisd_small](https://small.oisd.nl/domainswild) | -- | --
+[oisd_big](https://big.oisd.nl/domainswild) | -- | --
+[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | -- | --
 
 ## HOW TO
 
