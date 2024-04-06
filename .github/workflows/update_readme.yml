@@ -2,7 +2,11 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Jalankan setiap hari pukul 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      run_update:
+        description: 'Run the README update'
 
 jobs:
   update-readme:
