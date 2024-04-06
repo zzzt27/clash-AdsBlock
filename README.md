@@ -1,13 +1,5 @@
 # clashBlock
 
-## Source List
-
-NAME | UPDATE | RULES COUNT
------------- | ------------- | -------------
-[oisd_small](https://small.oisd.nl/domainswild) | -- | --
-[oisd_big](https://big.oisd.nl/domainswild) | -- | --
-[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | -- | --
-
 ## HOW TO
 
 ### oisd_small
@@ -69,3 +61,13 @@ rule-providers:
 rules:
   - RULE-SET,oisd_nsfw🔞,REJECT
 ```
+
+## Source
+
+https://oisd.nl/
+
+Source List
+[oisd_small](https://small.oisd.nl/domainswild) 
+[oisd_big](https://big.oisd.nl/domainswild)
+[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) 
+
