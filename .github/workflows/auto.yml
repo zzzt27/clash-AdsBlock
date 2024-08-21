@@ -14,10 +14,10 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Download the domains file
-      run: wget https://big.oisd.nl/domainswild -O domainswild.txt
+      run: wget https://big.oisd.nl/domainswild -O oisd_big.txt
 
     - name: Modify the file
-      run: sed -i 's/\*\./+./g' domainswild.txt
+      run: sed -i 's/\*\./+./g' oisd_big.txt
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
