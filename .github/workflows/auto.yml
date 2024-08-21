@@ -2,8 +2,8 @@ name: Update OISD Domains
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Setiap jam
-  workflow_dispatch:  # Bisa dijalankan secara manual juga
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-domains:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Download the domains file
       run: wget https://big.oisd.nl/domainswild -O domainswild.txt
