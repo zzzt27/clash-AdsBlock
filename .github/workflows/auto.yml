@@ -1,8 +1,8 @@
-name: AUTO Update
+name: Auto Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Update setiap 6 jam
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,16 +25,8 @@ jobs:
     - name: Modify the ABPindo.txt file
       run: sed -i 's/^/+./g' ABPindo.txt
 
-    - name: Verify oisd_big.txt content
-      run: cat oisd_big.txt
-
-    - name: Verify ABPindo.txt content
-      run: cat ABPindo.txt
-
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Update on $(date '+%Y-%m-%d %H:%M:%S')"
-        file_pattern: |
-          oisd_big.txt
-          ABPindo.txt
+        file_pattern: "oisd_big.txt ABPindo.txt"
