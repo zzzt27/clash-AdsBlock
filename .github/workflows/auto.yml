@@ -2,7 +2,7 @@ name: Update OISD Domains
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Update setiap 6 jam
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Update on $(date '+%Y-%m-%d %H:%M:%S')"
+        commit_message: "Update"
         file_pattern: |
           oisd_big.txt
           ABPindo.txt
