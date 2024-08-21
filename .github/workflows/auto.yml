@@ -1,0 +1,26 @@
+name: Update OISD Domains
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Setiap jam
+  workflow_dispatch:  # Bisa dijalankan secara manual juga
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download the domains file
+      run: wget https://big.oisd.nl/domainswild -O domainswild.txt
+
+    - name: Modify the file
+      run: sed -i 's/\*\./+./g' domainswild.txt
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update domainswild.txt with modified entries"
+        file_pattern: oisd_big.txt
