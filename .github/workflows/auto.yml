@@ -1,4 +1,4 @@
-name: Update OISD Domains
+name: Auto Update
 
 on:
   schedule:
@@ -13,22 +13,14 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Download the oisd_big.txt file
+    - name: Download the domains file
       run: wget https://big.oisd.nl/domainswild -O oisd_big.txt
 
-    - name: Modify the oisd_big.txt file
+    - name: Modify the file
       run: sed -i 's/\*\./+./g' oisd_big.txt
-
-    - name: Download the ABPindo.txt file
-      run: wget https://fastly.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/domain.txt -O ABPindo.txt
-
-    - name: Modify the ABPindo.txt file
-      run: sed -i 's/^/+./g' ABPindo.txt
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Update"
-        file_pattern: |
-          oisd_big.txt
-          ABPindo.txt
+        commit_message: "Update on $(date '+%Y-%m-%d %H:%M:%S')"
+        file_pattern: oisd_big.txt
