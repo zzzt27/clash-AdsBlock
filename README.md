@@ -1,5 +1,13 @@
 # Ads Block by osid for clash
 
+## Source List
+
+NAME | UPDATE | RULES COUNT
+------------ | ------------- | -------------
+[oisd_small](https://small.oisd.nl/domainswild) | **16-09-21** | 90339
+[oisd_big](https://big.oisd.nl/domainswild) | **16-09-21** | 90339
+[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | **16-09-21** | 90339
+
 ## HOW TO
 
 ### oisd_small
