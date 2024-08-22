@@ -16,9 +16,9 @@ NAME | UPDATE |
 [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt) | **16-09-21** 
 
 ### [HAGEZI](https://github.com/hagezi/dns-blocklists)
-| Version | Blocking<br>level | Blocking<br>type |
-|:--------|:---------------|:--------------|
-| :green_book:[Light](#light)        | :green_book::green_book:                                                                    | Relaxed             |
+| Version | Blocking<br>level | Blocking<br>type | UPDATE | RULES COUNT |
+|:--------|:---------------|:--------------|:--------------|:--------------|
+| :green_book:[Light](#light)| :green_book::green_book:| Relaxed | **16-09-21** | 90339
 | :blue_book:[Normal](#normal)       | :blue_book::blue_book::blue_book:                                                           | Relaxed/Balanced    |
 | :ledger:[Pro](#pro)                | :ledger::ledger::ledger::ledger:                                                            | Balanced            |
 | :orange_book:[Pro++](#proplus)     | :orange_book::orange_book::orange_book::orange_book::orange_book::orange_book:              | Balanced/Aggressive |
