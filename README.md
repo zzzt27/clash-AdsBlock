@@ -5,7 +5,7 @@
 NAME | UPDATE | RULES COUNT
 ------------ | ------------- | -------------
 [oisd_small](https://small.oisd.nl/domainswild) | **16-09-21** | 90339
-[oisd_big](https://big.oisd.nl/domainswild) | **16-09-21** | 90339
+[oisd_big](https://big.oisd.nl/domainswild) | **22-08-24** | 170137
 [oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | **16-09-21** | 90339
 
 ## HOW TO
