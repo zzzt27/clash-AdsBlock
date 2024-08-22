@@ -2,7 +2,7 @@ name: Auto Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *' 
+    - cron: '0 * * * *' 
   workflow_dispatch:
 
 jobs:
@@ -18,6 +18,18 @@ jobs:
 
     - name: Modify the oisd_big.txt file
       run: sed -i 's/\*\./+./g' oisd_big.txt
+      
+    - name: Download the oisd_small.txt file
+      run: wget https://small.oisd.nl/domainswild -O oisd_small.txt
+
+    - name: Modify the oisd_small.txt file
+      run: sed -i 's/\*\./+./g' oisd_small.txt
+
+    - name: Download the oisd_nsfw.txt file
+      run: wget https://nsfw.oisd.nl/domainswild -O oisd_nsfw.txt
+
+    - name: Modify the oisd_nsfw.txt file
+      run: sed -i 's/\*\./+./g' oisd_nsfw.txt
 
     - name: Download the ABPindo.txt file
       run: wget https://fastly.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/domain.txt -O ABPindo.txt
@@ -33,6 +45,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add oisd_big.txt ABPindo.txt
+        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt
         git commit -F commit_message.txt || echo "No changes to commit"
         git push
