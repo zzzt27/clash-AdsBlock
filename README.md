@@ -1,32 +1,23 @@
-# Ads Block by osid for clash
+# Ads Block for clash
 
 ## Source List
 
-### OISD
-NAME | UPDATE | RULES COUNT
------------- | ------------- | -------------
-[oisd_small](https://small.oisd.nl/domainswild) | **22-08-24** | 44182
-[oisd_big](https://big.oisd.nl/domainswild) | **22-08-24** | 170137
-[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) | **22-08-24** | 378395
+### [OISD](https://oisd.nl/)
+NAME | UPDATE | RULES COUNT |
+------------ | ------------- | ------------- |
+[oisd_small](#small) | **16-09-21** | 90339 |
+[oisd_big](#big) | **22-08-24** | 170137 |
+[oisd_nsfw🔞](#nsfw) | **16-09-21** | 90339 |
 
 
-### ABPindo
-NAME | UPDATE |
------------- | -------------
-[ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt) | **16-09-21** 
-
-### [HAGEZI](https://github.com/hagezi/dns-blocklists)
-| Version | Blocking<br>level | Blocking<br>type | UPDATE | RULES COUNT |
-|:--------|:---------------|:--------------|:--------------|:--------------|
-| :green_book:[Light](#light)| :green_book::green_book:| Relaxed | **16-09-21** | 90339
-| :blue_book:[Normal](#normal)       | :blue_book::blue_book::blue_book:                                                           | Relaxed/Balanced    |
-| :ledger:[Pro](#pro)                | :ledger::ledger::ledger::ledger:                                                            | Balanced            |
-| :orange_book:[Pro++](#proplus)     | :orange_book::orange_book::orange_book::orange_book::orange_book::orange_book:              | Balanced/Aggressive |
-| :closed_book:[Ultimate](#ultimate) | :closed_book::closed_book::closed_book::closed_book::closed_book::closed_book::closed_book: | Aggressive |
+### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
+NAME | UPDATE | RULES COUNT |
+------------ | ------------- | ------------- |
+[ABPindo](#indo) | **16-09-21** | 90339 |
 
 ## HOW TO
 
-### oisd_small
+### oisd_small <a name="small"></a>
 
 * rule provider
 ```yaml
@@ -35,8 +26,8 @@ rule-providers:
     type: http
     behavior: domain
     format: text
-    path: "./rule_provider/oisd_light.txt"
-    url: https://small.oisd.nl/domainswild
+    path: "./rule_provider/oisd_small.txt"
+    url: https://raw.githubusercontent.com/zzzt27/clash-AdsBlock/main/oisd_small.txt
     interval: 86400
 ```
 
@@ -46,7 +37,7 @@ rules:
   - RULE-SET,oisd_small,REJECT
 ```
 
-### oisd_big
+### oisd_big <a name="big"></a>
 
 * rule provider
 ```yaml
@@ -56,7 +47,7 @@ rule-providers:
     behavior: domain
     format: text
     path: "./rule_provider/oisd_big.txt"
-    url: https://big.oisd.nl/domainswild
+    url: https://raw.githubusercontent.com/zzzt27/clash-AdsBlock/main/oisd_big.txt
     interval: 86400
 ```
 
@@ -66,7 +57,7 @@ rules:
   - RULE-SET,oisd_big,REJECT
 ```
 
-### oisd_nsfw🔞
+### oisd_nsfw🔞 <a name="nsfw"></a>
 
 * rule provider
 ```yaml
@@ -76,7 +67,7 @@ rule-providers:
     behavior: domain
     format: text
     path: "./rule_provider/oisd_nsfw.txt"
-    url: https://nsfw.oisd.nl/domainswild
+    url: https://raw.githubusercontent.com/zzzt27/clash-AdsBlock/main/oisd_nsfw.txt
     interval: 86400
 ```
 
@@ -86,12 +77,22 @@ rules:
   - RULE-SET,oisd_nsfw🔞,REJECT
 ```
 
-## Source
+### ABPindo <a name="indo"></a>
 
-https://oisd.nl/
+* rule provider
+```yaml
+rule-providers:
+  ABPindo:
+    type: http
+    behavior: domain
+    format: text
+    path: "./rule_provider/ABPindo.txt"
+    url: https://raw.githubusercontent.com/zzzt27/clash-AdsBlock/main/ABPindo.txt
+    interval: 86400
+```
 
-Source List
-[oisd_small](https://small.oisd.nl/domainswild) 
-[oisd_big](https://big.oisd.nl/domainswild)
-[oisd_nsfw🔞](https://nsfw.oisd.nl/domainswild) 
-
+* rules
+```yaml
+rules:
+  - RULE-SET,oisd_nsfw🔞,REJECT
+```
