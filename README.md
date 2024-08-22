@@ -11,9 +11,9 @@ NAME | UPDATE | RULES COUNT
 
 
 ### ABPindo
-NAME
-------------
-[ABPindo]([https://small.oisd.nl/domainswild](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt))
+NAME | UPDATE |
+------------ | -------------
+[ABPindo]([https://small.oisd.nl/domainswild](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)) | **16-09-21** 
 
 ## HOW TO
 
