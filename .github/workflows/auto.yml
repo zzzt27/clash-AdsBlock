@@ -58,13 +58,20 @@ jobs:
         echo "entries_nsfw=$entries_nsfw" >> $GITHUB_ENV
         echo "last_modified_nsfw=$last_modified_nsfw" >> $GITHUB_ENV
 
-    # Update README.md with extracted info
+    # Get the last commit date for ABPindo
+    - name: Get last commit date
+      run: |
+        last_commit_date=$(git log -1 --format=%cd --date=format:'%d-%m-%y')
+        echo "last_commit_date=$last_commit_date" >> $GITHUB_ENV
+
+    # Update README.md with extracted info and ABPindo update date
     - name: Update README.md
       run: |
         last_update=$(date '+%d-%m-%y')
         sed -i "s|\[oisd_big\](https://big.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_big\](https://big.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_big }}|" README.md
         sed -i "s|\[oisd_small\](https://small.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_small\](https://small.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_small }}|" README.md
         sed -i "s|\[oisd_nsfw🔞\](https://nsfw.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_nsfw🔞\](https://nsfw.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_nsfw }}|" README.md
+        sed -i "s|\[ABPindo\](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt) \| \*\*.*\*\*|\[ABPindo\](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt) \| **${{ env.last_commit_date }}**|" README.md
         git add README.md
 
     # Update ABPindo.txt
