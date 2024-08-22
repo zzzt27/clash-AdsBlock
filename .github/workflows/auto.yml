@@ -13,44 +13,68 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    # Update oisd_big.txt
     - name: Download the oisd_big.txt file
       run: wget https://big.oisd.nl/domainswild -O oisd_big.txt
 
     - name: Modify the oisd_big.txt file
       run: sed -i 's/\*\./+./g' oisd_big.txt
 
-    - name: get data
-      id: extract_info
+    - name: Extract oisd_big Info
+      id: extract_info_big
       run: |
-        entries=$(grep -oP '(?<=^# Entries: ).*' oisd_big.txt)
-        last_modified=$(grep -oP '(?<=^# Last modified: ).*' oisd_big.txt)
-        echo "entries=$entries" >> $GITHUB_ENV
-        echo "last_modified=$last_modified" >> $GITHUB_ENV
+        entries_big=$(grep -oP '(?<=^# Entries: ).*' oisd_big.txt)
+        last_modified_big=$(grep -oP '(?<=^# Last modified: ).*' oisd_big.txt)
+        echo "entries_big=$entries_big" >> $GITHUB_ENV
+        echo "last_modified_big=$last_modified_big" >> $GITHUB_ENV
 
-    - name: Update README.md
-      run: |
-        last_update=$(date '+%d-%m-%y')
-        sed -i "s|\[oisd_big\](https://big.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_big\](https://big.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries }}|" README.md
-        git add README.md
-      
+    # Update oisd_small.txt
     - name: Download the oisd_small.txt file
       run: wget https://small.oisd.nl/domainswild -O oisd_small.txt
 
     - name: Modify the oisd_small.txt file
       run: sed -i 's/\*\./+./g' oisd_small.txt
 
+    - name: Extract oisd_small Info
+      id: extract_info_small
+      run: |
+        entries_small=$(grep -oP '(?<=^# Entries: ).*' oisd_small.txt)
+        last_modified_small=$(grep -oP '(?<=^# Last modified: ).*' oisd_small.txt)
+        echo "entries_small=$entries_small" >> $GITHUB_ENV
+        echo "last_modified_small=$last_modified_small" >> $GITHUB_ENV
+
+    # Update oisd_nsfw.txt
     - name: Download the oisd_nsfw.txt file
       run: wget https://nsfw.oisd.nl/domainswild -O oisd_nsfw.txt
 
     - name: Modify the oisd_nsfw.txt file
       run: sed -i 's/\*\./+./g' oisd_nsfw.txt
 
+    - name: Extract oisd_nsfw Info
+      id: extract_info_nsfw
+      run: |
+        entries_nsfw=$(grep -oP '(?<=^# Entries: ).*' oisd_nsfw.txt)
+        last_modified_nsfw=$(grep -oP '(?<=^# Last modified: ).*' oisd_nsfw.txt)
+        echo "entries_nsfw=$entries_nsfw" >> $GITHUB_ENV
+        echo "last_modified_nsfw=$last_modified_nsfw" >> $GITHUB_ENV
+
+    # Update README.md with extracted info
+    - name: Update README.md
+      run: |
+        last_update=$(date '+%d-%m-%y')
+        sed -i "s|\[oisd_big\](https://big.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_big\](https://big.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_big }}|" README.md
+        sed -i "s|\[oisd_small\](https://small.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_small\](https://small.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_small }}|" README.md
+        sed -i "s|\[oisd_nsfw🔞\](https://nsfw.oisd.nl/domainswild) \| \*\*.*\*\* \| .*|\[oisd_nsfw🔞\](https://nsfw.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_nsfw }}|" README.md
+        git add README.md
+
+    # Update ABPindo.txt
     - name: Download the ABPindo.txt file
       run: wget https://fastly.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/domain.txt -O ABPindo.txt
 
     - name: Modify the ABPindo.txt file
       run: sed -i 's/^/+./g' ABPindo.txt
 
+    # Commit and push changes
     - name: Set commit message with timestamp
       id: set-message
       run: echo "Update on $(date '+%Y-%m-%d %H:%M:%S')" > commit_message.txt
@@ -59,6 +83,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt
+        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt README.md
         git commit -F commit_message.txt || echo "No changes to commit"
         git push
