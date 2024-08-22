@@ -78,6 +78,33 @@ jobs:
     - name: Modify the notrack.txt file
       run: sed -i '/^[^#]/ s/^[[:space:]]*[^[:space:]]\+/+.&/' notrack.txt
 
+    # Download and combine files
+    - name: DNS download
+      run: |
+        wget https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh.txt -O file1.txt
+        wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt -O file2.txt
+
+    - name: DNS data
+      id: extract_metadata
+      run: |
+        metadata=$(head -n 10 file1.txt)
+        number_of_entries=$(grep -oP '(?<=# Number of entries: ).*' file1.txt)
+        echo "metadata=$metadata" >> $GITHUB_ENV
+        echo "number_of_entries=$number_of_entries" >> $GITHUB_ENV
+
+    - name: combine DNS
+      run: |
+        # Create a combined file with metadata
+        echo "${{ env.metadata }}" > dns.txt
+        echo "" >> dns.txt
+
+        # Add entries from file1 with DOMAIN-SUFFIX
+        sed -e 's/^\*\./DOMAIN-SUFFIX,/g' file1.txt >> dns.txt
+
+        # Add entries from file2 with IP-CIDR
+        sed -e 's/^/IP-CIDR,/g' -e 's/$/\/32/' file2.txt >> dns.txt
+
+
     # Get the last commit date for ABPindo
     - name: Get last commit date
       run: |
@@ -103,6 +130,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt README.md notrack.txt
+        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt README.md notrack.txt dns.txt
         git commit -F commit_message.txt || echo "No changes to commit"
         git push
