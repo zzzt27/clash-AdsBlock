@@ -88,10 +88,10 @@ jobs:
     - name: Update README.md
       run: |
         last_update=$(date '+%d-%m-%y')
-        sed -i "s|\[oisd_big\](#big) \| \*\*.*\*\* \| .*|\[oisd_big\](https://big.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_big }}|" README.md
-        sed -i "s|\[oisd_small\](#small) \| \*\*.*\*\* \| .*|\[oisd_small\](https://small.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_small }}|" README.md
-        sed -i "s|\[oisd_nsfw🔞\](#nsfw) \| \*\*.*\*\* \| .*|\[oisd_nsfw🔞\](https://nsfw.oisd.nl/domainswild) \| **$last_update** \| ${{ env.entries_nsfw }}|" README.md
-        sed -i "s|\[ABPindo\](#indo) \| \*\*.*\*\* \| .*|\[ABPindo\](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt) \| **${{ env.last_commit_date }}** \| ${{ env.rules_count_abpindo }}|" README.md
+        sed -i "s|\[oisd_big\](#big) \| \*\*.*\*\* \| .*|\[oisd_big\](#big) \| **$last_update** \| ${{ env.entries_big }}|" README.md
+        sed -i "s|\[oisd_small\](#small) \| \*\*.*\*\* \| .*|\[oisd_small\](#small) \| **$last_update** \| ${{ env.entries_small }}|" README.md
+        sed -i "s|\[oisd_nsfw🔞\](#nsfw) \| \*\*.*\*\* \| .*|\[oisd_nsfw🔞\](#nsfw) \| **$last_update** \| ${{ env.entries_nsfw }}|" README.md
+        sed -i "s|\[ABPindo\](#indo) \| \*\*.*\*\* \| .*|\[ABPindo\](#indo) \| **${{ env.last_commit_date }}** \| ${{ env.rules_count_abpindo }}|" README.md
         git add README.md
 
     # Commit and push changes
