@@ -18,6 +18,20 @@ jobs:
 
     - name: Modify the oisd_big.txt file
       run: sed -i 's/\*\./+./g' oisd_big.txt
+
+    - name: update readme.md
+      id: extract_info
+      run: |
+        entries=$(grep -oP '(?<=^# Entries: ).*' oisd_big.txt)
+        last_modified=$(grep -oP '(?<=^# Last modified: ).*' oisd_big.txt)
+        echo "entries=$entries" >> $GITHUB_ENV
+        echo "last_modified=$last_modified" >> $GITHUB_ENV
+
+    - name: Update README.md
+      run: |
+        last_update=$(date '+%d-%m-%y')
+        sed -i "s|\[oisd_big\](https://big.oisd.nl/domainswild) | **$last_update** | .*|\[oisd_big\](https://big.oisd.nl/domainswild) | **$last_update** | ${{ env.entries }}|" README.md
+        git add README.md
       
     - name: Download the oisd_small.txt file
       run: wget https://small.oisd.nl/domainswild -O oisd_small.txt
