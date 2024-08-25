@@ -94,5 +94,5 @@ rule-providers:
 * rules
 ```yaml
 rules:
-  - RULE-SET,oisd_nsfw🔞,REJECT
+  - RULE-SET,ABPindo,REJECT
 ```
