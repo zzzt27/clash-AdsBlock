@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 25 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15918
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -714,7 +714,6 @@
 +.apxlv.com
 +.aqua-adserver.com
 +.arbourrenewal.com
-+.archyads.net
 +.arcpublishing.com
 +.arcspire.io
 +.arity.com
@@ -1078,7 +1077,6 @@
 +.clixgalore.com
 +.clk.asia
 +.clkdeals.com
-+.clkfeed.com
 +.clkmon.com
 +.clksite.com
 +.clog.geniex.com
@@ -14757,7 +14755,6 @@
 +.smetrics.jre-travel.com
 +.smetrics.kaercher.com
 +.smetrics.kaiserpermanente.org
-+.smetrics.kanen-net.info
 +.smetrics.kao.co.jp
 +.smetrics.kao.com
 +.smetrics.kawai-juku.ac.jp
