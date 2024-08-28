@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 28 Aug 2024
 # LatestVersion 24.01
-# Domain Count: 15919
+# Domain Count: 15918
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15564,7 +15564,6 @@
 +.travelaudience.com
 +.trckrry.com
 +.treasuredata.com
-+.treasureravenvulgar.com
 +.treehouse.wwoz.org
 +.tremorhub.com
 +.tremorvideo.com

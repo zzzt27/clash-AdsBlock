@@ -1,9 +1,9 @@
-# Version: 202408281508
+# Version: 202408281807
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44928
-# Last modified: 2024-08-28T15:08:16+0000
+# Entries: 44926
+# Last modified: 2024-08-28T18:07:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -94,7 +94,6 @@
 +.0940088.com
 +.0941.org
 +.09482aec5d.com
-+.097cfe5997.4d9e86640a.com
 +.09b074f4cf.com
 +.09b1fcc95e.com
 +.09zyy.com
@@ -902,6 +901,7 @@
 +.4d658ab856.com
 +.4d716774ff.7d3906347f.com
 +.4d76a0f3a8.com
++.4d9e86640a.com
 +.4da1c65ac2.com
 +.4dsbanner.net
 +.4dtrk.com
@@ -22586,7 +22586,6 @@
 +.jiaoben.ganji.cn
 +.jiaoben.jucanw.com
 +.jiaopei.com
-+.jias115.com
 +.jiclzori.com
 +.jicypigra.com
 +.jidfdaxi.com
@@ -38583,7 +38582,6 @@
 +.tetrdracausa.com
 +.tetrylscullion.com
 +.tevermotoriesmyst.info
-+.tewruti.top
 +.text-link-ads.com
 +.textad.sexsearch.com
 +.textads.biz
