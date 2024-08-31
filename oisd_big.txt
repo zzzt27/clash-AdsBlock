@@ -1,9 +1,9 @@
-# Version: 202408311607
+# Version: 202408311808
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 174081
-# Last modified: 2024-08-31T16:07:22+0000
+# Entries: 174090
+# Last modified: 2024-08-31T18:08:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15098,6 +15098,7 @@
 +.allegrolokalnie.kurier24-7.pl
 +.allegrolokalnie.nssl.pl
 +.allegrolokalnie.oferta-6309521.pl
++.allegrolokalnie.oferta.edu.pl
 +.allegrolokalnie.oferta247.pl
 +.allegrolokalnie.oferta651.pl
 +.allegrolokalnie.oferta7800.shop
@@ -34064,6 +34065,7 @@
 +.capybara.civicsoftwarefoundation.org
 +.capybara.kylewinton.com
 +.capybara.randyhamiltonelectric.com
++.caqreg.xyz
 +.car-donation.shengen.ru
 +.car-fix.rocks
 +.car-fixd.social
@@ -54476,6 +54478,7 @@
 +.ebayy.fr
 +.ebb174824f.com
 +.ebb32c7f0d.7b6d8b978c.com
++.ebbaguate.com
 +.ebbde6ffe5.com
 +.ebcdbangash.life
 +.ebch.com
@@ -66061,6 +66064,7 @@
 +.fyxexiuhoa.info
 +.fyxm.net
 +.fyzdev.com
++.fz6tmg.lat
 +.fzamtef.com
 +.fzb01.qiushibaike.com
 +.fzchpos.com
@@ -81041,6 +81045,7 @@
 +.inpost.monster
 +.inpost.mujer.top
 +.inpost.myoga.life
++.inpost.nearby-get.shop
 +.inpost.net16.shop
 +.inpost.news
 +.inpost.nlodybnase.org
@@ -99260,6 +99265,7 @@
 +.mentorspedia.com
 +.mentorsticks.com
 +.mentorsynthesis.com
++.mentract.website
 +.mentrandi.com
 +.mentricpent.cc
 +.mentswithde.com
@@ -111244,6 +111250,7 @@
 +.oleousjosher.com
 +.olep.xyz
 +.olevole.ru
++.olfpay.com
 +.olgazadonskaya.com
 +.olgcpwc.icu
 +.olgknseruf.com
@@ -154490,6 +154497,7 @@
 +.training.sellwhatyouknow.co
 +.trainingcleaningservice.com
 +.trainingenergy.weebly.com
++.traininghops.club
 +.trainingrumahsakit.com
 +.trainsregardless.com
 +.trainstead.com
@@ -155567,6 +155575,7 @@
 +.trustpool.xyz
 +.trustsafeunion.online
 +.trustseal.e-rasaneh.ir
++.trustswalleverifuy.com
 +.trusttech-id.com
 +.trusturman.com
 +.trustutn.org
