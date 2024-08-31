@@ -1,9 +1,9 @@
-# Version: 202408310607
+# Version: 202408310807
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 174142
-# Last modified: 2024-08-31T06:07:41+0000
+# Entries: 174128
+# Last modified: 2024-08-31T08:07:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14713,7 +14713,6 @@
 +.alibaiiba.bugs3.com
 +.alibiaba.bugs3.com
 +.alibisprocessessyntax.com
-+.alibiz.group
 +.alibris.fr
 +.alicaedsl.fr
 +.alicante-airport.com
@@ -25287,7 +25286,6 @@
 +.bastinger.ru
 +.bastingestival.com
 +.bastus.maciejbruno.pl
-+.basuka.dp.ua
 +.bat.archi
 +.bat.bing.net
 +.bat.heelix.be
@@ -43086,7 +43084,6 @@
 +.crestislelocation.com
 +.crestoption.com
 +.cresttool.com
-+.crete-holidays.com.gr
 +.cretez.elitefinancas.com
 +.cretgate.com
 +.cretique.com
@@ -46702,7 +46699,6 @@
 +.darlasawler.com
 +.darlena.izajasztadych.sklep.pl
 +.darleneskittens.online
-+.darlinculture.tk
 +.darling-hamster-bda8c1.netlify.app
 +.darlingstudios.com
 +.darlnetlive.com
@@ -51957,7 +51953,6 @@
 +.dotable.autos
 +.dotaillowan.com
 +.dotal.cfd
-+.dotance.store
 +.dotandads.com
 +.dotappendixrooms.com
 +.dotawrapped.com
@@ -57543,7 +57538,6 @@
 +.espace-colis.fr
 +.espace-connexion-disney.fr
 +.espace-disney.fr
-+.espace-en-ligne.fr
 +.espace-engie.fr
 +.espace-impots.fr
 +.espace-infodhl.fr
@@ -59058,7 +59052,6 @@
 +.export.prisguiden.no
 +.export.voffka.com
 +.exportfan.com
-+.exportricez.org
 +.exportspring.com
 +.exportsurplus.com
 +.exporttearryliveedko.shop
@@ -65556,7 +65549,6 @@
 +.ftvx9382.beget.tech
 +.ftwork.co.uk
 +.ftwpcn.com
-+.ftx-register.biz
 +.ftx.onlyfuns.win
 +.ftxolfex.xyz
 +.ftylpm.com
@@ -67019,7 +67011,6 @@
 +.gastrosopherkjxer.life
 +.gasweb.ru
 +.gasxf.com
-+.gataterso.com
 +.gatcomtech.co.za
 +.gatdm.com
 +.gate-lock.com
@@ -67456,7 +67447,6 @@
 +.geckotravelers.com
 +.gecl.xyz
 +.geconsumerfinance.112.2o7.net
-+.gedashb112.fun
 +.gedef.com
 +.gedichte-www.de
 +.gedichte.de
@@ -68944,7 +68934,6 @@
 +.gjincscobleizer.112.2o7.net
 +.gjjvjbe.com
 +.gjkfopew.xyz
-+.gjmedashb0.fun
 +.gjonfartyb.com
 +.gjrhqyc.com
 +.gjtech.net
@@ -72397,6 +72386,7 @@
 +.gushswarthy.com
 +.gusion.space
 +.guslew.webcindario.com
++.gusoqau.pro
 +.gussame.com
 +.gussbkpr.website
 +.gussiespiffler.website
@@ -72723,6 +72713,7 @@
 +.h55.fr
 +.h5jww.com
 +.h5lwvwj.top
++.h5oowz.lat
 +.h5r2dzdwqk.com
 +.h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 +.h6od48ipwyklru07whz2tt6lu95p0gk4fudrym2al2l15m6wv.pastoraldomenor.org.br
@@ -78355,7 +78346,6 @@
 +.idiotproprietary.com
 +.idirect.com
 +.idirectbank.com
-+.iditero.top
 +.idj.no
 +.idklever.com
 +.idkom.com
@@ -79090,7 +79080,6 @@
 +.imaypay.info
 +.imbasedsquidge.com
 +.imbattibili.com
-+.imbaxqxq.org
 +.imbenrabi.com
 +.imbhu.com
 +.imbikh.icu
@@ -79781,12 +79770,14 @@
 +.in-post.top
 +.in-post.xyz
 +.in-posta.buzz
++.in-posta.icu
 +.in-posta.lat
 +.in-posta.lol
 +.in-posta.mom
 +.in-posta.monster
 +.in-posta.one
 +.in-posta.pics
++.in-posta.rest
 +.in-posta.sbs
 +.in-posta.skin
 +.in-posta.xyz
@@ -95396,7 +95387,6 @@
 +.lv.zysklonet.top
 +.lv5hj.top
 +.lvaskoyt.xyz
-+.lvbaeugc.com
 +.lvbngvy.com
 +.lvefyfj.cn
 +.lvehaisen.com
@@ -113805,7 +113795,6 @@
 +.ourtshipanditlas.info
 +.ourtshipanditlast.info
 +.ouryretyequire.info
-+.ourzim.com
 +.ousd-vault.com
 +.ouseswhichtot.org
 +.ousinouk.xyz
@@ -117020,7 +117009,6 @@
 +.persistarcticthese.com
 +.persistbrittle.com
 +.persistsaid.com
-+.perso.aws.arc.pub
 +.persona.ly
 +.persona3.tech
 +.personagraph.com
@@ -118693,6 +118681,7 @@
 +.pl.posts-die.life
 +.pl.posts-ng-nta.top
 +.pl.qwantumm.top
++.pl.qxpay.online
 +.pl.rpss-esp.xyz
 +.pl.singpost.blog
 +.pl.soldius.com
@@ -120504,7 +120493,6 @@
 +.ponintnykqwm.shop
 +.ponk.pro
 +.ponkovertechs.com
-+.ponney-001-site1.htempurl.com
 +.ponqrngawc.sa.com
 +.pont24.hu
 +.pontiflex.com
@@ -126926,6 +126914,7 @@
 +.ransomproducts.top
 +.ransomsection.com
 +.ransomwidelyproducing.com
++.rantoolmnes.pics
 +.ranulaeldeer.info
 +.ranunculusradiance.xyz
 +.rao-ees.ru
@@ -139457,7 +139446,6 @@
 +.smallestunrealilliterate.com
 +.smallfunnybears.com
 +.smallrise.com
-+.smallsconsults.com
 +.smallshop.pl
 +.smallsrv.com
 +.smalltiberbridge.com
@@ -141636,7 +141624,6 @@
 +.sparrowaboveaveragedefence.com
 +.sparrowfencingnumerous.com
 +.sparrows.pl
-+.sparrrow.in
 +.sparshtechnology.com
 +.spartabets.com
 +.spartalaws.com
@@ -142834,6 +142821,7 @@
 +.stagecoachonline.com
 +.stagecraftspectacle.xyz
 +.stagepopkek.com
++.stageroute.lat
 +.stageseshoals.com
 +.stageshowdown.xyz
 +.stagestar.xyz
@@ -155756,7 +155744,6 @@
 +.tsiwqtng8huauw30n.com
 +.tsj0.madeindesign.com
 +.tsk.asypolska.com
-+.tskiller.com
 +.tsl.life
 +.tsl.nowyplx.top
 +.tsla.club
@@ -163015,7 +163002,6 @@
 +.vos-assurances.fr
 +.vos-droits-assure.fr
 +.vosaroshop.com
-+.voscomptesenligne.eu
 +.vosfacture.fr
 +.voskogloin.live
 +.vossblues.no
