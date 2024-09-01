@@ -1,9 +1,9 @@
-# Version: 202409011808
+# Version: 202409012007
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45906
-# Last modified: 2024-09-01T18:08:39+0000
+# Entries: 45892
+# Last modified: 2024-09-01T20:07:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4524,7 +4524,6 @@
 +.akcr.free.fr
 +.akdbr.com
 +.akeedser.com
-+.akenacngmnj.com
 +.akentaspectsof.com
 +.akikumu.com
 +.akilifox.com
@@ -6696,7 +6695,6 @@
 +.atzekromchan.com
 +.auburn9819.com
 +.aucaikse.com
-+.auchoocm.com
 +.auchoons.net
 +.aucoudsa.net
 +.auctionads.com
@@ -17716,7 +17714,6 @@
 +.fhepiqajsdap.com
 +.fhgh9sd.com
 +.fhisladyloveh.xyz
-+.fhjvhupv.com
 +.fhnbrx.xyz
 +.fhsmtrnsfnt.com
 +.fhsvyfoadsbo.com
@@ -19826,7 +19823,6 @@
 +.gporkecpyttu.com
 +.gpr.hu
 +.gpynepb.com
-+.gqaecrxbj.com
 +.gqalqi656.com
 +.gqfuf.com
 +.gr.faencepuggy.com
@@ -20384,7 +20380,6 @@
 +.hammereternal.com
 +.hammerhewer.top
 +.hammockpublisherillumination.com
-+.hamoumpa.xyz
 +.hampersolarwings.com
 +.hamperstirringoats.com
 +.hamster.consentkit.io
@@ -26903,7 +26898,6 @@
 +.mmjfnxx.com
 +.mmm.theweek.co.uk
 +.mmmdn.net
-+.mmmytckae.com
 +.mmn811.top
 +.mmo2350.top
 +.mmotraffic.com
@@ -27948,7 +27942,6 @@
 +.nelreerdu.net
 +.nemewagro.com
 +.nend.net
-+.nenectedithcon.info
 +.nengeetcha.net
 +.neobasnet.timeout.ru
 +.neocounter.neoworx-blog-tools.net
@@ -31752,7 +31745,6 @@
 +.predatoryfilament.com
 +.predatorymould.com
 +.predatoryrucksack.com
-+.predestineprohibitionmassive.com
 +.predicamentdisconnect.com
 +.predicateblizzard.com
 +.predictablelipswailed.com
@@ -32436,7 +32428,6 @@
 +.publicityparrots.com
 +.publiclyemployeronerous.com
 +.publiclyphasecategory.com
-+.publicsparedpen.com
 +.publicunloadbags.com
 +.publicus.com
 +.publipagos.com
@@ -33917,7 +33908,6 @@
 +.reptile.o-lit.fr
 +.reptile.sat.trading
 +.reptile.wyattblogs.com
-+.reptileineffectivebackup.com
 +.reptileseller.com
 +.republicusefulclothe.com
 +.republika.onet.pl
@@ -39419,7 +39409,6 @@
 +.tfqvxyajkqu.xyz
 +.tfsqxdc.com
 +.tfsxszw.com
-+.tftran.shop
 +.tg.mybb.ru
 +.tg1.premiumimpression.com
 +.tgamtip.icu
@@ -42850,9 +42839,7 @@
 +.viipurakan.com
 +.viipurakhi.com
 +.viipurakit.com
-+.viipuram.com
 +.viipurambe.com
-+.viipurant.com
 +.viipurises.com
 +.viipxuah.com
 +.viiqqou.com
@@ -44449,7 +44436,6 @@
 +.wvvkxni.com
 +.wvwjdrli.com
 +.wvwqywz.cn
-+.wvwxjfjjytaf.com
 +.wvyqks.xyz
 +.ww.0prn.com
 +.ww.hoes.tube
