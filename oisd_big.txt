@@ -1,9 +1,9 @@
-# Version: 202409020107
+# Version: 202409020307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 174018
-# Last modified: 2024-09-02T01:07:16+0000
+# Entries: 173946
+# Last modified: 2024-09-02T03:07:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2061,7 +2061,6 @@
 +.234.sub-75-219-26.myvzw.com
 +.2342.4-all.org
 +.2345.cn
-+.23456dj.com
 +.234670kodsms-logowanie.jdhs.pl
 +.23469ebe.cftvpinheiro.com.br
 +.2349.jp
@@ -4121,7 +4120,6 @@
 +.575e65bdba33b00055d3c204dcae52c5.fjao.pl
 +.577151konto-konto.jdhs.pl
 +.577501kodsms.soulcar.pl
-+.577gc.me
 +.5780.com
 +.5783.org
 +.57883.net
@@ -6104,7 +6102,6 @@
 +.a.coinhub.wiki
 +.a.coka.la
 +.a.consumer.net
-+.a.cookiedough.lol
 +.a.craftbeerclub.com.ua
 +.a.csfd.cz
 +.a.ddli.jp
@@ -10308,7 +10305,6 @@
 +.ads.alobacsi.vn
 +.ads.amaland.com
 +.ads.amarillo.com
-+.ads.amazingmedia.com
 +.ads.amdmb.com
 +.ads.ami-admin.com
 +.ads.amigos.com
@@ -15058,7 +15054,6 @@
 +.allegrolokalnie.20803986.xyz
 +.allegrolokalnie.24-platnosci.pl
 +.allegrolokalnie.24pay-u.pl
-+.allegrolokalnie.398543.pw
 +.allegrolokalnie.aukcjawsieci.pl
 +.allegrolokalnie.b0a821.com
 +.allegrolokalnie.chronionyzakup.com.pl
@@ -17317,7 +17312,6 @@
 +.and4.junglebeariwtc4.com
 +.andall.servicesql.info
 +.andalusfuture.com
-+.andamanos.ru
 +.andamente.pt
 +.andane.com
 +.andapangasinan.gov.ph
@@ -18101,7 +18095,6 @@
 +.anxiousapples.com
 +.anxiousjayholder.com
 +.anxiouslyconsistencytearing.com
-+.anxiouslywonderexcitement.com
 +.anxkuzvfim.com
 +.anxlzaxtifhe.com
 +.any-connect.com
@@ -19171,7 +19164,6 @@
 +.apple-air.fr
 +.apple-connect.fr
 +.apple-icloud-id-security-information-restore-onlineprocess.gandharaguides.com
-+.apple-id-findmy.us
 +.apple-id-itunes.webcindario.com
 +.apple-identifiant.com
 +.apple-iphones.com
@@ -24703,7 +24695,6 @@
 +.bankstatementseditor.com
 +.bankstatementsmodify.com
 +.banksunderwriter.com
-+.banktransactioncorp.net
 +.bankvn1s.com
 +.bankvrn.ru
 +.bankwest.112.2o7.net
@@ -25272,7 +25263,6 @@
 +.bassprod.112.2o7.net
 +.bastaceretta.com
 +.bastardgrab.com
-+.bastardminims.com
 +.bastardo.xyz
 +.bastarduponupon.com
 +.baste-znl.com
@@ -25860,7 +25850,6 @@
 +.beancontrol.com
 +.beanexperience.com
 +.beanidentitythefthelpok.live
-+.beanoutragethen.com
 +.beansarcasm.com
 +.beantocoffee.com
 +.beap-bc.yahoo.com
@@ -32026,7 +32015,6 @@
 +.buji.pub
 +.bujynaslvjlmf.com
 +.buk.deptesp.com
-+.buk.fivupsit.top
 +.buket1990.oss-cn-shenzhen.aliyuncs.com
 +.bukul.ru
 +.bukuonline2u.com
@@ -32202,7 +32190,6 @@
 +.burialinsurancehelp.com
 +.burialinsuranceway.com
 +.burialsupple.com
-+.burimche.net
 +.buritoc.ru
 +.burkemcswain.com
 +.burkhahemoid.com
@@ -38290,7 +38277,6 @@
 +.cleanfiles.net
 +.cleanfirst.net
 +.cleanflawlessredir.com
-+.cleangenie.xyz
 +.cleangreenstock.com
 +.cleanhaircut.com
 +.cleaninfo.org
@@ -40269,7 +40255,6 @@
 +.come-get-s0me.com
 +.come-get-s0me.net
 +.comeadvertisewithus.com
-+.comebackstays.com
 +.comecal.com
 +.comeconlibertad.com
 +.comedianbrown.com
@@ -44055,7 +44040,6 @@
 +.curvedspaces.com
 +.curveinteractions.com
 +.curvencurl.com
-+.curverainstorm.website
 +.curvyalpaca.cc
 +.curvycord.com
 +.curvycry.com
@@ -44653,7 +44637,6 @@
 +.d.cookiedough.lol
 +.d.cpufan.club
 +.d.dgzj.com
-+.d.dosbotbig.mom
 +.d.elong.cn
 +.d.email.forbes.com
 +.d.foxnointel.ru
@@ -48430,7 +48413,6 @@
 +.derriks.site
 +.derrises.life
 +.dersouds.com
-+.dertrynhish.com
 +.dervinko.biz
 +.derwestenoverde.web.app
 +.des.mobprogram.site
@@ -48642,7 +48624,6 @@
 +.details.squirly.info
 +.detaires.com
 +.detallesdelalma.com
-+.detallesexpressgye.com
 +.detaymaxinet.com
 +.detect.mb.qq.com
 +.detectaseguranca.com.br
@@ -48760,7 +48741,6 @@
 +.devanture.com.sg
 +.devarajtemplearchitect.org
 +.devastatedshorthandpleasantly.com
-+.devbhavishyadarpan.com
 +.devcakeserver.com
 +.devcdn.avanquest.com
 +.devcloudai.com
@@ -50093,7 +50073,6 @@
 +.discordapp.co
 +.discordapp.eu
 +.discordapp.gg
-+.discordapp.info
 +.discordapp.ir
 +.discordapp.org
 +.discordapp.pages.dev
@@ -54758,7 +54737,6 @@
 +.econews.articledd.com
 +.econobriefing.online
 +.econocom-france.fr
-+.economiacompassiva.com
 +.economic-day.mediareard.com
 +.economic-global.mediareard.com
 +.economic-news.co
@@ -55344,7 +55322,6 @@
 +.eggsiswensa.com
 +.eggsma.shop
 +.eggsreunitedpainful.com
-+.egift-premium.com
 +.egihaehefiejfjo.ws
 +.egihaehefiejfjr.ws
 +.egipsbvlgn.xyz
@@ -56216,7 +56193,6 @@
 +.emfsys.gr
 +.emg.comproges.xyz
 +.emgqmsn.cn
-+.emgthropositeas.info
 +.emgwq.com
 +.emgykcjvkel.com
 +.emierete.com
@@ -57519,7 +57495,6 @@
 +.espaceabonclient.fr
 +.espaceclentcanal.fr
 +.espacecliencanal.fr
-+.espaceclient-miseajour.fr
 +.espaceclientcana.fr
 +.espaceclientcanl.fr
 +.espaceclientedf.fr
@@ -59330,7 +59305,6 @@
 +.f.biocorpaust.com
 +.f.coka.la
 +.f.cookiedough.lol
-+.f.dosbotbig.mom
 +.f.foxnointel.ru
 +.f.gj555.net
 +.f.ns.e.aomg5bzv7.com
@@ -59649,7 +59623,6 @@
 +.faceb00k.dk.allan2.aze.dk
 +.faceb00k.dkonto.pl
 +.faceb00k.evil.live-office365.com
-+.faceb00k.feitesi.com
 +.faceb00k.flu.cc
 +.faceb00k.freecluster.eu
 +.faceb00k.freewebhostmost.com
@@ -59773,7 +59746,6 @@
 +.facebogk.com
 +.facebok-desktop.pev.pl
 +.facebok.fr
-+.facebok.sk
 +.facebokznajomi.blogspot.com
 +.faceboo.de
 +.faceboobko.tcp4.me
@@ -59829,7 +59801,6 @@
 +.facebook.com.uk.a2ip.ru
 +.facebook.dk7wireless.net
 +.facebook.lekizdowozem24.pl
-+.facebook.market.geomotiontv.com
 +.facebook.marketplace.svenmix.com
 +.facebook.onlineleadfinder.com
 +.facebook.security-check.xyz
@@ -61635,7 +61606,6 @@
 +.fezorex.com
 +.ff-members-garena.vn
 +.ff-membership.shop
-+.ff-menber-garena.vn
 +.ff.astv.ru
 +.ff.doubleclick.net
 +.ff.imacdn.com
@@ -66873,7 +66843,6 @@
 +.gargar.making-garden.com
 +.gargfireappliances.com
 +.gargiulocpa.com
-+.garglingcorny.com
 +.garibabalmily.com
 +.garibomail2893.biz
 +.gariger.top
@@ -69783,7 +69752,6 @@
 +.gocolorectalok.live
 +.gocolow.com
 +.gocomparisongarrison.com
-+.goconuu1.pro
 +.gocooltruckgoatvcsok.live
 +.gocourierman.net
 +.gocp.stroeermediabrands.de
@@ -71025,7 +70993,6 @@
 +.grandmotherfoetussadly.com
 +.grandpagrandmotherhumility.com
 +.grandpashortestmislead.com
-+.grandsummitbank.com
 +.grandsupple.com
 +.grandsuv.com
 +.grandua.ua
@@ -74256,7 +74223,6 @@
 +.heirloomgoodnessar.pro
 +.heirloomintervalhedgehogis.pro
 +.heirloomreasoning.com
-+.heisaimi.com
 +.heisateam.com
 +.heisseempfehlung.de
 +.heixidor.com
@@ -77178,7 +77144,6 @@
 +.hungaryexpres.com
 +.hunger.xyz
 +.hungergame.com
-+.hungersavingwiring.com
 +.hunginfotoday.click
 +.hungry-dijkstra.104-168-102-175.plesk.page
 +.hungryhiba.com
@@ -80515,7 +80480,6 @@
 +.ingilizce-turkce.cevirsozluk.com
 +.inginternetprod.112.2o7.net
 +.ingitafashion.com
-+.ingmars.live
 +.ingomedia.store
 +.ingomi.com
 +.ingonherbal.com
@@ -85194,7 +85158,6 @@
 +.jrhbhz.com
 +.jrilbcd.com
 +.jriravntivf.com
-+.jrjtibez.icu
 +.jrmccain.com
 +.jrofertas.com.br
 +.jrojascigars.com
@@ -86707,7 +86670,6 @@
 +.kenandkentlawyers.com
 +.kenankonacoglu.com
 +.kenaridjaja.com
-+.kenda-tw.net
 +.kendallme.com
 +.kendeil-indfarad.com
 +.kendingfa.com
@@ -89994,7 +89956,6 @@
 +.laptweakbriefly.com
 +.lapuvnal.site
 +.lapypushistyye.com
-+.lapzarta.com
 +.laqira.io
 +.laquearhokan.com
 +.laquincaillerieduweb.com
@@ -90443,7 +90404,6 @@
 +.lbyx.xyz
 +.lc.jiathis.com
 +.lc.nodoseamylic.com
-+.lc14169d.justinstalledpanel.com
 +.lc218.com
 +.lc442.com
 +.lcads.ru
@@ -96056,7 +96016,6 @@
 +.magamobile.com
 +.magapab.com
 +.magapromo.com
-+.magarodriajhsdbajifuqwe12341safqdv.duckdns.org
 +.magasin-darty.fr
 +.magasinospreyfrance.fr
 +.magasinpumafrance.fr
@@ -102461,7 +102420,6 @@
 +.monitorsdk.appsflyer.com
 +.monitorujemysytuacje.click
 +.monivpl.weebly.com
-+.monk-in-wander.com
 +.monkekong.com
 +.monkey.2012yearleft.com
 +.monkey.colinjohnston.com
@@ -103789,7 +103747,6 @@
 +.mundanenail.com
 +.mundanepollution.com
 +.mundannetransuq.shop
-+.mundialgospelfm.com.br
 +.mundo-loteria.com
 +.mundoclubtours.com
 +.mundodosscripts.com
@@ -104667,7 +104624,6 @@
 +.myproperty.ae
 +.mypsh.ddns.net
 +.mypsncodes.com
-+.mypuppysitter.com
 +.mypurse.online
 +.mypushz.com
 +.myq-see.com
@@ -105800,7 +105756,6 @@
 +.nazwa-pl-4e6c36ad53b.odarasocial.com.br
 +.nazwa-pl-56a5aeaeda0.odarasocial.com.br
 +.nazwa-pl-61d87038e69.odarasocial.com.br
-+.nazwa-pl-622b20a277b.odarasocial.com.br
 +.nazwa-pl-670fcaafd60.odarasocial.com.br
 +.nazwa-pl-691220582a1.odarasocial.com.br
 +.nazwa-pl-69431abebf1.odarasocial.com.br
@@ -105816,7 +105771,6 @@
 +.nazwa-pl-8f913e420cb.odarasocial.com.br
 +.nazwa-pl-95b0d1420ce.odarasocial.com.br
 +.nazwa-pl-9e809fd023c.odarasocial.com.br
-+.nazwa-pl-a0b7190b688.odarasocial.com.br
 +.nazwa-pl-a3703635314.odarasocial.com.br
 +.nazwa-pl-a5aacebcbcb.odarasocial.com.br
 +.nazwa-pl-a7300a8cc33.odarasocial.com.br
@@ -105841,7 +105795,6 @@
 +.nazwa-pl-ee70b937dd3.odarasocial.com.br
 +.nazwa-pl-ef4da188982.odarasocial.com.br
 +.nazwa-pl-f61fb45725f.odarasocial.com.br
-+.nazwa-pl-f67af1653c6.odarasocial.com.br
 +.nazwa-pl-ff874d78b2e.odarasocial.com.br
 +.nazwa.foodedintorni.com
 +.nb-facturation.fr
@@ -111398,7 +111351,6 @@
 +.olx.e-aukcja247.pl
 +.olx.e-dostawa24.pl
 +.olx.e-piatnosci24h.pl
-+.olx.e-platnosc-24.pl
 +.olx.e-przesylka24.pl
 +.olx.e-przesylki24.pl
 +.olx.e-zakup.pl
@@ -114744,7 +114696,6 @@
 +.paiena.xyz
 +.paiesage.fr
 +.paifi.net
-+.paifouth.com
 +.paigesummer.com
 +.paiglumousty.net
 +.paignoan.site
@@ -116350,7 +116301,6 @@
 +.pdngnx.xyz
 +.pdns.nudt.edu.cn
 +.pdnwbwyf.icu
-+.pdnyxyqoihia.xyz
 +.pdocc.com
 +.pdpaol.top
 +.pdpfbd.weebly.com
@@ -120863,7 +120813,6 @@
 +.possessdolejest.com
 +.possessedbrute.com
 +.possessedcrackinghart.com
-+.possessionaddictedflight.com
 +.possessionregimentunborn.com
 +.possessionsolemn.com
 +.possibilityformal.com
@@ -123364,7 +123313,6 @@
 +.proudlysurly.com
 +.proudorigin.com
 +.prouler.life
-+.prouoxsacqi.com
 +.proupload.xyz
 +.proutjournal.org
 +.prov.stormo.site
@@ -123572,7 +123520,6 @@
 +.psc-prosupport.jp
 +.pschain.com
 +.psclicks.com
-+.pscpl.com
 +.psd.marketing
 +.pse8.com
 +.psecu-log.fr
@@ -129732,7 +129679,6 @@
 +.richeventrzn.ru
 +.richeventvladimir.ru
 +.richeventyar.ru
-+.richgacor.skin
 +.richgraves.com
 +.richh.cn
 +.richheart.completelifetime.com
@@ -129876,7 +129822,6 @@
 +.rimrun.com
 +.rimwigckagz.com
 +.rinagym.pl
-+.rinceaskedase.com
 +.rincipledecli.info
 +.rinddelusional.com
 +.rinehartfarm.com
@@ -131680,7 +131625,6 @@
 +.rwtrack.xyz
 +.rwuannaxztux.com
 +.rwusvej.com
-+.rwvnxxrlm.com
 +.rx-medical.com
 +.rx-pharma.com
 +.rx-services.com
@@ -132246,7 +132190,6 @@
 +.sa44.net
 +.saabzimandi.com
 +.saalekosn.info
-+.saaper.site
 +.saapyubipus.site
 +.saaq-click.com
 +.saarchitectsbd.com
@@ -138937,7 +138880,6 @@
 +.skorstensfejer.dev.tokeroed.io
 +.skottles.com
 +.skovia.com
-+.skrawiec.mandekfilipina.pl
 +.skrgerona.com
 +.skriblr.com
 +.skript.co
@@ -143934,7 +143876,6 @@
 +.steamcomnity.ru
 +.steamcomnmuity.com
 +.steamcomnmunilty.com
-+.steamcomnmunity.com
 +.steamcomnmunity.com.ru
 +.steamcomnnunlty.ru
 +.steamcomnumity.com
@@ -145837,7 +145778,6 @@
 +.superhosting.biz
 +.superhotinfo.com
 +.superintendence.live
-+.superinterstitial.com
 +.superior-tea.com
 +.superioramassoutbreak.com
 +.superiorbreeders.co.za
@@ -149562,7 +149502,6 @@
 +.test.brosecure360.com
 +.test.com
 +.test.dirktuip.nl
-+.test.duckdns.org
 +.test.ehrhardttool.com
 +.test.info-twpower.top
 +.test.ishvara-yoga.com
@@ -149726,7 +149665,6 @@
 +.textsmsonline.com
 +.textspannerreptile.com
 +.textsrv.com
-+.textthattransforms.com
 +.texturedetrimentit.com
 +.textureeffacepleat.com
 +.texturetrick.com
@@ -150863,7 +150801,6 @@
 +.thistomycartfinder.lat
 +.thitsachhaohang.com
 +.thivelunliken.com
-+.thixc13pt.top
 +.thj.astrakhan.ru
 +.thjwxz.xyz
 +.thko.com
@@ -151340,7 +151277,6 @@
 +.tilsiterstvher.life
 +.tilt-lab.org
 +.tilt.bankofamerica.com
-+.tiltanman.duckdns.org
 +.tiltgardenheadlight.com
 +.tilttrk.com
 +.tiltwin.com
@@ -151559,7 +151495,6 @@
 +.tiptoecentral.com
 +.tiptoeweed.best
 +.tiq.espritshop.pl
-+.tiqefii2.pro
 +.tiqnea.com
 +.tir.azsportsent.org
 +.tir94wepsdxox.appspot.com
@@ -155088,7 +155023,6 @@
 +.triologian.s3.eu-north-1.amazonaws.com
 +.trionixitconsulting.com
 +.trioscap.com
-+.trip-up.com
 +.trip.buson.in
 +.tripadisor.fr
 +.tripadvisor-longterm-rental6831.mlgproperty.com
@@ -157515,7 +157449,6 @@
 +.uncga.gency.org.uk
 +.unchainedinvestments.com
 +.unchemindeguerison.fr
-+.unciat.com
 +.uncleffaan.com
 +.unclehem.com
 +.uncleoscar.com
@@ -158920,7 +158853,6 @@
 +.usnews.122.2o7.net
 +.usninicsooey.com
 +.usonar.jp
-+.usopen.shop
 +.usospw.pl
 +.usosweb-amu.prv.pl
 +.usounoul.com
@@ -161597,7 +161529,6 @@
 +.vinesea.rest
 +.vinfdv6b4j.com
 +.vingartistictaste.com
-+.vinglosine.ml
 +.vingrad.ru
 +.vingroup.fit
 +.vingroup.shop
@@ -165178,7 +165109,6 @@
 +.wellnessmonitor.bravehost.com
 +.wellnessnirvanahub.com
 +.wellnessscientific.com
-+.wellnessspecialists.xyz
 +.wellnesstechniques.xyz
 +.wellnesstips.net
 +.wellnesswerx.com
@@ -170066,7 +169996,6 @@
 +.xn--rsultat-dpistage-bqbi.fr
 +.xn--samsug-0wa.com
 +.xn--sant-renouvelle-enb.fr
-+.xn--sant-service-sms-eqb.fr
 +.xn--schalke04-zrich-9vb.ch
 +.xn--scurit-banque-dsp2-bwbf.fr
 +.xn--scurit-confidentialit-socit-gnral-b6cfpfbcb.fr
@@ -170653,7 +170582,6 @@
 +.y6813cqhxcyjh0yiyxn1.maherstcottage.com.au
 +.y6nfu6hectar.xyz
 +.y6ss1.shop
-+.y738.nhregister.com
 +.y73shop.com
 +.y77b7n.gay.tathamservice.com
 +.y7mmp6opv.life
