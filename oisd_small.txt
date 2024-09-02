@@ -1,9 +1,9 @@
-# Version: 202409021507
+# Version: 202409021808
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45957
-# Last modified: 2024-09-02T15:07:24+0000
+# Entries: 45927
+# Last modified: 2024-09-02T18:08:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -142,6 +142,7 @@
 +.0redirc.com
 +.0redird.com
 +.0redire.com
++.0s09t235s.com
 +.0sntp7dnrr.com
 +.0sywjs4r1x.com
 +.0u37vw5na9w0.top
@@ -246,7 +247,6 @@
 +.123w0w.com
 +.1259e035ff.01f648fd79.com
 +.127d5ef6e1.com
-+.1297.0s09t235s.com
 +.1297d00838.720171f1e4.com
 +.12a472c2af.8966cbfc9b.com
 +.12a640bb5e.com
@@ -1554,7 +1554,6 @@
 +.a.babezunknown.com
 +.a.baidinet.com
 +.a.baomihua.com
-+.a.berunews.com
 +.a.bfking.cn
 +.a.blesk.cz
 +.a.boyjackpot.com
@@ -4278,7 +4277,6 @@
 +.aftqhamina.com
 +.afwpc.com
 +.afxjwyg.com
-+.afxokeqdrnnm.xyz
 +.ag.palmtube.net
 +.agabreloomr.com
 +.agadata.online
@@ -7954,6 +7952,7 @@
 +.berryheight.com
 +.berryhillfarmgwent.com
 +.berthsorry.com
++.berunews.com
 +.berush.com
 +.besandileom.com
 +.besc.baidustatic.com
@@ -9093,7 +9092,6 @@
 +.budgetportrait.com
 +.budnetoil.com
 +.budvawshes.ru
-+.buency.com
 +.buezsud.com
 +.buf.lemonde.fr
 +.buffalocommercialplantation.com
@@ -9321,7 +9319,6 @@
 +.bylwtf.xyz
 +.bymahuxv.xyz
 +.bymyth.com
-+.bynix.xyz
 +.bypasseaseboot.com
 +.bypassed.ws
 +.bypassmaestro.com
@@ -9852,7 +9849,6 @@
 +.caubichofus.com
 +.caugrush.com
 +.cauldronrepellentcanvass.com
-+.caulifloweraircraft.com
 +.cauliflowercutlerysodium.com
 +.cauliflowertoaster.com
 +.cauliflowervariability.com
@@ -11529,7 +11525,6 @@
 +.confesssagacioussatisfy.com
 +.conff.dc.oppomobile.com
 +.confiant-integrations.global.ssl.fastly.net
-+.confidence-x.com
 +.confidentexplanationillegal.com
 +.confidethirstyfrightful.com
 +.config.appjolt.com
@@ -14744,7 +14739,6 @@
 +.displacecanes.com
 +.displaceprivacydemocratic.com
 +.display.cdnbucket.com
-+.display.itmemo.cn
 +.display.lawbulletin.com
 +.display.rtb-serve.com
 +.displayadsmedia.com
@@ -15121,7 +15115,6 @@
 +.doninjaskr.com
 +.donkey.aerzteteam-luppe.de
 +.donkey.annieswinecottagepowell.com
-+.donkey.bahr.dev
 +.donkey.elegantmusicgroup.com
 +.donkey.guggenbichler.co.at
 +.donkey.hackoregon.org
@@ -15336,7 +15329,6 @@
 +.drawerfontactual.com
 +.drawergypsyavalanche.com
 +.drawingsingmexican.com
-+.drawingsugarnegative.com
 +.drawingwaved.com
 +.drawingwheels.com
 +.drawnperink.com
@@ -15907,7 +15899,6 @@
 +.eavesdroplimetree.com
 +.eavesofefinegoldf.info
 +.eawp2ra7.top
-+.eb0f3233fa.com
 +.eb36c9bf12.com
 +.eb480dde95.com
 +.eb9d0cb548.com
@@ -17007,7 +16998,6 @@
 +.exasperationdashed.com
 +.exasperationincorporate.com
 +.exasperationplotincarnate.com
-+.exbuggishbe.info
 +.excavatorglide.com
 +.exceedinglydiscovered.com
 +.excelelernody.info
@@ -17156,7 +17146,6 @@
 +.extendprophecycontribution.com
 +.extensionworthwhile.com
 +.extensivemusseldiscernible.com
-+.extensivenegotiation.com
 +.extentaccreditedinsensitive.com
 +.extentacquire.com
 +.extentresentment.com
@@ -17529,7 +17518,6 @@
 +.fcmatch.google.com
 +.fcmatch.youtube.com
 +.fcs.ovh
-+.fcudlfqupglxynu.xyz
 +.fczunn.xyz
 +.fd.bawag.at
 +.fd0a73b2b2.e7b05975f9.com
@@ -18379,7 +18367,6 @@
 +.fossensy.net
 +.fossilconstantly.com
 +.fossilreservoirincorrect.com
-+.fostereminent.com
 +.fotao9.com
 +.fotaxf.xyz
 +.fotoompi.com
@@ -21380,7 +21367,6 @@
 +.hugfromoctopus.com
 +.huggedpumpers.com
 +.hugodeservedautopsy.com
-+.hugoinexperiencedsat.com
 +.hugregregy.pro
 +.hugysoral.digital
 +.huhcoldish.com
@@ -27656,7 +27642,6 @@
 +.mystat.pl
 +.mysticaldespiseelongated.com
 +.mysticmatebiting.com
-+.mysuyuslaq.com
 +.mysweetteam.com
 +.myteamdev.com
 +.mythicsallies.com
@@ -27854,7 +27839,6 @@
 +.navelfletch.com
 +.naveljutmistress.com
 +.naverpa-phinf.pstatic.net
-+.navgewtxakd.com
 +.navigablepiercing.com
 +.navigateconfuseanonymous.com
 +.navigatecrudeoutlaw.com
@@ -28181,7 +28165,6 @@
 +.nhjnkis.com
 +.nhopaepzrh.com
 +.nhqqv.space
-+.nianstarvards.info
 +.niatapray.com
 +.nicatethebene.info
 +.nicboab.com
@@ -29013,7 +28996,6 @@
 +.officialraising.com
 +.officialstovethemselves.com
 +.offinfernaper.com
-+.offloadingsite.com
 +.offmachopor.com
 +.offmantiner.com
 +.offoonguser.com
@@ -29065,7 +29047,6 @@
 +.ohibal.com
 +.ohimunpracticalw.info
 +.ohjfacva.com
-+.ohjlghirnbkosdh.com
 +.ohkahfwumd.com
 +.ohkdsplu.com
 +.ohkvifgino.com
@@ -33109,7 +33090,6 @@
 +.qwoyfys.com
 +.qwrwhosailedbe.info
 +.qwuaqrxfuohb.com
-+.qwvvoaykyyvj.top
 +.qx0.xnxxtubevideos.com
 +.qxdownload.com
 +.qxeidsj.com
@@ -33826,7 +33806,6 @@
 +.reluctantlyjackpot.com
 +.reluctantlysolve.com
 +.reluctantturpentine.com
-+.relumedbiaxial.com
 +.reluraun.com
 +.remain.appcpi.net
 +.remaincall.com
@@ -34299,7 +34278,6 @@
 +.rj.roubouhaliptae.com
 +.rjeruqs.com
 +.rjhbjv.xyz
-+.rjhiomohthqr.com
 +.rjhuwqxah.com
 +.rjw4obbw.com
 +.rjwljrf.xyz
@@ -38523,7 +38501,6 @@
 +.supremoadblocko.com
 +.suptraf.com
 +.suptrkdisplay.com
-+.suptur.online
 +.sur.auto43.srv43.ru
 +.sur.gorodkirov.ru
 +.surahsbimas.com
@@ -38664,7 +38641,6 @@
 +.swift.radio12.org
 +.swift.unovy.net
 +.swiggermahwa.com
-+.swiminvestigator.com
 +.swimmerallege.com
 +.swimmerperfectly.com
 +.swimmingusersabout.com
@@ -40579,7 +40555,6 @@
 +.tracker.citicsinfo.com
 +.tracker.cncenter.cz
 +.tracker.comagic.ru
-+.tracker.dalso.org
 +.tracker.dcdn.baidu.com
 +.tracker.digitalcamp.co.kr
 +.tracker.downdetector.com
@@ -42368,7 +42343,6 @@
 +.uwoaptee.com
 +.uwougheels.net
 +.uxmwh0f.xyz
-+.uxtruz.xyz
 +.uxwnqppdma.com
 +.uyaeco.xyz
 +.uycxhgrp.xyz
@@ -42873,7 +42847,6 @@
 +.viimgupp.com
 +.viimksyi.com
 +.viimobile.com
-+.viimsical.com
 +.viimsicall.com
 +.viimult.com
 +.viioxx.com
@@ -44834,7 +44807,6 @@
 +.xml-v4.otbackstage1.online
 +.xml-v4.paddlewaver.com
 +.xml-v4.popadclick.com
-+.xml-v4.pxfind3.com
 +.xml-v4.re-media.info
 +.xml-v4.ripamatic.com
 +.xml-v4.safesearchguard.com
@@ -45700,7 +45672,6 @@
 +.zggrxf.life
 +.zghsep.icu
 +.zghsfh.xyz
-+.zgixkikffmixho.com
 +.zgkvfu.xyz
 +.zglmvz.buzz
 +.zglmvz.xyz
@@ -45876,7 +45847,6 @@
 +.zs.dhl.de
 +.zscwdu.com
 +.zsfbumz.com
-+.zsfjpbnxyyx.com
 +.zshyudl.com
 +.zsjxwj.com
 +.zskuvehuihkusp.com
