@@ -5,9 +5,9 @@
 ### [OISD](https://oisd.nl/)
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
-[oisd_small](#small) | **03-09-24** | 45879
-[oisd_big](#big) | **03-09-24** | 173464
-[oisd_nsfw🔞](#nsfw) | **03-09-24** | 482063
+[oisd_small](#small) | **03-09-24** | 46033
+[oisd_big](#big) | **03-09-24** | 173590
+[oisd_nsfw🔞](#nsfw) | **03-09-24** | 482017
 
 
 ### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
