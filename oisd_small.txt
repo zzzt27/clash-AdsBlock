@@ -1,9 +1,9 @@
-# Version: 202409040107
+# Version: 202409040307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45882
-# Last modified: 2024-09-04T01:07:46+0000
+# Entries: 45863
+# Last modified: 2024-09-04T03:07:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -325,7 +325,6 @@
 +.1999019.com
 +.19b8d396fb.298ef1ff8f.com
 +.19d1da8898.com
-+.19d7fd2ed2.com
 +.1a65658575.com
 +.1a714ee67c.com
 +.1a8f9rq9c.de
@@ -5681,7 +5680,6 @@
 +.antennash.com
 +.antennawritersimilar.com
 +.antenta.site
-+.anteroomcrap.com
 +.anthe-vsf.com
 +.anthemmutevenison.com
 +.anthemportalcommence.com
@@ -7872,7 +7870,6 @@
 +.belamicash.com
 +.belavoplay.com
 +.belengougha.com
-+.belfarewesbe.info
 +.belfrycaptured.com
 +.belfrynonfiction.com
 +.belia-glp.com
@@ -11428,7 +11425,6 @@
 +.compensationpropulsion.com
 +.compensationstout.com
 +.competencesickcake.com
-+.competentminorvex.com
 +.compiledonatevanity.com
 +.compileformality.com
 +.compilegates.com
@@ -13626,6 +13622,7 @@
 +.d8c5y8fq3znwi.cloudfront.net
 +.d8cxnvx3e75nn.cloudfront.net
 +.d8dcj5iif1uz.cloudfront.net
++.d8f0d7e2c9.com
 +.d8xy39jrbjbcq.cloudfront.net
 +.d90z5o386dhs7.cloudfront.net
 +.d91i6bsb0ef59.cloudfront.net
@@ -13969,7 +13966,6 @@
 +.de2da13f46.com
 +.de2nsnw1i3egd.cloudfront.net
 +.de3hzpms0kfq9.cloudfront.net
-+.de8fe6b459.d8f0d7e2c9.com
 +.de97a02584.efb566d3fe.com
 +.dead-put.com
 +.deadlyrelationship.com
@@ -14117,7 +14113,6 @@
 +.degradationtransaction.com
 +.degradeexpedient.com
 +.degreebristlesaved.com
-+.degrew.com
 +.degutu.xyz
 +.dehimalowbowohe.info
 +.dehua.ixinfan.com
@@ -14579,7 +14574,6 @@
 +.dingbu.bj.bcebos.com
 +.dinghologyden.org
 +.dingo.moehring.dev
-+.dingswonden.info
 +.diningconsonanthope.com
 +.diningjumbofocused.com
 +.diningprefixmyself.com
@@ -16243,7 +16237,6 @@
 +.elitistrawirresistible.com
 +.elizabethobjectedgarlic.com
 +.elizaloosebosom.com
-+.elizapanelairplane.com
 +.elizathings.com
 +.elk.andrewfomera.com
 +.elk.itiden.se
@@ -17484,7 +17477,6 @@
 +.fbd077ad20.fee2ceeee7.com
 +.fbfrbt.xyz
 +.fbgdc.com
-+.fbhjjfsxfq.com
 +.fbkzqnyyga.com
 +.fbmedia-bls.com
 +.fbmedia-ckl.com
@@ -17526,7 +17518,6 @@
 +.fdfda.zhuzhai.com
 +.fdiirjong.com
 +.fdsur.com
-+.fdswrgg.cn
 +.fdtlfl.xyz
 +.fe-go.letv.com
 +.fe7qygqi2p2h.com
@@ -22539,6 +22530,7 @@
 +.ipsvptuxn.com
 +.iptautup.com
 +.ipuswrg.cn
++.ipvertnet.com
 +.iq.sixaxisllc.com
 +.iq7grexsvo.ru
 +.iq7grexsvo.su
@@ -27155,7 +27147,6 @@
 +.moonoafy.net
 +.moonrocketaffiliates.com
 +.moontuftboy.com
-+.moonveto.com
 +.mooroore.xyz
 +.moose.cloverlearning.com
 +.mootermedia.com
@@ -30033,6 +30024,7 @@
 +.painlightly.com
 +.painsdire.com
 +.paintednarra.top
++.paintejuke.com
 +.paintwandering.com
 +.paipsuto.com
 +.paishoonain.net
@@ -30762,7 +30754,6 @@
 +.phoobsoalrie.com
 +.phoognol.com
 +.phoojeex.xyz
-+.phookroamte.xyz
 +.phoossax.net
 +.phoosuss.net
 +.phortaub.com
@@ -31057,7 +31048,6 @@
 +.pjzxdl.xyz
 +.pk910324e.com
 +.pkazd.xyz
-+.pkcdvehycoo.com
 +.pketred.com
 +.pkfuxvbk.xyz
 +.pkhhyool.com
@@ -33285,7 +33275,6 @@
 +.ratesatrociousplans.com
 +.ratificationcockywithout.com
 +.ratings.lycos.com
-+.rationalizedalton.com
 +.ratioregarding.com
 +.rauceesh.com
 +.raudoufoay.com
@@ -33318,7 +33307,6 @@
 +.raylnk.com
 +.raymondcarryingordered.com
 +.rayshopsshabby.com
-+.razorhsi.click
 +.razzlebuyer.com
 +.rb.infox.sg
 +.rb.rfn.ru
@@ -33335,7 +33323,6 @@
 +.rbtfit.com
 +.rbthre.work
 +.rbtwo.bid
-+.rbukrgxwqup.com
 +.rc.dxsvr.com
 +.rc.ie13.com
 +.rc.vtex.com.br
@@ -33376,7 +33363,6 @@
 +.re-captha-version-3-263.buzz
 +.re-captha-version-3-29.top
 +.re-captha-version-3-33.top
-+.re-experiment.sbs
 +.re.aomg5bzv7.com
 +.reabitheconti.com
 +.reach-id.orbit.tm-awx.com
@@ -35274,7 +35260,6 @@
 +.sawfish.hxd-lab.de
 +.sawfish.loqbooq.app
 +.sawfluenttwine.com
-+.sawneywigger.top
 +.saworbpox.com
 +.sawpokw.com
 +.sawsdaggly.com
@@ -39899,7 +39884,6 @@
 +.tmlwvxae.xyz
 +.tmnsstf.com
 +.tmoclbf.icu
-+.tmozs.com
 +.tmrjmp.com
 +.tms-collect.sony.jp
 +.tms-visitor-service.sony.jp
@@ -41088,7 +41072,6 @@
 +.trivial-girlfriend.com
 +.trix.net
 +.trj.valuecommerce.com
-+.trjxehoxjcbxvuc.xyz
 +.trk-aspernatur.com
 +.trk-consulatu.com
 +.trk-epicurei.com
@@ -41646,7 +41629,6 @@
 +.uepkcdjgp.com
 +.uerbgnkas.com
 +.uessnah.icu
-+.uesxbzchchv.com
 +.ueumdkc.cn
 +.uf.disbendcrumby.com
 +.ufaexpert.com
@@ -44036,7 +44018,6 @@
 +.winternewsnow.name
 +.winterolivia.com
 +.wintjaywolf.org
-+.wintrck.com
 +.wintricksbanner.googlepages.com
 +.wioboy.xyz
 +.wipedhypocrite.com
