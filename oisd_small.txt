@@ -1,9 +1,9 @@
-# Version: 202409102207
+# Version: 202409110008
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46037
-# Last modified: 2024-09-10T22:07:26+0000
+# Entries: 46027
+# Last modified: 2024-09-11T00:08:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4033,7 +4033,6 @@
 +.advinci.co
 +.adviralmedia.com
 +.advise.co
-+.advisefirmly.com
 +.adviseforty.com
 +.advisorded.com
 +.advisormedia.cz
@@ -5361,7 +5360,6 @@
 +.analytics.lemoolah.com
 +.analytics.liveact-vault.com
 +.analytics.liveact.cri-mw.jp
-+.analytics.livesense.marketing
 +.analytics.livestream.com
 +.analytics.logsss.com
 +.analytics.lunaweb.cloud
@@ -14802,7 +14800,6 @@
 +.disembarkappendix.com
 +.disembroildisembroilassuredwitchcraft.com
 +.disfiguredirt.com
-+.disfigurestokerlikelihood.com
 +.disgracefulforeword.com
 +.disguised-dad.com
 +.disguisedgraceeveryday.com
@@ -18899,7 +18896,6 @@
 +.g5fzq2l.com
 +.g5rillh2awn8.com
 +.g5rkmcc9f.com
-+.g6raq2ms602g.top
 +.g9qnk89pd5ic.com
 +.ga-ads.com
 +.ga-beacon.appspot.com
@@ -24397,7 +24393,6 @@
 +.laurel.macrovision.com
 +.laurel.rovicorp.com
 +.laustiboo.com
-+.lauthana.net
 +.lavamedia.vn
 +.lavanetwork.net
 +.lavangataled.com
@@ -27427,7 +27422,6 @@
 +.mq.amidicextruct.com
 +.mqabjtgli.xyz
 +.mqaoweu.icu
-+.mqaqtwkbwcqty.xyz
 +.mqcoycx.icu
 +.mqjqripb.xyz
 +.mqkuzy.com
@@ -32400,7 +32394,6 @@
 +.ptaixout.net
 +.ptalribs.xyz
 +.ptamselrou.com
-+.ptanguth.com
 +.ptapjmp.com
 +.ptarmigan.bridal-hair-and-accessories-now.com
 +.ptarmigan.codebycorey.com
@@ -34919,7 +34912,6 @@
 +.ruinedtolerance.com
 +.ruinjan.com
 +.ruinnorthern.com
-+.rukoval.com
 +.rulerabbit.com
 +.rum-metrics.bunny.net
 +.rum.azion.com
@@ -40308,7 +40300,6 @@
 +.tossquicklypluck.com
 +.tosssix.com
 +.tosuicunea.com
-+.totalab.online
 +.totalab.xyz
 +.totalactualnewz.com
 +.totalcoolblog.com
@@ -45251,7 +45242,6 @@
 +.yads.yahoo.co.jp
 +.yaefddu.com
 +.yafastdie.live
-+.yafkhmosihg.com
 +.yahunabaeria.click
 +.yahuu.org
 +.yaiser.com
