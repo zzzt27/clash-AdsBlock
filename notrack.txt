@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 11 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15919
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -13609,7 +13609,6 @@
 +.movesickly.com
 +.movingos.com
 +.mox.tv
-+.mp.twitch.tv
 +.mparticle.com
 +.mpianalytics.com
 +.mplxtms.com
@@ -15322,7 +15321,6 @@
 +.surprisingarsonistcooperate.com
 +.survata.com
 +.survata.net
-+.surveyi.com
 +.survicate.com
 +.survio.com
 +.svibeacon.onezapp.com
