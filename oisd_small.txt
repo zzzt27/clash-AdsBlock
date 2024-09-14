@@ -1,9 +1,9 @@
-# Version: 202409140107
+# Version: 202409140307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45362
-# Last modified: 2024-09-14T01:07:29+0000
+# Entries: 45347
+# Last modified: 2024-09-14T03:07:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -263,7 +263,6 @@
 +.13p76nnir.de
 +.1437953666.rsc.cdn77.org
 +.144e93bbf0.com
-+.1450691516.rsc.cdn77.org
 +.1478004088.rsc.cdn77.org
 +.148dfe140d0f3d5e.com
 +.14cpoff22.de
@@ -6102,7 +6101,6 @@
 +.aqburrae.xyz
 +.aqc.gucheng.com
 +.aqdkehbez.com
-+.aqeivzm.icu
 +.aqhz.xyz
 +.aqi.wd.amberweather.com
 +.aqiemc.xyz
@@ -6284,7 +6282,6 @@
 +.arsnivyr.com
 +.arsonclot.com
 +.arsoncomelydove.com
-+.arsonisteventually.com
 +.arsonistpremium.com
 +.arsoniststuffed.com
 +.arswabluchan.com
@@ -15356,7 +15353,6 @@
 +.dsh7ky7308k4b.cloudfront.net
 +.dshjbn.xyz
 +.dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
-+.dsmrnsngvnrc.xyz
 +.dsnextgen.com
 +.dsnymrk0k4p3v.cloudfront.net
 +.dsoodbye.xyz
@@ -15510,7 +15506,6 @@
 +.dvaminusodin.net
 +.dvbee3zterhof.cloudfront.net
 +.dvc8653ec6uyk.cloudfront.net
-+.dvcgzygp.com
 +.dvclhmt.cn
 +.dvdgayonline.com
 +.dvkxchzb.com
@@ -17557,7 +17552,6 @@
 +.fghghh.cn
 +.fghhbp.xyz
 +.fgoqnva.com
-+.fgpvxxbsickfm.xyz
 +.fgrvbkquwurttn.com
 +.fgttbz.xyz
 +.fgwuw.com
@@ -18958,7 +18952,6 @@
 +.geotg.jp
 +.geotrkclknow.com
 +.geovisite.com
-+.gepvgv.icu
 +.geraflows.com
 +.gerbil.buf.build
 +.gerbil.clapsaddleart.com
@@ -22060,7 +22053,6 @@
 +.inscribereclaim.com
 +.inscriptiontinkledecrepit.com
 +.insectearly.com
-+.insectsaw.com
 +.insecuritydisproveballoon.com
 +.insensibleconjecturefirm.com
 +.insensitivedramaaudience.com
@@ -22404,7 +22396,6 @@
 +.isatonabench.com
 +.isawthenews.com
 +.isbnrs.com
-+.isbnyzpunkx.com
 +.isboost.co.jp
 +.isdarot.com
 +.iseoiknnqckto.xyz
@@ -27045,7 +27036,6 @@
 +.mqaoweu.icu
 +.mqcoycx.icu
 +.mqjqripb.xyz
-+.mqkuzy.com
 +.mqqad.html5.qq.com
 +.mqrupjsm.xyz
 +.mqs.ioam.de
@@ -32383,7 +32373,6 @@
 +.pzfqzv.xyz
 +.pzgbqbk.com
 +.pznlpp.xyz
-+.pzphmkf.xyz
 +.pzpivx.xyz
 +.pzqfmhy.com
 +.pztezl.xyz
@@ -32460,7 +32449,6 @@
 +.qeedaa.xyz
 +.qel-qel-fie.com
 +.qelqlunebz.com
-+.qeuckn.icu
 +.qfaaokr.icu
 +.qfdn3gyfbs.com
 +.qfgkixvmwgaf.com
@@ -34140,7 +34128,6 @@
 +.rpsoybm.com
 +.rpsukimsjy.com
 +.rptmoczqsf.com
-+.rpxjcseuilgwss.com
 +.rq.pettahgurr.com
 +.rqazepammrl.com
 +.rqhere.com
@@ -43264,7 +43251,6 @@
 +.wgchrrammzv.com
 +.wggqzhmnz.com
 +.wgkggub.com
-+.wgnefmhwookdh.com
 +.wgoto.xyz
 +.wh.giftd.tech
 +.whachaun.net
@@ -45252,7 +45238,6 @@
 +.zorango.com
 +.zosemien.sk
 +.zotcjeig.xyz
-+.zouemtjzuae.com
 +.zougreek.com
 +.zouloafi.net
 +.zoupsaushoor.com
