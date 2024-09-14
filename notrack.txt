@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 14 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15949
+# Domain Count: 15946
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -2147,7 +2147,6 @@
 +.map2.ssl.hwcdn.net
 +.marchex.io
 +.marfeel.com
-+.marinegruffexpecting.com
 +.marinsm.com
 +.marketingautomation.services
 +.marketingcloudapis.com
@@ -2156,7 +2155,6 @@
 +.markitcdn.com
 +.markshospitalitymoist.com
 +.marktest.pt
-+.martcubic.com
 +.matheranalytics.com
 +.mathtag.com
 +.matomo.cloud
@@ -14457,7 +14455,6 @@
 +.smetrics.1800contacts.com
 +.smetrics.24hourfitness.com
 +.smetrics.3m.com
-+.smetrics.3m.com.cn
 +.smetrics.48.ie
 +.smetrics.7eleven.com.au
 +.smetrics.aa.com
