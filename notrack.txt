@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 15 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15946
+# Domain Count: 15944
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -13694,7 +13694,6 @@
 +.nessainy.net
 +.net.ar
 +.netcommunities.com
-+.netcpms.com
 +.netline.com
 +.netmera-web.com
 +.netmera.com
@@ -13767,7 +13766,6 @@
 +.ogury.co
 +.ogury.io
 +.ojrq.net
-+.okayarab.com
 +.olapic.com
 +.omeda.com
 +.omessage.com
