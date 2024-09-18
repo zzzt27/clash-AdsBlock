@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 18 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15943
+# Domain Count: 15942
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -14064,7 +14064,6 @@
 +.pub.macommune.info
 +.pub.network
 +.pubexchange.com
-+.pubfruitlesswording.com
 +.pubguru.com
 +.pubguru.net
 +.public.shtranssion.com
