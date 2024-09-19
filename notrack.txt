@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 19 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15942
+# Domain Count: 15941
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -14184,7 +14184,6 @@
 +.relay.bid
 +.relentlo.com
 +.relevant-digital.com
-+.religionrush.com
 +.reluctanceleatheroptional.com
 +.relybelonged.com
 +.remainmother.com
