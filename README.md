@@ -5,8 +5,8 @@
 ### [OISD](https://oisd.nl/)
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
-[oisd_small](#small) | **19-09-24** | 45720
-[oisd_big](#big) | **19-09-24** | 132817
+[oisd_small](#small) | **19-09-24** | 45714
+[oisd_big](#big) | **19-09-24** | 132778
 [oisd_nsfw🔞](#nsfw) | **19-09-24** | 459334
 
 
