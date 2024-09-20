@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 20 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15941
+# Domain Count: 15940
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15011,7 +15011,6 @@
 +.smetrics.shell.co.uk
 +.smetrics.shinseibank.com
 +.smetrics.shopmyexchange.com
-+.smetrics.shoppersdrugmart.ca
 +.smetrics.shoppremiumoutlets.com
 +.smetrics.singlife.com
 +.smetrics.siriusxm.com
