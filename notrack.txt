@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 22 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15948
+# Domain Count: 15944
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -52,7 +52,6 @@
 +.6sense.com
 +.7eer.net
 +.8s32e590un.com
-+.9mediaonline.com
 +.9nl.com
 +.a-ads.com
 +.a-mo.net
@@ -185,7 +184,6 @@
 +.adjust.net.in
 +.adjust.world
 +.adkernel.com
-+.adklik.com.tr
 +.adkmob.com
 +.adkontekst.pl
 +.adlabsnetworks.com
@@ -332,7 +330,6 @@
 +.adskeeper.co.uk
 +.adskeeper.com
 +.adsloboclick.com
-+.adsmatcher.com
 +.adsmediabox.com
 +.adsmoloco.com
 +.adsninja.ca
@@ -375,7 +372,6 @@
 +.adtrue.com
 +.adunity.com
 +.adv.ccb.com
-+.adv.dlh.net
 +.adv.ettoday.net
 +.adv.r7.com
 +.adv.sec.intl.miui.com
