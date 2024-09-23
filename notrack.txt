@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 23 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15944
+# Domain Count: 15931
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -683,7 +683,6 @@
 +.appdynamics.com
 +.apphud.com
 +.appier.net
-+.applicationmoleculepersonal.com
 +.applift.com
 +.applog.matrix.easebar.com
 +.applog.uc.cn
@@ -734,7 +733,6 @@
 +.atemda.com
 +.atgsvcs.com
 +.ati-host.net
-+.atonementimmersedlacerate.com
 +.attentivemobile.com
 +.attn.tv
 +.attributionapp.com
@@ -826,10 +824,8 @@
 +.bebi.com
 +.beemray.com
 +.befirstcdn.com
-+.beggarlyfilmingabreast.com
 +.begun.ru
 +.beintoo.net
-+.bendfrequency.com
 +.beop.io
 +.berlipurplin.com
 +.besmeargleor.com
@@ -922,7 +918,6 @@
 +.browser.events.data.msn.com
 +.browser.pipe.aria.microsoft.com
 +.browsiprod.com
-+.browsobsolete.com
 +.brpnrt.stsdk.vivo.com.cn
 +.brunettemattersrefused.com
 +.bstats.org
@@ -953,7 +948,6 @@
 +.c.msn.com
 +.c.riskified.com
 +.c0cd2idcl5.com
-+.c1exchange.com
 +.c3tag.com
 +.cachegorilla.com
 +.cadreon.com
@@ -1014,7 +1008,6 @@
 +.chicdn.net
 +.chimpstatic.com
 +.chipspasteprowl.com
-+.chocolatebushbunny.com
 +.choicestream.com
 +.circulate.com
 +.citruserve.com
@@ -1091,7 +1084,6 @@
 +.cn-rtb.com
 +.cnzz.com
 +.co-buying.com
-+.coastlineahead.com
 +.cobwebcomprehension.com
 +.codigo.se
 +.cogocast.net
@@ -1110,7 +1102,6 @@
 +.commandersact.com
 +.commonvivacious.com
 +.company-target.com
-+.comparedsilas.com
 +.compresssavvydetected.com
 +.comscore.com
 +.comscoreresearch.com
@@ -1150,8 +1141,6 @@
 +.cootlogix.com
 +.copilot-telemetry.githubusercontent.com
 +.corp.sts.microsoft.com
-+.corpulentoverdoselucius.com
-+.cosymeditatepub.com
 +.counciladvertising.net
 +.count-us.rudo.video
 +.count.wenxuecity.com
@@ -1194,7 +1183,6 @@
 +.creativecdn.com
 +.creativeformatsnetwork.com
 +.creatormail.co.uk
-+.creditbitesize.com
 +.creepingbrings.com
 +.crisistuesdayartillery.com
 +.crispadvertising.com
@@ -1246,7 +1234,6 @@
 +.datatracking.ru
 +.datatracking.zeddit.com
 +.datawrapper.de
-+.daysstone.com
 +.dazeads1.online
 +.dazedengage.com
 +.dc-storm.com
