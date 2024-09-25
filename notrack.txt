@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 25 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15936
+# Domain Count: 15933
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -1381,7 +1381,6 @@
 +.effectivemeasure.net
 +.effectiveperformanceformat.com
 +.effectiveperformancenetwork.com
-+.effectslacybulb.com
 +.eighthpowerfully.com
 +.ekomi-us.com
 +.ekomi.com
@@ -1430,7 +1429,6 @@
 +.enoughturtlecontrol.com
 +.enrichyummy.com
 +.ensighten.com
-+.eo62cocntx.com
 +.eprize.com
 +.eqads.com
 +.ero-advertising.com
@@ -1545,7 +1543,6 @@
 +.flix360.com
 +.flix360.io
 +.flixfacts.com
-+.fluencydepressing.com
 +.flurry.com
 +.flx1.com
 +.flxpxl.com
