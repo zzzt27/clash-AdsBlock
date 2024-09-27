@@ -6,14 +6,14 @@
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
 [oisd_small](#small) | **27-09-24** | 46201
-[oisd_big](#big) | **27-09-24** | 136295
-[oisd_nsfw🔞](#nsfw) | **27-09-24** | 465747
+[oisd_big](#big) | **27-09-24** | 136268
+[oisd_nsfw🔞](#nsfw) | **27-09-24** | 465674
 
 
 ### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
-[ABPindo](#indo) | **26-09-24** | 285
+[ABPindo](#indo) | **27-09-24** | 285
 
 ## HOW TO
 
