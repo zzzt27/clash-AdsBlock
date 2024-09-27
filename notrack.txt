@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 27 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15933
+# Domain Count: 15930
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -567,7 +567,6 @@
 +.analytics.mightyape.co.nz
 +.analytics.mlstatic.com
 +.analytics.mobile.walmart.com
-+.analytics.move.ru
 +.analytics.netdirector.auto
 +.analytics.ngs.ru
 +.analytics.nike.com
@@ -1634,7 +1633,6 @@
 +.gigaonclick.com
 +.ginchoirblessed.com
 +.giosg.com
-+.gisttorn.com
 +.glancecdn.net
 +.glassboxdigital.io
 +.glersakr.com
@@ -1821,7 +1819,6 @@
 +.inbenta.io
 +.incoming-telemetry.thunderbird.net
 +.incoming.telemetry.mozilla.org
-+.indefinitelytonsil.com
 +.indexexchange.com
 +.indexww.com
 +.indicative.com
