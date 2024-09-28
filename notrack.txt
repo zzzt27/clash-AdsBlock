@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 28 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15936
+# Domain Count: 15931
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -14769,7 +14769,6 @@
 +.smetrics.interbank.pe
 +.smetrics.intervalworld.com
 +.smetrics.investec.com
-+.smetrics.investorsgroup.com
 +.smetrics.iselect.com.au
 +.smetrics.jared.com
 +.smetrics.jcb.co.jp
@@ -15393,7 +15392,6 @@
 +.technorati.com
 +.technoratimedia.com
 +.ted.dailymail.co.uk
-+.tediouswavingwhiskey.com
 +.telecid.ru
 +.telematicsdirect.com
 +.telemetry-cii.api.playstation.com
@@ -15436,7 +15434,6 @@
 +.theadex.com
 +.thehut.net
 +.themoneytizer.com
-+.thenceextremeeyewitness.com
 +.theoremreach.com
 +.thescv.team
 +.thetacdn.net
@@ -15865,10 +15862,8 @@
 +.wombalayah.com
 +.wombjingle.com
 +.woodpecker.uc.cn
-+.woollenthawewe.com
 +.woopra.com
 +.wootric.com
-+.worshipstubborn.com
 +.wowanalytics.co.uk
 +.wowcon.net
 +.wpadmngr.com
