@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 29 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15931
+# Domain Count: 15929
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -2004,7 +2004,6 @@
 +.lijit.com
 +.likedstring.com
 +.lilystyle.ai
-+.limitationvolleyballdejected.com
 +.limurol.com
 +.linkbucks.com
 +.linkis.com
@@ -2107,7 +2106,6 @@
 +.madcpms.com
 +.madisonlogic.com
 +.magic1.info
-+.magistratehumorousjeep.com
 +.magnetmail.net
 +.magreprints.com
 +.magsrv.com
