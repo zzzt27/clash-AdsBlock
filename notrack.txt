@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 30 Sep 2024
 # LatestVersion 24.01
-# Domain Count: 15929
+# Domain Count: 15925
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -1278,7 +1278,6 @@
 +.digitaldoughnut.com
 +.digitaldoughnut.email
 +.digitalproserver.com
-+.digitalreflectionpanel.com
 +.digitaltarget.ru
 +.digitalturbine.com
 +.digitalwindow.com
@@ -1608,7 +1607,6 @@
 +.gdrytrk.com
 +.gecko-sg.byteoversea.com
 +.generalizebusinessman.com
-+.genericlink.com
 +.geniusonclick.com
 +.geo.query.yahoo.com
 +.geoadnxs.com
@@ -13669,7 +13667,6 @@
 +.myfinance.com
 +.mymarketingreports.com
 +.mynetreklam.com
-+.myornamenti.com
 +.mypush.io
 +.myswitchads.com
 +.myvisualiq.net
@@ -13752,7 +13749,6 @@
 +.nzme-ads.co.nz
 +.o333o.com
 +.obnoxiousstackderide.com
-+.occurclaimed.com
 +.oclaserver.com
 +.oclasrv.com
 +.octotracker-clients.net
