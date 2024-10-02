@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 02 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15925
+# Domain Count: 15924
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -14961,7 +14961,6 @@
 +.smetrics.rentprogress.com
 +.smetrics.repco.co.nz
 +.smetrics.repco.com.au
-+.smetrics.rinpashu.jp
 +.smetrics.riteaid.com
 +.smetrics.robeco.com
 +.smetrics.rockandpop.cl
