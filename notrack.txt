@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 06 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15918
+# Domain Count: 15917
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15284,7 +15284,6 @@
 +.stickerchapelsailing.com
 +.stickervillain.com
 +.stickyadstv.com
-+.stickywhereaboutsspoons.com
 +.stimulateartificial.com
 +.stocks-analytics-events.apple.com
 +.storeen.ldmnq.com
