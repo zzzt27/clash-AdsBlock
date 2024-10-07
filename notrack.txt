@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 07 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15917
+# Domain Count: 15914
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -17,7 +17,6 @@
 +.123count.com
 +.152media.com
 +.1push.io
-+.1r8435gsqldr.com
 +.1rx.io
 +.1ts19.top
 +.2020mustang.com
@@ -408,7 +407,6 @@
 +.adxpose.com
 +.adxpremium.services
 +.adxserve.com
-+.adzerk.com
 +.adzerk.net
 +.adzip.co
 +.aemetrics.aliexpress.ru
@@ -429,7 +427,6 @@
 +.afsanalytics.com
 +.agafurretor.com
 +.agkn.com
-+.agriculturalproshereby.com
 +.ahalogy.com
 +.aiactiv.io
 +.aidata.io
