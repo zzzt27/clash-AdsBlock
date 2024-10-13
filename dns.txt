@@ -5,19 +5,18 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Oct 2024 22:19 UTC
-# Version: 2024.1012.2219.29
+# Last modified: 08 Oct 2024 22:11 UTC
+# Version: 2024.1008.2211.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1416
+# Number of entries: 1335
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
-DOMAIN-SUFFIX,0ms.dev
+DOMAIN-SUFFIX,cdn.0ms.dev
 DOMAIN-SUFFIX,dns.0ooo.icu
 DOMAIN-SUFFIX,dns.0rz.ing
 DOMAIN-SUFFIX,dns.0x55.net
 DOMAIN-SUFFIX,123000123.xyz
-DOMAIN-SUFFIX,dns.13evl.com
 DOMAIN-SUFFIX,cloud.198.games
 DOMAIN-SUFFIX,dns.23-4.cn
 DOMAIN-SUFFIX,233py.com
@@ -39,7 +38,6 @@ DOMAIN-SUFFIX,dns.52306.org
 DOMAIN-SUFFIX,family.5ososea.com
 DOMAIN-SUFFIX,kids.5ososea.com
 DOMAIN-SUFFIX,jp.68360612.xyz
-DOMAIN-SUFFIX,dns.688447.xyz
 DOMAIN-SUFFIX,dns.7vpn.com
 DOMAIN-SUFFIX,dns.886886886.xyz
 DOMAIN-SUFFIX,dns.888654.xyz
@@ -134,14 +132,11 @@ DOMAIN-SUFFIX,dns.ares-taiwan.com
 DOMAIN-SUFFIX,dns.arkbotech.com
 DOMAIN-SUFFIX,nsec.arnor.org
 DOMAIN-SUFFIX,dns.artikel10.org
-DOMAIN-SUFFIX,doh.asagiri.moe
 DOMAIN-SUFFIX,dns.ashleyjackson.net
 DOMAIN-SUFFIX,dns.asterimoon.com
 DOMAIN-SUFFIX,dandelionsprout.asuscomm.com
 DOMAIN-SUFFIX,adguardhome.atakorah.com
-DOMAIN-SUFFIX,atris.cyou
 DOMAIN-SUFFIX,dohtrial.att.net
-DOMAIN-SUFFIX,dns.auapi.fun
 DOMAIN-SUFFIX,africa.avastdns.com
 DOMAIN-SUFFIX,secure.avastdns.com
 DOMAIN-SUFFIX,adguard.avdkishore.dev
@@ -183,7 +178,6 @@ DOMAIN-SUFFIX,doh1.blahdns.com
 DOMAIN-SUFFIX,doh2.blahdns.com
 DOMAIN-SUFFIX,dot-de.blahdns.com
 DOMAIN-SUFFIX,dot-sg.blahdns.com
-DOMAIN-SUFFIX,dns.blaumer.dev
 DOMAIN-SUFFIX,us1.blissdns.net
 DOMAIN-SUFFIX,doh.blockerdns.com
 DOMAIN-SUFFIX,adguard.blogssl.com
@@ -193,7 +187,6 @@ DOMAIN-SUFFIX,rfree2.blue-shield.at
 DOMAIN-SUFFIX,bluemood.me
 DOMAIN-SUFFIX,dns.bmwhocking.com
 DOMAIN-SUFFIX,dns.bobstrecansky.com
-DOMAIN-SUFFIX,d.bod.lol
 DOMAIN-SUFFIX,dns.bofh.in
 DOMAIN-SUFFIX,doh.boje8.me
 DOMAIN-SUFFIX,adguard.bonis.de
@@ -206,20 +199,16 @@ DOMAIN-SUFFIX,bravedns.com
 DOMAIN-SUFFIX,dns.bravoc.one
 DOMAIN-SUFFIX,dns.brembeck.cloud
 DOMAIN-SUFFIX,doh.bt.com
-DOMAIN-SUFFIX,goose.buckyfan.net
 DOMAIN-SUFFIX,stratus.bugz.fr
 DOMAIN-SUFFIX,dns.burgas.pro
 DOMAIN-SUFFIX,dns.busold.ws
 DOMAIN-SUFFIX,c-dns.com
-DOMAIN-SUFFIX,dns.cabbage.zone
-DOMAIN-SUFFIX,dns.cahlen.com
 DOMAIN-SUFFIX,callies-online.site
 DOMAIN-SUFFIX,doh.captnemo.in
 DOMAIN-SUFFIX,console.carestyle.org
 DOMAIN-SUFFIX,dns.carson-family.com
 DOMAIN-SUFFIX,dns.carter.me
 DOMAIN-SUFFIX,dns.caspervk.net
-DOMAIN-SUFFIX,catchen121299.top
 DOMAIN-SUFFIX,alidns.cb1999.top
 DOMAIN-SUFFIX,alidns2.cb1999.top
 DOMAIN-SUFFIX,dns2.cbio.top
@@ -269,7 +258,6 @@ DOMAIN-SUFFIX,www.dnsadguard.co.uk
 DOMAIN-SUFFIX,dns.gayanalysing.co.uk
 DOMAIN-SUFFIX,dns.gi.co.id
 DOMAIN-SUFFIX,dns.neilzone.co.uk
-DOMAIN-SUFFIX,ns.nerdytechgeeks.co.za
 DOMAIN-SUFFIX,dns.oliviertv.co.za
 DOMAIN-SUFFIX,pooblet.co.za
 DOMAIN-SUFFIX,sbdns.co.in
@@ -292,7 +280,6 @@ DOMAIN-SUFFIX,comss.one
 DOMAIN-SUFFIX,comss.ru
 DOMAIN-SUFFIX,dns1.conne.net
 DOMAIN-SUFFIX,dns.connect.fail
-DOMAIN-SUFFIX,dns.controld.com
 DOMAIN-SUFFIX,freedns.controld.com
 DOMAIN-SUFFIX,doh.cornes.me
 DOMAIN-SUFFIX,doh.cox.net
@@ -315,7 +302,6 @@ DOMAIN-SUFFIX,dns.d365.in
 DOMAIN-SUFFIX,dns.d4d.moe
 DOMAIN-SUFFIX,dns.d94.xyz
 DOMAIN-SUFFIX,dns.d96.info
-DOMAIN-SUFFIX,dns.daarrk.tech
 DOMAIN-SUFFIX,dns.dallinbryce.com
 DOMAIN-SUFFIX,dns.home.daniil.it
 DOMAIN-SUFFIX,adguard.dantynes.cyou
@@ -349,7 +335,6 @@ DOMAIN-SUFFIX,dns.digitalsize.net
 DOMAIN-SUFFIX,doh.disconnect.app
 DOMAIN-SUFFIX,fdns1.dismail.de
 DOMAIN-SUFFIX,fdns2.dismail.de
-DOMAIN-SUFFIX,dltuykfgp.top
 DOMAIN-SUFFIX,dns.expert
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,dns.pub
@@ -358,9 +343,6 @@ DOMAIN-SUFFIX,dns.watch
 DOMAIN-SUFFIX,dns.dns-53.com
 DOMAIN-SUFFIX,dns.dns-53.uk
 DOMAIN-SUFFIX,dns.dns-53.us
-DOMAIN-SUFFIX,dns1.dns-ga.de
-DOMAIN-SUFFIX,dns2.dns-ga.de
-DOMAIN-SUFFIX,dns3.dns-ga.de
 DOMAIN-SUFFIX,doh.dns-ga.de
 DOMAIN-SUFFIX,secure-dns.dns-ga.de
 DOMAIN-SUFFIX,dns0.eu
@@ -466,7 +448,6 @@ DOMAIN-SUFFIX,fr1.dnswarden.com
 DOMAIN-SUFFIX,sg1.dnswarden.com
 DOMAIN-SUFFIX,doh.us.dnswarden.com
 DOMAIN-SUFFIX,dnswebvsn.com
-DOMAIN-SUFFIX,do-39574-tr.xyz
 DOMAIN-SUFFIX,doh.beauty
 DOMAIN-SUFFIX,doh.buzz
 DOMAIN-SUFFIX,doh.li
@@ -515,7 +496,6 @@ DOMAIN-SUFFIX,home.enjoymylife.net
 DOMAIN-SUFFIX,dns.enzonix.com
 DOMAIN-SUFFIX,bl.eq.md
 DOMAIN-SUFFIX,shield1.eranext.net
-DOMAIN-SUFFIX,doh.ersei.net
 DOMAIN-SUFFIX,dns.esnube.es
 DOMAIN-SUFFIX,eth.link
 DOMAIN-SUFFIX,opennic1.eth-services.de
@@ -524,7 +504,6 @@ DOMAIN-SUFFIX,armorrush.eu.org
 DOMAIN-SUFFIX,doh.excdn.eu.org
 DOMAIN-SUFFIX,dns.fullaccesstointernet.jp.eu.org
 DOMAIN-SUFFIX,dns.mayx.eu.org
-DOMAIN-SUFFIX,arashi.net.eu.org
 DOMAIN-SUFFIX,sukidayo.eu.org
 DOMAIN-SUFFIX,dns.extrawdw.net
 DOMAIN-SUFFIX,fra1.eyecay.xyz
@@ -537,7 +516,6 @@ DOMAIN-SUFFIX,dns.faked.org
 DOMAIN-SUFFIX,dns.falkenthal.org
 DOMAIN-SUFFIX,dnsvps.familiamv.net
 DOMAIN-SUFFIX,dns.fancyorg.at
-DOMAIN-SUFFIX,farewellkou.click
 DOMAIN-SUFFIX,dns.farshidhakimy.de
 DOMAIN-SUFFIX,ns0.fdn.fr
 DOMAIN-SUFFIX,ns1.fdn.fr
@@ -548,8 +526,6 @@ DOMAIN-SUFFIX,2.dnscrypt-cert.ffmuc.net
 DOMAIN-SUFFIX,doh.ffmuc.net
 DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
-DOMAIN-SUFFIX,dns.fgbk.net
-DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
 DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -581,13 +557,11 @@ DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
 DOMAIN-SUFFIX,geshido.vpn.geshido.ru
 DOMAIN-SUFFIX,getdnsapi.net
-DOMAIN-SUFFIX,gibblets.top
 DOMAIN-SUFFIX,adguard.maison.gifino.fr
 DOMAIN-SUFFIX,dns.ginovs.nl
 DOMAIN-SUFFIX,dns.girino.org
 DOMAIN-SUFFIX,h.gjrick.tw
 DOMAIN-SUFFIX,sdns22.gkonuralp.com
-DOMAIN-SUFFIX,glacius.top
 DOMAIN-SUFFIX,dns.glf.wtf
 DOMAIN-SUFFIX,dns.api.globus.org
 DOMAIN-SUFFIX,dns.api.preview.globus.org
@@ -606,7 +580,6 @@ DOMAIN-SUFFIX,google-public-dns-a.google.com
 DOMAIN-SUFFIX,google-public-dns-b.google.com
 DOMAIN-SUFFIX,performance.gosami.xyz
 DOMAIN-SUFFIX,dot.libredns.gr.com
-DOMAIN-SUFFIX,dnsblock.grisumedia.de
 DOMAIN-SUFFIX,dns.grqu.de
 DOMAIN-SUFFIX,dns.guard.io
 DOMAIN-SUFFIX,dns2.guidocioni.it
@@ -619,7 +592,6 @@ DOMAIN-SUFFIX,dns.hanahira.dev
 DOMAIN-SUFFIX,adguard.haneulo.com
 DOMAIN-SUFFIX,dns.hanmey.de
 DOMAIN-SUFFIX,hanniel.tech
-DOMAIN-SUFFIX,dns.hannielzhang.com
 DOMAIN-SUFFIX,resolver-eu.haringstad.com
 DOMAIN-SUFFIX,adguard.hartley.cloud
 DOMAIN-SUFFIX,query.hdns.io
@@ -628,15 +600,12 @@ DOMAIN-SUFFIX,us-ny-alula.heliumcloud.cc
 DOMAIN-SUFFIX,dns.hellozhao.com
 DOMAIN-SUFFIX,dns.henek.ovh
 DOMAIN-SUFFIX,httpdns-push.heytapmobile.com
-DOMAIN-SUFFIX,hfgx.shop
 DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,hitian.me
 DOMAIN-SUFFIX,pihole1.hoerli.net
 DOMAIN-SUFFIX,pihole2.hoerli.net
 DOMAIN-SUFFIX,pihole3.hoerli.net
 DOMAIN-SUFFIX,pihole4.hoerli.net
-DOMAIN-SUFFIX,home-server.store
-DOMAIN-SUFFIX,dns.hoody.com
 DOMAIN-SUFFIX,keithchung.hopto.org
 DOMAIN-SUFFIX,dns.horcrux.vip
 DOMAIN-SUFFIX,dns.internal.hosmatic.com
@@ -677,7 +646,6 @@ DOMAIN-SUFFIX,noads.imbuffering.com
 DOMAIN-SUFFIX,dns.imchristian.de
 DOMAIN-SUFFIX,dns.immanuelschaffer.de
 DOMAIN-SUFFIX,doh.immerda.ch
-DOMAIN-SUFFIX,imperio.top
 DOMAIN-SUFFIX,dns1.in-berlin.de
 DOMAIN-SUFFIX,dns2.in-berlin.de
 DOMAIN-SUFFIX,dns.inclusioproject.com
@@ -691,7 +659,6 @@ DOMAIN-SUFFIX,qlf-doh.inria.fr
 DOMAIN-SUFFIX,dns.interhub.cc
 DOMAIN-SUFFIX,ipoac.nl
 DOMAIN-SUFFIX,dns1.irumatech.com
-DOMAIN-SUFFIX,dns.is0mino.com
 DOMAIN-SUFFIX,dns.ishan.pw
 DOMAIN-SUFFIX,dns.islandnet.com
 DOMAIN-SUFFIX,diy.itsa.top
@@ -712,7 +679,6 @@ DOMAIN-SUFFIX,adg.jnorton.us
 DOMAIN-SUFFIX,green2.jnraptor.net
 DOMAIN-SUFFIX,dns.joey01245.nl
 DOMAIN-SUFFIX,adguard.johanliebert.top
-DOMAIN-SUFFIX,johneldenring.lol
 DOMAIN-SUFFIX,opencdn.jomodns.com
 DOMAIN-SUFFIX,adguard1.jsanagustin.net
 DOMAIN-SUFFIX,dns.jstockley.com
@@ -733,7 +699,6 @@ DOMAIN-SUFFIX,dns.kebree.fr
 DOMAIN-SUFFIX,dns.keke125.com
 DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
-DOMAIN-SUFFIX,chr.kepegawaiandju.id
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
 DOMAIN-SUFFIX,dns.kescher.at
@@ -748,19 +713,16 @@ DOMAIN-SUFFIX,doh.killtw.im
 DOMAIN-SUFFIX,blog.kimiblock.top
 DOMAIN-SUFFIX,dns1.klcd.eu
 DOMAIN-SUFFIX,dns2.klcd.eu
-DOMAIN-SUFFIX,ko-18948-tr.xyz
 DOMAIN-SUFFIX,adguard.konikoni428.com
 DOMAIN-SUFFIX,doh.kooman.org
 DOMAIN-SUFFIX,korzhov.dev
 DOMAIN-SUFFIX,dns.kosan.moe
 DOMAIN-SUFFIX,dart.kpsn.org
-DOMAIN-SUFFIX,adblock.krctech.dev
 DOMAIN-SUFFIX,xray.krnl.eu
 DOMAIN-SUFFIX,adguard.kss.ovh
 DOMAIN-SUFFIX,dns.kugoapps.com
 DOMAIN-SUFFIX,dns.kukal.cz
 DOMAIN-SUFFIX,dns.kuuhaku.moe
-DOMAIN-SUFFIX,kx-97795-tr.xyz
 DOMAIN-SUFFIX,dns.kxy.ink
 DOMAIN-SUFFIX,agh.kyusang.win
 DOMAIN-SUFFIX,dns.l337.site
@@ -778,8 +740,6 @@ DOMAIN-SUFFIX,yarp.lefolgoc.net
 DOMAIN-SUFFIX,br.servers.legat.ml
 DOMAIN-SUFFIX,lelux.fi
 DOMAIN-SUFFIX,dns.lepilleur.com
-DOMAIN-SUFFIX,dns.lermer.nl
-DOMAIN-SUFFIX,lesuo.top
 DOMAIN-SUFFIX,dns.levonet.sk
 DOMAIN-SUFFIX,dns2.lezainski.com
 DOMAIN-SUFFIX,dns.lgprk.com
@@ -787,7 +747,6 @@ DOMAIN-SUFFIX,dns.liberador.net
 DOMAIN-SUFFIX,doh.libredns.gr
 DOMAIN-SUFFIX,dot.libredns.gr
 DOMAIN-SUFFIX,dns.lihj.me
-DOMAIN-SUFFIX,michelo.line.pm
 DOMAIN-SUFFIX,dns.linkr.ninja
 DOMAIN-SUFFIX,africadns1.liquidtelecom.net
 DOMAIN-SUFFIX,africadns2.liquidtelecom.net
@@ -812,7 +771,6 @@ DOMAIN-SUFFIX,mailkyb.co
 DOMAIN-SUFFIX,dns.maitrekuc.fr
 DOMAIN-SUFFIX,dns.mandre.dev
 DOMAIN-SUFFIX,dns.maolaohei.xyz
-DOMAIN-SUFFIX,maqgie.xyz
 DOMAIN-SUFFIX,dns.marasov.id
 DOMAIN-SUFFIX,dns.marbledfennec.net
 DOMAIN-SUFFIX,ag.marschi.de
@@ -876,7 +834,6 @@ DOMAIN-SUFFIX,dns1.server.my.id
 DOMAIN-SUFFIX,id.terra.my.id
 DOMAIN-SUFFIX,dns.velyn.my.id
 DOMAIN-SUFFIX,dns.vmath.my.id
-DOMAIN-SUFFIX,myatris.sbs
 DOMAIN-SUFFIX,adblock.mydns.network
 DOMAIN-SUFFIX,family.mydns.network
 DOMAIN-SUFFIX,freedom.mydns.network
@@ -932,12 +889,10 @@ DOMAIN-SUFFIX,us-saj-w-f-1.nashkan.net
 DOMAIN-SUFFIX,us-saj-w-p-1.nashkan.net
 DOMAIN-SUFFIX,dns.neeb.it
 DOMAIN-SUFFIX,nenam.eu
-DOMAIN-SUFFIX,adguard.neon0404.space
 DOMAIN-SUFFIX,dns.neowutran.ovh
 DOMAIN-SUFFIX,dns.aa.net.uk
 DOMAIN-SUFFIX,doh.infotek.net.id
 DOMAIN-SUFFIX,doh.max.net.id
-DOMAIN-SUFFIX,ns.net.kg
 DOMAIN-SUFFIX,dns.netvpn.net
 DOMAIN-SUFFIX,cube.neubsi.at
 DOMAIN-SUFFIX,dns.neubsi.at
@@ -954,7 +909,6 @@ DOMAIN-SUFFIX,dns2.nextdns.io
 DOMAIN-SUFFIX,steering.nextdns.io
 DOMAIN-SUFFIX,dns.nguyendn.com
 DOMAIN-SUFFIX,dns.nhtsky.com
-DOMAIN-SUFFIX,d.niaox.com
 DOMAIN-SUFFIX,doh.nic.lv
 DOMAIN-SUFFIX,dnsotls.lab.nic.cl
 DOMAIN-SUFFIX,odvr.nic.cz
@@ -996,15 +950,9 @@ DOMAIN-SUFFIX,dns.npsolution.it
 DOMAIN-SUFFIX,ns3.com
 DOMAIN-SUFFIX,ns3.cx
 DOMAIN-SUFFIX,ns3.link
-DOMAIN-SUFFIX,dnscache0.ns71.net
 DOMAIN-SUFFIX,dns.nullgate.net
-DOMAIN-SUFFIX,dns.numerus.com
-DOMAIN-SUFFIX,ns.nwps.fi
-DOMAIN-SUFFIX,qdns02.nymterm.com
 DOMAIN-SUFFIX,5g.o0o.re
 DOMAIN-SUFFIX,o1.lt
-DOMAIN-SUFFIX,ha.o51r15.com
-DOMAIN-SUFFIX,obscuro.top
 DOMAIN-SUFFIX,dns.odinpl.com
 DOMAIN-SUFFIX,dns.ofdoom.net
 DOMAIN-SUFFIX,adguard.oms-ctr.ru
@@ -1079,9 +1027,6 @@ DOMAIN-SUFFIX,kronos.plan9-dns.com
 DOMAIN-SUFFIX,pluton.plan9-dns.com
 DOMAIN-SUFFIX,secure-dns.pleumkungz.com
 DOMAIN-SUFFIX,privacy.plumedns.com
-DOMAIN-SUFFIX,pm1239-bd.xyz
-DOMAIN-SUFFIX,pm7051-br.xyz
-DOMAIN-SUFFIX,pm9352-bd.xyz
 DOMAIN-SUFFIX,doh.port53.dk
 DOMAIN-SUFFIX,dns.porteii.com
 DOMAIN-SUFFIX,dns.aeiou.pp.ua
@@ -1096,14 +1041,6 @@ DOMAIN-SUFFIX,dns2.prima-solusindo.com
 DOMAIN-SUFFIX,dns.princex.net
 DOMAIN-SUFFIX,princez.uk
 DOMAIN-SUFFIX,agh.printk.info
-DOMAIN-SUFFIX,hungary.privacy-dns.pw
-DOMAIN-SUFFIX,india.privacy-dns.pw
-DOMAIN-SUFFIX,las-vegas.privacy-dns.pw
-DOMAIN-SUFFIX,luxembourg.privacy-dns.pw
-DOMAIN-SUFFIX,romania.privacy-dns.pw
-DOMAIN-SUFFIX,sweden.privacy-dns.pw
-DOMAIN-SUFFIX,switzerland.privacy-dns.pw
-DOMAIN-SUFFIX,united-arab-emirates.privacy-dns.pw
 DOMAIN-SUFFIX,dns.privado.ovh
 DOMAIN-SUFFIX,orpi.privado.ovh
 DOMAIN-SUFFIX,de.dns.privex.io
@@ -1140,7 +1077,6 @@ DOMAIN-SUFFIX,lion.dns.qwer.pw
 DOMAIN-SUFFIX,tiger.dns.qwer.pw
 DOMAIN-SUFFIX,resolver.r0cket.net
 DOMAIN-SUFFIX,r1bnc.com
-DOMAIN-SUFFIX,resolve2.r9x.cc
 DOMAIN-SUFFIX,dns.rabbitdns.org
 DOMAIN-SUFFIX,family.rabbitdns.org
 DOMAIN-SUFFIX,security.rabbitdns.org
@@ -1159,7 +1095,6 @@ DOMAIN-SUFFIX,dns.repinger.com
 DOMAIN-SUFFIX,dnspub.restena.lu
 DOMAIN-SUFFIX,dns.retakecs.com
 DOMAIN-SUFFIX,rethinkdns.com
-DOMAIN-SUFFIX,revelio.top
 DOMAIN-SUFFIX,doh.rezhajul.io
 DOMAIN-SUFFIX,resolver.rferee.dev
 DOMAIN-SUFFIX,ricko.is
@@ -1256,7 +1191,6 @@ DOMAIN-SUFFIX,dns.sstomp.nl
 DOMAIN-SUFFIX,dns.startupstack.tech
 DOMAIN-SUFFIX,dns.stevenz.net
 DOMAIN-SUFFIX,dns.stirringphoto.com
-DOMAIN-SUFFIX,dns.stormycloud.org
 DOMAIN-SUFFIX,dns.strassmair.org
 DOMAIN-SUFFIX,doh.suche.org
 DOMAIN-SUFFIX,local.sufly.top
@@ -1265,7 +1199,6 @@ DOMAIN-SUFFIX,resolver.sunet.se
 DOMAIN-SUFFIX,sunnygyl.com
 DOMAIN-SUFFIX,doh.sunoaki.net
 DOMAIN-SUFFIX,dns.superstefan.win
-DOMAIN-SUFFIX,dns.sv-zauner.at
 DOMAIN-SUFFIX,dns.svoi.dev
 DOMAIN-SUFFIX,dns.swin.pro
 DOMAIN-SUFFIX,switch.ch
@@ -1273,15 +1206,12 @@ DOMAIN-SUFFIX,dns.syaifullah.com
 DOMAIN-SUFFIX,ibksturm.synology.me
 DOMAIN-SUFFIX,ihctw.synology.me
 DOMAIN-SUFFIX,doh.syshero.org
-DOMAIN-SUFFIX,dns.szpadel.ovh
 DOMAIN-SUFFIX,dns.t53.de
 DOMAIN-SUFFIX,tecdrive.site
 DOMAIN-SUFFIX,dns1.techeasy.org
 DOMAIN-SUFFIX,vpn.technicule.info
 DOMAIN-SUFFIX,doh.technochat.in
-DOMAIN-SUFFIX,dns.technologycage.com
 DOMAIN-SUFFIX,dns.technostriker.com
-DOMAIN-SUFFIX,rx.techomespace.com
 DOMAIN-SUFFIX,dns.telekom.de
 DOMAIN-SUFFIX,iana.tenta.io
 DOMAIN-SUFFIX,opennic.tenta.io
@@ -1298,7 +1228,6 @@ DOMAIN-SUFFIX,dns.thegoodsource.net
 DOMAIN-SUFFIX,dns.theres.one
 DOMAIN-SUFFIX,dns.therifleman.name
 DOMAIN-SUFFIX,blocker.thethorsens.org
-DOMAIN-SUFFIX,doh.thio.me
 DOMAIN-SUFFIX,doh.tiar.app
 DOMAIN-SUFFIX,dot.tiar.app
 DOMAIN-SUFFIX,jp.tiar.app
@@ -1307,7 +1236,6 @@ DOMAIN-SUFFIX,jp.tiarap.org
 DOMAIN-SUFFIX,dns.tierradeayala.com
 DOMAIN-SUFFIX,tigrons.ru
 DOMAIN-SUFFIX,timmes.nl
-DOMAIN-SUFFIX,adb.timnichollsphotography.com
 DOMAIN-SUFFIX,dns.tipsy.coffee
 DOMAIN-SUFFIX,dns.tls-data.de
 DOMAIN-SUFFIX,tlz.asia
@@ -1345,12 +1273,8 @@ DOMAIN-SUFFIX,urology.wiki
 DOMAIN-SUFFIX,dns.koala.us.to
 DOMAIN-SUFFIX,nightlymoon.us.kg
 DOMAIN-SUFFIX,luna-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,mita-is.so-gorgeo.us.kg
 DOMAIN-SUFFIX,nana-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nindy-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nova-is.so-gorgeo.us.kg
 DOMAIN-SUFFIX,tetty-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,yussy-is.so-gorgeo.us.kg
 DOMAIN-SUFFIX,adfree.usableprivacy.net
 DOMAIN-SUFFIX,dns.vaioswolke.xyz
 DOMAIN-SUFFIX,doh.valscosmos.com
@@ -1385,8 +1309,6 @@ DOMAIN-SUFFIX,dns-2.wil.cloud
 DOMAIN-SUFFIX,adguard.wirimij.nl
 DOMAIN-SUFFIX,clearweb.woodbridge.club
 DOMAIN-SUFFIX,home.wriedts.de
-DOMAIN-SUFFIX,ns2.wuyouss.com
-DOMAIN-SUFFIX,ns3.wuyouss.com
 DOMAIN-SUFFIX,wyx.cloud
 DOMAIN-SUFFIX,adb-home.xaoimoon.fr
 DOMAIN-SUFFIX,doh.xcom.pro
@@ -1394,7 +1316,6 @@ DOMAIN-SUFFIX,xenergy.cc
 DOMAIN-SUFFIX,doh.xfinity.com
 DOMAIN-SUFFIX,dot.xfinity.com
 DOMAIN-SUFFIX,doh2.gslb2.xfinity.com
-DOMAIN-SUFFIX,xholgm.top
 DOMAIN-SUFFIX,agh.xinfeng16m.top
 DOMAIN-SUFFIX,dns.xlion.tw
 DOMAIN-SUFFIX,xn--durhre-yxa.de
@@ -1409,7 +1330,6 @@ DOMAIN-SUFFIX,safe.dot.dns.yandex.net
 DOMAIN-SUFFIX,dns.yatima.tv
 DOMAIN-SUFFIX,ychen.cf
 DOMAIN-SUFFIX,ychen.gq
-DOMAIN-SUFFIX,net01.youcef.io
 DOMAIN-SUFFIX,your-dns.run
 DOMAIN-SUFFIX,yovbak.com
 DOMAIN-SUFFIX,yuvelirtut.website
@@ -1422,7 +1342,6 @@ DOMAIN-SUFFIX,dns.zemows.industries
 DOMAIN-SUFFIX,doh.zephyrus.id
 DOMAIN-SUFFIX,adguard-kartoffel.zernico.de
 DOMAIN-SUFFIX,dns.zfsystem.tech
-DOMAIN-SUFFIX,doh.zknt.org
 DOMAIN-SUFFIX,zougloub.eu
 DOMAIN-SUFFIX,a.zpn.me
 DOMAIN-SUFFIX,dns.zzuhacker.cn
