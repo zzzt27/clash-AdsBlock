@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 13 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15912
+# Domain Count: 15911
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15610,7 +15610,6 @@
 +.twinrdsyte.com
 +.twisto.cz
 +.tynt.com
-+.typescoordinate.com
 +.tyroo.com
 +.tyroodr.com
 +.uadx.com
