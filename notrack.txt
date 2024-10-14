@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 14 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15911
+# Domain Count: 15909
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15216,7 +15216,6 @@
 +.stat.media
 +.stat.mixi.media
 +.stat.okko.tv
-+.stat.techtimes.com
 +.stat.tiara.daum.net
 +.stat.tiara.melon.com
 +.stat.tildacdn.com
@@ -15259,7 +15258,6 @@
 +.stats.sa-as.com
 +.stats.safeway.com
 +.stats.schoolholidays.com.au
-+.stats.videodelivery.net
 +.stats.videoseyred.in
 +.stats.vk-portal.net
 +.stats.wikimedia.org
