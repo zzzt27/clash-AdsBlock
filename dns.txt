@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Oct 2024 22:19 UTC
-# Version: 2024.1012.2219.29
+# Last modified: 14 Oct 2024 22:13 UTC
+# Version: 2024.1014.2213.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1416
+# Number of entries: 1412
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -844,7 +844,6 @@ DOMAIN-SUFFIX,netcup.mismat.ch
 DOMAIN-SUFFIX,doh.mmmalia.com
 DOMAIN-SUFFIX,dns.mnet-online.de
 DOMAIN-SUFFIX,mnrv.trade
-DOMAIN-SUFFIX,dns.mo0on15.com
 DOMAIN-SUFFIX,dnstls.mobik.com
 DOMAIN-SUFFIX,nue2.moderateinfra.net
 DOMAIN-SUFFIX,ps1.modr.club
@@ -1056,7 +1055,6 @@ DOMAIN-SUFFIX,fuchur.pentament.de
 DOMAIN-SUFFIX,dns.pernika.net
 DOMAIN-SUFFIX,darya.persiannit.net
 DOMAIN-SUFFIX,dns.pesaventofilippo.com
-DOMAIN-SUFFIX,adguard.pggns.de
 DOMAIN-SUFFIX,dns.phillipjberry.net
 DOMAIN-SUFFIX,doh.centraleu.pi-dns.com
 DOMAIN-SUFFIX,dot.centraleu.pi-dns.com
@@ -1234,7 +1232,6 @@ DOMAIN-SUFFIX,dnsovertls.sinodun.com
 DOMAIN-SUFFIX,dnsovertls1.sinodun.com
 DOMAIN-SUFFIX,dnsovertls2.sinodun.com
 DOMAIN-SUFFIX,dnsovertls3.sinodun.com
-DOMAIN-SUFFIX,dns.siry.de
 DOMAIN-SUFFIX,sitdns.com
 DOMAIN-SUFFIX,dns.skrep.eu
 DOMAIN-SUFFIX,dns.skrep.in
@@ -1329,7 +1326,6 @@ DOMAIN-SUFFIX,tuskythehusky.tech
 DOMAIN-SUFFIX,dns.twnic.tw
 DOMAIN-SUFFIX,adguard.twotigers.xyz
 DOMAIN-SUFFIX,dns.txq.life
-DOMAIN-SUFFIX,typaza.com
 DOMAIN-SUFFIX,ad.tzockt.beer
 DOMAIN-SUFFIX,adguard-ironhide.ultima-thule.ru
 DOMAIN-SUFFIX,dns.umbrella.com
