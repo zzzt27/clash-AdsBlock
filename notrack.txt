@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 16 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15916
+# Domain Count: 15915
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -13703,7 +13703,6 @@
 +.networkad.net
 +.networkadvertising.org
 +.new-sentry.gitlab.net
-+.newdisplayformats.com
 +.newrelic.com
 +.newrrb.bid
 +.news.iadsdk.apple.com
