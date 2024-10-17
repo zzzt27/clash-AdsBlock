@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 17 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15915
+# Domain Count: 15923
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -1947,6 +1947,7 @@
 +.ksehinkitw.hair
 +.ksmobile.com
 +.ku2d3a7pa8mdi.com
++.kueezrtb.com
 +.kz-onrt-stsdk.vivoglobal.com
 +.kzt2afc1rp52.com
 +.l9bjkkhaycw6f8f4.soundcloud.com
@@ -2177,6 +2178,7 @@
 +.meteora.us
 +.metric.ipv6test.com
 +.metric.ipv6test.net
++.metricellcollect.tele2.ru
 +.metricool.com
 +.metrics.aetn.com
 +.metrics.articulate.com
@@ -13929,7 +13931,13 @@
 +.pixanalytics.pixnet.net
 +.pixel-static.spotify.com
 +.pixel.ad
++.pixel.archive.fo
++.pixel.archive.is
++.pixel.archive.li
++.pixel.archive.md
++.pixel.archive.ph
 +.pixel.archive.today
++.pixel.archive.vn
 +.pixel.cfspx.digitalriver.com
 +.pixel.cornercart.io
 +.pixel.facebook.com
