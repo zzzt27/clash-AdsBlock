@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 17 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15923
+# Domain Count: 15924
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -15538,6 +15538,7 @@
 +.tracking.overwolf.com
 +.tracking.prd.mz.internal.unity3d.com
 +.tracking.resortsandlodges.com
++.tracking.retailrocket.ru
 +.tracking.rus.miui.com
 +.tracking.sezzle.com
 +.tracking.shopstyle.co.uk
