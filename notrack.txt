@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 18 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15924
+# Domain Count: 15923
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -13924,7 +13924,6 @@
 +.pingdom.net
 +.pinpoll.com
 +.pippio.com
-+.pitchedfurs.com
 +.piwik.com-online.com
 +.piwik.pro
 +.piwikpro.com
