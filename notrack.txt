@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 19 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15923
+# Domain Count: 15928
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -4561,6 +4561,11 @@
 +.mkt1222.com
 +.mkt12220.com
 +.mkt12221.com
++.mkt12222.com
++.mkt12224.com
++.mkt12225.com
++.mkt12226.com
++.mkt12227.com
 +.mkt1223.com
 +.mkt1224.com
 +.mkt1225.com
