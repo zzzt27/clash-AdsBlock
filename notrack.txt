@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 19 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15928
+# Domain Count: 15921
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -13935,13 +13935,7 @@
 +.pixanalytics.pixnet.net
 +.pixel-static.spotify.com
 +.pixel.ad
-+.pixel.archive.fo
-+.pixel.archive.is
-+.pixel.archive.li
-+.pixel.archive.md
-+.pixel.archive.ph
 +.pixel.archive.today
-+.pixel.archive.vn
 +.pixel.cfspx.digitalriver.com
 +.pixel.cornercart.io
 +.pixel.facebook.com
@@ -14227,7 +14221,6 @@
 +.riotousunspeakablestreet.com
 +.riotpixels.net
 +.ripewhining.com
-+.rivetrearrange.com
 +.rivne.space
 +.rkdms.com
 +.rlcdn.com
