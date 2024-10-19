@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Oct 2024 22:17 UTC
-# Version: 2024.1018.2217.15
+# Last modified: 17 Oct 2024 22:16 UTC
+# Version: 2024.1017.2216.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1416
+# Number of entries: 1413
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -490,7 +490,6 @@ DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
-DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -619,7 +618,6 @@ DOMAIN-SUFFIX,dns.hanahira.dev
 DOMAIN-SUFFIX,adguard.haneulo.com
 DOMAIN-SUFFIX,dns.hanmey.de
 DOMAIN-SUFFIX,hanniel.tech
-DOMAIN-SUFFIX,dns.hannielzhang.com
 DOMAIN-SUFFIX,resolver-eu.haringstad.com
 DOMAIN-SUFFIX,adguard.hartley.cloud
 DOMAIN-SUFFIX,query.hdns.io
@@ -1005,7 +1003,6 @@ DOMAIN-SUFFIX,ha.o51r15.com
 DOMAIN-SUFFIX,obscuro.top
 DOMAIN-SUFFIX,dns.odinpl.com
 DOMAIN-SUFFIX,dns.ofdoom.net
-DOMAIN-SUFFIX,dns.olpploiopkuyhiopsfrt.info
 DOMAIN-SUFFIX,adguard.oms-ctr.ru
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,doh.onedns.net
