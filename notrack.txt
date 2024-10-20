@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 20 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15919
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -650,7 +650,6 @@
 +.anzu.io
 +.apester.com
 +.apexinnotech.com
-+.api-analytics-ru.huami.com
 +.api-analytics.prod.birdapp.com
 +.api-telemetry.servers.getgo.com
 +.api.ad.intl.xiaomi.com
@@ -960,7 +959,6 @@
 +.carbonads.net
 +.cardlytics.com
 +.carrotquest.io
-+.carrottrack.io
 +.casalemedia.com
 +.case.clmbtech.com
 +.catapultx.com
