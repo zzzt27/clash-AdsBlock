@@ -1,9 +1,9 @@
-# Version: 202410252106
+# Version: 202410252206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136450
-# Last modified: 2024-10-25T21:06:36+0000
+# Entries: 136448
+# Last modified: 2024-10-25T22:06:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -21057,7 +21057,6 @@
 +.beaver.livechatlabs.com
 +.beaverads.com
 +.beavertron.com
-+.beaweddingringhelpvcfab.live
 +.beaxewr.com
 +.bebe-plus.fr
 +.bebesfraldario.com.de
@@ -55199,7 +55198,6 @@
 +.goldshare.net
 +.goldspotmedia.com
 +.goldstats.com
-+.goldsubzehy.tk
 +.goldtickets.fr
 +.goldware.pw
 +.golem-network.com
