@@ -1,9 +1,9 @@
-# Version: 202410250307
+# Version: 202410250406
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46132
-# Last modified: 2024-10-25T03:07:00+0000
+# Entries: 46116
+# Last modified: 2024-10-25T04:06:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -74,7 +74,6 @@
 +.06e293435c.com
 +.070880.com
 +.07161975c6.8aa3da4561.com
-+.0741cb485e.com
 +.0760571ca9.com
 +.07634.com
 +.076c92043c.a18d33cefa.com
@@ -1393,7 +1392,6 @@
 +.8a9d20ab14.0b9b5eada8.com
 +.8b2f59b83b.55ef6cccfc.com
 +.8be504503e.com
-+.8c22d403cf.com
 +.8c62c8cf22.38f3857fa1.com
 +.8cc514abf6.a9579899d4.com
 +.8cc5ff581a88.bitsngo.net
@@ -1478,7 +1476,6 @@
 +.971bf5ec60.com
 +.9742f9bb9f.91c8522b7b.com
 +.97927e3b4d.com
-+.97da4337b5.com
 +.97fn1ej0.myutilitydomain.com
 +.9831tb.com
 +.984335278d.com
@@ -4342,7 +4339,6 @@
 +.afwpc.com
 +.afxjwyg.com
 +.afy.agency
-+.afywhecpi.com
 +.ag.anquerafusser.com
 +.ag.palmtube.net
 +.agabreloomr.com
@@ -6936,7 +6932,6 @@
 +.avloan3431.fun
 +.avmonk3431.fun
 +.avoadsservices.com
-+.avocetriches.com
 +.avoidaroid.com
 +.avoihyfziwbn.com
 +.avorgy3431.fun
@@ -7335,7 +7330,6 @@
 +.baldo-toj.com
 +.baldwhizhens.com
 +.baledenseabbreviation.com
-+.baleiambwee.com
 +.baletingo.com
 +.balili2024.top
 +.ballarduous.com
@@ -15204,7 +15198,6 @@
 +.doomdoleinto.com
 +.doomedafarski.com
 +.doomedlimpmantle.com
-+.doomna.com
 +.doompuncturedearest.com
 +.doonedo.com
 +.doopimim.net
@@ -15733,7 +15726,6 @@
 +.dyaconiconelino.com
 +.dybxezbel1g44.cloudfront.net
 +.dyh1wzegu1j6z.cloudfront.net
-+.dyingconjunction.com
 +.dyj8pbcnat4xv.cloudfront.net
 +.dykwdhfiuha6l.cloudfront.net
 +.dylop.xyz
@@ -19385,7 +19377,6 @@
 +.gjibabwohglcz.com
 +.gjigle.com
 +.gjjvjbe.com
-+.gjnbf.com
 +.gjonfartyb.com
 +.gjrhqyc.com
 +.gjskjzejk.com
@@ -25797,7 +25788,6 @@
 +.machogodynamis.com
 +.mackeeperapp.mackeeper.com
 +.mackerel.passiveincome.io
-+.macos.space
 +.mad.mobisky.pl
 +.madadsmedia.com
 +.madamecam.com
@@ -30397,7 +30387,6 @@
 +.pasheeheghie.net
 +.pashmfordeal.com
 +.paslsa.com
-+.passablecoalitionvarious.com
 +.passablejeepparliament.com
 +.passagessixtyseeing.com
 +.passeura.com
@@ -34194,7 +34183,6 @@
 +.rev.lapippa.com
 +.rev2pub.com
 +.rev4rtb.com
-+.revbigo.com
 +.revcontent.com
 +.revdepo.com
 +.reveal.clearbit.com
@@ -38257,7 +38245,6 @@
 +.stookoth.com
 +.stoolree.com
 +.stoomawy.net
-+.stoopedcompatibility.com
 +.stoopeddemandsquint.com
 +.stoopedsignbookkeeper.com
 +.stoopfalse.com
@@ -38449,7 +38436,6 @@
 +.stutchoorgeltu.net
 +.stuwhost.net
 +.stvbiopr.net
-+.stvqnvfinyyow.com
 +.styletrackstable.com
 +.stylish-airport.com
 +.stylishar.com
@@ -40378,7 +40364,6 @@
 +.tp.hit.stat24.com
 +.tp.sgcn.com
 +.tpbid.com
-+.tpcenzbgtybq.com
 +.tpciqzm.com
 +.tpcserve.com
 +.tpdethnol.com
@@ -45550,7 +45535,6 @@
 +.yopard.com
 +.yophaeadizesave.com
 +.yoptaejrj2kkf8nj09.com
-+.yoqklgtgpdyqh.com
 +.yoredi.com
 +.yotta.scrolller.com
 +.yottacash.com
