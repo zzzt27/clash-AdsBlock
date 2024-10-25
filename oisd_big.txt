@@ -1,9 +1,9 @@
-# Version: 202410251906
+# Version: 202410252006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 135643
-# Last modified: 2024-10-25T19:06:56+0000
+# Entries: 135625
+# Last modified: 2024-10-25T20:06:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -40,7 +40,6 @@
 +.000macu.wcomhost.com
 +.000tristanprod.free.fr
 +.000webhost.fr
-+.000webhostapp.com
 +.001420990998183-dot-wetransfer-auth-file-342.appspot.com
 +.001proxy.com
 +.001union.com
@@ -13451,7 +13450,6 @@
 +.amazon-shop.fr
 +.amazon-shopping.shop
 +.amazon-signin.ddns.net
-+.amazon-signup.com
 +.amazon-updatetly.ddns.net
 +.amazon-usps.life
 +.amazon-usps.world
@@ -23178,7 +23176,6 @@
 +.blobspot.com
 +.blobsurnameincessant.com
 +.blocarh.info
-+.blocgws.top
 +.block-checker.com
 +.block.mediavenus.biz
 +.blockadblock.com
@@ -25797,7 +25794,6 @@
 +.bzqqftz.icu
 +.bzresults.122.2o7.net
 +.bzt-phosphate.com
-+.bzthxv.xyz
 +.bzverx.xyz
 +.bzwo2lmwioxa.com
 +.bzxmgyfae.com
@@ -37624,7 +37620,6 @@
 +.debonairdust.com
 +.debonairtree.com
 +.debooij.de
-+.debridge.org-f.info
 +.debrisstern.com
 +.debsoaftist.com
 +.debt-consolidation.live
@@ -41714,7 +41709,6 @@
 +.dropshippingtoday.com
 +.dropskinz.net
 +.dropspam.com
-+.dropsyworked.click
 +.dropzindagi.in
 +.drosar.coordenacaodeprojetos.io
 +.drosar.elitefinancas.com
@@ -45541,7 +45535,6 @@
 +.eu-1-id5-sync.com
 +.eu-adcenter.net
 +.eu-maps.info
-+.eu-north-1-aws.ua-energy.cloud
 +.eu-ohne-rezept.com.de
 +.eu-potenz.com.de
 +.eu-rezeptfrei.com.de
@@ -49475,7 +49468,6 @@
 +.flaviamorlachetti.com
 +.flaviusemulsor.com
 +.flavoided.com
-+.flavourforgave.com
 +.flawerosion.com
 +.flaweyesight.com
 +.flawlesss.co
@@ -50178,7 +50170,6 @@
 +.forhavingartistic.info
 +.forimg.net
 +.foritalynews.it
-+.forjh4ht.top
 +.forji14vt.top
 +.fork.ink
 +.forkdeltas.com
@@ -50326,7 +50317,6 @@
 +.foruneo.fr
 +.forunfezanttor.com
 +.forvestcorp.com
-+.forvl14pn.top
 +.forwanderful.com
 +.forwardkonradsincerely.com
 +.forwardnation.net
@@ -50537,7 +50527,6 @@
 +.fr-supermarchesmatch.fr
 +.fr-tiktok.fr
 +.fr-ugg.fr
-+.fr.babolat.com
 +.fr.chillaxgames.mobi
 +.fr.monclershop.top
 +.fra-log.com
@@ -77409,7 +77398,6 @@
 +.metrics.hrblock.com
 +.metrics.icloud.com
 +.metrics.ikea.com
-+.metrics.imdb.com
 +.metrics.infranken.de
 +.metrics.ing.es
 +.metrics.io
@@ -91734,7 +91722,6 @@
 +.piranha.mediumsuite.co.uk
 +.piranha.minnmyatsoe.com
 +.piratespc.net
-+.pirati.abuser.eu
 +.pirepoine.adultdns.net
 +.piriewaste.com.au
 +.pirkomagar.com
@@ -116021,7 +116008,6 @@
 +.telegam.top
 +.telegcpcn.work
 +.telegcpem.work
-+.telegczem.cyou
 +.telegczmn.club
 +.telegeam.vip
 +.telegeram.online
@@ -118186,7 +118172,6 @@
 +.tkcases.com
 +.tkcatrun.aotter.net
 +.tkcatwalk.aotter.net
-+.tkecommercehub.xyz
 +.tkeesparis.fr
 +.tkglobalstore.top
 +.tkglobalstore.vip
@@ -123383,7 +123368,6 @@
 +.uoften.com
 +.uogtrmjz.xyz
 +.uohhunkmnfhbimtagizqgwpmv.to
-+.uohs-gov.cloud
 +.uoiouwuqiouwiq.z13.web.core.windows.net
 +.uokhtu.nt.nativetrees.co.uk
 +.uokwa.agesonest.com
@@ -129028,7 +129012,6 @@
 +.whatneed.net
 +.whatqsapp.com
 +.whatrsapp.top
-+.whats-app.group.onviy.com
 +.whats-gac.vip
 +.whats-hk.com
 +.whats-mate.com
@@ -130105,7 +130088,6 @@
 +.wlgore.112.2o7.net
 +.wliexpress.com
 +.wliyfyudchpoipilob.com
-+.wlkpa.cn
 +.wlkukrv.icu
 +.wlmarketing.com
 +.wlnd-2b9c3.web.app
