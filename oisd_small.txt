@@ -1,9 +1,9 @@
-# Version: 202410250007
+# Version: 202410250206
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46165
-# Last modified: 2024-10-25T00:07:20+0000
+# Entries: 46144
+# Last modified: 2024-10-25T02:06:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1156,6 +1156,7 @@
 +.6c4ab5bf6a.586ee111d1.com
 +.6c5xnntfvi.com
 +.6c68a5f122.c8e7b8a04b.com
++.6ca9278a53.com
 +.6cb6696a46.com
 +.6ce02869b9.com
 +.6cf0e7801e8cd.clicknplay.to
@@ -1461,7 +1462,6 @@
 +.94cdn.com
 +.94n33.fun
 +.958702ecdf.com
-+.95b7dcf274.6ca9278a53.com
 +.95cf5beb64.com
 +.95d04d0751.22ad426520.com
 +.95ppq87g.de
@@ -6827,7 +6827,6 @@
 +.aultesou.net
 +.aultseemedto.xyz
 +.aumaupoy.net
-+.aumjwoylhhnmvv.com
 +.aumsarso.com
 +.aumsookr.com
 +.aumtoost.net
@@ -12073,7 +12072,6 @@
 +.covettunica.com
 +.covivado.club
 +.cowardsagrias.com
-+.cowcuo.xyz
 +.cowm199.com
 +.cowtpvi.com
 +.coxiesthubble.com
@@ -12594,7 +12592,6 @@
 +.cvujac.xyz
 +.cvxwaslonejulyha.info
 +.cwchmb.com
-+.cwixbvnnndpe.xyz
 +.cwqljsecvr.com
 +.cwrxgb.icu
 +.cwt.citywire.info
@@ -14313,7 +14310,6 @@
 +.demandzoo.com
 +.demba.xyz
 +.demeanourgrade.com
-+.dementeddug.com
 +.demiseskill.com
 +.demkc32bq01ah.cloudfront.net
 +.democracyendlesslyzoo.com
@@ -15037,7 +15033,6 @@
 +.dmrtx.com
 +.dms.fx678.com
 +.dms.xuexxing.com
-+.dmsrlnssynhqhl.com
 +.dmtk.linternaute.com
 +.dmtracker.com
 +.dmtracking.alibaba.com
@@ -15257,7 +15252,6 @@
 +.dositsil.net
 +.dosliggooor.com
 +.dosneaselor.com
-+.dossestarairi.shop
 +.dossmanaventre.top
 +.doswinuba.com
 +.dot.texastribune.org
@@ -16864,7 +16858,6 @@
 +.evaporatepublicity.com
 +.evasiondemandedlearning.com
 +.evbrkhz.xyz
-+.evcwihysdnptpjm.xyz
 +.eveenaiftoa.com
 +.evejartaal.com
 +.evemasoil.com
@@ -21463,7 +21456,6 @@
 +.huntershoemaker.com
 +.huntmad.com
 +.huohuo.huamuwo.com
-+.huoxun.wang
 +.hupiru.uno
 +.huppontic.com
 +.huqbeiy.com
@@ -27237,7 +27229,6 @@
 +.moonoafy.net
 +.moonreals.com
 +.moonrocketaffiliates.com
-+.moonvids.space
 +.moopsazijop.com
 +.mooroore.xyz
 +.moose.cloverlearning.com
@@ -27250,7 +27241,6 @@
 +.mopiwhoisqui.com
 +.mopub-win-us-east.bksn.se
 +.mopub.com
-+.moqdy.icu
 +.moqsxdpx.xyz
 +.moradu.com
 +.moral-enthusiasm.pro
@@ -29102,7 +29092,6 @@
 +.ofphanpytor.com
 +.ofpiplupon.com
 +.ofqopmnpia.com
-+.ofqvca.xyz
 +.ofrapidashr.com
 +.ofseedotom.com
 +.ofslakotha.com
@@ -29845,7 +29834,6 @@
 +.ourtshipanditlast.info
 +.ouseswhichtot.org
 +.oushaury.com
-+.ousinouk.xyz
 +.oussaute.net
 +.ousseghu.net
 +.oustoope.com
@@ -30159,7 +30147,6 @@
 +.pagead.l.google.com
 +.pagead2.googleadservices.com
 +.pageantbagauspice.com
-+.pageantcountrysideostentatious.com
 +.pagefair.com
 +.pagejunky.com
 +.pageloadstats.pro
@@ -36151,7 +36138,6 @@
 +.shadesentimentssquint.com
 +.shadowjav182.fun
 +.shady-addition.com
-+.shadybenefitpassed.com
 +.shadytourdisgusted.com
 +.shaeian.xyz
 +.shaggyacquaintanceassessment.com
@@ -38828,7 +38814,6 @@
 +.swopsalane.com
 +.swordanatomy.com
 +.swordbloatgranny.com
-+.swordeast.com
 +.swordfish.elvietanny.com
 +.swordfish.floofs.com
 +.swordfish.holzschuhe.at
@@ -41536,7 +41521,6 @@
 +.turkey.docsy.cloud
 +.turkey.tella.tv
 +.turkey1266.fun
-+.turkeybegan.com
 +.turkeychoice.com
 +.turkhawkswig.com
 +.turkslideupward.com
@@ -41744,7 +41728,6 @@
 +.uarating.com
 +.uavbgdw.com
 +.uavejnys.xyz
-+.uavglfywt.com
 +.uawvmni.com
 +.ub-xjp.vvbrd.com
 +.ub.finanzfrage.net
@@ -42704,7 +42687,6 @@
 +.vcnpnf.xyz
 +.vcommission.com
 +.vcsjbnzmgjs.com
-+.vcxipynawv.com
 +.vcxzp.com
 +.vczypss.com
 +.vd.7vid.net
@@ -44313,7 +44295,6 @@
 +.wizssgf.com
 +.wj.jiancai365.cn
 +.wjct3s8at.com
-+.wjljwqbmmjzqj.top
 +.wjvavwjyaso.com
 +.wka4jursurf6.com
 +.wkabios.icu
@@ -44334,7 +44315,6 @@
 +.wlafx4trk.com
 +.wlkukrv.icu
 +.wlmarketing.com
-+.wlmitgzbht.com
 +.wlog.ifdo.co.kr
 +.wlog.kuaishou.com
 +.wlog.tmon.co.kr
@@ -44593,7 +44573,6 @@
 +.wsaidthemathe.info
 +.wsapi.master.live
 +.wscewc.xyz
-+.wsgayq.xyz
 +.wsjlbbqemr23.com
 +.wsmcdn.audioeye.com
 +.wsmetrics.batch.com
