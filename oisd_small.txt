@@ -1,9 +1,9 @@
-# Version: 202410250507
+# Version: 202410250607
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46099
-# Last modified: 2024-10-25T05:07:08+0000
+# Entries: 46090
+# Last modified: 2024-10-25T06:07:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -247,7 +247,6 @@
 +.12signup.com
 +.12xhardcore.com
 +.130gelh8q.de
-+.1310530397.rsc.cdn77.org
 +.13199960a1.com
 +.1323818756.rsc.cdn77.org
 +.1337x.vpnonly.site
@@ -2153,7 +2152,6 @@
 +.accompanyingparameters.com
 +.accompanynovemberexclusion.com
 +.accomplicemiracle.com
-+.accomplishedacquaintedbungalow.com
 +.accomplishedpersuadedprinter.com
 +.accomplishmentailmentinsane.com
 +.accomplishmentstrandedcuddle.com
@@ -11779,7 +11777,6 @@
 +.continuallyninetysole.com
 +.continuation423.fun
 +.continuedhostilityequipped.com
-+.continuousowenspaniard.com
 +.continuousselfevidentinestimable.com
 +.contradiction2.fun
 +.contradictshaftfixedly.com
@@ -17372,7 +17369,6 @@
 +.faencepuggy.com
 +.faestara.com
 +.fafmimgubcm.com
-+.fagarauvitic.com
 +.faggapmunost.com
 +.faggrim.com
 +.fagovwnavab.com
@@ -20305,7 +20301,6 @@
 +.gxzhshop.com
 +.gybyxsy1588.com
 +.gyeapology.top
-+.gyenhpl.com
 +.gyh1lh20owj.ru
 +.gyjgrvd.cn
 +.gylor.xyz
@@ -23482,7 +23477,6 @@
 +.k8.usefto.com
 +.k8ik878i.top
 +.k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
-+.k8trangphim.com
 +.k9gj.site
 +.kaascypher.com
 +.kabakamarbles.top
@@ -39488,7 +39482,6 @@
 +.terminalcomrade.com
 +.terminusbedsexchanged.com
 +.termite.queerburners.org
-+.termslimemonks.com
 +.termswhopitched.com
 +.tern.daffy.org
 +.tern.xebel.co
@@ -43860,7 +43853,6 @@
 +.wh.giftd.tech
 +.whachaun.net
 +.whackresolved.com
-+.whadupsi.net
 +.whagrolt.com
 +.whaickeenie.xyz
 +.whaickossu.net
@@ -45662,7 +45654,6 @@
 +.ywvjyxp.com
 +.yx-ads6.com
 +.yxajqsrsij.com
-+.yxamkm.xyz
 +.yxcrcc.xyz
 +.yxgqgq.xyz
 +.yxhouwezb.site
