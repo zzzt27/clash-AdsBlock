@@ -1,9 +1,9 @@
-# Version: 202410260907
+# Version: 202410261307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46165
-# Last modified: 2024-10-26T09:07:58+0000
+# Entries: 46164
+# Last modified: 2024-10-26T13:07:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9952,7 +9952,6 @@
 +.catshark.spur.design
 +.catsnthing.com
 +.catsnthings.fun
-+.catsupskepped.com
 +.cattishfearfulbygone.com
 +.cattishhistoryexplode.com
 +.cattishinquiries.com
