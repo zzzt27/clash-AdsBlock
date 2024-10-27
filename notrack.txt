@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 27 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15928
+# Domain Count: 15927
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -1795,7 +1795,6 @@
 +.improvely.com
 +.improving.duckduckgo.com
 +.imrworldwide.com
-+.imshopping.com
 +.in-adreq.vivoglobal.com
 +.in-adsjssdk.vivoglobal.com
 +.in-apponrt-stsdk.vivoglobal.com
