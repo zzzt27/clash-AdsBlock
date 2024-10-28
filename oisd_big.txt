@@ -1,9 +1,9 @@
-# Version: 202410281307
+# Version: 202410281507
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136649
-# Last modified: 2024-10-28T13:07:48+0000
+# Entries: 136650
+# Last modified: 2024-10-28T15:07:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -96998,6 +96998,7 @@
 +.px-broke.com
 +.px-eu.dynamicyield.com
 +.px-intl.ucweb.com
++.px.blog.hu
 +.px.cbctp.top
 +.px.dmp.zaloapp.com
 +.px.dynamicyield.com
