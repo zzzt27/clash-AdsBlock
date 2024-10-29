@@ -1,9 +1,9 @@
-# Version: 202410291207
+# Version: 202410291307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 135867
-# Last modified: 2024-10-29T12:07:41+0000
+# Entries: 135866
+# Last modified: 2024-10-29T13:07:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15750,7 +15750,6 @@
 +.api.pingstart.com
 +.api.primecaster.net
 +.api.privy.com
-+.api.processing-transaction.info
 +.api.pubfinity.com
 +.api.publishers.adlive.io
 +.api.pubwise.io
