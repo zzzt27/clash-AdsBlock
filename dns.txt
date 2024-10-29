@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Oct 2024 23:55 UTC
-# Version: 2024.1028.2355.11
+# Last modified: 27 Oct 2024 23:04 UTC
+# Version: 2024.1027.2304.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1427
+# Number of entries: 1449
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -110,6 +110,25 @@ DOMAIN-SUFFIX,ag.apollohct.com
 DOMAIN-SUFFIX,doh.dns.apple.com
 DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
 DOMAIN-SUFFIX,mask.apple-dns.net
+DOMAIN-SUFFIX,ausyd2.mask-t.apple-dns.net
+DOMAIN-SUFFIX,deber3.mask-t.apple-dns.net
+DOMAIN-SUFFIX,dedus1.mask-t.apple-dns.net
+DOMAIN-SUFFIX,gbslo5.mask-t.apple-dns.net
+DOMAIN-SUFFIX,hktko1.mask-t.apple-dns.net
+DOMAIN-SUFFIX,iedub2.mask-t.apple-dns.net
+DOMAIN-SUFFIX,jptyo12.mask-t.apple-dns.net
+DOMAIN-SUFFIX,nlhfd1.mask-t.apple-dns.net
+DOMAIN-SUFFIX,sesto4.mask-t.apple-dns.net
+DOMAIN-SUFFIX,sgsin8.mask-t.apple-dns.net
+DOMAIN-SUFFIX,twntc1.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usatl5.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usbos2.mask-t.apple-dns.net
+DOMAIN-SUFFIX,uschi7.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usdal2.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usden6.mask-t.apple-dns.net
+DOMAIN-SUFFIX,uslax2.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usmia1.mask-t.apple-dns.net
+DOMAIN-SUFFIX,usuyk1.mask-t.apple-dns.net
 DOMAIN-SUFFIX,dns.applewebkit.dev
 DOMAIN-SUFFIX,doh.applied-privacy.net
 DOMAIN-SUFFIX,dot1.applied-privacy.net
@@ -494,6 +513,8 @@ DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
 DOMAIN-SUFFIX,jurre-home.duckdns.org
+DOMAIN-SUFFIX,krtekvpn.duckdns.org
+DOMAIN-SUFFIX,osefcorp.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
@@ -584,6 +605,7 @@ DOMAIN-SUFFIX,dns.futuredns.me
 DOMAIN-SUFFIX,cluster-0.gac.edu
 DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
+DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
@@ -878,6 +900,7 @@ DOMAIN-SUFFIX,dns.lista.my.id
 DOMAIN-SUFFIX,dns.mikrotikrumahan.my.id
 DOMAIN-SUFFIX,dns.pnh.my.id
 DOMAIN-SUFFIX,dns.repinger.my.id
+DOMAIN-SUFFIX,dns1.server.my.id
 DOMAIN-SUFFIX,id.terra.my.id
 DOMAIN-SUFFIX,dns.velyn.my.id
 DOMAIN-SUFFIX,dns.vmath.my.id
@@ -1281,7 +1304,6 @@ DOMAIN-SUFFIX,ibksturm.synology.me
 DOMAIN-SUFFIX,ihctw.synology.me
 DOMAIN-SUFFIX,doh.syshero.org
 DOMAIN-SUFFIX,dns.szpadel.ovh
-DOMAIN-SUFFIX,dns.t-ipnet.de
 DOMAIN-SUFFIX,dns.t53.de
 DOMAIN-SUFFIX,tecdrive.site
 DOMAIN-SUFFIX,dns1.techeasy.org
