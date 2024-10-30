@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 30 Oct 2024
 # LatestVersion 24.01
-# Domain Count: 15926
+# Domain Count: 15924
 #===============================================================
 
 +.01mspmd5yalky8.com
@@ -14291,7 +14291,6 @@
 +.sascdn.com
 +.saymedia.com
 +.sayu.co.uk
-+.sayutracking.co.uk
 +.sc-analytics.appspot.com
 +.sc-static.net
 +.sc.smardroid.com
@@ -14327,7 +14326,6 @@
 +.seizedpenholdercranny.com
 +.sekindo.com
 +.sele.co
-+.sellathon.com
 +.semasio.net
 +.sematext.com
 +.sendgrid.me
