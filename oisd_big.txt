@@ -1,9 +1,9 @@
-# Version: 202410302206
+# Version: 202410302306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 136009
-# Last modified: 2024-10-30T22:06:43+0000
+# Last modified: 2024-10-30T23:06:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -50053,7 +50053,6 @@
 +.fmzcdvx.cn
 +.fmzifaqi.xyz
 +.fn.dowagerbeurre.com
-+.fn.wanedredates.com
 +.fnacc.fr
 +.fnad.fr
 +.fnasly.net
@@ -128029,6 +128028,7 @@
 +.wanderlust.rocks
 +.wanderlusting.net
 +.wanderside.com
++.wanedredates.com
 +.wanfchengdd.com
 +.wanfeng1.com
 +.wanfreeprogram.shop
