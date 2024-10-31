@@ -1,9 +1,9 @@
-# Version: 202410312007
+# Version: 202410312206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136956
-# Last modified: 2024-10-31T20:07:20+0000
+# Entries: 136951
+# Last modified: 2024-10-31T22:06:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -25622,7 +25622,6 @@
 +.business-api.tiktok.com
 +.business-degree.live
 +.business-manange.com
-+.business-postr-itp.xyz
 +.business-suport-help.com
 +.business24.fr
 +.business360news.com
@@ -28510,7 +28509,6 @@
 +.ceramicalienate.com
 +.cerbailliance.fr
 +.cerealsrecommended.com
-+.cerealsromana.com
 +.cerealssheet.com
 +.ceremonyavengeheartache.com
 +.ceresmosic.com
@@ -45706,7 +45704,6 @@
 +.estafet.futbol
 +.estafeta-v.top
 +.estafeta5.top
-+.estafeta8.cyou
 +.estafetai.cc
 +.estafetak.ink
 +.estafetam.ink
@@ -103895,7 +103892,6 @@
 +.santanderstore.com
 +.santarellano.com
 +.santavita.com.br
-+.sante-a-jour.fr
 +.sante-clair.fr
 +.sante-connect.fr
 +.sante-en-ligne.fr
@@ -107562,7 +107558,6 @@
 +.shophq.online
 +.shophungakira.com
 +.shopiastore.com
-+.shopify-dl.shop
 +.shopify-fast-tags.deliverr.com
 +.shopigo.fr
 +.shopingparty.com
