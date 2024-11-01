@@ -1,9 +1,9 @@
-# Version: 202411010006
+# Version: 202411010307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136947
-# Last modified: 2024-11-01T00:06:48+0000
+# Entries: 136962
+# Last modified: 2024-11-01T03:07:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -35036,6 +35036,7 @@
 +.ctl.buyt.in
 +.ctl.mobitrack.co.kr
 +.ctl.ultima.fun
++.ctlacnh.icu
 +.ctldl.windowsupdate.lflinkup.com
 +.ctlrarz.xyz
 +.ctm-media.com
@@ -40684,6 +40685,7 @@
 +.dmnqfn.xyz
 +.dmp.adform.net
 +.dmp.citiservi.es
++.dmp.citynews.ovh
 +.dmp.eland-tech.com
 +.dmp.sbermarketing.ru
 +.dmpbmzbmtr8c40a.jonesnewsletter.com
@@ -52378,6 +52380,7 @@
 +.g4.iqilu.com
 +.g4u22g.blogspot.com
 +.g4va.kdcad.com
++.g4y7uuk.com
 +.g5fzq2l.com
 +.g5rkmcc9f.com
 +.g6-gonight.org
@@ -56137,6 +56140,7 @@
 +.gradualmadness.com
 +.graduate472.fun
 +.graduatedspaghettiauthorize.com
++.graesol.com
 +.graettingerlaw.com
 +.grafatorio.com
 +.grafia.co
@@ -64793,6 +64797,7 @@
 +.irtyc.com
 +.irulws.xyz
 +.irvingfields.net
++.irxybq.com
 +.is-best.com
 +.is-log.furunavi.jp
 +.is-tracking-pixel-api-prod.appspot.com
@@ -73095,6 +73100,7 @@
 +.log.byteoversea.com
 +.log.classting.com
 +.log.cleandesigner.live
++.log.cleanertoolboxonline.live
 +.log.cloud.sbs.co.kr
 +.log.cmbchina.com
 +.log.codemarketing.cloud
@@ -75590,6 +75596,7 @@
 +.majestycarrentals.com
 +.majffrinforants.fr
 +.majiainc.com
++.majime-site-rk.com
 +.majmaj.fr
 +.majoagna.com
 +.major-video.click
@@ -83612,6 +83619,7 @@
 +.nevest.net
 +.nevillepreserved.com
 +.nevolas.com
++.new-access802.net
 +.new-balance-outlet.fr
 +.new-balance.fr
 +.new-bgpostol.shop
@@ -93344,6 +93352,7 @@
 +.pmuturf.fr
 +.pmuu.fr
 +.pmvmaltings.com
++.pmwofrq.icu
 +.pmwwedke.com
 +.pmxyzqm.com
 +.pmzer.com
@@ -97465,6 +97474,7 @@
 +.qgf338jtt8tty7rx.myfritz.net
 +.qgl27.xyz
 +.qglinlrtdfc.com
++.qgmwby.com
 +.qgxbluhsgad.com
 +.qh.editormbiras.com
 +.qh.escapedinbreed.com
@@ -110534,6 +110544,7 @@
 +.sotuyenvcb.vietcombanker.com
 +.soua.com
 +.souacode.com
++.soublib.top
 +.soucdtevoceumcuzao.duckdns.org
 +.soudanet.duckdns.org
 +.souffloutoven.digital
@@ -111610,6 +111621,7 @@
 +.srvads.argentina.com
 +.srvadsnew.argentina.com
 +.srvd2204.com
++.srvgl.com
 +.srvhost.servehttp.com
 +.srvice-public.fr
 +.srvmath.com
@@ -132796,6 +132808,7 @@
 +.xgbqbdp.cn
 +.xgeuzcfrkeb.com
 +.xgfi.handipants.com
++.xggcyef.icu
 +.xgihlgcfuu.com
 +.xgjidt.xyz
 +.xgmkj.com
@@ -133003,6 +133016,7 @@
 +.xjtosdof.icu
 +.xjupiter.com
 +.xjwrq.com
++.xjwzbo.com
 +.xjy8b7.onl.onlinetrees.co.uk
 +.xk2012.com
 +.xk9hrf.blow.harrisretreat.com
@@ -134972,6 +134986,7 @@
 +.yondental.co.kr
 +.yonderdim.com
 +.yonelectrikeer.com
++.yonemoku.rdy.jp
 +.yonex-france.fr
 +.yong.chazidian.com
 +.yong.publicvm.com
