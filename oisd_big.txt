@@ -1,9 +1,9 @@
-# Version: 202411012107
+# Version: 202411012207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 136619
-# Last modified: 2024-11-01T21:07:13+0000
+# Last modified: 2024-11-01T22:07:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -45067,6 +45067,7 @@
 +.eosante.fr
 +.eosgas.io
 +.eosoldesign.ro
++.eoubliw.top
 +.eoufaoeuhoauengi.su
 +.eoveukrnme.info
 +.eoweridus.com
@@ -49234,7 +49235,6 @@
 +.financeirologbr1.com.de
 +.financeiropost.com
 +.financeirotrc.com.de
-+.financelab.fr
 +.financesk.com
 +.financeworker.com
 +.financeworldwidehk.com
