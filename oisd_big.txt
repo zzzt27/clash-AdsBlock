@@ -1,9 +1,9 @@
-# Version: 202411022307
+# Version: 202411030006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136301
-# Last modified: 2024-11-02T23:07:26+0000
+# Entries: 136263
+# Last modified: 2024-11-03T00:06:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6065,7 +6065,6 @@
 +.academicsingles.jp
 +.academicvast.com
 +.academiedesparents.be
-+.academistrasbourg.duckdns.org
 +.academy-moderator.repl.co
 +.academy-partners.com
 +.academyblocked.com
@@ -12755,7 +12754,6 @@
 +.aliexpresse.store
 +.aliexpressfrance-fr.fr
 +.aliexpressr.com
-+.aliexpresss.shop
 +.aliexpressy.ru
 +.aliexpresy.com
 +.aliexprex.fr
@@ -24774,7 +24772,6 @@
 +.brillianceherewife.com
 +.brimmallow.com
 +.brinebeforethestorm.us
-+.bringbackourgals.biz
 +.bringchukker.com
 +.bringclockwise.com
 +.bringglacier.com
@@ -26533,7 +26530,6 @@
 +.camisaskavak.com.ve
 +.camisetasdahora.com
 +.camizu.net
-+.cammak.xyz
 +.camomilegentlemennotable.com
 +.camouque.net
 +.campagnefrance.eu
@@ -29949,7 +29945,6 @@
 +.citybusinesscreditunion.com
 +.citycash2.blogspot.com
 +.citychemical.com.my
-+.citycolor.com.mx
 +.citycourierfreight.co.za
 +.citydsp.com
 +.citygrid.com
@@ -34576,7 +34571,6 @@
 +.cruiserx.com
 +.cruiserx.net
 +.cruiseshelp.com
-+.cruisetitleclosed.com
 +.cruisetourist.com
 +.cruisetravelspot.com
 +.cruitcast.com
@@ -36821,7 +36815,6 @@
 +.dailyheraldpaddockpublication.112.2o7.net
 +.dailyimageboard.com
 +.dailyindustryresearch.com
-+.dailyinfo.info
 +.dailyinformations.com
 +.dailyjigsawpuzzles.co.cc
 +.dailyjumble.co.cc
@@ -40212,7 +40205,6 @@
 +.djecgyk.icu
 +.djenterprizes.com
 +.djeshwxzsiz.biz
-+.djfh.wmfc241.cn
 +.djfiln.com
 +.djfsml.com
 +.djhdw.yt
@@ -55052,7 +55044,6 @@
 +.goldspotmedia.com
 +.goldstats.com
 +.goldtickets.fr
-+.goldware.pw
 +.golem-network.com
 +.golemcoin.net
 +.golf-gti.be
@@ -56794,7 +56785,6 @@
 +.gudohuxy.uno
 +.gudrunteich.de
 +.gueb.com
-+.guedet.fr
 +.gueikw.xyz
 +.guellherald.com
 +.guenstigapotheker.de
@@ -58703,7 +58693,6 @@
 +.helps-uin.top
 +.helps-uio.top
 +.helps-uiv.top
-+.helps-uiz.top
 +.helpstop.us
 +.helpsupportcenter.com
 +.helpwebroot.com
@@ -62048,7 +62037,6 @@
 +.illuminazioneproduzione.it
 +.illuminiamoilpoggiodistantino.it
 +.illusiondramaexploration.com
-+.illusiveremarkstreat.com
 +.illustriousoatmeal.com
 +.illymithics.fr
 +.illyx.com
@@ -62240,7 +62228,6 @@
 +.imer.ro
 +.imessageonandroid.com
 +.imety.edu.co
-+.imevzbn.cn
 +.imf-gov.com
 +.imf-info.org
 +.imf-org.com
@@ -62910,7 +62897,6 @@
 +.indrive.info
 +.indta.co.id
 +.induceresistbrotherinlaw.com
-+.induedtwists.com
 +.induimperial.com
 +.indulacpr.com
 +.indusial.com
@@ -63075,7 +63061,6 @@
 +.info-usi.top
 +.info-usk.top
 +.info-usl.top
-+.info-usp.top
 +.info-usr.top
 +.info-uss.top
 +.info-ust.top
@@ -65693,7 +65678,6 @@
 +.jgblvt.xyz
 +.jgcyjx.cn
 +.jgeb6c8queuspv.pages.dev
-+.jgfty.xyz
 +.jgfuxnrloev.com
 +.jggegj-rtbix.top
 +.jggldfvx.com
@@ -72248,7 +72232,6 @@
 +.lnatboxtv.org
 +.lnbdbdo.com
 +.lndonclkds.com
-+.lndsu.xyz
 +.lnfo-amende.com
 +.lnfo.web-chat.eu
 +.lnfoskonto.com
@@ -74212,7 +74195,6 @@
 +.lv.hit.gemius.pl
 +.lv5hj.top
 +.lvbgs.xyz
-+.lvbngvy.com
 +.lvehaisen.com
 +.lvhcqaku.com
 +.lvip.youku.com
@@ -75817,7 +75799,6 @@
 +.marketangel.net
 +.marketbam.com
 +.marketbase.net
-+.marketbd.xyz
 +.marketdeliverytoday.blogspot.com
 +.marketengines.com
 +.marketere.com
@@ -78034,7 +78015,6 @@
 +.mhbyzzp.com
 +.mhc-e1mas.altsolve.com
 +.mhcfsjbqw.com
-+.mhcrzy.cfd
 +.mhdiaok.com
 +.mhdjkx.cn
 +.mhfdr.xyz
@@ -80353,7 +80333,6 @@
 +.movad.net
 +.movcpm.com
 +.move.teleskip.net
-+.movecolor.net
 +.moveform.co
 +.movegomove.com
 +.movemeal.com
@@ -81380,7 +81359,6 @@
 +.mybayarn.top
 +.mybayarshop.xyz
 +.mybbwporn.com
-+.mybenefit-canada2024.fr
 +.mybenne.com
 +.mybestautologin567.com
 +.mybestclick.net
@@ -86142,7 +86120,6 @@
 +.ofdrgd.xyz
 +.ofdxfsho.com
 +.ofebyk.xyz
-+.ofedupub.com
 +.ofenge.com
 +.ofertaclique.com.br
 +.ofertasdev.sslblindado.com
@@ -89807,7 +89784,6 @@
 +.pardonpopular.com
 +.parecyrclame.com
 +.parefeu-verif.fr
-+.paregain.org.uk
 +.pareja.com.br
 +.parenteer.com
 +.parentingcalculated.com
@@ -91854,7 +91830,6 @@
 +.picklecandourbug.com
 +.pickled.myddns.com
 +.picklesdumb.com
-+.picklespealwanderer.com
 +.picklick.com
 +.picklook.com
 +.picknstake.com
@@ -94066,7 +94041,6 @@
 +.ppttgov.live
 +.ppva.g1d.net
 +.ppvabs.pplive.com
-+.ppwcea.cfd
 +.ppwholesale.com
 +.ppyibei.com
 +.ppzxgz.cfd
@@ -98373,7 +98347,6 @@
 +.rbcholdings.com
 +.rbcxttd.com
 +.rbdwa.com
-+.rbfdf.xyz
 +.rbfive.bid
 +.rbfnmkwdncpntqcu9ofo.maherstcottage.com.au
 +.rbfour.bid
@@ -101460,7 +101433,6 @@
 +.rovec.ru
 +.rovertac.com
 +.rovgarena.com
-+.rovion.com
 +.rovno.xyz
 +.row.volksstimme.de
 +.rowerownia.eu
@@ -102213,7 +102185,6 @@
 +.rvotdlvpwmynan.xyz
 +.rvrpushserv.com
 +.rvweigh.com
-+.rvzfam.cfd
 +.rvzr-a.akamaihd.net
 +.rw.gundogleaker.com
 +.rw.marchex.io
@@ -102286,7 +102257,6 @@
 +.ryminos.com
 +.rynexa.ru
 +.rypltcelpr.com
-+.ryqgdrh.icu
 +.ryqlbqdj.com
 +.ryre.cn
 +.ryremovement.com
@@ -102411,7 +102381,6 @@
 +.s.elnz23.com
 +.s.everydayporn.co
 +.s.exv6.com
-+.s.faq-g-linkt.org
 +.s.freeporncave.com
 +.s.frida.vse42.ru
 +.s.fullhdfilmizlesene.com
@@ -112960,7 +112929,6 @@
 +.stofanet.dk
 +.stoffers-agro.com
 +.stoffwahn.de
-+.stofzuiger-shop.nl
 +.stoic-elion.34-125-197-109.plesk.page
 +.stokomani-group.fr
 +.stolenforensicssausage.com
@@ -115055,7 +115023,6 @@
 +.szbxw.cn
 +.szdamuzhi.com
 +.szddbxyumfcf.net
-+.szddm.cn
 +.szdft.com
 +.szdxw.cn
 +.szfaq.com
@@ -116981,7 +116948,6 @@
 +.teslal.com
 +.teslali.com
 +.teslamaked.com
-+.teslamission.info
 +.teslaplus.com
 +.teslas.info
 +.tesousefulhead.info
@@ -118165,7 +118131,6 @@
 +.tiaosa.cn
 +.tiappschecktest.azurewebsites.net
 +.tiara.daum.net
-+.tiasjdwwd.shop
 +.tibacta.com
 +.tibanom.com
 +.tibcpowpiaqv.com
@@ -122344,7 +122309,6 @@
 +.tvbildirim.com
 +.tvc.biphim.club
 +.tvcyyh.blow.harrisretreat.com
-+.tvemyv.cfd
 +.tventbb20pht.top
 +.tventji20vs.top
 +.tventji20vt.top
@@ -122824,7 +122788,6 @@
 +.uafkcvpvvelp.com
 +.uafuzcxr.xyz
 +.uahozcfq.xyz
-+.uahpycewbx.com
 +.uangqu.online
 +.uaoaig.xyz
 +.uapc-hbw.top
@@ -125761,7 +125724,6 @@
 +.vb9saoqwz.appspot.com
 +.vba.ru
 +.vbadbg.hit.gemius.pl
-+.vbammlgpfg.com
 +.vbanm.com
 +.vbbg.adocean.pl
 +.vbfhdgfj.vip
