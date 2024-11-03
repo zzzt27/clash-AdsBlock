@@ -1,9 +1,9 @@
-# Version: 202411030508
+# Version: 202411030607
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136032
-# Last modified: 2024-11-03T05:08:28+0000
+# Entries: 135979
+# Last modified: 2024-11-03T06:07:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -880,7 +880,6 @@
 +.144.red-88-31-70.staticip.rima-tde.net
 +.144.sub-75-219-195.myvzw.com
 +.144.sub-75-249-75.myvzw.com
-+.1446023384.rsc.cdn77.org
 +.145-98.kg.ftth.internl.net
 +.145.70.dialup.westcall.net
 +.1456.org
@@ -2314,7 +2313,6 @@
 +.32.huanqiu.com
 +.32.sub-75-195-114.myvzw.com
 +.32.sub-75-219-44.myvzw.com
-+.321163-co99530.tmweb.ru
 +.321412d1.url25fatm.com
 +.321cba.com
 +.321naturelikefurfuroid.com
@@ -3346,7 +3344,6 @@
 +.5403f592.catv.pool.telekom.hu
 +.5403f735.catv.pool.telekom.hu
 +.5403f772.catv.pool.telekom.hu
-+.5404.a.hostable.me
 +.54321.zz.am
 +.54369253290033.sytes.net
 +.543wew1.pages.dev
@@ -4095,7 +4092,6 @@
 +.711kk.com
 +.718unlimited.com
 +.71ccccb47f.dcefdf0e05.com
-+.71d7511a4861068.com
 +.71dd1ff9fd.com
 +.71l0b.com
 +.72.red-83-36-63.staticip.rima-tde.net
@@ -10406,7 +10402,6 @@
 +.adtest.theonion.com
 +.adtext.pl
 +.adtheorent.com
-+.adthereis.buzz
 +.adthis.com
 +.adthor.com
 +.adthrive.com
@@ -11356,7 +11351,6 @@
 +.afftrackr.com
 +.affyrtb.com
 +.afgakzvicdfe.com
-+.afge.fr
 +.afghanistan.de
 +.afgr1.com
 +.afgr10.com
@@ -17010,7 +17004,6 @@
 +.armtrans.com.au
 +.armuckbootsale.us
 +.army-shop.onshopbase.com
-+.army.boysgirlsgames.info
 +.army.delivery
 +.army2.xyz
 +.armygun.click
@@ -17460,7 +17453,6 @@
 +.asimad.com
 +.asimgs.pplive.cn
 +.asiminst.com
-+.asinat.com
 +.asinglewomanmovie.com
 +.asininefugit.com
 +.asiporata.com
@@ -22136,7 +22128,6 @@
 +.bgqdhq.blogspot.cz
 +.bgs.qhedu.net
 +.bguytsrstgnwtm.com
-+.bgxe4q.broz.northerndishedends.co
 +.bh.twifoilperoxyl.com
 +.bh100.com.cn
 +.bh3.net
@@ -29320,7 +29311,6 @@
 +.chinaih.com
 +.chinakingstthomas.com
 +.chinalifecare.com
-+.chinamobilie.com
 +.chinamyart.com
 +.chinaplanning.org
 +.chinashadenet.com
@@ -31918,7 +31908,6 @@
 +.comfortabletable.pages.dev
 +.comfortabletypicallycontingent.com
 +.comfortclick.co.uk
-+.comfortlessspotsbury.com
 +.comfortqatar.com
 +.comfreeads.com
 +.comfygoodness.com
@@ -34459,7 +34448,6 @@
 +.crossroadoutlaw.com
 +.crossroadsubquery.com
 +.crossroadzealimpress.com
-+.crossydonaldstion.in
 +.crotal.elitefinancas.com
 +.crou.ru
 +.crouchyearbook.com
@@ -42369,7 +42357,6 @@
 +.dwrz5az.cn
 +.dwund.yt
 +.dwvbfnqrbif.com
-+.dwwpofwebdwm.com
 +.dwwyw.bfrtbrkefc.top
 +.dwwyy.top
 +.dwydqnclgflug.com
@@ -42632,7 +42619,6 @@
 +.e2ys.com
 +.e30a86a427.com
 +.e3694.a.akamaiedge.net
-+.e36e2058e8.com
 +.e3b00aa283.973652004b.com
 +.e3d2d0cafa.com
 +.e3ev.com
@@ -43617,7 +43603,6 @@
 +.efr.me
 +.efreedom.net
 +.efrnedmiralpenb.info
-+.efsdf.xyz
 +.efsef.xyz
 +.efugl.iptvdeals.com
 +.efully.info
@@ -53061,7 +53046,6 @@
 +.generator.carsdream.com
 +.generator4u.com
 +.generatorhacks.com
-+.generatorpad.com
 +.generatorsupercenterofatlanta.com
 +.genereli.fr
 +.genericflow.com
@@ -53515,7 +53499,6 @@
 +.gettine.com
 +.gettingbook.net
 +.gettingcleaveassure.com
-+.gettingpckgeups.live
 +.gettingrealyoutubecomments.law.blog
 +.gettingtoe.com
 +.gettjohytn.com
@@ -53907,7 +53890,6 @@
 +.gillstaught.com
 +.gillynn.com
 +.gilmoregirlspodcast.com
-+.gilmorestradingsolution.com
 +.gimail.cz
 +.gimboy.com
 +.gimg.baidu.com
@@ -56470,8 +56452,6 @@
 +.grwp3.com
 +.grygrothapi.pro
 +.gryhazardowe.cloud
-+.gryhazardowe.us
-+.gryhazardowe.vip
 +.grystores.com
 +.gs-ad.jp
 +.gs.jsscxx.com
@@ -57099,7 +57079,6 @@
 +.gygdmy.com
 +.gyh1lh20owj.ru
 +.gyhgzm.com
-+.gyjgrvd.cn
 +.gyjn.yt
 +.gylor.xyz
 +.gymbaazar.com
@@ -63501,7 +63480,6 @@
 +.instagram-account-verification.monikariecke.de
 +.instagram-online.mcdir.ru.mcpre.ru
 +.instagram-verification.com
-+.instagram-verified-help.eu
 +.instagram-viperesport.4dq.com
 +.instagram.astv.ru
 +.instagram.com.account.login.security.yesil.xyz
@@ -64243,7 +64221,6 @@
 +.iqcxhe04fnic.com
 +.iqfight.de
 +.iqfindia.org
-+.iqgessh.icu
 +.iqgloin.com
 +.iqhosted.nl
 +.iqilogisticandcargo.com
@@ -70206,7 +70183,6 @@
 +.lby2kd27c.com
 +.lc.jiathis.com
 +.lc.nodoseamylic.com
-+.lc03349b.justinstalledpanel.com
 +.lc218.com
 +.lc442.com
 +.lcacreamery-chalfont.com
@@ -70614,7 +70590,6 @@
 +.leilhundgshepherds.com
 +.leisurebrain.com
 +.leisurehazearcher.com
-+.leisureinhibitdepartment.com
 +.leisurelyeaglepestilent.com
 +.leisurelypizzascarlet.com
 +.lejardindeau.fr
@@ -74012,7 +73987,6 @@
 +.luxcdn.com
 +.luxchecker.pw
 +.luxcod.shop
-+.luxcs.xyz
 +.luxdele.com
 +.luxe.bz
 +.luxeacs.fr
@@ -78263,7 +78237,6 @@
 +.migrantfarewellmoan.com
 +.migrantspiteconnecting.com
 +.migrationhydroonline.pages.dev
-+.migrationscale.com
 +.mihacn.com
 +.mihird.com
 +.mihjeans.fr
@@ -82202,7 +82175,6 @@
 +.nasul.ro
 +.nat0.top
 +.natac.top
-+.nataliaescareno.com
 +.nataliawalthphotography.com
 +.nataliebakery.ca
 +.natanpronta.imfast.io
@@ -84288,7 +84260,6 @@
 +.nmuericable.fr
 +.nmwbank.cn
 +.nmxads.narrowline.com
-+.nmxcadosdrcbd.com
 +.nmxxvr.xyz
 +.nmxzfvedrw.vicp.hk
 +.nmybyxnjscf.com
@@ -84303,7 +84274,6 @@
 +.nngft.com
 +.nnggo.com
 +.nngrw.mzuaaddprx.top
-+.nnjou.com
 +.nnnjerseys.com
 +.nnowa.com
 +.nnpcgroupjvops.com
@@ -84429,7 +84399,6 @@
 +.nojazz.eu
 +.nojhhsg.com
 +.nojkx.com
-+.nokeegne.com
 +.nokia-lifestyle.ru
 +.nokiseitjnemnew.jp
 +.noktacloud.com.tr
@@ -84508,7 +84477,6 @@
 +.nopedro.con-ip.com
 +.nopetsou.net
 +.nopetube.xn--mgbkt9eckr.net
-+.noproblfr.com
 +.noptog.com
 +.nor-reg.com
 +.noradgroup.com
@@ -88229,7 +88197,6 @@
 +.otnolabttmup.com
 +.otnolatrnup.com
 +.otoadom.com
-+.otocyonbanner.click
 +.otojack.co.id
 +.otomachi.jp
 +.otomotifme.com
@@ -91719,7 +91686,6 @@
 +.pictures.everydayfilmlink.com
 +.picturestash.mom
 +.pid.fly160.com
-+.pidcowwnwwwx.com
 +.pidurrmu.xyz
 +.pieceedge.com
 +.pieceresponsepamphlet.com
@@ -93607,7 +93573,6 @@
 +.postfix.aomg5bzv7.com
 +.posthog.basalam.com
 +.posthog.tarnkappe.info
-+.posthostandshare.com
 +.postifu.com
 +.postifvu.com
 +.postislan.top
@@ -95468,7 +95433,6 @@
 +.psilocybinstore.us
 +.psirtass.net
 +.psishops.com
-+.psissoaksoab.xyz
 +.psistaghuz.com
 +.psistaugli.com
 +.psl-ecoleinterne.inscription.psl.eu
@@ -96561,7 +96525,6 @@
 +.px3792.com
 +.px9.nuderedtube.com
 +.pxblmj.com
-+.pxk.jp
 +.pxl.host
 +.pxl.knam.pro
 +.pxlctl.elpais.com
@@ -97084,7 +97047,6 @@
 +.qss-client.qq.com
 +.qsstats.com
 +.qstzar.cn
-+.qsxptjxruxrttu.xyz
 +.qsyzf.cn
 +.qsyzz.yt
 +.qt.biqugezw.com
@@ -97449,7 +97411,6 @@
 +.qwejm.yt
 +.qwepoi123098.com
 +.qwer9876.vicp.cc
-+.qwera.xyz
 +.qwerfdx.com
 +.qwerkkc.ru
 +.qwertytracks.com
@@ -99586,7 +99547,6 @@
 +.repairshoppr.com
 +.repairsoftreview.com
 +.repairsoftwarereviews.com
-+.repancreatitisok.live
 +.repaycucumbersbutler.com
 +.repayrotten.com
 +.repbblica.it
@@ -104084,7 +104044,6 @@
 +.sddsvrgs.ajisushihouse.com
 +.sdefrtgfe.duckdns.org
 +.sdegwynml.bmaci.me
-+.sder.ddns.net
 +.sdfa.liveblog365.com
 +.sdfeaa.top
 +.sdfebb.top
@@ -105930,7 +105889,6 @@
 +.sevierxx.com
 +.sevillatimes.com
 +.sevjoi17ht.top
-+.sevjoi17sr.top
 +.sevjoi17vt.top
 +.sevokop.com
 +.sevtbb17ht.top
@@ -112190,7 +112148,6 @@
 +.stealcurtainsdeeprooted.com
 +.stealer.re
 +.stealer.to
-+.stealerpanel.usa.cc
 +.stealingdyingprank.com
 +.stealinggin.com
 +.stealit.vercel.app
@@ -115770,7 +115727,6 @@
 +.tburmyor.com
 +.tbvg.com
 +.tbwysx.cn
-+.tbxnhnorzujvs.com
 +.tbxqbvt.cn
 +.tbxsdf.xyz
 +.tbxyuwctmt.com
@@ -116139,7 +116095,6 @@
 +.tedescomartins.hospedagemdesites.ws
 +.tedilieva.tv
 +.tedimpdfhj.moispa.click
-+.tedious-weight.pro
 +.tediousbear.com
 +.tediousgorgefirst.com
 +.tediousticket.com
@@ -118505,7 +118460,6 @@
 +.tkeesparis.fr
 +.tkglobalstore.vip
 +.tkguojivip.shop
-+.tkhwslqsmjwingf.com
 +.tkidcigitrte.com
 +.tkj1mutuharjo.com
 +.tklm77.top
@@ -122476,7 +122430,6 @@
 +.u.iciba.com
 +.u.infotrackdcm.top
 +.u.infotrackgc.live
-+.u.infotrackxj.live
 +.u.jimdo.com
 +.u.l.qq.com
 +.u.lucy-anne.com
@@ -122573,7 +122526,6 @@
 +.u9p6z6.blow.harrisretreat.com
 +.ua-aws.army
 +.ua-gov.cloud
-+.ua-mil.cloud
 +.ua.adocean.pl
 +.ua.hit.gemius.pl
 +.ua.indianexpress.com
@@ -127796,7 +127748,6 @@
 +.vyocqq.com
 +.vyrhxfi.cn
 +.vysokepole.eu
-+.vysyyvyvm.myjino.ru
 +.vyule.com
 +.vyv-mutuelle.fr
 +.vyvassurance.fr
@@ -131301,7 +131252,6 @@
 +.wvtynme.com
 +.wvvkxni.com
 +.wvvvbradesco.com
-+.wvvw-store-ankama.com
 +.wvwdofus.com
 +.wvwfacebook.com
 +.wvwjdrli.com
@@ -131341,7 +131291,6 @@
 +.wweb.muuikj-6.sbs
 +.wweconsumer.112.2o7.net
 +.wwecorp2.112.2o7.net
-+.wwemleypftdook.com
 +.wwemm.com
 +.wwfree.fr
 +.wwfx.xyz
@@ -131764,7 +131713,6 @@
 +.x7m508oml0vy2hm3ujs5skuz09mxfznm.re2.de
 +.x7r3mk6ldr.com
 +.x8.cho-chin.com
-+.x822.mrt.com
 +.x876789a.store
 +.x888x.myserver.org
 +.x8dy.com
@@ -134615,7 +134563,6 @@
 +.yunfan.com
 +.yungtee3.wixsite.com
 +.yunkuang.log.kukuplay.com
-+.yunmaue.com
 +.yunos.com
 +.yunpifu.cn
 +.yunque.pluto.ro
