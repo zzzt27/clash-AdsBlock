@@ -4,11 +4,11 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 7 days
-# Last modified: 01 Nov 2024 18:55 UTC
-# Version: 2024.1101.1855.18
+# Expires: 1 day
+# Last modified: 03 Nov 2024 10:57 UTC
+# Version: 2024.1103.1057.56
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1445
+# Number of entries: 1424
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -110,25 +110,6 @@ DOMAIN-SUFFIX,ag.apollohct.com
 DOMAIN-SUFFIX,doh.dns.apple.com
 DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
 DOMAIN-SUFFIX,mask.apple-dns.net
-DOMAIN-SUFFIX,ausyd2.mask-t.apple-dns.net
-DOMAIN-SUFFIX,deber3.mask-t.apple-dns.net
-DOMAIN-SUFFIX,dedus1.mask-t.apple-dns.net
-DOMAIN-SUFFIX,gbslo5.mask-t.apple-dns.net
-DOMAIN-SUFFIX,hktko1.mask-t.apple-dns.net
-DOMAIN-SUFFIX,iedub2.mask-t.apple-dns.net
-DOMAIN-SUFFIX,jptyo12.mask-t.apple-dns.net
-DOMAIN-SUFFIX,nlhfd1.mask-t.apple-dns.net
-DOMAIN-SUFFIX,sesto4.mask-t.apple-dns.net
-DOMAIN-SUFFIX,sgsin8.mask-t.apple-dns.net
-DOMAIN-SUFFIX,twntc1.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usatl5.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usbos2.mask-t.apple-dns.net
-DOMAIN-SUFFIX,uschi7.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usdal2.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usden6.mask-t.apple-dns.net
-DOMAIN-SUFFIX,uslax2.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usmia1.mask-t.apple-dns.net
-DOMAIN-SUFFIX,usuyk1.mask-t.apple-dns.net
 DOMAIN-SUFFIX,dns.applewebkit.dev
 DOMAIN-SUFFIX,doh.applied-privacy.net
 DOMAIN-SUFFIX,dot1.applied-privacy.net
@@ -892,7 +873,6 @@ DOMAIN-SUFFIX,dns.murgi.de
 DOMAIN-SUFFIX,dns.muxinghe.cn
 DOMAIN-SUFFIX,muxyuji.ru
 DOMAIN-SUFFIX,d.apemlegit.my.id
-DOMAIN-SUFFIX,please.dontsteal.my.id
 DOMAIN-SUFFIX,dns.iki.my.id
 DOMAIN-SUFFIX,dns.lista.my.id
 DOMAIN-SUFFIX,dns.mikrotikrumahan.my.id
@@ -1197,7 +1177,6 @@ DOMAIN-SUFFIX,dns.rotunneling.net
 DOMAIN-SUFFIX,o.rsaikat.com
 DOMAIN-SUFFIX,au.rslvr.eu
 DOMAIN-SUFFIX,bg.rslvr.eu
-DOMAIN-SUFFIX,dns.rslvr.eu
 DOMAIN-SUFFIX,hk.rslvr.eu
 DOMAIN-SUFFIX,jp.rslvr.eu
 DOMAIN-SUFFIX,nl.rslvr.eu
