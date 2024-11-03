@@ -1,9 +1,9 @@
-# Version: 202411030307
+# Version: 202411030407
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136130
-# Last modified: 2024-11-03T03:07:00+0000
+# Entries: 136091
+# Last modified: 2024-11-03T04:07:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6871,7 +6871,6 @@
 +.ad.cl.doubleclick.net
 +.ad.clickotmedia.com
 +.ad.clicrbs.com.br
-+.ad.clovenetwork.com
 +.ad.cmvideo.cn
 +.ad.cn.doubleclick.net
 +.ad.co.doubleclick.net
@@ -10612,7 +10611,6 @@
 +.advanced-ip-scanir.net
 +.advanced-ip-scanner.link
 +.advanced-ip-scanr.com
-+.advanced-ip-scanr.net
 +.advanced-ip-scanz.com
 +.advanced-ip-scanz.net
 +.advanced-ip-sccanner.com
@@ -13905,7 +13903,6 @@
 +.ams.naturalnews.com
 +.ams.ux-dev.com.my
 +.ams1-ib.adnxs.com
-+.amsbce.xyz
 +.amserva.com
 +.amsfi.com
 +.amshroomishan.com
@@ -15536,7 +15533,6 @@
 +.aphid.polarcop.com
 +.aphid.smartjournal.no
 +.aphid.thyself.me
-+.aphidespulques.com
 +.aphqj.members.openarmscv.com
 +.aphrodisia01.free.fr
 +.aphrodite-astrology.net
@@ -18926,7 +18922,6 @@
 +.avventureboreali.com
 +.avview3431.fun
 +.avviso-clienti.com
-+.avvmus03.beget.tech
 +.avvtr.yt
 +.avvty.yt
 +.avvxcexk.com
@@ -20770,6 +20765,7 @@
 +.bdcelectricalservices.com
 +.bdckqpofmclr.com
 +.bdcm.kandianla.com
++.bdcmwcl.icu
 +.bdcode.2345.com
 +.bdcode.qinglm.com
 +.bdcode.youke.com
@@ -22150,7 +22146,6 @@
 +.bh3.net
 +.bhabhiporn.pro
 +.bhadas4politician.com
-+.bhakte.com
 +.bhalukecky.com
 +.bharalhallahs.com
 +.bharathvision.in
@@ -33670,7 +33665,6 @@
 +.covid19-vat.rf.gd
 +.covid19.berkstalls.com
 +.covid19.egreen.io
-+.covid19.hvideo.love
 +.covid19.jp
 +.covid19.liceojar.cl
 +.covid19.media
@@ -38121,7 +38115,6 @@
 +.dellveroo.fr
 +.dellyapl.world
 +.dellziac.world
-+.dellzlnw.world
 +.delmarviato.com
 +.delmonicositaliansteakhouse.com
 +.delmovip.com
@@ -41920,6 +41913,7 @@
 +.dsdetector.com
 +.dsethimdownthmo.com
 +.dsfbdfspichincha.webcindario.com
++.dsfh2.icu
 +.dsfjhfhyry2hh8jo09.com
 +.dsfr-builder.fr
 +.dsg.interia.pl
@@ -45123,7 +45117,6 @@
 +.eringosdye.com
 +.erinhphotography.com
 +.erinkveld.eu
-+.erinsfurniture.com
 +.eriqlukasik.com
 +.erisasolutions.com
 +.eritrean111.prohosts.org
@@ -45224,7 +45217,6 @@
 +.esadupnpaataend.com
 +.esafate.top
 +.esaidees.com
-+.esasaimpi.net
 +.esat.com.tr
 +.esathyasesume.info
 +.esauphultough.net
@@ -45874,6 +45866,7 @@
 +.event-api.rdstation.com.br
 +.event-collector.moviesanywhere.com
 +.event-collector.prd.data.s.joyn.de
++.event-dot-learning-piano.appspot.com
 +.event-elonmusk.info
 +.event-experiment.com
 +.event-logger.tagboard.com
@@ -50270,7 +50263,6 @@
 +.forfasr600.weebly.com
 +.forfeitfetid.com
 +.forfeitsubscribe.com
-+.forfitbelter.click
 +.forflygonom.com
 +.forfor.ddns.net
 +.forfrogadiertor.com
@@ -51690,7 +51682,6 @@
 +.fuoriskema.it
 +.fupexojor.weebly.com
 +.fuphekaur.net
-+.fuphugccgowp.com
 +.fur1a.duckdns.org
 +.furbizzle.com
 +.furbo.com.br
@@ -58187,7 +58178,6 @@
 +.hdntb.vn
 +.hdoro.com
 +.hdporium.com
-+.hdrecall.com
 +.hdrhsy.cn
 +.hds9pzoas.appspot.com
 +.hdsaison-app.cc
@@ -58643,7 +58633,6 @@
 +.helps-uan.top
 +.helps-uia.top
 +.helps-uil.top
-+.helps-uin.top
 +.helps-uio.top
 +.helps-uiv.top
 +.helpstop.us
@@ -59706,7 +59695,6 @@
 +.holonpbi.net
 +.holosonoptics.com
 +.holspostcardhat.com
-+.holstinin.com
 +.holternet.de
 +.holtoncrosshomes.com
 +.holy-kantei.com
@@ -59849,7 +59837,6 @@
 +.homolog.croplifebrasil.org
 +.homosexualfordtriggers.com
 +.homyanus.com
-+.homyhomy.url.ph
 +.hondachat.com
 +.hondaspareparts.org
 +.hondtcor-gov.top
@@ -59898,7 +59885,6 @@
 +.honourprecisionsuited.com
 +.honoursdashed.com
 +.honoursimmoderate.com
-+.honqdyg.cn
 +.honseki.info
 +.honship.com
 +.hontam.net
@@ -62391,6 +62377,7 @@
 +.immureinn.com
 +.immureuvanite.com
 +.imnestled.com
++.imniel.com
 +.imobuy.com
 +.imonomy.com
 +.imop.com
@@ -63004,7 +62991,6 @@
 +.info-usb.top
 +.info-usc.top
 +.info-usd.top
-+.info-use.top
 +.info-usf.top
 +.info-usi.top
 +.info-usl.top
@@ -63463,6 +63449,7 @@
 +.insight.mintel.com
 +.insight.nikkasystems.com
 +.insight.ucweb.com
++.insights-categorizer-noneu.truecaller.com
 +.insights-collector.newrelic.com
 +.insights-mxp.coursecareers.com
 +.insights.algolia.io
@@ -63514,7 +63501,6 @@
 +.insstagram.com
 +.inst.360safe.com
 +.insta-71r.pages.dev
-+.insta-cash.net
 +.insta-hack.com
 +.insta.reduct.ru
 +.insta.willowsoaks.com
@@ -63953,7 +63939,6 @@
 +.inuseme.com
 +.inuvi.com
 +.inv.lapippa.com
-+.invadedwormmillionaire.com
 +.invaderimmenseimplication.com
 +.invaluablebuildroam.com
 +.invariablyunpredictable.com
@@ -68060,6 +68045,7 @@
 +.kinun-2023.com
 +.kinun-777.com
 +.kinzino.com
++.kiolpia.icu
 +.kiosked.com
 +.kipasdenim.com
 +.kipbiddle.com
@@ -68616,7 +68602,6 @@
 +.koocawhaido.net
 +.koocoofy.com
 +.koogreep.com
-+.koojaiba.net
 +.koojaith.xyz
 +.kooktaripa.com
 +.koolawet.net
@@ -69117,7 +69102,6 @@
 +.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 +.kxlogo.knet.cn
 +.kxnggkh2nj.com
-+.kxnolw.cfd
 +.kxrcw.net
 +.kxshyo.com
 +.kxsvelr.com
@@ -70225,7 +70209,6 @@
 +.lbclocation.fr
 +.lbclr.com
 +.lbcommunicationsinc.com
-+.lbcpaiement.fr
 +.lbcpaye.fr
 +.lbeoncoin.fr
 +.lbero.it
@@ -70896,7 +70879,6 @@
 +.letschat-5d5e3-default-rtdb.firebaseio.com
 +.letscuturl.com
 +.letsdobath.co.uk
-+.letsencryp.at
 +.letsfinder.com
 +.letsgodislessia.com
 +.letsmakeparty3.ga
@@ -73891,7 +73873,6 @@
 +.luckywinner-web1.com
 +.luckyz.xyz
 +.luckyzombie.com
-+.lucnhyasi.cfd
 +.lucrinearraign.com
 +.lucting.cn
 +.lucyen.net
@@ -77383,7 +77364,6 @@
 +.merzostueru2hu8jr09.com
 +.mes-assure-enligne-renouvellement.fr
 +.mes-assure-renouvellement.fr
-+.mes-droits-sante.fr
 +.mes-espace-assure-renouvellement.fr
 +.mes-espace-renouvellement-enligne.fr
 +.mes-espace-renouvellement.fr
@@ -78817,7 +78797,6 @@
 +.misusefreeze.com
 +.misuseoyster.com
 +.misuseproductions.com
-+.misyuni.com
 +.mit-digitalopna.com
 +.mitavittua.com
 +.mitchellandnessfrance.fr
@@ -79203,7 +79182,6 @@
 +.moaningbeautifulnobles.com
 +.moanishaiti.com
 +.moapaglee.net
-+.moapuwhe.com
 +.moartraffic.com
 +.moat.com
 +.moatads.com
@@ -80125,7 +80103,6 @@
 +.mossbeachmusic.de
 +.mossfabric.digital
 +.mossgaietyhumiliation.com
-+.mossru.com
 +.mosssuppliers.co.za
 +.mossyiapyges.com
 +.most-dnepr.info
@@ -80931,7 +80908,6 @@
 +.munchuluu.mn
 +.mundanenail.com
 +.mundanepollution.com
-+.mundialgospelfm.com.br
 +.mundiprep.com
 +.mundoclubtours.com
 +.mundodosscripts.com
@@ -86319,7 +86295,6 @@
 +.ohbayersbur.pro
 +.ohchat.net
 +.ohcxd.yt
-+.ohdrd.xyz
 +.ohfdr.xyz
 +.ohfth.xyz
 +.ohh19.com
@@ -86619,7 +86594,6 @@
 +.olep.xyz
 +.olevole.ru
 +.olevsoriginal.com
-+.olgknseruf.com
 +.olhequedemais.com.br
 +.olhsc.org
 +.olibero.it
@@ -91803,7 +91777,6 @@
 +.pierrapturerudder.com
 +.pierrecardin-france.fr
 +.pierrecardinfrance.fr
-+.pierryjumy.cfd
 +.piespower.com
 +.piet2eix3l.com
 +.pieterpeach.com
@@ -93706,7 +93679,6 @@
 +.postolwepok.tech
 +.postorderapotheek.com
 +.postpagodescuentos.com
-+.postphlapp.top
 +.postproperties.co.zw
 +.postq.lat
 +.postr.ink
@@ -96774,7 +96746,6 @@
 +.qazanova-alm-mmkr.com
 +.qazxswedcvfrs.sbs
 +.qbc1.cn
-+.qbcmws.xyz
 +.qbd3.site
 +.qbdgame.com
 +.qbhdn.com
@@ -97020,7 +96991,6 @@
 +.qmazon.work
 +.qmbdta.cn
 +.qmginteractive.com
-+.qmhffrogjeca.com
 +.qmname.com
 +.qmtqzsczx.com
 +.qmwjkg.cfd
@@ -101311,7 +101281,6 @@
 +.roundspaniardindefinitely.com
 +.roundyearfun.com
 +.roundyearfun.org
-+.roundynews.com
 +.rounidorana.com
 +.rounsh.com
 +.rouonixon.com
@@ -105635,7 +105604,6 @@
 +.server20.duckdns.org
 +.server221450.nazwa.pl
 +.server271250.nazwa.pl
-+.server3.eye-network.ru
 +.server328687.nazwa.pl
 +.server358.net
 +.server375674.nazwa.pl
@@ -106300,7 +106268,6 @@
 +.shadowjav182.fun
 +.shadu.baidu.com
 +.shaduruanjian8.com
-+.shady-addition.com
 +.shadyhollowfleamarket.com
 +.shadyobscene.com
 +.shadytourdisgusted.com
@@ -111207,7 +111174,6 @@
 +.staemcomnmunity.com
 +.staemcomnuinty.ru
 +.staemcomrnunity.ru
-+.staemcomunity.com
 +.staemcomunity.ru
 +.staemcomunnutty.com
 +.staemconmunity.com
@@ -112204,7 +112170,6 @@
 +.statuses.ws
 +.statut-coupon.fr
 +.statut-lbc.fr
-+.statut-mon-coupon.fr
 +.statut-ticket.fr
 +.statwup.huya.com
 +.statwup.nimo.tv
@@ -115429,7 +115394,6 @@
 +.takening.com
 +.takeoutregularlyclack.com
 +.takeoverrings.com
-+.taker1.xyz
 +.taker2.xyz
 +.taker3.xyz
 +.takerest.net
@@ -119590,6 +119554,7 @@
 +.totycb.cyou
 +.touaz.xyz
 +.toubem.com.br
++.toublii.top
 +.toucan.ateliermilky.com
 +.toucan.the-faithful.com
 +.touch-casinos.fr
@@ -122268,7 +122233,6 @@
 +.tweet818k.2fh.co
 +.tweezesmalanga.com
 +.tweitter.com
-+.twelbb12ht.top
 +.twelfthcomprehendgrape.com
 +.twelfthdistasteful.com
 +.tweljo12sr.top
@@ -122809,7 +122773,6 @@
 +.uclcollege.com
 +.ucleaner.com
 +.uclmad.com
-+.uclrlydjewxcl.xyz
 +.ucmal.com
 +.ucmasmauritius.com
 +.ucom.ne.jp
@@ -124244,6 +124207,7 @@
 +.urocyoncabrit.top
 +.urologie-chu-montpellier.fr
 +.urpindia.in
++.urpkktc.icu
 +.urpqf.com
 +.urps-santepublique.fr
 +.urpst.com
@@ -124653,7 +124617,6 @@
 +.uspsksa.com
 +.uspslmn.top
 +.uspslza.top
-+.uspslzi.top
 +.uspsmaildelivery.org
 +.uspsmax.com
 +.uspsmovingetrain.com
@@ -126713,7 +126676,6 @@
 +.villa-sonnenberg.de
 +.villabluu.com
 +.villagarden.pl
-+.villagedguy.cyou
 +.villageoutlet.fr
 +.villagepalmful.com
 +.villagerprolific.com
@@ -129210,7 +129172,6 @@
 +.wellsfargonline.rumahweb.org
 +.wellsfrargo.top
 +.wellsgate-capital.com
-+.wellshyeng.com
 +.wellsigns.com
 +.welltalk.net
 +.wellyoumust.ru

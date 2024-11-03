@@ -1,9 +1,9 @@
-# Version: 202411030307
+# Version: 202411030407
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45990
-# Last modified: 2024-11-03T03:07:11+0000
+# Entries: 45982
+# Last modified: 2024-11-03T04:07:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5118,7 +5118,6 @@
 +.amre.work
 +.ams-pageview-public.s3.amazonaws.com
 +.ams.naturalnews.com
-+.amsbce.xyz
 +.amshroomishan.com
 +.amswadloonan.com
 +.amt-k.ru
@@ -5914,7 +5913,6 @@
 +.aphid.polarcop.com
 +.aphid.smartjournal.no
 +.aphid.thyself.me
-+.aphidespulques.com
 +.aphrodisia01.free.fr
 +.aphrodite.aomg5bzv7.com
 +.api-a.op-mobile.opera.com
@@ -7751,6 +7749,7 @@
 +.bdcebeabc4.com
 +.bdckqpofmclr.com
 +.bdcm.kandianla.com
++.bdcmwcl.icu
 +.bdcode.2345.com
 +.bdcode.qinglm.com
 +.bdcode.youke.com
@@ -8219,7 +8218,6 @@
 +.bh.twifoilperoxyl.com
 +.bh3.net
 +.bhabhiporn.pro
-+.bhakte.com
 +.bhalukecky.com
 +.bharalhallahs.com
 +.bhclicks.com
@@ -15518,6 +15516,7 @@
 +.dsbudkwq.xyz
 +.dscex7u1h4a9a.cloudfront.net
 +.dsethimdownthmo.com
++.dsfh2.icu
 +.dsfjhfhyry2hh8jo09.com
 +.dsg.interia.pl
 +.dsg.reifporn.de
@@ -16700,7 +16699,6 @@
 +.erysilenitmanb.com
 +.esa-reg-eup.myoppo.com
 +.esaidees.com
-+.esasaimpi.net
 +.esathyasesume.info
 +.esauphultough.net
 +.esbeginnyweakel.org
@@ -16872,6 +16870,7 @@
 +.event-api.rdstation.com.br
 +.event-collector.moviesanywhere.com
 +.event-collector.prd.data.s.joyn.de
++.event-dot-learning-piano.appspot.com
 +.event-logger.tagboard.com
 +.event-reporting-dot-webylytics.appspot.com
 +.event-router.chime.com
@@ -18323,7 +18322,6 @@
 +.forex-affiliate.net
 +.forfeitfetid.com
 +.forfeitsubscribe.com
-+.forfitbelter.click
 +.forflygonom.com
 +.forfrogadiertor.com
 +.forgetinnumerablelag.com
@@ -18681,7 +18679,6 @@
 +.funsoups.com
 +.funyarewesbegi.com
 +.fuphekaur.net
-+.fuphugccgowp.com
 +.furlsstealbilk.com
 +.furnacecubbuoyancy.com
 +.furnishedrely.com
@@ -21910,6 +21907,7 @@
 +.immortaldeliberatelyfined.com
 +.immoxdzdke.com
 +.immureuvanite.com
++.imniel.com
 +.imp.accesstra.de
 +.imp.ad-plus.cn
 +.imp.dmm.co.jp
@@ -22267,6 +22265,7 @@
 +.insight.bellmetric.net
 +.insight.danawa.com
 +.insight.ucweb.com
++.insights-categorizer-noneu.truecaller.com
 +.insights-collector.newrelic.com
 +.insights-mxp.coursecareers.com
 +.insights.algolia.io
@@ -22292,7 +22291,6 @@
 +.inspirationhistorical.com
 +.inspiringperiods.com
 +.inspxtrc.com
-+.insta-cash.net
 +.instaflrt.com
 +.install-check.com
 +.installationconsiderableunaccustomed.com
@@ -22427,7 +22425,6 @@
 +.inupnae.com
 +.inurneddoggish.com
 +.inv.lapippa.com
-+.invadedwormmillionaire.com
 +.invaderimmenseimplication.com
 +.invaluablebuildroam.com
 +.invariablyunpredictable.com
@@ -23687,6 +23684,7 @@
 +.kinoneeloign.com
 +.kinoprofi.org
 +.kinripen.com
++.kiolpia.icu
 +.kiosked.com
 +.kiphairg.com
 +.kiretafly.com
@@ -26809,7 +26807,6 @@
 +.misusefreeze.com
 +.misuseoyster.com
 +.misuseproductions.com
-+.misyuni.com
 +.mite.cotinga.io
 +.mite.tetrameros.com
 +.mito03.top
@@ -26941,7 +26938,6 @@
 +.moaningbeautifulnobles.com
 +.moanishaiti.com
 +.moapaglee.net
-+.moapuwhe.com
 +.moartraffic.com
 +.moatads.com
 +.moawgsfidoqm.com
@@ -27192,7 +27188,6 @@
 +.mosquitosubjectsimportantly.com
 +.mosrtaek.net
 +.mossgaietyhumiliation.com
-+.mossru.com
 +.mossyiapyges.com
 +.mostauthor.com
 +.moster.granny-xxx-video.com
@@ -29135,7 +29130,6 @@
 +.oleousjosher.com
 +.olep.xyz
 +.olevole.ru
-+.olgknseruf.com
 +.olibes.com
 +.olineman.pro
 +.olitoedr.com
@@ -32762,7 +32756,6 @@
 +.qatsbesagne.com
 +.qatttuluhog.com
 +.qavgacsmegav.com
-+.qbcmws.xyz
 +.qbhzghb.xyz
 +.qbkvksakslhgek.com
 +.qbsday.xyz
@@ -32871,7 +32864,6 @@
 +.qlspx.com
 +.qmaacxajsovk.com
 +.qmbdta.cn
-+.qmhffrogjeca.com
 +.qmtqzsczx.com
 +.qn-5.com
 +.qnajplxtvz-a.akamaihd.net
@@ -32892,6 +32884,7 @@
 +.qoredi.com
 +.qorlxle.com
 +.qortex.ai
++.qoubliy.top
 +.qovua60gue.tubewolf.com
 +.qowncyf.com
 +.qoxxpyuohbm.com
@@ -34501,7 +34494,6 @@
 +.round-highlight.pro
 +.rounddescribe.com
 +.roundspaniardindefinitely.com
-+.roundynews.com
 +.rounidorana.com
 +.rounsh.com
 +.rouonixon.com
@@ -36003,7 +35995,6 @@
 +.shaderadioactivepoisonous.com
 +.shadesentimentssquint.com
 +.shadowjav182.fun
-+.shady-addition.com
 +.shadytourdisgusted.com
 +.shaeian.xyz
 +.shaggyacquaintanceassessment.com
@@ -40189,6 +40180,7 @@
 +.totlnkcl.com
 +.totogetica.com
 +.touaz.xyz
++.toublii.top
 +.toucan.ateliermilky.com
 +.toucan.the-faithful.com
 +.touched35one.pro
@@ -41604,7 +41596,6 @@
 +.ucheephu.com
 +.uchmuk.com
 +.uckgqa.xyz
-+.uclrlydjewxcl.xyz
 +.ucounter.ucoz.net
 +.ucs.betwaygroup.com
 +.ud.luniertithers.com
@@ -42151,6 +42142,7 @@
 +.urmavite.com
 +.urmilan.info
 +.urocyoncabrit.top
++.urpkktc.icu
 +.ursorsee.pro
 +.urtirepor.com
 +.uruftio.com
