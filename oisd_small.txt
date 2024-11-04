@@ -1,9 +1,9 @@
-# Version: 202411040607
+# Version: 202411040707
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45786
-# Last modified: 2024-11-04T06:07:23+0000
+# Entries: 45783
+# Last modified: 2024-11-04T07:07:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17332,7 +17332,6 @@
 +.failuremaistry.com
 +.failureyardjoking.com
 +.fainsflavory.shop
-+.faintdefrost.com
 +.faintedtwistedlocate.com
 +.faintestlogic.com
 +.faintestmingleviolin.com
@@ -20808,7 +20807,6 @@
 +.hillhousehomes.co
 +.hillsarab.com
 +.hillsharvest.com
-+.hillstree.site
 +.hilltopads.com
 +.hilltopads.net
 +.hilltopgo.com
@@ -27477,7 +27475,6 @@
 +.mypowermall.com
 +.myprivate.pics
 +.myprivate.yachts
-+.myqmgm.xyz
 +.myreadcloud.com
 +.myroledance.com
 +.myrrhisunition.store
