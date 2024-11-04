@@ -1,9 +1,9 @@
-# Version: 202411040007
+# Version: 202411040207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45658
-# Last modified: 2024-11-04T00:07:34+0000
+# Entries: 45652
+# Last modified: 2024-11-04T02:07:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3152,6 +3152,7 @@
 +.ads-d.viber.com
 +.ads-delivery.b-cdn.net
 +.ads-delivery.gameforge.com
++.ads-delivery.gunosy.com
 +.ads-delivery.milenarmedia.pt
 +.ads-dot-fbc-web-2018.uc.r.appspot.com
 +.ads-gdl.imovideo.ru
@@ -9505,7 +9506,6 @@
 +.c4s.bionestraff.pro
 +.c53b96fd6b.d03dbe8a1b.com
 +.c5694c3c56.com
-+.c56e9a74e0.com
 +.c57bd95239.75cbb85265.com
 +.c5cdfd1601.com
 +.c5e739a769.com
@@ -22481,7 +22481,6 @@
 +.istmvh.com
 +.istri.it
 +.istsldaheh.com
-+.isuretmanful.com
 +.iswhatappyouneed.net
 +.iszjwxqpyxjg.com
 +.it8vh.site
@@ -23802,7 +23801,6 @@
 +.ktnwxhjv.xyz
 +.ktoioo.xyz
 +.ktpcsqnij.com
-+.ktqiyjojiya.com
 +.ktrackdata.com
 +.ktu.sv2.biz
 +.ktureukworekto.com
@@ -28935,7 +28933,6 @@
 +.ololenopoteretol.info
 +.olomonautcatho.info
 +.olq18dx1t.com
-+.oltcneutwheoioo.xyz
 +.olularhenewrev.info
 +.olvwnmnp.com
 +.olxoqmotw.com
@@ -32547,7 +32544,6 @@
 +.qcerujcajnme.com
 +.qcohkm.xyz
 +.qcotzalsettiv.com
-+.qcsjmidihe.com
 +.qcsvku.xyz
 +.qctop.com
 +.qctt24h.24h.com.vn
@@ -36501,7 +36497,6 @@
 +.sobakenchmaphk.com
 +.sobbingservingcolony.com
 +.sobnineteen.com
-+.socalledscanty.com
 +.soccerflog.com
 +.soccerprolificforum.com
 +.socde.com
@@ -40909,7 +40904,6 @@
 +.truehits3.gits.net.th
 +.trulydevotionceramic.com
 +.trulysuitedcharges.com
-+.trulyunderestimatediscard.com
 +.trumppuffy.com
 +.trumpsurgery.com
 +.trumpthisaccepted.com

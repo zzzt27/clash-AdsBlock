@@ -1,9 +1,9 @@
-# Version: 202411040007
+# Version: 202411040207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 135351
-# Last modified: 2024-11-04T00:07:22+0000
+# Entries: 135319
+# Last modified: 2024-11-04T02:07:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8649,6 +8649,7 @@
 +.ads-d.viber.com
 +.ads-delivery.b-cdn.net
 +.ads-delivery.gameforge.com
++.ads-delivery.gunosy.com
 +.ads-delivery.milenarmedia.pt
 +.ads-den-nfl.yinzcam.com
 +.ads-dev.pinterest.com
@@ -15880,7 +15881,6 @@
 +.app.5211game.com
 +.app.agent.yunfancdn.com
 +.app.airtrack.jp
-+.app.amazon-line.com
 +.app.aplus.pptv.com
 +.app.ardalio.com
 +.app.buenosocial.club
@@ -19844,7 +19844,6 @@
 +.bank.charity
 +.bank.si
 +.bank247quocte-westernunion.weebly.com
-+.bankamp8.beget.tech
 +.bankandara.co.id
 +.bankcretriam.flu.cc
 +.banke.info
@@ -19879,7 +19878,6 @@
 +.bankofamerica30.wecom.work
 +.bankofamericacom.vpstrust.com
 +.bankofamericahfd.serveirc.com
-+.bankofamerican.cn
 +.bankofamerjca.com
 +.bankofamerkca.com
 +.bankofamerlca.info
@@ -24399,7 +24397,6 @@
 +.brandiyoung.com
 +.brandl-transporte.at
 +.brandlabs.ai
-+.brandley.fr
 +.brandmed.ru
 +.brandmetrics.com
 +.brandmuscleinstantimpact.112.2o7.net
@@ -26005,7 +26002,6 @@
 +.c5.statcounter.com
 +.c53b96fd6b.d03dbe8a1b.com
 +.c5694c3c56.com
-+.c56e9a74e0.com
 +.c57bd95239.75cbb85265.com
 +.c5cdfd1601.com
 +.c5corvettewheels.com
@@ -32621,7 +32617,6 @@
 +.control.tvinteractive.tv
 +.control2-8dd4d.firebaseapp.com
 +.control2.tvinteractive.tv
-+.controlboxx2013.com
 +.controlcola.com
 +.controle-ticket.fr
 +.controle-transaction.fr
@@ -40796,7 +40791,6 @@
 +.donkey.masteringfinland.com
 +.donkey.the3rd.place
 +.donkstar2.online
-+.donlodape2.click
 +.donlucifergames.com
 +.donmainchech54.web.app
 +.donmainchech665.web.app
@@ -53076,7 +53070,6 @@
 +.gestionprimevid.fr
 +.gestionprimevideo.fr
 +.gestionvidprime.fr
-+.gestopa.top
 +.gesundefette.com
 +.gesunder-mann.com.de
 +.gesundheits-zentrum-bad-waldliesborn.de
@@ -64218,7 +64211,6 @@
 +.istsoft.com.tr
 +.istudio.kz
 +.isuiguk.cn
-+.isuretmanful.com
 +.isvbr.net
 +.isw.yt
 +.isweb.no
@@ -68543,7 +68535,6 @@
 +.ktnwxhjv.xyz
 +.ktoioo.xyz
 +.ktpcsqnij.com
-+.ktqiyjojiya.com
 +.ktrackdata.com
 +.ktu.sv2.biz
 +.ktureukworekto.com
@@ -72991,7 +72982,6 @@
 +.lori-rebecca.us
 +.lorisd.top
 +.lornhub.info
-+.loronghijau.org
 +.lorriratzlaff.com
 +.lorswhowishe.com
 +.lorybnfh.com
@@ -74814,7 +74804,6 @@
 +.maldini.xyz
 +.maleatetannaic.shop
 +.maleedgewebsite.com
-+.malehealthco.com
 +.maleliteral.com
 +.malelocated.com
 +.malerei-roli.at
@@ -76142,7 +76131,6 @@
 +.mdphenligne.fr
 +.mdpparents.112.2o7.net
 +.mdsahkln.xyz
-+.mdsef.xyz
 +.mdsloans.co.za
 +.mdstats.info
 +.mdstaugustine.112.2o7.net
@@ -76722,7 +76710,6 @@
 +.melaninclassics.com
 +.melanintee.com
 +.melanomatreatment.live
-+.melanomaweb.com
 +.melbouqueterie.com
 +.melchen-testet.at
 +.melhoresdasemana.com.br
@@ -76801,7 +76788,6 @@
 +.memoryloader.com
 +.memorymusk.com
 +.memost.ru
-+.memrise.ga
 +.men-finder.life
 +.men-jk.com
 +.menacehabit.com
@@ -85928,7 +85914,6 @@
 +.ojlyfans.com
 +.ojm9nr.shet.eveshamairporttransfers.co.uk
 +.ojmvywz.com
-+.ojngf.xyz
 +.ojoglir.com
 +.ojoodoaptouz.com
 +.ojpem.com
@@ -86169,7 +86154,6 @@
 +.olq18dx1t.com
 +.olt-media.ro
 +.olt-nw.com
-+.oltcneutwheoioo.xyz
 +.oltenia-actualitati.ro
 +.oluchi.ddns.net
 +.olukai-france.fr
@@ -86592,7 +86576,6 @@
 +.online-flirten.de
 +.online-flirttipps.de
 +.online-forex-trading-systems.blogspot.com
-+.online-health.ru
 +.online-hmrc.com
 +.online-liebestest.de
 +.online-medicijn.com
@@ -87662,7 +87645,6 @@
 +.oshoforge.com
 +.oshoo.iptvdeals.com
 +.oshoothoolo.com
-+.oshu.ru
 +.osihi.store
 +.osinoco.com
 +.osir-zoliborz.waw.pl
@@ -88519,7 +88501,6 @@
 +.pa5xjc.m1guelpf.me
 +.pa6ypal.com
 +.pa7i.in
-+.paadasala.com.au
 +.paaginebianche.it
 +.paarsvc.com
 +.paaypal.org
@@ -92301,7 +92282,6 @@
 +.podefr.net
 +.poder.kozow.com
 +.podermaximo.com.br
-+.podescf.top
 +.podmoskovnaya-riviera.ru
 +.podnhub.net
 +.podnhub.org
@@ -96253,7 +96233,6 @@
 +.qcohkm.xyz
 +.qcon.co.za
 +.qcotzalsettiv.com
-+.qcsjmidihe.com
 +.qcsvku.xyz
 +.qctop.com
 +.qctt24h.24h.com.vn
@@ -101897,7 +101876,6 @@
 +.s3-nato.cloud
 +.s3-nsa.cloud
 +.s3-proofpoint.cloud
-+.s3-ucia.cloud
 +.s3.cnzz.com
 +.s3.mobile.val.jp
 +.s3.sitepoint.com
@@ -108600,7 +108578,6 @@
 +.soboro.uk.com
 +.sobot.com
 +.sobrilleverandoridanmark.wordpress.com
-+.socalledscanty.com
 +.socalpeaks.com
 +.socamil-eleclerc.fr
 +.soccerarmor.com
@@ -110940,7 +110917,6 @@
 +.statedrugs.com
 +.statedthoughtslave.com
 +.statefarmz.us
-+.statefinancebank.com
 +.statehistoric.com
 +.statelinear.com
 +.statementsheep.com
@@ -113426,7 +113402,6 @@
 +.supportmetrics.apple.com
 +.supportmozilla.org
 +.supportmym.fr
-+.supportnows.cfd
 +.supportorange.fr
 +.supportqalam.com
 +.supportrelayapp.info
@@ -118574,7 +118549,6 @@
 +.topemo.com
 +.topeni-vlcek.cz
 +.topernews.me
-+.topetipeo.cyou
 +.topfastmarketing.com
 +.topfaststartup.com.de
 +.topfbcheats.com
@@ -120949,7 +120923,6 @@
 +.trulychoose.com
 +.trulydevotionceramic.com
 +.trulysuitedcharges.com
-+.trulyunderestimatediscard.com
 +.trumbem.com
 +.trumixes.com
 +.trummomo.com
@@ -121171,7 +121144,6 @@
 +.ttleboywhowascryin.com
 +.ttlm.cc
 +.ttlowe.com
-+.ttlxns.cfd
 +.ttmetrics.jcpenney.com
 +.ttmsg.qianqian.com
 +.ttnet.yandex.com.tr
@@ -125619,7 +125591,6 @@
 +.victoriasecret.fr
 +.victoriazenoff.com
 +.victoriousrequest.com
-+.victorts.top
 +.victory.cnn.com
 +.victory.com.pl
 +.victorycuts.com
@@ -128565,7 +128536,6 @@
 +.westdy.com
 +.western-unions24h.weebly.com
 +.westernart.store
-+.westernautoweb.duckdns.org
 +.westernbank.vn
 +.westerneunion.com
 +.westernfbk.com
@@ -131986,7 +131956,6 @@
 +.xn--cabaa-fta.fr
 +.xn--canardenchain-nhb.fr
 +.xn--capsant-hya.fr
-+.xn--carte-vtale-6cb.fr
 +.xn--chatpt-sbc.com
 +.xn--chaussures-mrinos-mtb.fr
 +.xn--cibtp-mditerrane-hqbi.fr
@@ -132976,7 +132945,6 @@
 +.yehangwatch.online
 +.yehcp.com
 +.yehuitudu.cn
-+.yekbux.com
 +.yekdaryek.ir
 +.yekmas.tripod.com
 +.yekna.com
