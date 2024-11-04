@@ -1,9 +1,9 @@
-# Version: 202411032307
+# Version: 202411040007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 135367
-# Last modified: 2024-11-03T23:07:13+0000
+# Entries: 135351
+# Last modified: 2024-11-04T00:07:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11986,7 +11986,6 @@
 +.airnovaai.com
 +.airolaktoks.com
 +.airpascher.fr
-+.airpazfly.egnyte.com
 +.airpazflys.egnyte.com
 +.airpb.com
 +.airpetscarrierservice.com
@@ -35285,7 +35284,6 @@
 +.d.pixiv.org
 +.d.post-gazette.com
 +.d.rcmd.jp
-+.d.reccent.online
 +.d.reddit.com
 +.d.shareaholic.com
 +.d.sogouad.vip
@@ -39730,7 +39728,6 @@
 +.disinheritbottomwealthy.com
 +.disintegratenose.com
 +.disintegrateredundancyfen.com
-+.diskocudc.duckdns.org
 +.diskord-app.com
 +.diskord.gg
 +.diskordapp.ru
@@ -51035,7 +51032,6 @@
 +.frmaillotfoot.fr
 +.frmintegration.com.my
 +.frmobilboxfr.yolasite.com
-+.frmsafe.com
 +.frnewsfeed.com
 +.frnr.duckdns.org
 +.frntzz.xyz
@@ -52744,7 +52740,6 @@
 +.gekeebsirs.com
 +.gekkei-jyu-gekkei-jyu.com
 +.gekkeijyu-gekkeijyu.com
-+.gekroome.com
 +.geladinhogourmetoficial.com.br
 +.gelatineabstainads.com
 +.gelatinelighter.com
@@ -57436,7 +57431,6 @@
 +.happy-egg.net
 +.happy-elion.97-74-92-239.plesk.page
 +.happy-garden-supplies.com
-+.happy-h0ur.jp
 +.happy-life-everyday.club
 +.happy-matome.com
 +.happy-sutherland.34-125-197-109.plesk.page
@@ -61399,7 +61393,6 @@
 +.iftjwuu.cn
 +.ifuckshemales.com
 +.ifulasaweatherc.info
-+.ifuts.com
 +.ifvpetu.cn
 +.ifxqubw.icu
 +.ifyoulovess.store
@@ -63356,7 +63349,6 @@
 +.insurance.gr.com
 +.insurance.su
 +.insurancebabu.com
-+.insurancecodingeducation.com
 +.insurancecodingeducationaid.com
 +.insurancefactory.in
 +.insurancemesh.com
@@ -82295,7 +82287,6 @@
 +.negadbg.hit.gemius.pl
 +.negarehgallery.com
 +.negarpartition.com
-+.negatesupervisor.com
 +.negationomitor.com
 +.negative-might.pro
 +.negativebeats.com
@@ -84008,7 +83999,6 @@
 +.noisydigital.com
 +.noisyjoke.pro
 +.noisyoursarrears.com
-+.noisytariff.com
 +.noisyunidentifiedinherited.com
 +.noithatcombo.com.vn
 +.noithaticon.vn
@@ -84808,7 +84798,6 @@
 +.nursedegree.live
 +.nursemania.com
 +.nursepractitionerpage.com
-+.nurseryfii.cfd
 +.nurserysurvivortogether.com
 +.nursing-degrees.live
 +.nursingdegree.live
@@ -84949,7 +84938,6 @@
 +.nygwcwsvnu.com
 +.nyhgjmlg.xyz
 +.nyhnx.com
-+.nyhrgss.com
 +.nyihcpzdloe.com
 +.nyirangongovrai.com
 +.nylonnickel.com
@@ -85525,7 +85513,6 @@
 +.oemlibrary.com
 +.oestersoetebier.de
 +.oestpq.com
-+.oetkwahrsdvrnn.com
 +.oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
 +.oeubqjx.com
 +.oeuwldhkrnvxg.com
@@ -99651,7 +99638,6 @@
 +.rewardjav128.fun
 +.rewardpoll.com
 +.rewardprogram.allalla.com
-+.rewardrush.life
 +.rewardsaffiliates.com
 +.rewardscreditcardnet.com
 +.rewardsflow.com
@@ -114864,7 +114850,6 @@
 +.tanishajewels.com
 +.tanivanprevented.com
 +.tanja-yaman.de
-+.tanjs.com
 +.tankahuncoked.click
 +.tankeogteknikk.no
 +.tankidea.com
@@ -121967,7 +121952,6 @@
 +.uapm-syh.top
 +.uapm-syl.top
 +.uapm-syq.top
-+.uapx-ule.top
 +.uapx-ulp.top
 +.uapz-ed.top
 +.uapz-ik.top

@@ -1,9 +1,9 @@
-# Version: 202411032307
+# Version: 202411040007
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45666
-# Last modified: 2024-11-03T23:07:25+0000
+# Entries: 45658
+# Last modified: 2024-11-04T00:07:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12594,7 +12594,6 @@
 +.d.nativendo.de
 +.d.omsnative.de
 +.d.post-gazette.com
-+.d.reccent.online
 +.d.reddit.com
 +.d.shareaholic.com
 +.d.sondakika.com
@@ -18455,7 +18454,6 @@
 +.fritterfainest.com
 +.frivolous-copy.pro
 +.frizzannoyance.com
-+.frmsafe.com
 +.frntzz.xyz
 +.frocogue.store
 +.frog.editorx.com
@@ -18937,7 +18935,6 @@
 +.geiybze.com
 +.gejusherstertithap.info
 +.gekeebsirs.com
-+.gekroome.com
 +.gelatineabstainads.com
 +.gelatinelighter.com
 +.gelhp.com
@@ -27713,7 +27710,6 @@
 +.neess105.top
 +.neezausu.net
 +.nefdcnmvbt.com
-+.negatesupervisor.com
 +.negationomitor.com
 +.negative-might.pro
 +.neglectblessing.com
@@ -28102,7 +28098,6 @@
 +.noisesperusemotel.com
 +.noisyjoke.pro
 +.noisyoursarrears.com
-+.noisytariff.com
 +.noisyunidentifiedinherited.com
 +.nojazz.eu
 +.nojhhsg.com
@@ -28466,7 +28461,6 @@
 +.nyfstb.xyz
 +.nygwcwsvnu.com
 +.nyhgjmlg.xyz
-+.nyhrgss.com
 +.nyihcpzdloe.com
 +.nylonnickel.com
 +.nylonnickel.xyz
@@ -28714,7 +28708,6 @@
 +.oehgk.com
 +.oektiu.xyz
 +.oestpq.com
-+.oetkwahrsdvrnn.com
 +.oeubqjx.com
 +.oevll.com
 +.oewa.at
@@ -33872,7 +33865,6 @@
 +.revupads.com
 +.rewaawoyammbk.top
 +.rewardjav128.fun
-+.rewardrush.life
 +.rewardsaffiliates.com
 +.rewindgills.com
 +.rewindgranulatedspatter.com
