@@ -1,9 +1,9 @@
-# Version: 202411051007
+# Version: 202411051107
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45461
-# Last modified: 2024-11-05T10:07:25+0000
+# Entries: 45457
+# Last modified: 2024-11-05T11:07:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15063,7 +15063,6 @@
 +.domaincntrol.com
 +.domaining.in
 +.domainparkingmanager.it
-+.domainsteam.de
 +.domakuhitaor.com
 +.domankeyan.com
 +.dombnrs.com
@@ -17452,7 +17451,6 @@
 +.fdrgtt9edmej010.com
 +.fdsur.com
 +.fdtlfl.xyz
-+.fdyacma.icu
 +.fe-go.letv.com
 +.fe7qygqi2p2h.com
 +.feadrope.net
@@ -18418,7 +18416,6 @@
 +.frontier100-toutiao-lf.fqnovel.com
 +.frontthirteencuff.com
 +.frookshop-winsive.com
-+.froryamazers.com
 +.frostplacard.com
 +.frostscanty.com
 +.frosty-criticism.pro
@@ -44629,7 +44626,6 @@
 +.xxxx96xxxx.com
 +.xxyrgvielmehx.com
 +.xy33.smallable.com
-+.xybnfn.xyz
 +.xycxhgrp.xyz
 +.xydbpbnmo.com
 +.xylomavivat.com
