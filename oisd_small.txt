@@ -1,9 +1,9 @@
-# Version: 202411050907
+# Version: 202411051007
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45462
-# Last modified: 2024-11-05T09:07:10+0000
+# Entries: 45461
+# Last modified: 2024-11-05T10:07:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15249,7 +15249,6 @@
 +.dpirwgljl6cjp.cloudfront.net
 +.dpjlvaveq1byu.cloudfront.net
 +.dpjrba.com
-+.dpkdyluq.com
 +.dpmsrv.com
 +.dppaivsn6f9dy.cloudfront.net
 +.dprtb.com
@@ -23657,7 +23656,6 @@
 +.kouceeptait.com
 +.koucerie.com
 +.koukoku.red
-+.koushauwhie.xyz
 +.kousjcignye.com
 +.koussinnielli.com
 +.koutobey.net
@@ -24602,6 +24600,7 @@
 +.load.lolsauce.net
 +.load.try-games.com
 +.loader-cdn.azureedge.net
++.loader.netzwelt.de
 +.loading-delivery2.com
 +.loading-resource.com
 +.loading321.com
