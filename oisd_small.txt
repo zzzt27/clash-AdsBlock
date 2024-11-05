@@ -1,9 +1,9 @@
-# Version: 202411051607
+# Version: 202411052009
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45441
-# Last modified: 2024-11-05T16:07:23+0000
+# Entries: 45434
+# Last modified: 2024-11-05T20:09:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1414,7 +1414,6 @@
 +.8cc5ff581a88.bitsngo.net
 +.8ced271921.com
 +.8d07a.xyz
-+.8d80fcb421.a700fb9c8d.com
 +.8d96fe2f01.com
 +.8d9a34f9cc.1c2884f59e.com
 +.8db4fde90b.com
@@ -1807,6 +1806,7 @@
 +.a5jogo.club
 +.a65768f777.com
 +.a6dc99d1a8.com
++.a700fb9c8d.com
 +.a717b6d31e.com
 +.a7245f3c59.com
 +.a74824bbbe.com
@@ -4608,7 +4608,6 @@
 +.akcr.free.fr
 +.akdbr.com
 +.akeedser.com
-+.akenegappier.com
 +.akentaspectsof.com
 +.akikegbdiutg.com
 +.akilifox.com
@@ -12639,7 +12638,6 @@
 +.d14p8nzdvd75ly.cloudfront.net
 +.d14pdm1b7fi5kh.cloudfront.net
 +.d14zhsq5aop7ap.cloudfront.net
-+.d15455901a.com
 +.d154nw1c88j0q6.cloudfront.net
 +.d15a035f27.com
 +.d15bcy38hlba76.cloudfront.net
@@ -17825,7 +17823,6 @@
 +.firkedpace.life
 +.firmhurrieddetrimental.com
 +.firmmaintenance.com
-+.firnebmike.live
 +.firrectly.top
 +.firrycandour.com
 +.first-hufu.oss-cn-shanghai.aliyuncs.com
@@ -29351,7 +29348,6 @@
 +.ounceanalogous.com
 +.oundhertobeconsi.com
 +.oungimuk.net
-+.oungoowe.xyz
 +.ounigaugsurvey.space
 +.ounobdlzzks.world
 +.oupaumul.net
@@ -33568,7 +33564,6 @@
 +.resalag.com
 +.rescueambassadorupward.com
 +.researchingintentbilliards.com
-+.reseatkiddy.click
 +.reseenpeytrel.top
 +.resemblanceilluminatedcigarettes.com
 +.resentervice.com
@@ -39462,7 +39457,6 @@
 +.tmftsdjyahbhi.com
 +.tmh4pshu0f3n.com
 +.tmjhdyghjm.com
-+.tmlwvxae.xyz
 +.tmnsstf.com
 +.tmoclbf.icu
 +.tmrjmp.com
@@ -42983,7 +42977,6 @@
 +.wboptim.online
 +.wbowoheflewroun.info
 +.wcbxugtfk.com
-+.wcdxpxugsrk.xyz
 +.wckkl.online
 +.wcmcs.net
 +.wcnhhqqueu.com
