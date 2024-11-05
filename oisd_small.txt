@@ -1,9 +1,9 @@
-# Version: 202411050707
+# Version: 202411050807
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45478
-# Last modified: 2024-11-05T07:07:25+0000
+# Entries: 45467
+# Last modified: 2024-11-05T08:07:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -474,7 +474,6 @@
 +.22media.world
 +.231dasda3dsd.aniyae.com
 +.231f853f2a.com
-+.2390985f36.57d38e3023.com
 +.23a70832cd.2f359a8315.com
 +.23f19b241e.f7050945a4.com
 +.23hssicm9.de
@@ -778,7 +777,6 @@
 +.3b3e1ed0b3.13b696a4c1.com
 +.3bc9b1b89c.com
 +.3bq57qu8o.com
-+.3c58498663.com
 +.3cb9b57efc.com
 +.3cg6sa78w.com
 +.3cloud.net
@@ -839,7 +837,6 @@
 +.404730aaa7.3b9af5d326.com
 +.407433bfc441.com
 +.4087aa0dc1.com
-+.4088846d50.com
 +.40ceexln7929.com
 +.40cg.com
 +.41033fcd44.com
@@ -915,6 +912,7 @@
 +.4c935d6a244f.com
 +.4c9844316f.e7d9861b83.com
 +.4cd8d0b494.773fd92793.com
++.4cf1288ca8.4088846d50.com
 +.4co7mbsb.de
 +.4cock.com
 +.4d15ee32c1.com
@@ -1011,6 +1009,7 @@
 +.57573zubo36833.com
 +.57883.net
 +.578d72001a.com
++.57d38e3023.com
 +.582abb5891.c3bb533dd7.com
 +.58745.clicknplay.to
 +.5891344.xn--j1amh
@@ -15267,7 +15266,6 @@
 +.dq95d35.com
 +.dqdrsgankrum.org
 +.dqeaa.com
-+.dqexeijj.com
 +.dqgmtzo.com
 +.dqhxmbx.cn
 +.dqif5bl25s0bf.cloudfront.net
@@ -18684,7 +18682,6 @@
 +.gakrarsabamt.net
 +.galaare.com
 +.galachr.com
-+.galairo.com
 +.galamis.com
 +.galaxydiminution.com
 +.galaxypush.com
@@ -21413,7 +21410,6 @@
 +.icorpado.urbo.ro
 +.icqeou.xyz
 +.icubeswire.co
-+.icudqq.xyz
 +.icvsleec.xyz
 +.icy-location.com
 +.icyads.com
@@ -22514,7 +22510,6 @@
 +.iwmigu.xyz
 +.iwouhoft.com
 +.iwovfiidszrk.tech
-+.iwrkhphl.xyz
 +.iwuh.org
 +.iwwmaq.xyz
 +.iwyrldaeiyv.com
@@ -26702,7 +26697,6 @@
 +.mobilelog.ws.pho.to
 +.mobileoffers-7-j-download.com
 +.mobilepreviouswicked.com
-+.mobilerefreit.com
 +.mobiletelemetry.ebay.com
 +.mobiletracking.ru
 +.mobio.vn
@@ -29310,7 +29304,6 @@
 +.ostensiblecompetitive.com
 +.ostfuwdmiohg.com
 +.ostilllookinga.cc
-+.ostjpig.cn
 +.ostlon.com
 +.ostrich.getschools.org
 +.ostrich.hegic-tokenizer.co
@@ -32729,7 +32722,6 @@
 +.quwkke.xyz
 +.quxsiraqxla.com
 +.quxwpwcwmmx.xyz
-+.quzmtpxw.xyz
 +.quzpvtt.xyz
 +.quzwteqzaabm.com
 +.qvikar.com
@@ -41196,7 +41188,6 @@
 +.uep.gaijin.net
 +.uepkcdjgp.com
 +.uerbgnkas.com
-+.uessnah.icu
 +.uf.disbendcrumby.com
 +.ufaexpert.com
 +.ufeevhhnjilfeo.com
@@ -44764,7 +44755,6 @@
 +.yetshape.com
 +.yetterslave.com
 +.yfaqgk.xyz
-+.yfasjfk.icu
 +.yfefdlv.com
 +.yfgrxkz.com
 +.yfkflfa.com
@@ -45158,7 +45148,6 @@
 +.zd.amautkarite.com
 +.zdscdkc.icu
 +.zdw.w8.com.cn
-+.zdxcuchr.com
 +.zeads.com
 +.zealotillustrate.com
 +.zealouscompassionatecranny.com
