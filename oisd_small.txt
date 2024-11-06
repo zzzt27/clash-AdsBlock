@@ -1,9 +1,9 @@
-# Version: 202411061837
+# Version: 202411061909
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45539
-# Last modified: 2024-11-06T18:37:29+0000
+# Entries: 45536
+# Last modified: 2024-11-06T19:09:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9918,7 +9918,6 @@
 +.caviarconcealed.com
 +.cawedburial.com
 +.cayelychobenl.com
-+.cazaakeake.com
 +.cb.baidu.com
 +.cb054d7b93.1d06891ad5.com
 +.cb15484c44.com
@@ -16620,7 +16619,6 @@
 +.ethaistoothi.com
 +.ethalojo.com
 +.ethan.wang
-+.ethbewags.com
 +.etheappyrincea.info
 +.ethecityonata.com
 +.ethecountryw.org
@@ -35094,7 +35092,6 @@
 +.scfsdvc.com
 +.scheduleginnarcotic.com
 +.schedulerationally.com
-+.schizorecooks.shop
 +.schmalzgarniec.com
 +.scholarkeyboarddoom.com
 +.scholarsgrewsage.com
