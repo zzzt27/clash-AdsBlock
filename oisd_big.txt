@@ -1,9 +1,9 @@
-# Version: 202411060906
+# Version: 202411061007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 134924
-# Last modified: 2024-11-06T09:06:53+0000
+# Entries: 134893
+# Last modified: 2024-11-06T10:07:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -139,7 +139,6 @@
 +.03629e3.netsolhost.com
 +.039068a.dialer-select.com
 +.039da14c.ngrok.io
-+.03a17e7986.com
 +.03e.info
 +.03eea1b6dd.com
 +.03eo.top
@@ -154,7 +153,6 @@
 +.046699400840456-dot-wetransfer-auth-file-343.appspot.com
 +.046zxnm.com
 +.04953bf049.c172a66e69.com
-+.0497496f94.com
 +.04cb2afab7.com
 +.04e0d8fb0f.com
 +.04tips.com
@@ -4970,7 +4968,6 @@
 +.a.brack.ch
 +.a.cam4free.com
 +.a.cant3am.com
-+.a.ccmd.website
 +.a.cdngeek.net
 +.a.cemir.site
 +.a.centrum.cz
@@ -10556,7 +10553,6 @@
 +.advanced-ip-scanr.com
 +.advanced-ip-scanz.com
 +.advanced-ip-scanz.net
-+.advanced-ip-sccanner.com
 +.advanced-lp-saanel.com
 +.advanced-lp-saaner.com
 +.advanced-lp-scanel.com
@@ -12535,7 +12531,6 @@
 +.algfrance2007.112.2o7.net
 +.algharbeya.com
 +.algiyonetimi.com
-+.algjqsuzialktg.com
 +.algocashmaster.com
 +.algodon.net
 +.algolduckan.com
@@ -44002,7 +43997,6 @@
 +.emgwq.com
 +.emierete.com
 +.emigrantmovements.com
-+.emigressetae.com
 +.emilemartin.com
 +.emilyvivas.com
 +.eminent-tin-tarn.glitch.me
@@ -48787,7 +48781,6 @@
 +.findyourbackups.com
 +.findyourcasino.com
 +.findyourhack.com
-+.findyourhalf.online
 +.findyourmaps.com
 +.findyus.com
 +.fine-apple.kro.kr
@@ -49605,7 +49598,6 @@
 +.fmstigat.online
 +.fmstitial.xyz
 +.fmtiktok.com
-+.fmtnd.cfd
 +.fmtwonvied.com
 +.fmv9kweoe06r.com
 +.fmvzzh.xyz
@@ -51362,7 +51354,6 @@
 +.fusionsp.com.br
 +.fusionsports.de
 +.fusionwishful.com
-+.fuskoqvoaprjr.com
 +.fusoidactuate.com
 +.fussballclub-24.de
 +.fusscupcakes.com
@@ -51523,7 +51514,6 @@
 +.fynox.xyz
 +.fyo63q.wiiaks.cn
 +.fyowyp.cmbtn.combertonplaygroup.co.uk
-+.fyqp.xyz
 +.fyresumefo.com
 +.fyrsbckgi-c.global.ssl.fastly.net
 +.fytpft.xyz
@@ -61324,7 +61314,6 @@
 +.ihdcnwbcmw.com
 +.ihearthelp.wpengine.com
 +.iheaven.us
-+.ihgluu.xyz
 +.ihhqwaurke.com
 +.ihi.flowplayer.com
 +.ihimkxbtqjt.com
@@ -68133,7 +68122,6 @@
 +.kovkaplitka.ru
 +.kovovyrobahromada.cz
 +.koy.jp
-+.koytqo.xyz
 +.koyvkllk.site
 +.kozaka.net
 +.kozm.gulfhirings.com
@@ -68280,7 +68268,6 @@
 +.ksk-shkola.ru
 +.ksk-vuktil.ru
 +.ksmha.com
-+.ksnbiepnvjdi.com
 +.ksnbtmz.com
 +.ksntpo.com
 +.ksotdcm.cc
@@ -75740,7 +75727,6 @@
 +.mbbank2.com
 +.mbcontact.com
 +.mbd.weathercn.com
-+.mbdg.xyz
 +.mbdippex.com
 +.mbdk555.com
 +.mbdlog.iqiyi.com
@@ -91689,7 +91675,6 @@
 +.plcs.ir
 +.pldev.112.2o7.net
 +.ple-emploi.fr
-+.pleaddymoenu.cfd
 +.pleadsbox.com
 +.pleasantgiftshop.com
 +.pleasantinstead.net
@@ -93198,7 +93183,6 @@
 +.prdredir.com
 +.prdwebcollector.ruetracking.com
 +.prdxb.com
-+.prdyilhhwqh.com
 +.pre-hackedgames.net
 +.pre.03porno.com
 +.pre.102porno.club
@@ -94785,7 +94769,6 @@
 +.pt.crossmediaservices.com
 +.pt.halhal.click
 +.pt.handjarcranch.com
-+.pt.monclershop.top
 +.pt.wisernotify.com
 +.pt5.titans-gel.net
 +.pta.wcm.pl
@@ -99436,7 +99419,6 @@
 +.rhinogoldgel.cc
 +.rhinossystems.com
 +.rhinostock.com
-+.rhjcnfypo.com
 +.rhkwpfix8n.tmapfnjcaq.chproperties.com
 +.rhombicgormand.top
 +.rhombicsomeday.com
@@ -101249,7 +101231,6 @@
 +.rzneekilff.com
 +.rzpvbl.xyz
 +.rzs-line.cc
-+.rzsevt17ht.top
 +.rzyosrlajku.com
 +.rzzlhfx.com
 +.s-ad.rmp.rakuten.co.jp
@@ -109200,7 +109181,6 @@
 +.sparer-welten.com
 +.sparka-check.net
 +.sparka-hilfe.net
-+.sparka-neu.info
 +.sparka-sicherheitscenter.net
 +.sparka-vorgang-sicherheit.net
 +.sparka-zertifikat.net
@@ -110283,7 +110263,6 @@
 +.staplecups.com
 +.stapledsaur.top
 +.stapless.us
-+.staplstodays.live
 +.stappage.com
 +.stapples.fr
 +.stapt.com
@@ -115418,7 +115397,6 @@
 +.telegrom-ap.com
 +.telegrom-zo.com
 +.telegromsc.com
-+.telegroom-kbpx.top
 +.telegrosm.com
 +.telegrpcn.club
 +.telegrram.net
@@ -116318,7 +116296,6 @@
 +.theinvictusclinic.com
 +.theirbellsound.co
 +.theirbellstudio.co
-+.theirpervasivegrid.com
 +.theirsneedful.com
 +.theirsstrongest.com
 +.theitalianplaceprovidore.com.au
@@ -119605,7 +119582,6 @@
 +.trackzapper.com
 +.traconf.net
 +.tracot.com
-+.tractopersuo.cfd
 +.tractorfoolproofstandard.com
 +.tractssla.life
 +.tracuugplx.vn
@@ -121403,7 +121379,6 @@
 +.tyrfd.ovh
 +.tyroneed.com
 +.tyroo.com
-+.tystnnnrluv.com
 +.tytanworks.com
 +.tytlementwre.info
 +.tytyeastfeukufun.info
@@ -128370,7 +128345,6 @@
 +.whats-mydns.net
 +.whats-vpn.com
 +.whats-vpn.net
-+.whatsa.tesxappes.top
 +.whatsadh.beget.tech
 +.whatsagold.app
 +.whatsaop.online
@@ -129232,7 +129206,6 @@
 +.winworker.club
 +.winwow.ebreezetech.com
 +.winxtforum.pro
-+.winzefarrel.com
 +.winzerhof-kridlo.com
 +.winzipregistryoptimizer.com
 +.winzix.com
@@ -130003,7 +129976,6 @@
 +.wretched-confusion.com
 +.wretchedbomb.com
 +.wretcheddrunkard.com
-+.wrexhamtf.com
 +.wrfjivmimqajugdqtul.com
 +.wrhrh.tf
 +.wrightdirely.com
@@ -130916,7 +130888,6 @@
 +.xgal.jp
 +.xgamering.com
 +.xgbk3xzzzzmshbue2tjf.maherstcottage.com.au
-+.xgeuzcfrkeb.com
 +.xgfi.handipants.com
 +.xggcyef.icu
 +.xgihlgcfuu.com
@@ -131376,7 +131347,6 @@
 +.xml.exdirectopl.com
 +.xml.expialidosius.com
 +.xml.expplatdirect.com
-+.xml.flyerblaze.com
 +.xml.fstsrv10.com
 +.xml.fstsrv11.com
 +.xml.fstsrv14.com
@@ -133591,7 +133561,6 @@
 +.yvudqzoa.xyz
 +.yw.yiyousf.com
 +.yw54v1.hbg.hebdenbridgedental.co.uk
-+.yweowwmomqnbwj.com
 +.ywg.jobui.com
 +.ywgpkjg.com
 +.ywhowascryin.com
