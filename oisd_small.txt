@@ -1,9 +1,9 @@
-# Version: 202411061909
+# Version: 202411062107
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45536
-# Last modified: 2024-11-06T19:09:10+0000
+# Entries: 45531
+# Last modified: 2024-11-06T21:07:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8823,7 +8823,6 @@
 +.bowlprick.com
 +.bowlpromoteintimacy.com
 +.bowlsolicitor.com
-+.bowoprf.icu
 +.bowvses.icu
 +.box.anchorfree.net
 +.box1.aomg5bzv7.com
@@ -20477,7 +20476,6 @@
 +.heiressscore.com
 +.heiresstolerance.com
 +.heirloomreasoning.com
-+.heiviek.com
 +.heixidor.com
 +.hejqtbnmwze.com
 +.hekowutus.com
@@ -28632,7 +28630,6 @@
 +.odylismcpl.com
 +.oehcxmhk.xyz
 +.oehgk.com
-+.oektiu.xyz
 +.oestpq.com
 +.oeubqjx.com
 +.oevll.com
@@ -32582,7 +32579,6 @@
 +.qoredi.com
 +.qorlxle.com
 +.qortex.ai
-+.qoubliy.top
 +.qovua60gue.tubewolf.com
 +.qowncyf.com
 +.qoxxpyuohbm.com
@@ -41762,7 +41758,6 @@
 +.us-events.api.iheart.com
 +.us-tracking.nextdoor.com
 +.us.a1.yimg.com
-+.usaballs.fun
 +.usage.influxdata.com
 +.usageanalytics.coveo.com
 +.usageultra.com
