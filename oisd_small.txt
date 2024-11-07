@@ -1,9 +1,9 @@
-# Version: 202411070007
+# Version: 202411070206
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45544
-# Last modified: 2024-11-07T00:07:06+0000
+# Entries: 45529
+# Last modified: 2024-11-07T02:06:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -522,7 +522,6 @@
 +.2619374464.com
 +.2639iqjkl.de
 +.26485.top
-+.2684e4fd7f.com
 +.26ea4af114.com
 +.26q4nn691.de
 +.271395.com
@@ -866,7 +865,6 @@
 +.44e29c19ac.com
 +.44fc128918.com
 +.44ffd27303.com
-+.44jui.top
 +.452tapgn.de
 +.453130fa9e.com
 +.45ba1be349.com
@@ -8000,7 +7998,6 @@
 +.benrif-solutions.com
 +.bensonshowd.com
 +.bento.agoda.com
-+.bentyquod.shop
 +.benumelan.com
 +.benzeinlune.com
 +.beonixom.com
@@ -9563,7 +9560,6 @@
 +.cagothie.net
 +.cahxpivu.com
 +.cai75tp.com
-+.caibtwnpvta.xyz
 +.caicaipoop.com
 +.caicme.xyz
 +.caicuptu.xyz
@@ -15260,7 +15256,6 @@
 +.dqdrsgankrum.org
 +.dqeaa.com
 +.dqgmtzo.com
-+.dqhxmbx.cn
 +.dqif5bl25s0bf.cloudfront.net
 +.dqjkzrx.com
 +.dqlhuf.icu
@@ -16182,7 +16177,6 @@
 +.elevatedperimeter.com
 +.elewasgiwiththi.info
 +.elfcoexistbird.com
-+.elflikebourr.click
 +.elfpetsic.com
 +.elgnnpl-ukgs.global
 +.elicaowl.com
@@ -19181,7 +19175,6 @@
 +.gjapplog.uc.cn
 +.gjapplog.ucweb.com
 +.gjc.gjirafa.com
-+.gjffrtfkhf.xyz
 +.gjhjjhgc.cn
 +.gjigle.com
 +.gjjvjbe.com
@@ -23515,7 +23508,6 @@
 +.kjkulnpfdhn.com
 +.kjnsgqe.icu
 +.kjrspnbf.xyz
-+.kjsckwjvdxju.xyz
 +.kjsvvnzcto.com
 +.kjubky.xyz
 +.kjyouhp.com
@@ -26915,7 +26907,6 @@
 +.morinavotarius.top
 +.morionsluigini.digital
 +.mormont.gamer-network.net
-+.morneminim.top
 +.morningamidamaruhal.com
 +.morningglory101.io
 +.moro-douga.link
@@ -27230,7 +27221,6 @@
 +.mvnznqp.com
 +.mvpqrydt.xyz
 +.mvujvxc.com
-+.mvvhwabeshu.xyz
 +.mw.cinuralytic.com
 +.mw19c3mi5a.com
 +.mwazhey.com
@@ -33660,7 +33650,6 @@
 +.resnubdreich.com
 +.resolesmidewin.top
 +.resolutethumb.com
-+.resolutionmilestone.com
 +.resolvedswordlinked.com
 +.reson8.com
 +.resonance.pk
@@ -34495,7 +34484,6 @@
 +.rubyforcedprovidence.com
 +.rubylife.go2cloud.org
 +.rubymillsnpro.com
-+.ruckerkithe.com
 +.ruckingefs.com
 +.rucmpbccrgbewma.com
 +.rudaglou.xyz
@@ -37162,7 +37150,6 @@
 +.starsearchtool.com
 +.starseed.fr
 +.starssp.top
-+.starswalker.site
 +.starsx.fr
 +.start-xyz.com
 +.start.amateurcommunity.com
@@ -41377,7 +41364,6 @@
 +.umpedshumal.com
 +.umqmxawxnrcp.com
 +.umsns.com
-+.umteenoppress.com
 +.umtudo.com
 +.umumallowecouldl.info
 +.umwcyw.xyz
@@ -43727,7 +43713,6 @@
 +.wkclick.baidu.com
 +.wkctj.baidu.com
 +.wkjyxcheng.top
-+.wkmorvzqjmqbj.top
 +.wkoocuweg.com
 +.wkqcnkstso.com
 +.wkvpvglcjsagi.xyz
