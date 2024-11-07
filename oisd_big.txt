@@ -1,9 +1,9 @@
-# Version: 202411062307
+# Version: 202411070006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 134885
-# Last modified: 2024-11-06T23:07:03+0000
+# Entries: 134837
+# Last modified: 2024-11-07T00:06:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -114,7 +114,6 @@
 +.022aifang.com
 +.0234408.cn
 +.023hysj.com
-+.024fpv.com
 +.025sep.duckdns.org
 +.025suyu.com
 +.0265331.com
@@ -2867,7 +2866,6 @@
 +.4bqs.com
 +.4buy.net
 +.4c28d6.r.axf8.net
-+.4c4b.asybc.live
 +.4c86o4.hbg.hebdenbridgedental.co.uk
 +.4c935d6a244f.com
 +.4c9844316f.e7d9861b83.com
@@ -3051,7 +3049,6 @@
 +.5165c0c080.com
 +.5178424.com
 +.517m.cn
-+.5183.asybc.live
 +.518869.com
 +.518yi.com
 +.519397.com
@@ -8456,7 +8453,6 @@
 +.adornenveloperecognize.com
 +.adornmadeup.com
 +.adornmenttaunt.com
-+.adoshope.vip
 +.adotic.com
 +.adotmob.com
 +.adotone.com
@@ -20071,7 +20067,6 @@
 +.bantenpipa.com
 +.banterteeserving.com
 +.bantex.ru
-+.bantuan-customer-cs-dana-id.webcom.my.id
 +.banvoucher-vn.weeblysite.com
 +.banxc.com
 +.banydox.com
@@ -20626,7 +20621,6 @@
 +.bde.be
 +.bde1wtzxfho2d9krz0ar.viomil.ro
 +.bdf7a07377.com
-+.bdfb.asybc.live
 +.bdford.com
 +.bdfpbimg.ifengimg.com
 +.bdg-analytics.appspot.com
@@ -20694,7 +20688,6 @@
 +.be.startdownload.mobi
 +.be.yourtrap.com
 +.be30660063.com
-+.be4f.asybc.live
 +.bea-s.dinghuoche.com
 +.bea988787c.com
 +.beachanatomyheroin.com
@@ -24575,7 +24568,6 @@
 +.britishekurzhaar-katzchen.de
 +.britishfinestarrangement.com
 +.britishft.com
-+.britishgovt.org.uk
 +.britishgrease.com
 +.britishieltscertification.com
 +.britishinquisitive.com
@@ -48024,7 +48016,6 @@
 +.fepmpify.xyz
 +.fepne.angelsareuschildcare.com
 +.fepsacco.co.ke
-+.fepseqdkfyfjc.com
 +.feptbh.xyz
 +.fer2oxheou4nd.com
 +.feralopponentplum.com
@@ -50370,7 +50361,6 @@
 +.franim.fr
 +.frank-busemann.de
 +.frank.zi-systech.com
-+.frank1.ddf.al
 +.frankandoaks.us
 +.franken-toner.de
 +.frankfacederichavinger.buttclap.com
@@ -51451,7 +51441,6 @@
 +.fwpgw1.surf-town.net
 +.fwt0.com
 +.fwtrck.com
-+.fwwl.xyz
 +.fx-protrade.net
 +.fx02.ddns.net
 +.fx640b4a8v2n.net
@@ -53423,7 +53412,6 @@
 +.gift-token-events.mywebcommunity.org
 +.gift.douyucdn.cn
 +.giftandgamecentral.com
-+.giftapi.net
 +.giftarget.com
 +.giftbangbangtank.weebly.com
 +.giftbinance.org
@@ -53667,7 +53655,6 @@
 +.gjincscobleizer.112.2o7.net
 +.gjjvjbe.com
 +.gjonfartyb.com
-+.gjrhqyc.com
 +.gjtech.net
 +.gjtrack.uc.cn
 +.gjtrack.ucweb.com
@@ -53848,7 +53835,6 @@
 +.glitteringinsertsupervise.com
 +.glitteringobsessionchanges.com
 +.glittersh.com
-+.gliujoi.xyz
 +.glizauvo.net
 +.glkbio.com
 +.gll.metricaga.com
@@ -55529,7 +55515,6 @@
 +.grayhour.com
 +.grayoranges.com
 +.grayreceipt.com
-+.graywatches.com
 +.graywithingrope.com
 +.grazafnulp.com
 +.grazingmarrywomanhood.com
@@ -60786,7 +60771,6 @@
 +.ibqmey.xyz
 +.ibrak.ddns.net
 +.ibrapush.com
-+.ibrelend.com
 +.ibryte.com
 +.ibsprogram.com
 +.ibtakagn.com
@@ -67407,7 +67391,6 @@
 +.killstudyingoperative.com
 +.killuua.ddns.net
 +.killuwear.com
-+.kilmunt.top
 +.kiloh.ovh
 +.kilomniadst.info
 +.kilosex.com
@@ -67611,7 +67594,6 @@
 +.kitrigthy.com
 +.kitsune-rush.overbuff.com
 +.kitsuneconsulting.com.au
-+.kitsveinery.com
 +.kitt.tucsonsentinel.com
 +.kittengarden.gb.net
 +.kittensuccessful.com
@@ -67776,12 +67758,10 @@
 +.klospegh.beget.tech
 +.klothez.com
 +.klotu.com
-+.klotzak89.net
 +.kloynfsag.com
 +.klpervezimas.lt
 +.klpgmansuchcesu.com
 +.klrfyid.cc
-+.klrnhhzh.com
 +.kls-marine.com
 +.kls.cc
 +.kls2kresearch.com
@@ -71472,7 +71452,6 @@
 +.llabanquepostale.fr
 +.llal.xyz
 +.llalo.click
-+.llam.ru
 +.llama.eniston.io
 +.llama.growthinkers.nl
 +.llama.lobbly.com
@@ -71809,7 +71788,6 @@
 +.lo.ljkeefeco.com
 +.lo43240320.tumblr.com
 +.lo8ve6ygour3pea4cee.com
-+.load.alibabasfs.top
 +.load.bignoxplay.com
 +.load.freecad-build.com
 +.load.ldeogramm.com
@@ -73556,7 +73534,6 @@
 +.lwjvyd.com
 +.lwlscy.com
 +.lwmbc.cn
-+.lwmheajc.com
 +.lwnbts.com
 +.lwoekouututeuoo.ws
 +.lwoekouututeuor.ws
@@ -77406,7 +77383,6 @@
 +.miciudadreal.es
 +.mickiesetheric.com
 +.mickpomortsev.ru
-+.mickysales.com
 +.miconsultamedica.com
 +.miconvalvesindia.com
 +.micorsoft.fr
@@ -79600,7 +79576,6 @@
 +.moviease.com
 +.moviecategories.com
 +.moviecentral-petparade.com
-+.moviecentral-petparade2.com
 +.moviecentral-petparade3.com
 +.moviecoupons.com
 +.moviedownloader.net
@@ -81751,7 +81726,6 @@
 +.navi78.ru
 +.navi8.com
 +.navi88.com
-+.navi93.ru
 +.navi99.com
 +.naviblue-team.com
 +.navicapitaltrust.com
@@ -82048,13 +82022,11 @@
 +.neimanmaccuuss.com
 +.neinfpsl.com
 +.neinji9ht.top
-+.neinji9vt.top
 +.neinjo9vt.top
 +.neinjp9ht.top
 +.neinjp9vs.top
 +.neirong.funshion.com
 +.neitherpennylack.com
-+.neiz9sr.top
 +.neje.shop
 +.nejxdoy.com
 +.neklatek.com
@@ -83744,7 +83716,6 @@
 +.noithatthientuan.com
 +.noitons.net
 +.nojazz.eu
-+.nojhhsg.com
 +.nojkx.com
 +.nokia-lifestyle.ru
 +.nokiseitjnemnew.jp
@@ -88570,7 +88541,6 @@
 +.pakaujf.icu
 +.pakbs.org
 +.pakcircles.com
-+.pakcustomers.com
 +.pakethosting.com
 +.pakistanchurchplanting.com
 +.pakistantanners.org
@@ -95686,7 +95656,6 @@
 +.puzubogo.weebly.com
 +.puzzio.xyz
 +.puzzle.aomg5bzv7.com
-+.puzzlementangrily.com
 +.puzzlepursued.com
 +.puzzlesgaming.com
 +.puzzling.eu
@@ -95915,7 +95884,6 @@
 +.qatsbesagne.com
 +.qatttuluhog.com
 +.qavgacsmegav.com
-+.qawzwkvleyjro.top
 +.qax1.top
 +.qayshaija.ddns.net
 +.qazanova-alm-mmkr.com
@@ -97076,7 +97044,6 @@
 +.rambunctiousflock.com
 +.ramcxx.duckdns.org
 +.rameattot.com
-+.rameepernyi.top
 +.ramgo.com
 +.ramie.me
 +.ramieuretal.com
@@ -101087,7 +101054,6 @@
 +.ruranews.com
 +.rurik.at.ua
 +.rurukla.com
-+.rus-mi.com
 +.rus-news.biz
 +.rus-porno.com
 +.ruscupid.ru
@@ -105918,7 +105884,6 @@
 +.shophq.online
 +.shophungakira.com
 +.shopiastore.com
-+.shopif-ws.shop
 +.shopify-fast-tags.deliverr.com
 +.shopify-ws.shop
 +.shopigo.fr
@@ -106865,7 +106830,6 @@
 +.sivjo6ht.top
 +.sivjo6sr.top
 +.sivjo6vt.top
-+.sivjp6vs.top
 +.siwanaloaded.com
 +.siwanchi.com
 +.six.beautifulboca.info
@@ -109380,7 +109344,6 @@
 +.spenceleymarketing.com
 +.spencergifts.112.2o7.net
 +.spencerinfo.net
-+.spencerstuartllc.top
 +.spendpest.com
 +.spendslaughing.com
 +.spendwise.net
@@ -114050,7 +114013,6 @@
 +.t4.a.market.xiaomi.com
 +.t411.no-ip.info
 +.t4e.org
-+.t4yv0sj9u8ja.shop
 +.t5.a.market.xiaomi.com
 +.t551001.com
 +.t5lxz7dtq4iz.com
@@ -115299,7 +115261,6 @@
 +.telefloracom.112.2o7.net
 +.telefoonshop.net
 +.telefram.com
-+.teleg-ran.xyz
 +.telega-channel.com
 +.telegakl-nau.top
 +.telegam.net
@@ -115485,7 +115446,6 @@
 +.televisionace.com
 +.televisionjitter.com
 +.telexhrzn.com
-+.telezlq-ssuk.top
 +.telfar-france.fr
 +.telfcelfi.ink
 +.telggearm.com
@@ -115577,7 +115537,6 @@
 +.templatextreme.com
 +.templeoffendponder.com
 +.templerunforpc.com
-+.temporarilyunemployed.com
 +.temporary.fail
 +.temporary777winner777.tk
 +.temporarytv.com
@@ -121960,7 +121919,6 @@
 +.ukranels.ru
 +.ukrkskillsombine.info
 +.ukrsvit.ukrmir.info
-+.ukrtelecom.cloud
 +.uksamples.com
 +.ukservicedogace.com
 +.uksjogersamyre.com
@@ -122689,7 +122647,6 @@
 +.up.ch3m1stry.com
 +.up.cloudflare.red
 +.up.frigo2000.it
-+.up.jum-pu.com
 +.up.maolaoban.top
 +.up.pplive.com
 +.up.qingdaonews.com
@@ -124990,7 +124947,6 @@
 +.vfhdg.milanm.com
 +.vfjbsbxoqgdeayhu.com
 +.vfjja.yt
-+.vfjydbpywqwe.xyz
 +.vfl81ea28aztw7y3.pro
 +.vfldtglyewhwrl.com
 +.vflorp.xyz
@@ -125988,7 +125944,6 @@
 +.vjharl.xyz
 +.vjianshen1688.com
 +.vjnxpj.xyz
-+.vjsohgd.com
 +.vjugz.com
 +.vjvj.vj24co.com
 +.vjybuykaxz4.com
@@ -131524,7 +131479,6 @@
 +.xn--aal-hzcb14l.xn--c-0mb77a.95163.prosoapehoteluri.ro
 +.xn--aal-zedbr.xn--om-nmc.theloftwarehouse.com
 +.xn--accs-sap-30a.fr
-+.xn--acte-dcs-70ai.fr
 +.xn--alixpress-iib.com
 +.xn--alterna-nergie-ikb.fr
 +.xn--amaz-jqa12q.com
@@ -131595,7 +131549,6 @@
 +.xn--credit-agricole-scurit-r8bf.fr
 +.xn--crneau-mondial-relay-c2b.com
 +.xn--das-holzbro-1hb.de
-+.xn--dcs-en-france-xgbn.fr
 +.xn--defi-mtiers-gbb.fr
 +.xn--depotpriv-j4a.fr
 +.xn--dfi-mtier-b4ae.fr
@@ -133390,7 +133343,6 @@
 +.ytdhshoutidai.com
 +.ytelegram.org
 +.yterxv.com
-+.ytezym.xyz
 +.ytgfhjbv.shop
 +.ytghhhb.z13.web.core.windows.net
 +.ythjhk.com
