@@ -1,9 +1,9 @@
-# Version: 202411081306
+# Version: 202411081606
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136635
-# Last modified: 2024-11-08T13:06:49+0000
+# Entries: 136633
+# Last modified: 2024-11-08T16:06:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -46416,7 +46416,6 @@
 +.evrir.top
 +.evris.shop
 +.evrisparcels.top
-+.evrisrt.shop
 +.evrisuk.icu
 +.evrisuk.shop
 +.evritcb.top
@@ -83809,7 +83808,6 @@
 +.news.nevuer.com
 +.news.push.126.net
 +.news.qcyz.cn
-+.news.quantumcodelab.xyz
 +.news.solitut.online
 +.news.soptv.ws
 +.news.truth.delivery
