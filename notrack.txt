@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 08 Nov 2024
 # LatestVersion 24.01
-# Domain Count: 15921
+# Domain Count: 15919
 #===============================================================
 
 +.0i0i0i0.com
@@ -700,7 +700,6 @@
 +.aptrinsic.com
 +.apxlv.com
 +.aqua-adserver.com
-+.arbourrenewal.com
 +.arcpublishing.com
 +.arcspire.io
 +.arity.com
@@ -1072,7 +1071,6 @@
 +.cmail5.com
 +.cmcore.com
 +.cmdspassets.com
-+.cn-rtb.com
 +.cnzz.com
 +.co-buying.com
 +.cobwebcomprehension.com
