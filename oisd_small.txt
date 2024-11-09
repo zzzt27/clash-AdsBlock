@@ -1,9 +1,9 @@
-# Version: 202411091207
+# Version: 202411092208
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46020
-# Last modified: 2024-11-09T12:07:06+0000
+# Entries: 46017
+# Last modified: 2024-11-09T22:08:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -30745,7 +30745,6 @@
 +.phenver.com
 +.phepofte.net
 +.pheptoam.com
-+.pheqae.com
 +.pheselta.net
 +.phetsaikrugi.com
 +.phewhouhopse.com
@@ -32797,7 +32796,6 @@
 +.qadservice.com
 +.qajgarohwobh.com
 +.qajwizsifaj.com
-+.qaklbrqevbzqz.top
 +.qakzfubfozaj.com
 +.qalscihrolwu.com
 +.qarewien.com
@@ -45031,7 +45029,6 @@
 +.xmsflzmygw.com
 +.xn--2ss830adjbqy7h.xn--fiqs8s
 +.xn--gmq238c5fy.com
-+.xn--swt207gl1hzc.net
 +.xn--u1aaw.xn--p1ai
 +.xn--w9q675dm1p7em.net
 +.xnbuapwp.icu
