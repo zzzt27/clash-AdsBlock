@@ -1,9 +1,9 @@
-# Version: 202411110306
+# Version: 202411110406
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45989
-# Last modified: 2024-11-11T03:06:46+0000
+# Entries: 45986
+# Last modified: 2024-11-11T04:06:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4531,7 +4531,6 @@
 +.ailrouno.net
 +.ailteesh.net
 +.ailtodsookr.com
-+.ailtumty.net
 +.aim4media.com
 +.aimamparc.club
 +.aimextractpunk.com
@@ -17085,7 +17084,6 @@
 +.excretekings.com
 +.excruciationhauledarmed.com
 +.excuseparen.com
-+.excusepuncture.com
 +.excusewalkeramusing.com
 +.exdynsrv.com
 +.exe.bid
@@ -30914,7 +30912,6 @@
 +.pingtas.qq.com
 +.pinklabel.com
 +.pinkleo.pro
-+.pinkpig2le8tt09.com
 +.pinniped.gardenofficeguide.co.uk
 +.pinniped.quarantinecup.live
 +.pinniped.resist.bot
