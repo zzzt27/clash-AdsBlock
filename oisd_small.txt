@@ -1,9 +1,9 @@
-# Version: 202411112106
+# Version: 202411112240
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 46145
-# Last modified: 2024-11-11T21:06:46+0000
+# Last modified: 2024-11-11T22:40:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7102,7 +7102,6 @@
 +.awyuge.xyz
 +.ax.amnezia.org
 +.ax.babe.today
-+.ax.helcoidpedicel.com
 +.ax.ifeng.com
 +.ax.mpcdn.top
 +.ax.xrea.com
@@ -17739,7 +17738,6 @@
 +.feriassaimiri.com
 +.fermolo.info
 +.feroffer.com
-+.ferrelkines.top
 +.ferret.ecvan.io
 +.ferret.firstprogressivechurch.org
 +.ferret.helpspace.com
@@ -20735,6 +20733,7 @@
 +.heixidor.com
 +.hejqtbnmwze.com
 +.hekowutus.com
++.helcoidpedicel.com
 +.heldciviliandeface.com
 +.heleric.com
 +.helesandoral.com
@@ -24085,6 +24084,7 @@
 +.kv-analytics.kiotviet.vn
 +.kv.patenssabzi.com
 +.kvaaa.com
++.kvaedit.site
 +.kvdmuxy.com
 +.kvecc.com
 +.kvemm.com
