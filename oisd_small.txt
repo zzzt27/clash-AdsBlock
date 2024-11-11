@@ -1,9 +1,9 @@
-# Version: 202411112006
+# Version: 202411112106
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46148
-# Last modified: 2024-11-11T20:06:51+0000
+# Entries: 46145
+# Last modified: 2024-11-11T21:06:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -35794,7 +35794,6 @@
 +.selectdisgraceful.com
 +.selectedhoarfrost.com
 +.selectedunrealsatire.com
-+.selectioncarnivalrig.com
 +.selectr.net
 +.selecttopon.com
 +.selfemployedreservoir.com
@@ -40207,7 +40206,6 @@
 +.toothbrushlimbperformance.com
 +.toothcauldron.com
 +.toothoverdone.com
-+.toothpasteginnysorrow.com
 +.toothstrike.com
 +.toovoala.net
 +.top-casting-termine.de
@@ -41623,7 +41621,6 @@
 +.tyodot.icu
 +.typescoordinate.com
 +.typesluggage.com
-+.typgodaovzh.com
 +.typicalappleashy.com
 +.typicallyapplause.com
 +.typicalsecuritydevice.com
