@@ -1,9 +1,9 @@
-# Version: 202411121006
+# Version: 202411121107
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138169
-# Last modified: 2024-11-12T10:06:59+0000
+# Entries: 138190
+# Last modified: 2024-11-12T11:07:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1255,7 +1255,6 @@
 +.1dtdsln1j.de
 +.1e18a448a6.com
 +.1e9a9a2d5c.7116c9673e.com
-+.1eboncoin.fr
 +.1ecfd63507.com
 +.1econbeehiveorg.122.2o7.net
 +.1econkatrinaorg.122.2o7.net
@@ -2468,6 +2467,7 @@
 +.37.sub-70-193-2.myvzw.com
 +.37.sub-75-217-204.myvzw.com
 +.370155612367591-dot-wetransfer-auth-file-341.appspot.com
++.370jj.icu
 +.371j.xyz
 +.373082.livecity.me
 +.37513.cn
@@ -11844,6 +11844,7 @@
 +.ahnenforschung.de
 +.ahnlabad.com
 +.aho.contest.printondemandmerchandise.com
++.ahomsoalsoah.net
 +.ahoravideo-blog.com
 +.ahoravideo-blog.xyz
 +.ahoravideo-cdn.com
@@ -12384,6 +12385,7 @@
 +.akisinn.site
 +.akitaugandasafaris.com
 +.akjorcnawqp.com
++.akjoyjkrwaraj.top
 +.akktis.com
 +.akku.mondo.trium.mitsubishi.sms13.de
 +.akl.de
@@ -14332,7 +14334,6 @@
 +.analytics.cookiefirst.dev
 +.analytics.corusent.com
 +.analytics.cosmonova.net
-+.analytics.crazygames.com
 +.analytics.crea.ca
 +.analytics.dap-networks.de
 +.analytics.data.lloydsbankinggroup.com
@@ -15438,6 +15439,7 @@
 +.aoalmfwinbsstec23.com
 +.aoao11111iis.top
 +.aoao11120iis.top
++.aoao11121iis.top
 +.aobodsuia-auto-parts.com
 +.aobtwv.icu
 +.aod-image-material.cdn.bcebos.com
@@ -20499,6 +20501,7 @@
 +.baseball-dcp.pages.dev
 +.baseballfangifts.shop
 +.baseballhoodies.com
++.baseballletters.com
 +.baseballrabble.com
 +.basecrew.net
 +.basedcloudata.com
@@ -22249,6 +22252,7 @@
 +.bginance.com
 +.bginrbancsr.com
 +.bgjjwl.cn
++.bgkec.global
 +.bglbnpparibasbglbnpparibasmvpprod.112.2o7.net
 +.bglbnpparibaswebbankingdekstopprod.112.2o7.net
 +.bglbsb.cn
@@ -26858,6 +26862,7 @@
 +.canjaume.com
 +.canje.de
 +.canjuro.click
++.cank.xyz
 +.canlishowcum.com
 +.canlitv.kim
 +.cannabisace.com
@@ -35671,6 +35676,7 @@
 +.cz09.com
 +.cz59288.tw1.ru
 +.cz68521.tw1.ru
++.cza.crazygames.com
 +.czapp1e.familyds.com
 +.czaraptitude.com
 +.czechowskamarudzi.pl
@@ -37945,7 +37951,6 @@
 +.ddos-taz.blogspot.nl
 +.ddos.93se.com
 +.ddpaowanji.com
-+.ddqfgamwnhp.com
 +.ddqmlfu.icu
 +.ddr-cash.net
 +.ddrsemxv.com
@@ -38140,7 +38145,6 @@
 +.declarcercket.org
 +.declareave.com
 +.declaredtraumatic.com
-+.declarefollowersuspected.com
 +.declarent.com
 +.declassifications.com
 +.declinebladdersbed.com
@@ -39633,7 +39637,6 @@
 +.diktok.net
 +.dilatenine.com
 +.dilateriotcosmetic.com
-+.dilemmadu.site
 +.dilidd.com
 +.dilip-xko.com
 +.dillards.112.2o7.net
@@ -41786,6 +41789,7 @@
 +.dpocc.com
 +.dppaivsn6f9dy.cloudfront.net
 +.dprince.org
++.dprivatedquali.org
 +.dprtb.com
 +.dpscosthg.world
 +.dpseympatijgpaw.com
@@ -48951,6 +48955,7 @@
 +.ffree.fr
 +.ffsewzk.com
 +.fft.delovoemesto.ru
++.fftgasxe.xyz
 +.fftribune.com
 +.ffuf.top
 +.ffwap.com
@@ -50580,6 +50585,7 @@
 +.footprintswarming.com
 +.footstepnoneappetite.com
 +.footweari.com
++.foozoujeewhy.net
 +.fopsl.cn
 +.fopteefteex.com
 +.foptoovie.com
@@ -51362,7 +51368,6 @@
 +.freedownloadzone.com
 +.freeearthy.com
 +.freeeshopcodes.com
-+.freeevpn.info
 +.freefaceb00k.blogspot.com
 +.freefaceb00kusagefbfbfb.pages.dev
 +.freefblikes.phpnet.us
@@ -54578,6 +54583,7 @@
 +.gkswas.xyz
 +.gkutca.xyz
 +.gkwcxsgh.com
++.gkyju.space
 +.gkyornyu.com
 +.gkypgw.xyz
 +.gkyropoulos.com
@@ -56155,7 +56161,6 @@
 +.gov.crispigr.com
 +.gov.crosgr.online
 +.gov.cuigr.buzz
-+.gov.cuofgr.top
 +.gov.cut-fygr.xyz
 +.gov.cutfygr.sbs
 +.gov.cvmgr.org
@@ -63106,6 +63111,7 @@
 +.ijogkae.churchserviceplanner.co.uk
 +.ijssalonlekker.nl
 +.ijstat.com
++.ijtlu.tech
 +.ijuns.com
 +.ijunxshou.com
 +.ijustcantstop.com
@@ -63219,6 +63225,7 @@
 +.illuminiamoilpoggiodistantino.it
 +.illusiondramaexploration.com
 +.illustriousoatmeal.com
++.illygeoty.shop
 +.illymithics.fr
 +.illyx.com
 +.ilmnutrition.com
@@ -66511,6 +66518,7 @@
 +.jaumevie.com
 +.jaunithuw.com
 +.jauntycrystal.com
++.jaupaptaifoaw.net
 +.jauwaust.com
 +.java8.xyz
 +.javabsence11.fun
@@ -70074,6 +70082,7 @@
 +.kpczvctbjtm.shop
 +.kperb3.gay.tathamservice.com
 +.kpfu.ru
++.kpgks.online
 +.kphcrjth.xyz
 +.kpjuilkzfi.com
 +.kpli.likesyou.org
@@ -80546,7 +80555,6 @@
 +.mnjgffgh.shop
 +.mnkan.com
 +.mnkecom.com
-+.mnlgsjh.cn
 +.mnmlfrance.fr
 +.mnnmnn.com
 +.mnonimainecoon.com
@@ -82947,6 +82955,7 @@
 +.mymediaindex.com
 +.mymediarecommendations.com
 +.mymeds24.com
++.mymembermatchmagic.life
 +.mymercy.click
 +.mymew.com
 +.mymf.shop
@@ -88078,7 +88087,6 @@
 +.olzuvgxqhozu.com
 +.om.dowjoneson.com
 +.om.elvenar.com
-+.om843se.txxx.com
 +.omac.in
 +.omakase-nmnt.com
 +.omanala.com
@@ -88857,6 +88865,7 @@
 +.ooliticcabbler.com
 +.oollttqq.com
 +.ooloptou.net
++.oolseeshir.xyz
 +.oolsutsougri.net
 +.oomphavenger.com
 +.oomsijahail.com
@@ -89124,6 +89133,7 @@
 +.opoxv.com
 +.oppedtoalktoherh.info
 +.oppersianor.com
++.oppfamily.shop
 +.oppnfev.xyz
 +.oppo.yidianzixun.com
 +.oppofile.duckdns.org
@@ -95270,6 +95280,7 @@
 +.potterphotographic.com
 +.potterystabilityassassination.com
 +.pottierneronic.top
++.pottingathlete.shop
 +.potvaporizer.com
 +.potwm.com
 +.pouam.xyz
@@ -98254,7 +98265,6 @@
 +.q2i8kd5n.de
 +.q36.cn
 +.q4az.in
-+.q4v3c.site
 +.q511.wpbf.com
 +.q5x.ru
 +.q6.c-shopify.sbs
@@ -103753,6 +103763,7 @@
 +.ryenetworkconvicted.com
 +.ryeprior.com
 +.ryhkft.xyz
++.ryhmoxhbsfxk.com
 +.ryhuzj.xyz
 +.ryieeandcru.com
 +.rykhukxt.icu
@@ -105522,6 +105533,7 @@
 +.scorescarf.com
 +.scoresolar.com
 +.scorestairlift.com
++.scormationwind.org
 +.scornar.com
 +.scornphiladelphiacarla.com
 +.scorpio8.cn
@@ -107133,7 +107145,6 @@
 +.servedby.healthcarescene.com
 +.servedby.hlipublishing.com
 +.servedby.hour-media.com
-+.servedby.hrnorth.se
 +.servedby.imagineobx.com
 +.servedby.insideradverts.com
 +.servedby.jacilla.no
@@ -113662,6 +113673,7 @@
 +.stats.ladotstats.nl
 +.stats.landingi.com
 +.stats.live-video.net
++.stats.locallabs.com
 +.stats.lotlinx.com
 +.stats.macg.io
 +.stats.mako.co.il
@@ -117906,6 +117918,7 @@
 +.teddybearchowspal.com
 +.teddyfreshfrance.fr
 +.teddypause.no-ip.org
++.tedhilarlymcken.org
 +.tedilieva.tv
 +.tedimpdfhj.moispa.click
 +.tediousbear.com
@@ -120960,6 +120973,7 @@
 +.toothoverdone.com
 +.toothstrike.com
 +.toovoala.net
++.toowubozout.net
 +.top-banners.com
 +.top-casting-termine.de
 +.top-cellphone-spot.live
@@ -121429,6 +121443,7 @@
 +.towersresent.com
 +.town.zi-systech.com
 +.townhousefilms.com
++.townifybabbie.top
 +.townofstark.org
 +.townrusisedpriva.org
 +.townrusisedprivat.info
@@ -124724,6 +124739,7 @@
 +.ughzfjx.com
 +.ugkpsi.xyz
 +.ugloopie.com
++.ugly-routine.pro
 +.uglyas.com
 +.uglyaudio.com
 +.uglyluggage.com
@@ -125514,6 +125530,7 @@
 +.unseaminoax.click
 +.unseamsbosn.com
 +.unseamssafes.com
++.unseeligates.top
 +.unseenrazorcaptain.com
 +.unseenreport.com
 +.unseenshingle.com
@@ -132715,6 +132732,7 @@
 +.woman-busi.com
 +.woman-good-job.work
 +.woman-rus.ru
++.womanedbooze.top
 +.womanforyou.life
 +.womangathering.com
 +.womanmake.com
@@ -136941,6 +136959,7 @@
 +.z3bradesign.com
 +.z3ytpu.gay.tathamservice.com
 +.z3z4fq0420z.life
++.z3zex.icu
 +.z4.cnzz.com
 +.z5.cnzz.com
 +.z54a.xyz
@@ -137886,6 +137905,7 @@
 +.zpcj8.online
 +.zpcode11.com
 +.zpgetworker11.com
++.zpipacuz-lfa.vip
 +.zpkb.pl
 +.zplayer-trk.zdn.vn
 +.zplayer.trk.zapps.vn
@@ -137949,6 +137969,7 @@
 +.zseec.com
 +.zsfbumz.com
 +.zshyudl.com
++.zsjvzsm-s.fun
 +.zsjxwj.com
 +.zsjyuet.cn
 +.zslhmw.com
