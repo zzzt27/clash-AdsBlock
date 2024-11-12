@@ -1,9 +1,9 @@
-# Version: 202411121707
+# Version: 202411121808
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138112
-# Last modified: 2024-11-12T17:07:09+0000
+# Entries: 138110
+# Last modified: 2024-11-12T18:08:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -57592,7 +57592,6 @@
 +.grteab.com
 +.grtexch.com
 +.grtgr.webhop.biz
-+.grthhr.xyz
 +.grtnews.com
 +.grub-bkpjoin.claim99.com
 +.grub-wa-saya.duckdns.org
@@ -121428,7 +121427,6 @@
 +.towersresent.com
 +.town.zi-systech.com
 +.townhousefilms.com
-+.townifybabbie.top
 +.townofstark.org
 +.townrusisedpriva.org
 +.townrusisedprivat.info
