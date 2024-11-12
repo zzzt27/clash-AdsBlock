@@ -1,9 +1,9 @@
-# Version: 202411121607
+# Version: 202411121707
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138119
-# Last modified: 2024-11-12T16:07:10+0000
+# Entries: 138112
+# Last modified: 2024-11-12T17:07:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3607,7 +3607,6 @@
 +.5sec.info
 +.5sed1.eieaapdnox.top
 +.5starjersey.com
-+.5starsblog.com
 +.5t15.cn
 +.5techexplore.com
 +.5thavenue.com
@@ -11650,7 +11649,6 @@
 +.agiftybox.shop
 +.agilaujoa.net
 +.agile-support.net
-+.agilean.in
 +.agilebreeze.com
 +.agilemedia.jp
 +.agileprogram.com
@@ -41161,7 +41159,6 @@
 +.dolohen.com
 +.dolomiteoutlet.com
 +.doloreshoy.co
-+.doloroj.com
 +.dolphin.brandname.tech
 +.dolphin.cash
 +.dolphin.mayansmithgobat.de
@@ -56069,7 +56066,6 @@
 +.gov.allinbloomgr.com
 +.gov.almogr.com
 +.gov.amenzingr.com
-+.gov.amoresgr.com
 +.gov.aocgr.buzz
 +.gov.apex-engr.com
 +.gov.app-development-training-near-me-gr.click
@@ -92927,7 +92923,6 @@
 +.phetsaikrugi.com
 +.phewhouhopse.com
 +.phformula.com.vn
-+.phfpost-goc.top
 +.phgliders.com
 +.phgotof2.com
 +.phhglobe.help
@@ -119965,7 +119960,6 @@
 +.tiktok2.net
 +.tiktok2.top
 +.tiktok8.top
-+.tiktoka.cc
 +.tiktoka.org
 +.tiktokb.com
 +.tiktokb.xyz
@@ -127875,7 +127869,6 @@
 +.veroferta.com.br
 +.veronalhaf.com
 +.veronicaleal.com.br
-+.veroniud.beget.tech
 +.verooperofthewo.com
 +.veroui.com
 +.verovski.com
