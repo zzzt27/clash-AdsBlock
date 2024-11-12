@@ -1,9 +1,9 @@
-# Version: 202411120206
+# Version: 202411120306
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138184
-# Last modified: 2024-11-12T02:06:26+0000
+# Entries: 138172
+# Last modified: 2024-11-12T03:06:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -42777,7 +42777,6 @@
 +.dxtv1.com
 +.dxwksqa.icu
 +.dxwyt3p.cn
-+.dxyasser0.linkpc.net
 +.dxyezzxkrvqf.top
 +.dxyhm8.com
 +.dxyob8x456a.life
@@ -44538,7 +44537,6 @@
 +.eltagr.top
 +.eltau.com
 +.elternchecker.de
-+.elterremoto.duckdns.org
 +.eltiempocomco.com
 +.eltontry.com
 +.eltrafiko.com
@@ -59323,7 +59321,6 @@
 +.hcbjwt.com
 +.hccms.com.cn
 +.hcdds.yt
-+.hcdjy.xyz
 +.hcgbhq.com
 +.hcgon.com
 +.hchrmain.112.2o7.net
@@ -60645,7 +60642,6 @@
 +.hkpride.net
 +.hkrpg-log-upload-os.hoyoverse.com
 +.hkrpg-log-upload.mihoyo.com
-+.hkrytf.xyz
 +.hksdf924pzxoias.appspot.com
 +.hksnu.com
 +.hkt777.ddns.net
@@ -61309,7 +61305,6 @@
 +.hostsu.com
 +.hostteyahoo.ddns.net
 +.hosttrade.ru
-+.hostujmy.pl
 +.hostvy.com
 +.hostwc.com
 +.hostxxxinquiries.creatorlink.net
@@ -66450,7 +66445,6 @@
 +.janus.com.ve
 +.janusblockchain.com
 +.janzmuarcst.com
-+.jaocyqsqjuc.com
 +.jap.cookinggenuine.com
 +.jap.cookingsboss.com
 +.japan.inmobi.com
@@ -72461,7 +72455,6 @@
 +.libeoze.com
 +.liber0.it
 +.liberated.org
-+.libereo.it
 +.libergaming.com
 +.liberland.fr
 +.libero0.it
@@ -72783,7 +72776,6 @@
 +.limitless.fitness
 +.limitlessascertain.com
 +.limitssimultaneous.com
-+.limityuwjy.store
 +.limmediateevista.com
 +.limmergarden.com
 +.limnkedin.com
@@ -92631,7 +92623,6 @@
 +.pestrap.com
 +.pesttrap.com
 +.pestxbakersfield.com
-+.pet-food.live
 +.petadoptionpurch.com
 +.petakfc.112.2o7.net
 +.petalicioustore.com
@@ -108855,7 +108846,6 @@
 +.shweflix.com
 +.shweiwen.cn
 +.shweyoteshin.com
-+.shx11.xyz
 +.shxinjie.cn
 +.shy-boat-90ce.jiko728928922.workers.dev
 +.shyajio.com
@@ -118406,7 +118396,6 @@
 +.temu.tf
 +.ten-don.com
 +.ten-un.com
-+.ten10sb.top
 +.ten10stats.top
 +.tenant-content.apm.appfolio-analytics.com
 +.tenantscreeningbackgroundcheck.com
@@ -118439,7 +118428,6 @@
 +.tenja10ht.top
 +.tenja10sb.top
 +.tenjin.io
-+.tenjo10ht.top
 +.tenjo10vt.top
 +.tenjp10ht.top
 +.tenlineunden.uno
