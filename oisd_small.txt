@@ -1,9 +1,9 @@
-# Version: 202411112240
+# Version: 202411120206
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46145
-# Last modified: 2024-11-11T22:40:13+0000
+# Entries: 46141
+# Last modified: 2024-11-12T02:06:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4364,7 +4364,6 @@
 +.afm01.com
 +.afnhc.com
 +.afnyfiexpecttha.info
-+.afoaglux.com
 +.afodreet.net
 +.afootwitword.com
 +.afosseel.net
@@ -22228,7 +22227,6 @@
 +.infractructurebiopsycircumstances.com
 +.infractructurelegislation.com
 +.infrashift.com
-+.infringementpeanut.com
 +.infuriateseducinghurry.com
 +.ingablorkmetion.com
 +.ingamesads.gameloft.com
@@ -22466,7 +22464,6 @@
 +.interruptionapartswiftly.com
 +.intersads.com
 +.intersectionboth.com
-+.intersectiondejectedfaraway.com
 +.intersectionweigh.com
 +.interstateflannelsideway.com
 +.interstitial-07.com
@@ -43382,7 +43379,6 @@
 +.vwvatp.xyz
 +.vwwzygltq.com
 +.vx.azuresjukes.com
-+.vxdpmxw.xyz
 +.vxdrfr.xyz
 +.vxorjza.com
 +.vxpdfb.xyz
