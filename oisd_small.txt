@@ -1,9 +1,9 @@
-# Version: 202411122107
+# Version: 202411122207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46254
-# Last modified: 2024-11-12T21:07:04+0000
+# Entries: 46249
+# Last modified: 2024-11-12T22:07:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4422,7 +4422,6 @@
 +.agavanilliteom.com
 +.agazejagless.com
 +.agcdn.com
-+.ageandinone.org
 +.ageaskedfurther.com
 +.agedpagefat.live
 +.agedradiant.com
@@ -30224,7 +30223,6 @@
 +.paiwhisep.com
 +.pajamasgnat.com
 +.pajamasguests.com
-+.pajhvd.xyz
 +.pajnutas.com
 +.pajtll.xyz
 +.pakaujf.icu
@@ -33046,7 +33044,6 @@
 +.qmaacxajsovk.com
 +.qmahepzo.one
 +.qmbdta.cn
-+.qmlrmaryeokqz.top
 +.qmxbqwbprwavac.xyz
 +.qn-5.com
 +.qnajplxtvz-a.akamaihd.net
@@ -35615,7 +35612,6 @@
 +.scheduleginnarcotic.com
 +.schedulerationally.com
 +.schmalzgarniec.com
-+.schmoosspue.com
 +.scholarkeyboarddoom.com
 +.scholarsgrewsage.com
 +.schoolboyfingernail.com
@@ -36286,7 +36282,6 @@
 +.shenajou.com
 +.shenouth.com
 +.sheoguekibosh.top
-+.sheolsjoisted.com
 +.shepeekr.net
 +.shepherdalmightyretaliate.com
 +.sher.index.hu
