@@ -1,9 +1,9 @@
-# Version: 202411131607
+# Version: 202411131707
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46213
-# Last modified: 2024-11-13T16:07:36+0000
+# Entries: 46211
+# Last modified: 2024-11-13T17:07:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -33538,7 +33538,6 @@
 +.rclsnaips.com
 +.rcm.shinobi.jp
 +.rcmjs.rambler.ru
-+.rcnithgm.xyz
 +.rcounter.rambler.ru
 +.rcraveoisanikc.com
 +.rcsvoavhk.com
@@ -40128,7 +40127,6 @@
 +.tmska.com
 +.tmulppw.com
 +.tmvebl.xyz
-+.tmwsiaoqlzi.com
 +.tmztcfp.com
 +.tn.frecklygozzan.com
 +.tn.porngo.tube
