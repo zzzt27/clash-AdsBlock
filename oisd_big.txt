@@ -1,9 +1,9 @@
-# Version: 202411131006
+# Version: 202411131207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137998
-# Last modified: 2024-11-13T10:06:53+0000
+# Entries: 137988
+# Last modified: 2024-11-13T12:07:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2173,8 +2173,6 @@
 +.2smarttracker.com
 +.2spdo6g9h.de
 +.2squared.com
-+.2t3.alpin.de
-+.2t3.kicker.de
 +.2t4f7g9a.de
 +.2t64z2.shet.eveshamairporttransfers.co.uk
 +.2ta5l5rc0.de
@@ -7262,7 +7260,6 @@
 +.ad.tbn.ru
 +.ad.technews-iran.com
 +.ad.tencentmusic.com
-+.ad.terra.com
 +.ad.terra.com.mx
 +.ad.terra.doubleclick.net
 +.ad.test.ximalaya.com
@@ -8830,6 +8827,7 @@
 +.ads.adfork.kr
 +.ads.adfox.ru
 +.ads.adhall.com
++.ads.adinmotech.com
 +.ads.admaru.com
 +.ads.admatrix.vn
 +.ads.administrator.de
@@ -14492,6 +14490,7 @@
 +.analytics.midwesternmac.com
 +.analytics.mindjolt.com
 +.analytics.mlstatic.com
++.analytics.mobiedu.vn
 +.analytics.mobile.walmart.com
 +.analytics.mobile.yandex.net
 +.analytics.mobilegamestats.com
@@ -29932,6 +29931,7 @@
 +.chuongtrinhgionghatvietnamnhi2021.weebly.com
 +.chuopayzo.blogspot.com
 +.chupacabraestavivo.duckdns.org
++.chupl.icu
 +.chuptuwais.com
 +.church-insight.gl.at.ply.gg
 +.churchalexis.com
@@ -35554,6 +35554,7 @@
 +.cwconsultores.cnt.br
 +.cwdata.itsearch.co.kr
 +.cweb.ws
++.cweisif.top
 +.cwhrealestate.com
 +.cwhsmgs1.cn
 +.cwnetworkmparticle.112.2o7.net
@@ -43930,7 +43931,6 @@
 +.eephoawaum.com
 +.eeps.me
 +.eepsoumt.com
-+.eepsukso.com
 +.eeptoabs.com
 +.eeptushe.xyz
 +.eepubblica.it
@@ -44425,7 +44425,6 @@
 +.elinvarpayola.com
 +.elisadalbosco.com
 +.elisans.novayonetim.com
-+.eliscord.com
 +.elisehagedoorn.com
 +.elisehassoun.com
 +.eliss-vas.com
@@ -48009,7 +48008,6 @@
 +.fancyactivity.com
 +.fancyapi.com
 +.fancyclo.shop
-+.fancycredithome.com
 +.fancydoctrinepermanently.com
 +.fancydune.com
 +.fancygrove.com
@@ -52456,7 +52454,6 @@
 +.g4s.nfss.my.id
 +.g4u22g.blogspot.com
 +.g4va.kdcad.com
-+.g5fzq2l.com
 +.g5rkmcc9f.com
 +.g6-gonight.org
 +.g6fitness.com
@@ -53156,7 +53153,6 @@
 +.gayal.maxmasnick.com
 +.gayal.stockshouse.co
 +.gayeah.cn
-+.gaymormon.com
 +.gaysgodating.com
 +.gaystryst.com
 +.gaytwddahpave.com
@@ -56437,7 +56433,6 @@
 +.gov.odxhzvlbngr.homes
 +.gov.ofngr.biz
 +.gov.ohtrgr.sbs
-+.gov.okpgr.buzz
 +.gov.olegr.sbs
 +.gov.olocxigr.shop
 +.gov.omyvgr.info
@@ -59249,7 +59244,6 @@
 +.hawow.com
 +.hawsuffer.com
 +.haxbyq.com
-+.haxqxd.xyz
 +.haxsite.com
 +.haxsoft.com
 +.hayahost.com
@@ -62103,7 +62097,6 @@
 +.hwpvbdj.xyz
 +.hwqloan.com
 +.hwrk.yt
-+.hwuogmusthxfpk.xyz
 +.hwvwxerw.xyz
 +.hwwop.fr
 +.hwydapkmi.com
@@ -84104,7 +84097,6 @@
 +.neiltest20171002gace.com
 +.neimanmaccuuss.com
 +.neinfpsl.com
-+.neinja9ht.top
 +.neinja9sb.top
 +.neinjo9vt.top
 +.neirong.funshion.com
@@ -84157,7 +84149,6 @@
 +.neonsister.com
 +.neonvendor.com
 +.neored.ai
-+.neornad.cn
 +.neosor.com
 +.neotekstudios.com
 +.neotizer.com
@@ -98100,6 +98091,7 @@
 +.pxu1ajsdhqr.life
 +.pxxnejx.xyz
 +.pxyepmwex.com
++.pxyjqea.icu
 +.pxzrlf.xyz
 +.pyk.in-neo.cn
 +.pyknit.com
@@ -111110,7 +111102,6 @@
 +.soleina.fr
 +.solelyfun.com
 +.solelyfurniture.com
-+.solemnpreheal.com
 +.solemnvine.com
 +.solenise.com
 +.solethreat.com
@@ -122331,7 +122322,6 @@
 +.trackylw.info
 +.trackylx.info
 +.trackylz.info
-+.trackyr.info
 +.trackyv.info
 +.trackzapper.com
 +.traconf.net
@@ -125936,6 +125926,7 @@
 +.us.js2.yimg.com
 +.us.l.qq.com
 +.us.lgsmartad.com
++.us.mplis.gov.vn
 +.us06webzoomus.pro
 +.us2-eat-a-w-s.blogspot.com
 +.us3h.com
@@ -127644,7 +127635,6 @@
 +.veranstaltungen-regional.de
 +.veranstaltungen.lenggries.de
 +.verbaucher-highlights.de
-+.verbcardinal.com
 +.verbenaschaussons.fr
 +.verboliatsiaeeees.com
 +.verbraucher-flugrechte.com
@@ -128400,7 +128390,6 @@
 +.viiiaypg.com
 +.viiigbxo.com
 +.viiigle.com
-+.viiinfo.com
 +.viiioktg.com
 +.viiith.com
 +.viiithia.com
@@ -133522,6 +133511,7 @@
 +.wwwwwwwwwtickets-faceb0ok.emochila.com
 +.wwwwwwwwwtixck3ers-facebo0k.emochila.com
 +.wwwwwwwwwtuixcketgse-facebo0k.emochila.com
++.wwwwzeraqvrej.top
 +.wwwyoutube.com
 +.wwwzapas.cn
 +.wx.sendastrer.com
@@ -133877,7 +133867,6 @@
 +.xemhang.vn
 +.xena.ad
 +.xenjswd.cn
-+.xenodochial-liskov.34-125-197-109.plesk.page
 +.xenomc.com
 +.xenosmussal.com
 +.xenylclio.com
@@ -135275,6 +135264,7 @@
 +.y.sphinxtube.com
 +.y000.wyff4.com
 +.y06ney2v.xyz
++.y0mwy.icu
 +.y0utube.xyz
 +.y0zvqpi42no.life
 +.y1.junshitt.com
