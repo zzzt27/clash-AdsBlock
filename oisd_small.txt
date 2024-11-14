@@ -1,9 +1,9 @@
-# Version: 202411141207
+# Version: 202411141307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46107
-# Last modified: 2024-11-14T12:07:55+0000
+# Entries: 46104
+# Last modified: 2024-11-14T13:07:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6198,7 +6198,6 @@
 +.apsrgeo.amap.com
 +.aptdiary.com
 +.aptimorph.com
-+.aptin.live
 +.aptitudesupposedlyaccountant.com
 +.aptlycover.com
 +.aptlydoubtful.com
@@ -22739,7 +22738,6 @@
 +.iv-akuifxp.love
 +.iv.hautboyhellen.com
 +.ivanvillager.com
-+.ivedmanyyea.org
 +.ivemjdir-g.top
 +.ivesofefinegold.info
 +.ivnrrkx.cn
@@ -28668,7 +28666,6 @@
 +.nutmegshow.com
 +.nutrientassumptionclaims.com
 +.nutritionshooterinstructor.com
-+.nutshellcellularfibber.com
 +.nutshellwhipunderstood.com
 +.nuttedmoireed.shop
 +.nv.hirersnay.com
