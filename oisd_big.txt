@@ -1,9 +1,9 @@
-# Version: 202411141607
+# Version: 202411141707
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137753
-# Last modified: 2024-11-14T16:07:43+0000
+# Entries: 137725
+# Last modified: 2024-11-14T17:07:29+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -840,6 +840,7 @@
 +.13960999999.mer.lstest.siquality.com
 +.139644804765798-dot-we-secure-file-sh4456.appspot.com
 +.13allchat.com
++.13b3403320.com
 +.13b696a4c1.com
 +.13bt.info
 +.13c4491879.com
@@ -2461,7 +2462,6 @@
 +.37.sub-70-193-2.myvzw.com
 +.37.sub-75-217-204.myvzw.com
 +.370155612367591-dot-wetransfer-auth-file-341.appspot.com
-+.370jj.icu
 +.371j.xyz
 +.373082.livecity.me
 +.375772rug.com
@@ -11815,7 +11815,6 @@
 +.ahoravideo-chat.xyz
 +.ahoravideo-endpoint.com
 +.ahoravideo-schnellvpn.com
-+.ahoravideo-schnellvpn.xyz
 +.ahoroscopes.com
 +.ahosep.com
 +.ahov1.top
@@ -13486,7 +13485,6 @@
 +.amarceusan.com
 +.amarfa.ir
 +.amari-ama.com
-+.amarinmandyai.shop
 +.amaroid.net
 +.amaron.fr
 +.amaron.online
@@ -23492,7 +23490,6 @@
 +.blotchprivately.com
 +.blovaz.auditoriaadministrativa.agency
 +.blowlanternradical.com
-+.blownabolishmentabbreviate.com
 +.blownsuperstitionabound.com
 +.blowscarcetown.com
 +.blox.land
@@ -26505,7 +26502,6 @@
 +.calibrelugger.com
 +.calicheesox.com
 +.calicouponchick.net
-+.calicutaroint.shop
 +.califood.net
 +.californiadating.net
 +.californiagunshop.com
@@ -32374,7 +32370,6 @@
 +.computermouse.shop
 +.computernama.ownsthis.com
 +.computerpcgames.net
-+.computerrecover.com
 +.computerrepairhobart.com.au
 +.computerschoolhost.com
 +.computersindkeinspielzeug.de
@@ -41779,6 +41774,7 @@
 +.dradaeze.com
 +.drael.luminisconsultoria.io
 +.draftbeware.com
++.draftedorgany.com
 +.dragate-in-dc.heytapmobile.com
 +.dragate.dc.oppomobile.com
 +.dragdisrespectmeddling.com
@@ -44273,7 +44269,6 @@
 +.elex-shop.fr
 +.elexoid.com
 +.elez.ru
-+.elfcoexistbird.com
 +.elfcouponcodes.co.cc
 +.elfinlaug.com
 +.elflab.ru
@@ -45011,7 +45006,6 @@
 +.ensap-connect.fr
 +.ensemble-24.fr
 +.ensenadasportfishing.com
-+.ensetepoggies.com
 +.ensignpancreasrun.com
 +.ensinthetertaning.com
 +.ensis.eng.br
@@ -47281,7 +47275,6 @@
 +.f8u6z7.onl.onlinetrees.co.uk
 +.f90ddcd551.2ab7df2de3.com
 +.f95nkry2nf8o.com
-+.f9603d42bc.13b3403320.com
 +.f97c68bed0.0a10a1bb7b.com
 +.f9d3dca725.b291310c77.com
 +.f9pw4m.gow.englishwoodlands.co.uk
@@ -49708,7 +49701,6 @@
 +.fivetjp15ht.top
 +.fivetjp15vt.top
 +.fivewin.com.br
-+.fivjp5ht.top
 +.fivulsou.xyz
 +.fiwhibse.com
 +.fiwyjar.cn
@@ -54624,7 +54616,6 @@
 +.globalhire.ca
 +.globalhyg.com
 +.globalinteractive.com
-+.globalinvestmentgooglewebdnsaddress.duckdns.org
 +.globalismedia.com
 +.globalize25.fun
 +.globaljetcargos.com
@@ -56245,7 +56236,6 @@
 +.gov.mygr.store
 +.gov.myyvgr.buzz
 +.gov.mzztgr.com
-+.gov.naturalartbyjgr.com
 +.gov.nctgr.com
 +.gov.nergr.sbs
 +.gov.nezgr.buzz
@@ -56416,7 +56406,6 @@
 +.gov.tfcogr.com
 +.gov.tfngr.buzz
 +.gov.tgngr.sbs
-+.gov.tgr.nu
 +.gov.thanpcgr.sbs
 +.gov.themjqwbgr.sbs
 +.gov.thursdaybootsgreece-gr.com
@@ -56862,7 +56851,6 @@
 +.graniteboys.nl
 +.grannyblowdos.com
 +.grannyliz.com
-+.grannysteer.com
 +.granodiorite.com
 +.granpex.pl
 +.granseerdissee.net
@@ -64089,7 +64077,6 @@
 +.info-tracking.top
 +.info-trackingas.vip
 +.info-trackingb.vip
-+.info-trackingboa.icu
 +.info-trackingboe.cyou
 +.info-trackingboo.cyou
 +.info-trackingbor.cyou
@@ -64405,9 +64392,7 @@
 +.inkxklw.com
 +.inkxpbf.com
 +.inkybewq.com
-+.inlacedhageen.top
 +.inlandpiereel.com
-+.inlandteiidae.shop
 +.inleadership.co.nz
 +.inlink.it
 +.inlog01.hket.com
@@ -90902,7 +90887,6 @@
 +.paripartners.ru
 +.paris-cybertek.fr
 +.paris-disciplinary.gl.at.ply.gg
-+.paris-france-gov.fr
 +.paris-g7taxi.fr
 +.paris-g7taxis.fr
 +.paris-lane-6515.pancakeapps.com
@@ -91171,7 +91155,6 @@
 +.pass-securitesg.fr
 +.pass-societegenerale.fr
 +.pass-verifications-socgen.fr
-+.passablejeepparliament.com
 +.passage.inria.fr
 +.passagessixtyseeing.com
 +.passagetoeastafrica.com
@@ -98439,7 +98422,6 @@
 +.qsyzz.yt
 +.qt.biqugezw.com
 +.qt.cyberads.io
-+.qt.draftedorgany.com
 +.qt818u.onl.onlinetrees.co.uk
 +.qtaqlbt.ciofgnm.co
 +.qtbb6.com
@@ -100448,7 +100430,6 @@
 +.registrywizard.com
 +.registryzetachain.pages.dev
 +.regiveshollas.shop
-+.reglement-contravention-auto.fr
 +.reglement-impaye.fr
 +.reglement-mgen.fr
 +.regmissin.7m.pl
@@ -104480,7 +104461,6 @@
 +.sangheralimited.com
 +.sanghuangvip.com
 +.sanglah.com
-+.sangleysoldo.com
 +.sangokythuat.com.vn
 +.sanhpaox.xyz
 +.sanibath.com
@@ -108007,7 +107987,6 @@
 +.shoesaid.com
 +.shoeshouses.com
 +.shoesmalltop.com
-+.shoesme.sa.com
 +.shoesmenl.sa.com
 +.shoesmogul.com
 +.shoesonlinebuy.cn
@@ -111771,7 +111750,6 @@
 +.spiffcoin.net
 +.spiffy-pointed-age.glitch.me
 +.spiffymachine.com
-+.spignutgoggan.com
 +.spike-plant.valorbuff.com
 +.spikearsonembroider.com
 +.spikeliftall.com
@@ -112369,7 +112347,6 @@
 +.ssltest.soundrussian.com
 +.sslvpn.pkigoscorp.com
 +.ssmk360.com
-+.ssmlwyrhqbblfar.com
 +.ssmmbed.com
 +.ssmuwcqxjro.com
 +.ssmuye.com
@@ -124623,7 +124600,6 @@
 +.ultsearch.com
 +.ulukantasarim.com
 +.ulusalofis.com
-+.ulvpdxabzuoy.com
 +.ulwfys.xyz
 +.ulysse-cazabonne.cam
 +.ulyvjty4rd.com
@@ -125994,7 +125970,6 @@
 +.usps.com-tarbake.icu
 +.usps.com-tarbako.one
 +.usps.com-tarbaku.icu
-+.usps.com-tarcavop.xyz
 +.usps.com-trackarg.top
 +.usps.com-trackazy.top
 +.usps.com-trackbvd.top
@@ -132194,7 +132169,6 @@
 +.wmadmht.com
 +.wmail-blog.com
 +.wmail-blog.xyz
-+.wmail-cdn.xyz
 +.wmail-chat.xyz
 +.wmail-endpoint.com
 +.wmail-endpoint.xyz
@@ -133968,7 +133942,6 @@
 +.xmediaserve.com
 +.xmegaxvideox.com
 +.xmegaxvideoxxx.com
-+.xmhaorizi.cn
 +.xmhszb.xyz
 +.xml-api.online
 +.xml-clickurl.com
@@ -135036,7 +135009,6 @@
 +.y2sysagetf.com
 +.y2sysv81v.com
 +.y3.ifengimg.com
-+.y341i.xyz
 +.y512hr.onl.onlinetrees.co.uk
 +.y54wdrg.com
 +.y6.no
