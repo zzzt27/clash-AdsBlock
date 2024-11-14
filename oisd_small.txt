@@ -1,9 +1,9 @@
-# Version: 202411141107
+# Version: 202411141207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46090
-# Last modified: 2024-11-14T11:07:29+0000
+# Entries: 46107
+# Last modified: 2024-11-14T12:07:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3188,6 +3188,7 @@
 +.ads-delivery.milenarmedia.pt
 +.ads-dot-fbc-web-2018.uc.r.appspot.com
 +.ads-gdl.imovideo.ru
++.ads-image.production-public.tubi.io
 +.ads-interfaces.sc-cdn.net
 +.ads-leaseweb.appsgeyser.com
 +.ads-media.gameforge.com
@@ -5229,6 +5230,7 @@
 +.analytics-api.vanceai.com
 +.analytics-batch.blitz.gg
 +.analytics-beacon.p.uliza.jp
++.analytics-cds.mobiedu.vn
 +.analytics-cf.bigcrunch.com
 +.analytics-cms.whitebeard.me
 +.analytics-coletor-site.ojc.com.br
@@ -8223,7 +8225,6 @@
 +.bewailindigestionunhappy.com
 +.bewarevampiresister.com
 +.bewathis.com
-+.bewetnovate.com
 +.bewoobaton.com
 +.bewperspiths.top
 +.bewrapsstomal.website
@@ -9269,6 +9270,7 @@
 +.builtinproceeding.com
 +.builtrussism.top
 +.bujerdaz.com
++.bujlmitd.icu
 +.bukshiunchair.shop
 +.bukwnlpk4k.ru
 +.bulbofficial.com
@@ -9459,6 +9461,7 @@
 +.byluvdiscor.com
 +.bylwtf.xyz
 +.bymahuxv.xyz
++.bynamebosh.com
 +.bynix.xyz
 +.bypasseaseboot.com
 +.bypassed.ws
@@ -9652,6 +9655,7 @@
 +.cafeteriasobwaiter.com
 +.cagakzcwyr.com
 +.cageinattentiveconfederate.com
++.cagitfiz.com
 +.caglaikr.net
 +.caglonseeh.com
 +.cagolgzazof.com
@@ -9810,7 +9814,6 @@
 +.capybara.civicsoftwarefoundation.org
 +.capybara.kylewinton.com
 +.capybara.randyhamiltonelectric.com
-+.caqhdxnuumhgie.com
 +.caqreg.xyz
 +.car.qcmrjx.com
 +.caraganaarborescenspendula.com
@@ -12120,6 +12123,7 @@
 +.coyote.gnx.cloud
 +.coyote.nickgurney.com
 +.coyote.txet.ch
++.coyureviral.com
 +.cozeswracks.com
 +.cp.7y7.com
 +.cp.jfcdns.com
@@ -14735,6 +14739,7 @@
 +.dinerpropagandatoothbrush.com
 +.dinesdurr.com
 +.dingbu.bj.bcebos.com
++.dingerhoes.shop
 +.dinghologyden.org
 +.dingo.moehring.dev
 +.diningconsonanthope.com
@@ -16870,6 +16875,7 @@
 +.ev.moneymade.io
 +.ev.stellarlabs.ai
 +.ev.tpocdm.com
++.ev2.api.bdg.com
 +.evaluateuncanny.com
 +.evaluationfixedlygoat.com
 +.evanescentedge.com
@@ -19794,7 +19800,6 @@
 +.gostoamt.com
 +.got-to-be.com
 +.got-to-be.net
-+.gothemerges.top
 +.gotheremploye.com
 +.gotherresethat.info
 +.gothicize25.fun
@@ -21470,6 +21475,7 @@
 +.hw70f395eb456e.aomg5bzv7.com
 +.hwa.his.huawei.com
 +.hwderdk.com
++.hweisiu.top
 +.hwfmynim.com
 +.hwhqbjhrqekbvh.com
 +.hwnojj.xyz
@@ -22753,6 +22759,7 @@
 +.iwantuonly.com
 +.iwantusingle.com
 +.iwe.ktvgv.com
++.iweisio.top
 +.iwhejirurage.com
 +.iwhoosty.com
 +.iwmigu.xyz
@@ -25295,6 +25302,7 @@
 +.logs.gshopper.com
 +.logs.ironsrc.mobi
 +.logs.mezmo.com
++.logs.netflix.com
 +.logs.ntvplus.tv
 +.logs.openbank.com
 +.logs.roku.com
@@ -25656,6 +25664,7 @@
 +.lwprdv.xyz
 +.lwrnikzjpp.com
 +.lwrohd.xyz
++.lwvrv.icu
 +.lx2rv.com
 +.lx5.homeporntuber.com
 +.lxirblfoocw.com
@@ -27360,7 +27369,6 @@
 +.mrs30w.com
 +.mrskincash.com
 +.mrtnsvr.com
-+.mrtqjwrvtpj.com
 +.mrtxtrq.xyz
 +.mrvio.com
 +.mryzroahta.com
@@ -27389,6 +27397,7 @@
 +.mssdk-sg.byteoversea.com
 +.mssdk.bytedance.com
 +.mssql2.aomg5bzv7.com
++.mst.rnd.de
 +.mstat.acestream.net
 +.mstkvnya.xyz
 +.mstm.motorsport.com
@@ -29657,6 +29666,7 @@
 +.oshcmrmxkb.com
 +.oshoothoolo.com
 +.oskiwood.com
++.osmeticjewlike.com
 +.osmzym.xyz
 +.ospartners.xyz
 +.ospreyorceins.com
@@ -30045,6 +30055,7 @@
 +.p543.inquirer.com
 +.p5kzev.com
 +.p769.wgal.com
++.p7cloud.net
 +.p8u.hinet.net
 +.pa.pinpoll.com
 +.pa.tns-ua.com
@@ -36118,6 +36129,7 @@
 +.sharkbleed.com
 +.sharkedmarque.com
 +.sharks.vn
++.sharondemurer.shop
 +.sharpofferlinks.com
 +.sharpphysicallyupcoming.com
 +.sharpwavedreinforce.com
@@ -37897,6 +37909,7 @@
 +.stats.boringproxy.io
 +.stats.bradmax.com
 +.stats.browsertrix.com
++.stats.bunkr.ru
 +.stats.callnowbutton.com
 +.stats.cardschat.com
 +.stats.christianpost.com
@@ -41648,6 +41661,7 @@
 +.u55011.com
 +.u578.wlwt.com
 +.u595sebqih.com
++.u5ps5.icu
 +.u68t5.icu
 +.u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 +.u939.colgate.com
@@ -42273,6 +42287,7 @@
 +.user-analysis.7moor.com
 +.user-red.com
 +.user-shield-check.com
++.user-signals.production-public.tubi.io
 +.user.headlines.pw
 +.user.userguiding.com
 +.useraction.de
@@ -42744,7 +42759,6 @@
 +.vetoembrace.com
 +.vetrainingukm.info
 +.vevhjj.xyz
-+.vewhxobs.com
 +.vexacion.com
 +.vexationworship.com
 +.vexedkindergarten.com
@@ -43123,7 +43137,6 @@
 +.vmvajwc.com
 +.vn.finisbur.com
 +.vn.jaygeepigs.com
-+.vnadsrv.com
 +.vnadssb.com
 +.vnie0kj3.cfd
 +.vnn-tracking.vnncdn.net
@@ -43132,6 +43145,7 @@
 +.vnrherdsxr.com
 +.vnrvss.com
 +.vnte9urn.click
++.vnuuh.icu
 +.voagloupt.net
 +.voapozol.com
 +.vocalreverencepester.com
@@ -43736,6 +43750,7 @@
 +.weeklideals.com
 +.ween.bid
 +.weensnandow.com
++.weensydudler.com
 +.weepauza.com
 +.weepingheartache.com
 +.weepingpretext.com
@@ -44461,6 +44476,7 @@
 +.wrapper.lemde.fr
 +.wrathful-alternative.com
 +.wrathyblesmol.com
++.wrdamoe.icu
 +.wrdnaunq.com
 +.wreaksyolkier.com
 +.wreathabble.com
@@ -45166,6 +45182,7 @@
 +.xulizui6.com
 +.xunsfr.xyz
 +.xuqza.com
++.xuugnuits.com
 +.xuxwvh.xyz
 +.xuycohsuenyqk.com
 +.xuzeez.com

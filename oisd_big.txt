@@ -1,9 +1,9 @@
-# Version: 202411141107
+# Version: 202411141207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137772
-# Last modified: 2024-11-14T11:07:18+0000
+# Entries: 137779
+# Last modified: 2024-11-14T12:07:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8739,6 +8739,7 @@
 +.ads-gdl.imovideo.ru
 +.ads-go.adroi.com.cn
 +.ads-hoop.top
++.ads-image.production-public.tubi.io
 +.ads-interfaces.sc-cdn.net
 +.ads-link.net
 +.ads-media.gameforge.com
@@ -14152,6 +14153,7 @@
 +.analytics-batch.blitz.gg
 +.analytics-beacon.p.uliza.jp
 +.analytics-cdn.redbubble.com
++.analytics-cds.mobiedu.vn
 +.analytics-cf.bigcrunch.com
 +.analytics-cms.whitebeard.me
 +.analytics-coletor-site.ojc.com.br
@@ -21095,7 +21097,6 @@
 +.beautyskincarehome.com
 +.beautyskincareshop.com
 +.beautysolution24.com
-+.beautystorenl.com
 +.beautysucces.fr
 +.beautyz.ru
 +.beauxart.fr
@@ -22135,7 +22136,6 @@
 +.bewarevampiresister.com
 +.bewathis.com
 +.bewerbungsexperte.com
-+.bewetnovate.com
 +.bewilderedbattle.com
 +.bewilderedblade.com
 +.bewoobaton.com
@@ -25927,6 +25927,7 @@
 +.bylwtf.xyz
 +.bymahuxv.xyz
 +.bymixterix22.duckdns.org
++.bynamebosh.com
 +.bynana.nl
 +.bynance.ru
 +.bynix.xyz
@@ -26426,6 +26427,7 @@
 +.cageinattentiveconfederate.com
 +.cageymute.com
 +.caggroup.org
++.cagitfiz.com
 +.caglaikr.net
 +.caglonseeh.com
 +.cagnasso-associati.it
@@ -26996,7 +26998,6 @@
 +.capybara.civicsoftwarefoundation.org
 +.capybara.kylewinton.com
 +.capybara.randyhamiltonelectric.com
-+.caqhdxnuumhgie.com
 +.caqreg.xyz
 +.car-90r.pages.dev
 +.car-donation.shengen.ru
@@ -31138,7 +31139,6 @@
 +.cmbpatrimoine.fr
 +.cmc-earners.com
 +.cmc.tanx.com
-+.cmccwlan.cn
 +.cmclean.club
 +.cmcvest.pro
 +.cmcxmh.com
@@ -33952,6 +33952,7 @@
 +.coyote.gnx.cloud
 +.coyote.nickgurney.com
 +.coyote.txet.ch
++.coyureviral.com
 +.coyward.com
 +.cozeswracks.com
 +.cozeyhouse.com
@@ -39632,6 +39633,7 @@
 +.ding-a-ling-tel.com
 +.dingbu.bj.bcebos.com
 +.dingcang.watch
++.dingerhoes.shop
 +.dinghologyden.org
 +.dinglixuan.cn
 +.dingo.moehring.dev
@@ -46083,6 +46085,7 @@
 +.ev.moneymade.io
 +.ev.stellarlabs.ai
 +.ev.tpocdm.com
++.ev2.api.bdg.com
 +.evacommuniceert.nl
 +.evagriusponticus.net
 +.evakark.xyz
@@ -50350,7 +50353,6 @@
 +.folioasia.com
 +.foliums.ru
 +.foliumumu.com
-+.folkfloreks.buzz
 +.folkrbvi.pages.dev
 +.folkspants.com
 +.folksrh.com.br
@@ -51750,7 +51752,6 @@
 +.ftte.fun
 +.ftte.xyz
 +.fttuvgt.ddnsfree.com
-+.ftuaxqokbxow.com
 +.ftv-publicite.fr
 +.ftwork.co.uk
 +.ftwpcn.com
@@ -55804,7 +55805,6 @@
 +.gotechie.ph
 +.gotgamecheats.net
 +.gotgamefree.us
-+.gothemerges.top
 +.gotheremploye.com
 +.gotherresethat.info
 +.gothicize25.fun
@@ -65984,6 +65984,7 @@
 +.iwealthconsulting.com
 +.iwebland.com
 +.iwebtech.in
++.iweisio.top
 +.iwhejirurage.com
 +.iwhoosty.com
 +.iwmigu.xyz
@@ -73601,7 +73602,6 @@
 +.loader.fmkorea.com
 +.loader.netzwelt.de
 +.loader.oxy.st
-+.loader.ssag00v-0ffical.com
 +.loadglobal.com
 +.loading-delivery1.com
 +.loading-delivery2.com
@@ -74228,6 +74228,7 @@
 +.logs.ironsrc.mobi
 +.logs.mezmo.com
 +.logs.nandu.com
++.logs.netflix.com
 +.logs.ntvplus.tv
 +.logs.openbank.com
 +.logs.roku.com
@@ -75362,6 +75363,7 @@
 +.lwrohd.xyz
 +.lwtlock.cn
 +.lwv-wbla.org
++.lwvrv.icu
 +.lwxs99.cc
 +.lx167.com
 +.lx2h.shop
@@ -77985,7 +77987,6 @@
 +.mediamall098.freedynamicdns.org
 +.mediamanif.org
 +.mediamarketstream.com
-+.mediamarkt-nl.com
 +.mediamaster-pt.com
 +.mediamatters.112.2o7.net
 +.mediametrics.mpsa.com
@@ -81698,7 +81699,6 @@
 +.mrthpcokvjc.com
 +.mrtkng4xclusive.com
 +.mrtnsvr.com
-+.mrtqjwrvtpj.com
 +.mrtsneakers.fr
 +.mrtxtrq.xyz
 +.mrungtourskohsamui.com
@@ -81859,6 +81859,7 @@
 +.msstonojstechnet.112.2o7.net
 +.msstorageazure.com
 +.msstorageboxes.com
++.mst.rnd.de
 +.mstat.acestream.net
 +.mstat.duowan.com
 +.mstco.ir
@@ -89382,6 +89383,7 @@
 +.oski.one
 +.oskiwood.com
 +.oslo-tannlegene.no
++.osmeticjewlike.com
 +.osmimedia.com
 +.osmzym.xyz
 +.osnowsports.com
@@ -90218,6 +90220,7 @@
 +.p7.tr1.n0.cdn.zight.com
 +.p710.de
 +.p769.wgal.com
++.p7cloud.net
 +.p7uln5towbuozltok5nj.maherstcottage.com.au
 +.p86r5q.n0c.world
 +.p8p6k.codesandbox.io
@@ -106957,7 +106960,6 @@
 +.service-chronopost.fr
 +.service-comfirmation.fr
 +.service-compte.fr
-+.service-dgfip.fr
 +.service-dq87eeqy-1259321672.gz.tencentapigw.com.cn
 +.service-e5obcthn-1301549065.bj.tencentapigw.com.cn
 +.service-extract.gl.at.ply.gg
@@ -107727,6 +107729,7 @@
 +.sharmeventplanner.events
 +.sharon-donna.us
 +.sharoncarlislephotography.com
++.sharondemurer.shop
 +.sharp-bartik-bf03ef.netlify.app
 +.sharp-bartik-bf03ef.netlify.com
 +.sharp-kowalevski.34-125-197-109.plesk.page
@@ -113276,6 +113279,7 @@
 +.stats.boyfriendnetwork.com
 +.stats.bradmax.com
 +.stats.browsertrix.com
++.stats.bunkr.ru
 +.stats.cafepress.com
 +.stats.callnowbutton.com
 +.stats.canalblog.com
@@ -124093,6 +124097,7 @@
 +.u588zn.jik.thetreecentre.com
 +.u595sebqih.com
 +.u5fsqf.com
++.u5ps5.icu
 +.u68t5.icu
 +.u6oo3.shop
 +.u756fvjp.cn
@@ -125833,6 +125838,7 @@
 +.user-paypal.com
 +.user-red.com
 +.user-shield-check.com
++.user-signals.production-public.tubi.io
 +.user-stats.rbl.ms
 +.user.headlines.pw
 +.user.userguiding.com
@@ -126039,7 +126045,6 @@
 +.usps.com-trackuaf.top
 +.usps.com-trackuri.top
 +.usps.com-trackvoj.top
-+.usps.com-trackwsr.top
 +.usps.com-trackyaa.top
 +.usps.com-trackymz.top
 +.usps.com-trackziy.top
@@ -127661,7 +127666,6 @@
 +.vevlysingar.fo
 +.vevlysingar.shouthorn.com
 +.vevum.com
-+.vewhxobs.com
 +.vex.team.jessicabarrett.com
 +.vexacion.com
 +.vexacom.com
@@ -128887,6 +128891,7 @@
 +.vntanktransport.com
 +.vnte9urn.click
 +.vntsm.com
++.vnuuh.icu
 +.vnvietcombank.cc
 +.vnvietcombanks.cc
 +.vnviettel.com
@@ -130671,6 +130676,7 @@
 +.weemanmilitia.com
 +.ween.bid
 +.weensnandow.com
++.weensydudler.com
 +.weepauza.com
 +.weepingheartache.com
 +.weepingpretext.com
@@ -132752,6 +132758,7 @@
 +.wrathful-alternative.com
 +.wrathyblesmol.com
 +.wrating.com
++.wrdamoe.icu
 +.wrdnaunq.com
 +.wreaksyolkier.com
 +.wreathabble.com
