@@ -1,9 +1,9 @@
-# Version: 202411142206
+# Version: 202411142307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137575
-# Last modified: 2024-11-14T22:06:56+0000
+# Entries: 137559
+# Last modified: 2024-11-14T23:07:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1672,7 +1672,6 @@
 +.219.sub-75-213-118.myvzw.com
 +.21hn4b64m.de
 +.21jewelry.com
-+.21mob.com
 +.21oct.duckdns.org
 +.21robo.com
 +.21sale.ru
@@ -5389,7 +5388,6 @@
 +.a460.cell.phone.ringtone.samsung.sms13.de
 +.a48.info
 +.a48d53647a.com
-+.a4bj6.xyz
 +.a4dtracker.com
 +.a4mt150303tl.com
 +.a4obeg.onl.onlinetrees.co.uk
@@ -19970,7 +19968,6 @@
 +.banery.netart.pl
 +.banery.onet.pl
 +.banetabbeetroot.com
-+.banfs.com
 +.bangaloreastrologer.com
 +.bangbros.fr
 +.bangbuddy.com
@@ -22440,7 +22437,6 @@
 +.biglots.112.2o7.net
 +.bigmagbag.com
 +.bigmind.info
-+.bigneptunesept.com
 +.bignorthbarbell.com
 +.bigoneall.blogspot.com
 +.bigosearch.com
@@ -28662,7 +28658,6 @@
 +.chaghets.net
 +.chagpt.online
 +.chaibsoacmo.com
-+.chaidsimsubs.net
 +.chaimlistr.com
 +.chaimlstr.com
 +.chain-reaction-pro.com
@@ -34731,7 +34726,6 @@
 +.crs-event.line.me
 +.crs-hometab-event.line.me
 +.crs.baidu.com
-+.crshct.com
 +.crsope.com
 +.crsportspourtouspaca.org
 +.crsspxl.com
@@ -43815,7 +43809,6 @@
 +.effectivegatetocontent.com
 +.effectivemeasure.com
 +.effectivemeasure.net
-+.effectiveperformanceformat.com
 +.effectiveperformancenetwork.com
 +.effectivespeech.net
 +.effectscouncilman.com
@@ -50834,7 +50827,6 @@
 +.fr-birkenstock.fr
 +.fr-carrefour.fr
 +.fr-ch-chinon.fr
-+.fr-chaussures.com
 +.fr-circet.fr
 +.fr-comptes.fr
 +.fr-daheraerospace.fr
@@ -85495,7 +85487,6 @@
 +.node.aibeacon.jp
 +.node.cdntxt.com
 +.node.nimiq.watch
-+.node.noxichosts.xyz
 +.node.setupad.com
 +.nodeclaim.com
 +.nodecomfort.za.com
@@ -88064,7 +88055,6 @@
 +.onepounds.com
 +.onepstr.com
 +.onepx.kr
-+.oneqanatclub.com
 +.oneractive-france.fr
 +.onerousgreeted.com
 +.onerts.glitch.me
@@ -95851,7 +95841,6 @@
 +.pro111.ddns.net
 +.proactivationkey.com
 +.proactivehpt.com
-+.proactivethere.net
 +.proadscdn.com
 +.proammunitions.com
 +.proanalytix.com
@@ -99739,7 +99728,6 @@
 +.reasulty.com
 +.reate.info
 +.reathe.top
-+.reatushaithal.com
 +.reauthenticator.com
 +.reautoinsurancetop.com
 +.reayou8.com
@@ -99933,7 +99921,6 @@
 +.recovertg.vip
 +.recovery-102163.com
 +.recovery-1026ad13.com
-+.recovery-gzo.top
 +.recovery-info.com
 +.recovery-page.com
 +.recoveryandtraces.com
@@ -123549,7 +123536,6 @@
 +.tweitter.com
 +.twelfthcomprehendgrape.com
 +.twelfthdistasteful.com
-+.twelja12sb.top
 +.tweljo12ht.top
 +.tweljp12ht.top
 +.twelveforever.net
@@ -129163,7 +129149,6 @@
 +.vulcan5.branch.io
 +.vulcanbets.pro
 +.vulcannonibird.de
-+.vulcano10.duckdns.org
 +.vulcanodoncomfortpajamas.shop
 +.vulgarmilletappear.com
 +.vulitd.xyz
@@ -133576,7 +133561,6 @@
 +.xi.sexxxy.biz
 +.xia0mi.xyz
 +.xiaaomi.fr
-+.xiandafood.cn
 +.xiangshunjy.com
 +.xiangwangdesh.com
 +.xiangwuquan.cn
