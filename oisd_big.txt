@@ -1,9 +1,9 @@
-# Version: 202411140506
+# Version: 202411140606
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137855
-# Last modified: 2024-11-14T05:06:57+0000
+# Entries: 137843
+# Last modified: 2024-11-14T06:06:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12015,7 +12015,6 @@
 +.airbnbb.site
 +.airbnbh.com
 +.airbnbs.fr
-+.airbnbs.online
 +.airbnbs.store
 +.airbnbs.top
 +.airbnbsex.com
@@ -21538,7 +21537,6 @@
 +.benjw.net
 +.benmoremunchkincats.com
 +.benmorning.com
-+.bennetproblems.com
 +.bennettashley.com
 +.bennettcuvu.law.blog
 +.benniepeters.com
@@ -35787,7 +35785,6 @@
 +.d12zgccgt6pwjz.cloudfront.net
 +.d135aysof2oufc.cloudfront.net
 +.d138am4hd4ke4y.cloudfront.net
-+.d13dee4566.com
 +.d13gni3sfor862.cloudfront.net
 +.d13j11nqjt0s84.cloudfront.net
 +.d13jhr4vol1304.cloudfront.net
@@ -38163,7 +38160,6 @@
 +.deductstep.com
 +.dedukicationan.info
 +.dedusit.com
-+.dedusit.io
 +.deebcards-themier.com
 +.deebog.com
 +.deedeedwinos.com
@@ -46346,7 +46342,6 @@
 +.evertz-maschinenbau.eu
 +.evertz-schleiftechnik.com
 +.evertz-schleiftechnik.eu
-+.everut.com
 +.every-au.com
 +.every-bisque.com
 +.every-blanched.com
@@ -70274,7 +70269,6 @@
 +.kv.patenssabzi.com
 +.kv.stat.nearme.com.cn
 +.kvaaa.com
-+.kvaedit.site
 +.kvartira.aiq.ru
 +.kvbe.art
 +.kvcg.yt
@@ -71648,7 +71642,6 @@
 +.learntinga.com
 +.learntoexit.com
 +.learntoopierce.com
-+.leasedrowte.com
 +.leasemiracle.com
 +.leashextendposh.com
 +.leashmotto.com
@@ -71702,7 +71695,6 @@
 +.leboncoin-solutionspros.fr
 +.leboncoinn.fr
 +.leboncoinoffer.fr
-+.leboncoins.fr
 +.leboncoinservicepaiement.fr
 +.leboncoinsolutionpros.fr
 +.leboncoinsolutionspros.fr
@@ -82306,7 +82298,6 @@
 +.muttonperiltower.com
 +.muttwork.com
 +.mutualfundhome.com
-+.mutuallkykwo.online
 +.mutualreviveably.com
 +.mutuel-credible.com
 +.mutuelcredible.com
@@ -92683,7 +92674,6 @@
 +.pharmacyusa24h.com
 +.pharmacywelness.com
 +.pharmadeal.gr
-+.pharmagrid.click
 +.pharmainfsts.bond
 +.pharmanalysis.de
 +.pharmanecia.org
@@ -135136,7 +135126,6 @@
 +.y341i.xyz
 +.y512hr.onl.onlinetrees.co.uk
 +.y54wdrg.com
-+.y553488469.top
 +.y6.no
 +.y66xvgo5i.chuimg.com
 +.y6813cqhxcyjh0yiyxn1.maherstcottage.com.au
@@ -136421,7 +136410,6 @@
 +.yupdduk.co.kr
 +.yupfiles.net
 +.yuppdownload.com
-+.yupphsl.cn
 +.yuppie-yuppie.com
 +.yuppyads.com
 +.yuqmok.xyz

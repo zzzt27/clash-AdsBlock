@@ -1,9 +1,9 @@
-# Version: 202411140507
+# Version: 202411140606
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 46129
-# Last modified: 2024-11-14T05:07:08+0000
+# Entries: 46125
+# Last modified: 2024-11-14T06:06:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8091,7 +8091,6 @@
 +.benignitydesirespring.com
 +.benignityprophet.com
 +.benignitywoofovercoat.com
-+.bennetproblems.com
 +.benonblkd.xyz
 +.benoopto.com
 +.benrif-solutions.com
@@ -12761,7 +12760,6 @@
 +.d12tu1kocp8e8u.cloudfront.net
 +.d12ylqdkzgcup5.cloudfront.net
 +.d138am4hd4ke4y.cloudfront.net
-+.d13dee4566.com
 +.d13gni3sfor862.cloudfront.net
 +.d13j11nqjt0s84.cloudfront.net
 +.d13jhr4vol1304.cloudfront.net
@@ -24060,7 +24058,6 @@
 +.kv-analytics.kiotviet.vn
 +.kv.patenssabzi.com
 +.kvaaa.com
-+.kvaedit.site
 +.kvdmuxy.com
 +.kvecc.com
 +.kvemm.com
@@ -24441,7 +24438,6 @@
 +.leapretrieval.com
 +.learningcontainscaterpillar.com
 +.learntinga.com
-+.leasedrowte.com
 +.leasemiracle.com
 +.leashextendposh.com
 +.leashmotto.com
