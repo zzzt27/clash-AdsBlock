@@ -1,9 +1,9 @@
-# Version: 202411151207
+# Version: 202411151307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137455
-# Last modified: 2024-11-15T12:07:31+0000
+# Entries: 137442
+# Last modified: 2024-11-15T13:07:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5825,7 +5825,6 @@
 +.abluvdiscr.com
 +.ablybeastssarcastic.com
 +.ablyinviting.com
-+.ablynationality.com
 +.abmismagiusom.com
 +.abmoon.com
 +.abmr.net
@@ -10955,7 +10954,6 @@
 +.adwords.google.com
 +.adwords.google.sk
 +.adwordsmarket.com
-+.adworkplace.net
 +.adworld.club
 +.adworld.co.za
 +.adworld.com.tr
@@ -15124,7 +15122,6 @@
 +.anomalousporch.com
 +.anon-stats.eff.org
 +.anonimousita.ddns.net
-+.anonoman.linkpc.net
 +.anonsharing.com
 +.anonym-ohne-rezept.com.de
 +.anonym-rezeptfrei.com.de
@@ -33909,7 +33906,6 @@
 +.coyote.gnx.cloud
 +.coyote.nickgurney.com
 +.coyote.txet.ch
-+.coyureviral.com
 +.coyward.com
 +.cozeswracks.com
 +.cozeyhouse.com
@@ -42315,7 +42311,6 @@
 +.ducknrun.com
 +.duckruckgo.com
 +.ducksintroduce.com
-+.ducksringjk.sbs
 +.ducksys.duckdns.org
 +.duckybabe.com
 +.ducoduckgo.com
@@ -68019,7 +68014,6 @@
 +.k-h.co.il
 +.k-k-k.com
 +.k-lined.com
-+.k-litetk.com
 +.k-oggwkhhxt.love
 +.k-pilot.kariyer.net
 +.k-way-france.fr
@@ -68520,7 +68514,6 @@
 +.keamananakunfb4.webnode.com
 +.kearnypaving.com
 +.kebapsaray.be
-+.kebeckirgon.net
 +.kebegvpl.com
 +.kebohjhh.xyz
 +.keboncoin.fr
@@ -96717,7 +96710,6 @@
 +.psychedelicaustraliastore.com
 +.psychedelicchess.com
 +.psychedelicscureplace.com
-+.psychicendozoa.com
 +.psycho-bunny.fr
 +.psycho-test.fr
 +.psychoactivestore.com
@@ -97915,7 +97907,6 @@
 +.qctt24h.24h.com.vn
 +.qcv5.blogtruyen.vn
 +.qcv5.blogtruyenmoi.com
-+.qcvbtrtlmjdhvxe.xyz
 +.qcvf.ifeng.com
 +.qcxhwrm.com
 +.qcyunnan.cn
@@ -100420,7 +100411,6 @@
 +.relaischronopost.fr
 +.relaischronoposts.fr
 +.relaisdesmarchesparis.fr
-+.relalingj.sbs
 +.reland.biz
 +.relann.com
 +.relap.io
@@ -118790,7 +118780,6 @@
 +.theshops365.com
 +.theshortner.com
 +.thesidge25.byethost10.com
-+.thesims3.fr
 +.thesisadornpathetic.com
 +.thesisfluctuateunkind.com
 +.thesisreducedo.com
@@ -125100,7 +125089,6 @@
 +.updatedate.cn
 +.updatedbut.com
 +.updateenow.com
-+.updateexpert.shop
 +.updatefacebook.ddns.net
 +.updatefbs-1bfc.at.ua
 +.updatefbs-1lpu.at.ua
@@ -132149,7 +132137,6 @@
 +.woow-seguro-de-viajes.pages.dev
 +.woozworld.ddns.net
 +.wopold.com
-+.woppishdonned.click
 +.wopsedoaltuwipp.com
 +.wopsedoaltuwn.com
 +.wopsedoaltuwo.com
