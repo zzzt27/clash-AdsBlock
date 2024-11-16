@@ -1,9 +1,9 @@
-# Version: 202411160006
+# Version: 202411160109
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137290
-# Last modified: 2024-11-16T00:06:40+0000
+# Entries: 137313
+# Last modified: 2024-11-16T01:09:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13047,6 +13047,7 @@
 +.alloicne.fr
 +.allopix.com
 +.alloramart.com
++.allorfrryz.com
 +.allosponsor.com
 +.allostreaming.fr
 +.allotasse.kissr.com
@@ -24309,6 +24310,7 @@
 +.boutique-rugby.fr
 +.boutique.aintzira.com
 +.boutiquebestsell.com
++.boutiquechannel.fr
 +.boutiquefeel.com
 +.boutiqueinfrance.com
 +.boutiquemizunoparis.fr
@@ -30490,6 +30492,7 @@
 +.clickad.eo.pl
 +.clickadilla.com
 +.clickadin.com
++.clickadsource.com
 +.clickadu.com
 +.clickadz.com
 +.clickagents.com
@@ -39017,6 +39020,7 @@
 +.dgdfb.groks-this.info
 +.dgdfsgdgdegde.blogspot.bg
 +.dgerard.com
++.dgfip-impots-ca3.fr
 +.dgfip-impots.fr
 +.dgfu.education
 +.dggaenaawxe8z.cloudfront.net
@@ -41287,6 +41291,7 @@
 +.dossier-antaigouv.fr
 +.dossier-clients.fr
 +.dossier-express-regularisation.fr
++.dossier-santer.fr
 +.dossierantai.fr
 +.dossmanaventre.top
 +.dosudosuo.com
@@ -44269,6 +44274,7 @@
 +.elmipardaz.com
 +.elmissouri.fr
 +.elmonopolicycr.info
++.elmordjene.fr
 +.elmow.com
 +.elmpedia.com
 +.elnuevosistemamundo.com
@@ -57151,6 +57157,7 @@
 +.groundlesscrown.com
 +.groundlesstightsitself.com
 +.groundzeroevent.com
++.group-but.fr
 +.group-colas.fr
 +.group-meeting.online
 +.group-meeting.team
@@ -58643,6 +58650,8 @@
 +.hariheadacheasperity.com
 +.harleycuddlepuppies.com
 +.harleydavidson-france.fr
++.harleydavidson-shop.fr
++.harleydavidson-store.fr
 +.harleymaltipoopp.com
 +.harmfuleqwrj14xnvdc.jp
 +.harmonfinance.com
@@ -64016,6 +64025,7 @@
 +.informality.co
 +.informaticsanalyst.com
 +.information-biling.fr
++.information-cartevital.fr
 +.information-chronopost.fr
 +.information-client.fr
 +.information-compte.fr
@@ -80442,6 +80452,7 @@
 +.moecoco.com
 +.moecrocari.com
 +.moelove.jp
++.moende11disney.fr
 +.moera.xyz
 +.moereng.com
 +.moesexy.com
@@ -80645,6 +80656,7 @@
 +.moncolissimo.fr
 +.moncommisariat.fr
 +.moncompte-ameli.com
++.moncompte-blank.fr
 +.moncompte-info.fr
 +.moncompte-mydisney.fr
 +.moncompte-pmu.fr
@@ -80669,6 +80681,7 @@
 +.mondial-relays.fr
 +.mondialeacrilicos.com.br
 +.mondialrelaay.top
++.mondialrelais-suivis.fr
 +.mondialrelay-colis-fr.com
 +.mondialrelay-france.com
 +.mondialrelay-infocolis.fr
@@ -80676,6 +80689,7 @@
 +.mondialrelay-livraison.fr
 +.mondialrelay-reglement.com
 +.mondialrelay-support.com
++.mondialrelay-transit.fr
 +.mondialrelayaide.com
 +.mondialrelayf-livraison.com
 +.mondialrelayhelp.com
@@ -80987,6 +81001,7 @@
 +.moratomengineering.com
 +.moravianjournal.upol.cz
 +.morbitempus.com
++.mordjene.fr
 +.mordoops.com
 +.more-followers.com
 +.more.square7.ch
@@ -84724,6 +84739,7 @@
 +.nguyenkim.co
 +.nguyenthanhdat.com
 +.ngwadzu.cn
++.ngxzkaxf.icu
 +.nh-iie.top
 +.nhadatchinhchu24h.net
 +.nhan.design
@@ -98043,6 +98059,7 @@
 +.qpdigitech.com
 +.qpdownload.com
 +.qpesok.xyz
++.qphkuua.icu
 +.qpigoa.xyz
 +.qpoe.com
 +.qppez6.gow.englishwoodlands.co.uk
@@ -113968,6 +113985,7 @@
 +.stpmgo.com
 +.stpmneaywgib.com
 +.stptb.org
++.stqagmrylm.xyz
 +.stquality.org
 +.str-travaux.com
 +.str.hit.gemius.pl
@@ -115480,6 +115498,7 @@
 +.sweettruckdiscountpro.com
 +.sweety.biz
 +.sweetymalls.com
++.sweisib.top
 +.swelen.com
 +.swellex.best
 +.swellingconsultation.com
@@ -115694,6 +115713,7 @@
 +.sylhetvoice.com
 +.syllableliking.com
 +.syllablesight.com
++.syllabusbastardchunk.com
 +.syllabusimperfect.com
 +.syllabuspillowcasebake.com
 +.sylmg.com
@@ -128322,6 +128342,7 @@
 +.vlitag.com
 +.vlive.qqvideo.tc.qq.com
 +.vlkmcpnfo.com
++.vlkvchof.com
 +.vllsour.com
 +.vlnk.me
 +.vlogerads.com
@@ -130944,6 +130965,7 @@
 +.whompothessy.com
 +.whomspreadbeep.com
 +.whomsudsikaxu.com
++.whoobaumpairto.xyz
 +.whoodiksaglels.net
 +.whookroo.com
 +.whoolrulr.net
@@ -137145,6 +137167,7 @@
 +.zumrieth.com
 +.zumschwarzenhirsch.de
 +.zunfa.net
++.zungiwhaigaunsi.net
 +.zunigarquitectura.com
 +.zunmi.cn
 +.zunostore.su
