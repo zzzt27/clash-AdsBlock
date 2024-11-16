@@ -1,9 +1,9 @@
-# Version: 202411152306
+# Version: 202411160006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137306
-# Last modified: 2024-11-15T23:06:52+0000
+# Entries: 137290
+# Last modified: 2024-11-16T00:06:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5324,7 +5324,6 @@
 +.a1599.g.akamai.net
 +.a15aaa1.oss-cn-hongkong.aliyuncs.com
 +.a15aeb5940.c4877dea0d.com
-+.a15c5009bcbe272.com
 +.a166994a16.com
 +.a1767.g.akamai.net
 +.a18qqq1.oss-cn-hongkong.aliyuncs.com
@@ -15001,7 +15000,6 @@
 +.ankboot.com
 +.ankecircuits.com
 +.ankerch-crimea.ru
-+.ankghgcgygyfi.com
 +.ankieta-online.pl
 +.ankjdans.xyz
 +.ankleproposedomicile.com
@@ -17293,7 +17291,6 @@
 +.asbgenius.com
 +.asbhyer.top
 +.asbulbasaura.com
-+.asbutiseemedli.com
 +.ascc.javquick.com
 +.asccdn.com
 +.asccounttixckers-facebo0k.emochila.com
@@ -20376,7 +20373,6 @@
 +.barnacle.natalieandmikeyb.com
 +.barnacle.viewsource.io
 +.barnaclecocoonjest.com
-+.barnacleoverdo.com
 +.barnaclewiped.com
 +.barname.weebly.com
 +.barnandfence.com
@@ -43414,7 +43410,6 @@
 +.economyfr.com
 +.economyhave.com
 +.economylube.com
-+.economymentor.com
 +.economystocking.com
 +.economywatch.com
 +.econotoolsinc.com
@@ -55892,7 +55887,6 @@
 +.gov.emkgr.info
 +.gov.enterprisegr.com
 +.gov.envirocoregr.com
-+.gov.equipegr.ink
 +.gov.ergr.lat
 +.gov.esfbhz-eergr.com
 +.gov.euwrbwgr.fun
@@ -56186,7 +56180,6 @@
 +.gov.sale-suv-gr.store
 +.gov.sbumzjfwegr.info
 +.gov.sbvfgr.info
-+.gov.scengr.net
 +.gov.scngr.com
 +.gov.sdbgr.buzz
 +.gov.sdlgr.sbs
@@ -69218,7 +69211,6 @@
 +.kkujkajkeiobts.com
 +.kkuuiif.shop
 +.kkvesjzn.com
-+.kkyvmkxmunrk.com
 +.kl-cleanse.com
 +.kl.embarupbuoy.com
 +.kladart.com
@@ -72349,7 +72341,6 @@
 +.likeyoungna.com
 +.likez.in
 +.likondok.com
-+.likratoka.com
 +.liktufmruav.com
 +.likutaencoil.shop
 +.lilac-lane.com
@@ -75267,7 +75258,6 @@
 +.lzwla.top
 +.lzxdx24yib.com
 +.lzzqfj.xyz
-+.m-a-global-online-service.icu
 +.m-a-global-online-service.vip
 +.m-account-online.webnode.com
 +.m-adash.m.taobao.com
@@ -78413,7 +78403,6 @@
 +.messsenger.online
 +.messsenger.ru
 +.messsomehow.com
-+.messy-concentrate.com
 +.messyfuck.com
 +.messyoranges.com
 +.mestertignseekjet4.blogspot.com
@@ -85127,7 +85116,6 @@
 +.niuguwang.net.cn
 +.niupaiba.com
 +.niuxgame77.com
-+.niveahie.beget.tech
 +.nivirijimukavut.weebly.com
 +.niwooghu.com
 +.nixbsprhupgor.com
@@ -94357,7 +94345,6 @@
 +.portail-messagerieorangemms.web.app
 +.portail-opposition.fr
 +.portail-public-de-facturation.fr
-+.portail-service-ameli.fr
 +.portailauto-entrepreneur.fr
 +.portailfree.fr
 +.portailopposition.fr
@@ -97668,7 +97655,6 @@
 +.pziad.com
 +.pziaix.xyz
 +.pzmeblamivop.world
-+.pznhfofqtwkky.com
 +.pznlpp.xyz
 +.pzphmkf.xyz
 +.pzpivx.xyz
@@ -100197,7 +100183,6 @@
 +.rehtrhhfdhfdehdfhrhj.blogspot.sn
 +.rehvbghwe.cc
 +.rehyejereeeefh.bij.pl
-+.rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 +.reichelcormier.bid
 +.reifen-richter-ellhofen.de
 +.reifen-simon.com
@@ -105421,7 +105406,6 @@
 +.seburax.com
 +.sec-autifpal.fr
 +.sec-cdn.static.xiaomi.net
-+.sec-cloud.cn
 +.sec.dashabi.in
 +.sec.hit.gemius.pl
 +.sec.resource.xiaomi.net
