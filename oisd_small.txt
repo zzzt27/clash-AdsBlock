@@ -1,9 +1,9 @@
-# Version: 202411161207
+# Version: 202411161307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45831
-# Last modified: 2024-11-16T12:07:45+0000
+# Entries: 45826
+# Last modified: 2024-11-16T13:07:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -26645,7 +26645,6 @@
 +.miserdiscourteousromance.com
 +.miseryclevernessusage.com
 +.misfields.com
-+.misgala.com
 +.misguidedfind.com
 +.misguidednourishing.com
 +.mishandlemole.com
@@ -28686,7 +28685,6 @@
 +.obouckie.com
 +.obr3.space
 +.obrom.xyz
-+.obscenityaccordinglyrest.com
 +.obscenityimplacable.com
 +.obscurejury.com
 +.observanceafterthrew.com
@@ -30918,7 +30916,6 @@
 +.pixmg.com
 +.pixoctopus.pixnet.net
 +.pixxur.com
-+.piypjmdsqpznhn.com
 +.piz7ohhujogi.com
 +.pizzasocalled.com
 +.pizzlessclimb.top
@@ -30962,7 +30959,6 @@
 +.plaiceagonist.com
 +.plaicealwayspanther.com
 +.plaicecaught.com
-+.plainphilosophy.pro
 +.plainsnudge.com
 +.plaintivedance.pro
 +.plaintorch.com
@@ -42401,7 +42397,6 @@
 +.vdggsd003.com
 +.vdggsd006.com
 +.vdggsd007.com
-+.vdggsd013.com
 +.vdggsd015.com
 +.vdggsd017.com
 +.vdlvry.com
