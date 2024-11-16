@@ -1,9 +1,9 @@
-# Version: 202411160606
+# Version: 202411160706
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138014
-# Last modified: 2024-11-16T06:06:58+0000
+# Entries: 137984
+# Last modified: 2024-11-16T07:06:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9844,7 +9844,6 @@
 +.adsaccount.appcpi.net
 +.adsadmin.corusradionetwork.com
 +.adsadminister.com
-+.adsadministrator.com
 +.adsage.cn
 +.adsage.com
 +.adsagony.com
@@ -23801,7 +23800,6 @@
 +.boar.kostholdsveilederen.no
 +.boardadvise.co.uk
 +.boardgamearena.fr
-+.boardgamenl.com
 +.boardmotion.xyz
 +.boardpress-b.online
 +.boards-particular.gl.at.ply.gg
@@ -30857,7 +30855,6 @@
 +.clocksense.com
 +.clockwisefamilyunofficial.com
 +.clockwiseleaderfilament.com
-+.clodderpickmaw.com
 +.clodflarechk.com
 +.clodsplit.com
 +.cloewelry.be
@@ -34454,7 +34451,6 @@
 +.creditcardchase.click
 +.creditcardcraft.com
 +.creditcardcraze.com
-+.creditcarddine.com
 +.creditcardeffect.com
 +.creditcardnofeeca.com
 +.creditcardnofeepurchus.com
@@ -41383,7 +41379,6 @@
 +.dossier-antaigouv.fr
 +.dossier-clients.fr
 +.dossier-express-regularisation.fr
-+.dossier-santer.fr
 +.dossierantai.fr
 +.dossmanaventre.top
 +.dosudosuo.com
@@ -48836,7 +48831,6 @@
 +.fgoogle.top
 +.fgoqnva.com
 +.fgoten-mole.web.app
-+.fgta.lol
 +.fgtfrdcx.shop
 +.fgtgr.buzz
 +.fgts-liberado.epizy.com
@@ -49518,7 +49512,6 @@
 +.fireventcooperate.com
 +.firewallgold.com
 +.firewallsupportservers.com
-+.firewallvip.com
 +.firewoodpeerlessuphill.com
 +.fireworkadservices1.com
 +.fireworkapi1.com
@@ -53886,7 +53879,6 @@
 +.gfufutakba.com
 +.gfunwoakvgwo.com
 +.gfx.infomine.com
-+.gfxetkgqti.xyz
 +.gfxxl.de
 +.gfylyw.xyz
 +.gg-ads.b-cdn.net
@@ -55948,7 +55940,6 @@
 +.gov.chargr.ru
 +.gov.cheatgr.com
 +.gov.chrimatistirio-gr.online
-+.gov.ciixigr.com
 +.gov.ckgr.lat
 +.gov.cndgr.buzz
 +.gov.co2-egr.com
@@ -56220,7 +56211,6 @@
 +.gov.matrigr.com
 +.gov.medialoggr.com
 +.gov.medmgr.info
-+.gov.meetbyggr.com
 +.gov.merlanadjogr.xyz
 +.gov.metritadaneiaka-gr.online
 +.gov.mffgr.ru
@@ -56433,7 +56423,6 @@
 +.gov.tipvsgr.homes
 +.gov.tires-4-seasons-promo-gr.shop
 +.gov.tivkgr.com
-+.gov.tlgr.link
 +.gov.tmqlgr.vip
 +.gov.tmsh001gr.shop
 +.gov.tmsh002gr.shop
@@ -56465,7 +56454,6 @@
 +.gov.uogr.buzz
 +.gov.urgr.lat
 +.gov.usepsgr.live
-+.gov.uspssdfgr.top
 +.gov.uszgrzdgr.xyz
 +.gov.uthimhgr.xyz
 +.gov.uxxgr.buzz
@@ -64143,7 +64131,6 @@
 +.info-trackingas.vip
 +.info-trackingb.vip
 +.info-trackingbos.icu
-+.info-trackingbow.cyou
 +.info-trackingbox.cyou
 +.info-trackingcix.cyou
 +.info-trackingiax.vip
@@ -64572,7 +64559,6 @@
 +.inpost-trackingsw.vip
 +.inpost-trackingsz.vip
 +.inpost-vip.shop
-+.inpost1.org
 +.inpostcloud.one
 +.inpostdo5.top
 +.inpostdor.top
@@ -65347,7 +65333,6 @@
 +.ip85-215-66-153.pbiaas.com
 +.ipad.pc899.cn
 +.ipanema--france.fr
-+.ipanemaenfrance.fr
 +.iparcour.fr
 +.ipay-services.fr
 +.ipbase.phub.sandai.net
@@ -66427,7 +66412,6 @@
 +.javaruntimestestapi.azurewebsites.net
 +.javaruntimetestapi.azurewebsites.net
 +.javaruntimeversionchecking.azurewebsites.net
-+.javaruntimeversioncheckingapi.azurewebsites.net
 +.javascript.nwbox.com
 +.javascriptcdnlive.com
 +.javascriptcounter.appspot.com
@@ -69486,7 +69470,6 @@
 +.klfs.synology.me
 +.klh3j19w.xyz
 +.klhswcxt-o.icu
-+.klick.vn
 +.klicksuara.com
 +.klientelv1.myclickfunnels.com
 +.klik-slider.morgancode.com
@@ -69878,7 +69861,6 @@
 +.koregararaga.com
 +.korektorna.com
 +.korenizsemi.net
-+.korenle.com
 +.korexo.com
 +.korgiejoinyou.com
 +.korion.com.br
@@ -80379,7 +80361,6 @@
 +.mmszxc.top
 +.mmtcw.cn
 +.mmtdfxh.xyz
-+.mmtracking.com
 +.mmtysm.com
 +.mmvid.s3.amazonaws.com
 +.mmx.kz
@@ -84174,7 +84155,6 @@
 +.netfiixtv.com
 +.netfilx.online
 +.netfliassistancefr.fr
-+.netfliix.xyz
 +.netflix-abonnement.fr
 +.netflix-bhr.com
 +.netflix-ca.fr
@@ -93614,7 +93594,6 @@
 +.planetoffers.com
 +.planetout.122.2o7.net
 +.planetunregisteredrunaway.com
-+.planetviajes.com
 +.planetvids.online
 +.planetvids.space
 +.planfd.com
@@ -107191,7 +107170,6 @@
 +.servlentreg0co.cfd
 +.servlentreg0co.icu
 +.servlentreg0co.sbs
-+.servlentreg0col.bond
 +.servlentreg0col.cfd
 +.servlentreg0col.icu
 +.servlentreg0col.lol
@@ -109644,7 +109622,6 @@
 +.slimfiftywoo.com
 +.slimhealth.us
 +.slimingsewans.com
-+.slimreme.com
 +.slimspots.com
 +.slimthatwaist.com
 +.slimyscarf.com
@@ -117118,7 +117095,6 @@
 +.tarotaffirm.com
 +.tarragonapost.com
 +.tarrantx.com
-+.tarrepierce.click
 +.tarrilyathenee.com
 +.tarsier.emitremmus.com
 +.tarsier.kriterie.se
@@ -117965,7 +117941,6 @@
 +.telegrcmn.fit
 +.telegrcmso.com
 +.telegrdmt.com
-+.telegream.shop
 +.telegreanm.xyz
 +.telegrem-ly.org
 +.telegrem-p.com
@@ -122252,7 +122227,6 @@
 +.trackszn.median.eu
 +.tracktds.com
 +.tracktds.live
-+.trackvhpyo.xyz
 +.trackvol.com
 +.trackvoluum.com
 +.trackwin.net
@@ -123405,7 +123379,6 @@
 +.tsbo.company
 +.tsbsecurity-online.com
 +.tscali.it
-+.tscjcf.sbs
 +.tscl.com.bd
 +.tsd3.ciscofreak.com
 +.tsdfxv.xyz
@@ -126199,7 +126172,6 @@
 +.uspsaer.info
 +.uspsafc.top
 +.uspsafx.top
-+.uspsagc.top
 +.uspsage.top
 +.uspsagi.top
 +.uspsagr.top
@@ -126461,7 +126433,6 @@
 +.uspszya.top
 +.uspszyc.top
 +.uspszye.top
-+.uspszyi.top
 +.uspszyr.top
 +.uspszyu.top
 +.uspszyv.top
@@ -137599,7 +137570,6 @@
 +.zoapteewoo.com
 +.zoawufoy.net
 +.zobesmu.cn
-+.zodiac-foundation.com
 +.zodiacdinner.com
 +.zodiacranbehalf.com
 +.zoeaegyral.com
