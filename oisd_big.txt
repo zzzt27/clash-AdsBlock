@@ -1,9 +1,9 @@
-# Version: 202411161407
+# Version: 202411161506
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137844
-# Last modified: 2024-11-16T14:07:10+0000
+# Entries: 137827
+# Last modified: 2024-11-16T15:06:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -591,7 +591,6 @@
 +.111.red-88-24-204.staticip.rima-tde.net
 +.111.red-88-31-55.staticip.rima-tde.net
 +.111.sub-70-208-178.myvzw.com
-+.1111bb1.netsolhost.com
 +.1111sale.us
 +.111281.com
 +.11163929-2268.c2.adprotect.net
@@ -19235,7 +19234,6 @@
 +.azadify.com
 +.azads.com
 +.azairee.com
-+.azarpost.help
 +.azaurgoa.com
 +.azawv.rocks
 +.azb.strony.tx.pl
@@ -19287,7 +19285,6 @@
 +.azpyrjlatroyag.com
 +.azq.zozo.jp
 +.azskk.com
-+.azskvslehl.com
 +.azsneakers.fr
 +.azsqkrc.icu
 +.aztbeszelik.com
@@ -55835,7 +55832,6 @@
 +.gov.acytgr.buzz
 +.gov.adult-btgr.xyz
 +.gov.adultbtgr.sbs
-+.gov.aesgrarwgegr.com
 +.gov.afezgr.info
 +.gov.agr.nu
 +.gov.agsigr.com
@@ -56241,7 +56237,6 @@
 +.gov.propertybxphgr.sbs
 +.gov.protothema-gr.life
 +.gov.protothema-gr.online
-+.gov.pskgr.ru
 +.gov.psrkyaxgr.cfd
 +.gov.ptrgr.sbs
 +.gov.pujgr.sbs
@@ -58578,7 +58573,6 @@
 +.hamster.consentkit.io
 +.hamster.darstellendekuenste.de
 +.hamster.market
-+.hamsterginger.com
 +.hamstersad.com
 +.hamtitwet.com
 +.hamu0808hamu.com
@@ -68673,7 +68667,6 @@
 +.kegimminent.com
 +.kegnupha.com
 +.kegsandremembrance.com
-+.kegtopless.click
 +.kehuduan.com
 +.keiba-race.net
 +.keidweneth.com
@@ -75471,7 +75464,6 @@
 +.m-medientechnik.de
 +.m-rtb.com
 +.m-setup.net
-+.m-telegrm.xyz
 +.m-teless.icu
 +.m-telessrm.icu
 +.m-telessrm.top
@@ -78457,7 +78449,6 @@
 +.menvisinhbifina.com
 +.menyasszonyismink.hu
 +.menyos.com
-+.meo257na3rch.com
 +.meofmukindwoul.info
 +.meohaybotui.com
 +.meojewelry.shop
@@ -79378,7 +79369,6 @@
 +.microsoftsupp.com
 +.microsoftsupport.fr
 +.microsoftsupportservices.com
-+.microsoftteams365.com
 +.microsoftu.net
 +.microsoftuk.122.2o7.net
 +.microsoftupdate.dynamicdns.org.uk
@@ -97026,7 +97016,6 @@
 +.pttgovtrq.top
 +.pttigov.ink
 +.pttigovtri.top
-+.pttjn.xyz
 +.pttkargo.life
 +.pttkargo.one
 +.pttkargo.top
@@ -109001,7 +108990,6 @@
 +.siscorp.mx
 +.sisewepod.com
 +.sisgirlav.info
-+.sishui.site
 +.sislog.es
 +.sismoycheii.cc
 +.sispy.net
@@ -123800,7 +123788,6 @@
 +.twltter-download.pro
 +.twltter.cc
 +.twltter.co.za
-+.twltter.com
 +.twltter.com.tr
 +.twltter.ct8.pl
 +.twltter.cx
@@ -123946,7 +123933,6 @@
 +.tyroneed.com
 +.tyroo.com
 +.tytanworks.com
-+.tytlementwre.info
 +.tytyeastfeukufun.info
 +.tyu87hfxz.appspot.com
 +.tyuimln.net
@@ -126228,7 +126214,6 @@
 +.uspsrnc.top
 +.uspsroe.top
 +.uspsrty.top
-+.uspsrvi.top
 +.uspsrvo.top
 +.uspss-us.top
 +.uspss.bond
@@ -126330,7 +126315,6 @@
 +.ustechgenius.com
 +.usthb-dz.org
 +.ustiassosale30.top
-+.ustrackd.top
 +.ustrackf.top
 +.ustrackm.info
 +.ustracko.info
@@ -126925,7 +126909,6 @@
 +.vali.cp12.wasu.tv
 +.valiantjosie.com
 +.valiantlogistics.org
-+.valiantmanioca.com
 +.valid-dad.com
 +.validate.appsflyer.com
 +.validate.id.appiestores.com
