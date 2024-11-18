@@ -1,9 +1,9 @@
-# Version: 202411180006
+# Version: 202411180206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 136589
-# Last modified: 2024-11-18T00:06:51+0000
+# Entries: 136541
+# Last modified: 2024-11-18T02:06:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -148,6 +148,7 @@
 +.042313929614438-dot-wetransfer-auth-file-342.appspot.com
 +.0438336acf.0a74314cd1.com
 +.044586748929278-dot-vui-sgp-cnh.appspot.com
++.044da016b3.com
 +.046699400840456-dot-wetransfer-auth-file-343.appspot.com
 +.046zxnm.com
 +.04953bf049.c172a66e69.com
@@ -4258,7 +4259,6 @@
 +.7dgw.com
 +.7dlm.cn
 +.7dot.cn
-+.7e0211e30b.044da016b3.com
 +.7e4a6fbed2.b14e96118f.com
 +.7e52bb0df7.c5ab629aba.com
 +.7ee4c0f141.com
@@ -19751,7 +19751,6 @@
 +.bak.have8000.com
 +.bakatvackzat.com
 +.bakecorpse.za.com
-+.bakedstusteeb.shop
 +.baken-do.info
 +.baken-miyabi.net
 +.bakergrain.com.au
@@ -23013,7 +23012,6 @@
 +.bjscjsd.com
 +.bjsdg0.pintaexoticfashion.co.in
 +.bjtengda.cn
-+.bjtgds.xyz
 +.bjvsjkday.com
 +.bjvvqu.cn
 +.bjxfnn.xyz
@@ -23157,7 +23155,6 @@
 +.blakaa.duckdns.org
 +.blakbass.linkpc.net
 +.blakelyclothing.fr
-+.blakelyfrance.fr
 +.blamads-assets.s3.amazonaws.com
 +.blamads.com
 +.blamdigital.com
@@ -25497,7 +25494,6 @@
 +.bustlight.com
 +.bustling-let.pro
 +.bustlingbook.com
-+.bustomthings.com
 +.bustski.com
 +.bustygirl4u.net
 +.bustymeets.com
@@ -25836,7 +25832,6 @@
 +.byuibyuiedu.112.2o7.net
 +.byuidaho.112.2o7.net
 +.byuvaigranonile.com
-+.byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 +.bywordmiddleagedpowder.com
 +.byxlivaqzo.com
 +.byxon.com
@@ -31182,7 +31177,6 @@
 +.cnt1.pocitadlo.cz
 +.cnt1.xhamster.com
 +.cntcinc.com
-+.cntrafficpro.com
 +.cntributed.com
 +.cntrktaieagnam.com
 +.cntrl.fr
@@ -38027,7 +38021,6 @@
 +.defiancebelow.com
 +.defiancefaithlessleague.com
 +.defiancenetwork.com
-+.deficiencypiecelark.com
 +.deficitsilverdisability.com
 +.defigroups.com
 +.definedbootnervous.com
@@ -44147,7 +44140,6 @@
 +.elsilvercloud.com
 +.elsotoproduction.com
 +.elswit.com
-+.elta-courier.best
 +.elta-gr.biz
 +.eltagr.top
 +.eltau.com
@@ -46220,7 +46212,6 @@
 +.eweconciliate.com
 +.ewerhodub.com
 +.ewesmedia.com
-+.ewfwetqfbhmlodz.com
 +.ewhafoup.com
 +.ewhareey.com
 +.ewicap.com
@@ -47039,7 +47030,6 @@
 +.faceb00k.cmlc.llc
 +.faceb00k.co
 +.faceb00k.code.blog
-+.faceb00k.com
 +.faceb00k.com.1fa6.com
 +.faceb00k.com.alsaeedplast.com
 +.faceb00k.com.co
@@ -53353,7 +53343,6 @@
 +.getfreesteamgamesnow.com
 +.getfreshnews.com
 +.getgadgetspage.com
-+.getgalaxyapps.monster
 +.getgamegifts.com
 +.getget.rs
 +.getghosted.com
@@ -55482,7 +55471,6 @@
 +.gov.2jnsdu731gr.buzz
 +.gov.2ugr.lat
 +.gov.2vgr.lat
-+.gov.3dmtgr.com
 +.gov.49c8gr.top
 +.gov.55z3gr.top
 +.gov.5ygr.lat
@@ -55576,7 +55564,6 @@
 +.gov.cndgr.buzz
 +.gov.colosseum-gr.ru
 +.gov.contrgeogr.com
-+.gov.corporativojuridicogr.com
 +.gov.cqsggr.buzz
 +.gov.cqtgr.buzz
 +.gov.crispigr.com
@@ -55679,14 +55666,12 @@
 +.gov.gr-govgr.top
 +.gov.gr.ch
 +.gov.gr.sbs
-+.gov.greecegr.com
 +.gov.gregr.buzz
 +.gov.grfui7ty-fgr.com
 +.gov.grybh-tyfgr.com
 +.gov.gsgr.site
 +.gov.gwjgr.buzz
 +.gov.gx0wgr.com
-+.gov.gygr.net
 +.gov.habgr.com
 +.gov.hafgr.info
 +.gov.hamburgr.com
@@ -56138,7 +56123,6 @@
 +.govtgrantsaid.com
 +.govtnz.info
 +.govtr.cloud
-+.govtres.top
 +.govxian.cn
 +.goweb-scratchesok.live
 +.gowfsubsept.shop
@@ -56348,7 +56332,6 @@
 +.gracewellscare.co.uk
 +.grachouss.com
 +.gracious-bardeen.95-181-157-21.plesk.page
-+.graciouslyyourssydney.com
 +.grade-excellence.gl.at.ply.gg
 +.grade.flyingpigsranch.com
 +.gradecastlecanadian.com
@@ -58394,7 +58377,6 @@
 +.harmonicbamboo.com
 +.harmonie-holistique.fr
 +.harmonimusik.co.id
-+.harmoniousfamiliar.pro
 +.harmoniouy.com
 +.harmony-id-store.com
 +.harmonyhealthuscenter.com
@@ -59375,7 +59357,6 @@
 +.hesablama.com
 +.hesaponay.com
 +.hesatinaco.com
-+.hesatinacorne.org
 +.hesearchengineso.com
 +.heseniorlifehousingpageok.live
 +.heseniorlifehousingpagesok.live
@@ -59722,7 +59703,6 @@
 +.hilltopads.net
 +.hilltopgo.com
 +.hilltophueus.com
-+.hillwhite.com
 +.hilongosnon.com
 +.hilove.life
 +.hilsaims.net
@@ -61975,7 +61955,6 @@
 +.icorpadro.hit.gemius.pl
 +.icpanel.hackcrack.io
 +.icpet-intrometic.ro
-+.icpfwlrzqcm.com
 +.icpingenieria.cl
 +.icpkw0333.info
 +.icpnt.org
@@ -64241,7 +64220,6 @@
 +.instantmadness.com
 +.instantnewssource.com
 +.instantnewzz.com
-+.instantonlineverification.usaabank.verification.fajitaritas.com
 +.instantoptiontrades.com
 +.instantwebcash435.pages.dev
 +.instanu.ru
@@ -69388,7 +69366,6 @@
 +.kreischerdesign.com
 +.kremlin-school.info
 +.kreport.com
-+.krestaop.com
 +.kretic.info
 +.kreuzberg.ru
 +.kreuzfahrt-radar.de
@@ -78948,7 +78925,6 @@
 +.milkyway-dag.pages.dev
 +.milkywaynewspaper.com
 +.mill.miltontech.co.uk
-+.millanplaners.duckdns.org
 +.milldesign.com
 +.millecius.synology.me
 +.milleniumpapelaria.com.br
@@ -83368,7 +83344,6 @@
 +.nerveheels.com
 +.nervoussummer.com
 +.nervoustolsel.com
-+.nesfspublicate.info
 +.neshigreek.com
 +.neskodny.builders
 +.nesoftwares.pages.dev
@@ -84412,7 +84387,6 @@
 +.nickssaugus.com
 +.nicksstevmark.com
 +.nickymaru.com
-+.nicmisa.com
 +.nicolaf.xyz
 +.nicolan.shop
 +.nicolasbaldoma.com
@@ -84677,7 +84651,6 @@
 +.niuxgame77.com
 +.nivirijimukavut.weebly.com
 +.niwooghu.com
-+.nixbsprhupgor.com
 +.nixonhabbo.duckdns.org
 +.nixse.com
 +.nixthecurb.com
@@ -86267,7 +86240,6 @@
 +.obj9.cn
 +.objecthero.com
 +.objectionportedseaside.com
-+.objectionsdomesticatednagging.com
 +.objectiv-x.com
 +.objective-fermi-75a252.netlify.com
 +.objective-wright-961fed.netlify.com
@@ -87444,7 +87416,6 @@
 +.oneillandsasso.com
 +.oneip.com.my
 +.oneisan.net
-+.onejo1vt.top
 +.onelao.line.pm
 +.onelinehome.fr
 +.onelink.appsflyer.com
@@ -87954,7 +87925,6 @@
 +.ootchaig.xyz
 +.ootchobuptoo.com
 +.ootchoft.com
-+.oovaufty.com
 +.oowhoaphick.com
 +.ooxobsaupta.com
 +.oozepen.com
@@ -88227,7 +88197,6 @@
 +.optad360.net
 +.optaim.com
 +.optankning.com
-+.optasko.com
 +.optbeacon.net
 +.opteama.com
 +.optefice.digital
@@ -88445,7 +88414,6 @@
 +.ordinaleatersouls.com
 +.ordinalexclusively.com
 +.ordinarilycomedyunload.com
-+.ordinarilyinstead.com
 +.ordinarilyrehearsenewsletter.com
 +.ordinaryseason.best
 +.ordinghology.com
@@ -89081,7 +89049,6 @@
 +.ovaarmor.com
 +.ovaleithermansfield.com
 +.ovcball.com
-+.ovdimin.buzz
 +.ovejqw.xyz
 +.ovenbifaces.cam
 +.ovencraftily.org
@@ -89271,7 +89238,6 @@
 +.oxen.hillcountrytexas.com
 +.oxenai.store
 +.oxetoneagneaux.click
-+.oxeyesdresser.com
 +.oxfioal.com
 +.oxfordadvances.org
 +.oxfordclockrepairs.co.uk
@@ -89480,7 +89446,6 @@
 +.p7.tr1.n0.cdn.zight.com
 +.p710.de
 +.p769.wgal.com
-+.p7cloud.net
 +.p7uln5towbuozltok5nj.maherstcottage.com.au
 +.p8p6k.codesandbox.io
 +.p8u.hinet.net
@@ -94166,7 +94131,6 @@
 +.postts-lt.top
 +.posture-corrector.kro.kr
 +.postureunlikeagile.com
-+.postusa.top
 +.postut.cn
 +.postyourlife.com
 +.pot.biqumo.com
@@ -94486,7 +94450,6 @@
 +.pravpost.org.ua
 +.prawn.lionsmouth.digital
 +.prawnrespiratorgrim.com
-+.prawnsimply.com
 +.praxis-csm.de
 +.praxis-hurst.de
 +.praxis-seyda.com
@@ -96254,7 +96217,6 @@
 +.ptt-trt.top
 +.ptt-try.top
 +.ptt-trz.top
-+.ptt-trzt.top
 +.pttcs-gov.top
 +.pttg-gov.top
 +.pttgg-gov-tr.top
@@ -99771,7 +99733,6 @@
 +.relativefraudulentprop.com
 +.relativelyfang.com
 +.relativelyweptcurls.com
-+.relativewheneverhoe.com
 +.relatoriadigital.com.de
 +.relatumrorid.com
 +.relaxafford.com
@@ -103528,7 +103489,6 @@
 +.samwooind.co.kr
 +.samwoosystem.co.kr
 +.samz.com
-+.samzafood.com.my
 +.san-dast.net
 +.san-stores.com
 +.sana-ir.com
@@ -106491,7 +106451,6 @@
 +.sfixretarum.com
 +.sfkmq.yt
 +.sfmarzell.de
-+.sforourcompa.org
 +.sfp.safe.baidu.com
 +.sfqlbmxt.58guyu.com
 +.sfqyck.xyz
@@ -119135,7 +119094,6 @@
 +.tmedianews.de
 +.tmenfhave.info
 +.tmevmom.pro
-+.tmftsdjyahbhi.com
 +.tmgxmmessccy.in
 +.tmh4pshu0f3n.com
 +.tmhacks22.ovh
@@ -126019,7 +125977,6 @@
 +.vataas.com
 +.vataksi.al
 +.vatanclick.ir
-+.vataninsaatmakina.com
 +.vatanparvar.uz
 +.vatcertaininject.com
 +.vaticmons.digital
@@ -126660,7 +126617,6 @@
 +.vgoogle.it
 +.vgoogle.top
 +.vgosuslugi.ru
-+.vgqxnajvciers.com
 +.vgs-collect-keeper.apps.verygood.systems
 +.vgsfree.b-cdn.net
 +.vgvjkw.com
@@ -128181,7 +128137,6 @@
 +.vs2.gzcu.u3.ucweb.com
 +.vs3.com
 +.vs95off.com
-+.vscinyke.com
 +.vscode.digital
 +.vsdz21wasz.appspot.com
 +.vseccz.weebly.com
@@ -129356,7 +129311,6 @@
 +.webmailfree.fr
 +.webmailgobcom.creatorlink.net
 +.webmailhomcp.com
-+.webmailhosts.com
 +.webmailrupdatekorea.firebaseapp.com
 +.webmailsecurityunithelpdesk.moonfruit.com
 +.webmailsupoto.xyz
@@ -136299,7 +136253,6 @@
 +.zoutufoostou.com
 +.zouzougri.net
 +.zovesksin.site
-+.zovgdpj.cn
 +.zovidree.com
 +.zovihutum.com
 +.zoxkljeicxi.com
@@ -136393,7 +136346,6 @@
 +.zt1.me.zing.vn
 +.ztacs.com
 +.ztevents.zaloapp.com
-+.ztfzskpc.com
 +.ztgame.com
 +.ztidu.com
 +.ztion.yolasite.com
