@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 02:01 UTC
-# Version: 2024.1119.0201.59
+# Last modified: 18 Nov 2024 04:13 UTC
+# Version: 2024.1118.0413.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1504
+# Number of entries: 1505
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -1352,6 +1352,7 @@ DOMAIN-SUFFIX,doh.syshero.org
 DOMAIN-SUFFIX,dns.szpadel.ovh
 DOMAIN-SUFFIX,dns.t-ipnet.de
 DOMAIN-SUFFIX,dns.t53.de
+DOMAIN-SUFFIX,adguard.taxiora.tn
 DOMAIN-SUFFIX,tecdrive.site
 DOMAIN-SUFFIX,dns1.techeasy.org
 DOMAIN-SUFFIX,vpn.technicule.info
