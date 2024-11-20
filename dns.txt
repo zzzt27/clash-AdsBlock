@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 16:29 UTC
-# Version: 2024.1119.1629.39
+# Last modified: 19 Nov 2024 23:07 UTC
+# Version: 2024.1119.2307.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1505
+# Number of entries: 1508
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -795,6 +795,7 @@ DOMAIN-SUFFIX,xray.krnl.eu
 DOMAIN-SUFFIX,adguard.kss.ovh
 DOMAIN-SUFFIX,dns.kukal.cz
 DOMAIN-SUFFIX,dns.kumoumi.net
+DOMAIN-SUFFIX,dns.kusoneko.moe
 DOMAIN-SUFFIX,dns.kuuhaku.moe
 DOMAIN-SUFFIX,kx-97795-tr.xyz
 DOMAIN-SUFFIX,dns.kxy.ink
@@ -1242,6 +1243,7 @@ DOMAIN-SUFFIX,dns.rin.sh
 DOMAIN-SUFFIX,vps.robotboard.de
 DOMAIN-SUFFIX,dns.roedel.cloud
 DOMAIN-SUFFIX,dns.ronc.ru
+DOMAIN-SUFFIX,dns.rootlab.top
 DOMAIN-SUFFIX,dns.rotunneling.net
 DOMAIN-SUFFIX,o.rsaikat.com
 DOMAIN-SUFFIX,au.rslvr.eu
@@ -1259,6 +1261,7 @@ DOMAIN-SUFFIX,adg.rueiliu.space
 DOMAIN-SUFFIX,rumpelsepp.org
 DOMAIN-SUFFIX,doh.runsel.id
 DOMAIN-SUFFIX,agh-yz.russel053.com
+DOMAIN-SUFFIX,drs.rustsword.com
 DOMAIN-SUFFIX,dns1.ryan-palmer.com
 DOMAIN-SUFFIX,dns1.saferbfc.org
 DOMAIN-SUFFIX,dns2.saferbfc.org
