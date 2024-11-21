@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 21 Nov 2024
 # LatestVersion 24.01
-# Domain Count: 15920
+# Domain Count: 15919
 #===============================================================
 
 +.0i0i0i0.com
@@ -15294,7 +15294,6 @@
 +.storeen.ldmnq.com
 +.stores-counters.wix.com
 +.stormiq.com
-+.stormperpetual.com
 +.storygize.net
 +.storyly.io
 +.strack.collegeboard.org
