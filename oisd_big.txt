@@ -1,9 +1,9 @@
-# Version: 202411261807
+# Version: 202411262008
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 138118
-# Last modified: 2024-11-26T18:07:48+0000
+# Entries: 138066
+# Last modified: 2024-11-26T20:08:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2360,7 +2360,6 @@
 +.336655v.com
 +.3368.bookonline.com.cn
 +.339.cn
-+.33929f5ef1.81bc9fc749.com
 +.3393.com
 +.33across.com
 +.33gmail.com
@@ -4446,6 +4445,7 @@
 +.819979454625651-dot-wetransfer-auth-file331.appspot.com
 +.81aa281d56.19bc0e31d4.com
 +.81b0384709.ea05c08bf1.com
++.81bc9fc749.com
 +.81cdn.cn
 +.81cf7e.netlify.com
 +.81gmail.com
@@ -10708,7 +10708,6 @@
 +.advancedcleaner.com
 +.advancedcorretora.com
 +.advancedetective.com
-+.advancedhangoversupportive.com
 +.advancedmaccleaner.com
 +.advancedmactools.com
 +.advancednoveltydocs.com
@@ -10853,7 +10852,6 @@
 +.advertiseworld.com
 +.advertiseyourgame.com
 +.advertising-api-eu.amazon.com
-+.advertising-appeal-review.d2cizsmi6pqvj4.amplifyapp.com
 +.advertising-cdn.com
 +.advertising-cdn.dpgmedia.cloud
 +.advertising.aolp.jp
@@ -12507,7 +12505,6 @@
 +.akvarel22.ru
 +.akvqulocj.com
 +.aky3.com
-+.akyakadatekneturu.com
 +.akyr3h9x5mb.com
 +.al-adtech.com
 +.al-enayah.com
@@ -24167,7 +24164,6 @@
 +.bookgmt.com
 +.bookhacks.com
 +.booking-tables.com
-+.booking.com-inv.property763724.homes
 +.booking.now-session8468.world
 +.bookingbuddy.com
 +.bookinghotel.fr
@@ -28590,7 +28586,6 @@
 +.cert-center.ir
 +.cert-test.sandbox.google.com
 +.certainics.com
-+.certainlydisparagewholesome.com
 +.certainti.com
 +.certaintyurnincur.com
 +.certif-mdts-enligne.fr
@@ -39005,7 +39000,6 @@
 +.deuba-aktivierungshilfe.com
 +.deultimatestores.wozaonline.co.za
 +.deunow.com
-+.deushack.site
 +.deuted.com
 +.deuterfrance.fr
 +.deutrctisve.com
@@ -40474,7 +40468,6 @@
 +.dita6jhhqwoiz.cloudfront.net
 +.ditaow.cn
 +.ditapsa.com
-+.ditceding.com
 +.ditchbillionrosebud.com
 +.ditcherstorify.guru
 +.ditcoin.site
@@ -42714,7 +42707,6 @@
 +.dvden.de
 +.dvdgayonline.com
 +.dvdienmayxanh.com
-+.dvdsvideos.net
 +.dvdvb.top
 +.dvdvendas.com.br
 +.dveri-pmr.com
@@ -42763,7 +42755,6 @@
 +.dwclick.com
 +.dwd11wtouhmea.cloudfront.net
 +.dwebwj8qthne8.cloudfront.net
-+.dwelledfaunist.shop
 +.dwellersheritage.advancementconsultants.com
 +.dwellsew.com
 +.dwene4pgj0r33.cloudfront.net
@@ -45721,7 +45712,6 @@
 +.espaceabonclient.fr
 +.espaceclentcanal.fr
 +.espacecliencanal.fr
-+.espaceclientca-particulier.fr
 +.espaceclientcana.fr
 +.espaceclientcanl.fr
 +.espaceclientedf.fr
@@ -45808,7 +45798,6 @@
 +.estafesfea.top
 +.estafeste.xyz
 +.estafet.futbol
-+.estafeta-mx.icu
 +.estafeta-v.top
 +.estafeta5.top
 +.estafetaai.shop
@@ -45824,7 +45813,6 @@
 +.estafetasmx.top
 +.estafetatasf.top
 +.estafetatasg.top
-+.estafetatasi.top
 +.estafetatask.top
 +.estafetavac.top
 +.estafetavam.top
@@ -49947,7 +49935,6 @@
 +.flairads.com
 +.flairadscpc.com
 +.flaircreditloans.com
-+.flairsetter.nl
 +.flairsus.com
 +.flakesaridphysical.com
 +.flakeschopped.com
@@ -50881,7 +50868,6 @@
 +.fouanalytics.com
 +.fouderezaifi.net
 +.foughtdiamond.com
-+.fouguesteenie.com
 +.fouleewu.net
 +.foulfurnished.com
 +.foundate-core.net
@@ -52537,7 +52523,6 @@
 +.gaelsdaniele.website
 +.gaetanorinaldo.it
 +.gafmajosxog.com
-+.gag.adlook.net
 +.gagakagagb.com
 +.gaganpiti.in
 +.gagapegeeee.com
@@ -56421,7 +56406,6 @@
 +.gov.pkgr.buzz
 +.gov.pntggr.buzz
 +.gov.postfvgr.info
-+.gov.postpendingr.top
 +.gov.ppjixypgtngengr.work
 +.gov.property-bxphgr.xyz
 +.gov.propertybxphgr.sbs
@@ -56469,7 +56453,6 @@
 +.gov.rkukgr.one
 +.gov.rkyf4igr.cyou
 +.gov.roegr.sbs
-+.gov.roofexpertsgr.today
 +.gov.rpbygr.cn
 +.gov.rpecgr.click
 +.gov.rqkegr.info
@@ -65518,7 +65501,6 @@
 +.ipinyou.com.cn
 +.ipitel.com
 +.ipknetsv.com
-+.ipko.online
 +.ipl.t-liga.ru
 +.ipla.hit.gemius.pl
 +.iplanforamerica.com
@@ -66616,7 +66598,6 @@
 +.jb-dqxiin.today
 +.jb.appme.ru
 +.jb.ecar168.cn
-+.jbbyyryezqqvq.top
 +.jbexception.kariyer.net
 +.jbfacilitymanagement.net
 +.jbflil.cn
@@ -67248,7 +67229,6 @@
 +.jmrtech.in
 +.jms122.cn
 +.jmsyap.112.2o7.net
-+.jmsyzj.com
 +.jmt7mbwce.com
 +.jmxgwesrte.com
 +.jmxkowzoen.info
@@ -67597,7 +67577,6 @@
 +.jowkkzx.icu
 +.jowlishdiviner.com
 +.jowyylrzbamz.top
-+.jowyylrzbqmb.top
 +.joxaviri.com
 +.joy-leports.com
 +.joy-spa.com
@@ -67652,7 +67631,6 @@
 +.jphpsjtex.top
 +.jpmkbcgx-o.buzz
 +.jpml.net
-+.jpmldwvjqd.xyz
 +.jpmpartnersites.112.2o7.net
 +.jpmprivatebank.112.2o7.net
 +.jpmtaqtu.com
@@ -68239,7 +68217,6 @@
 +.jwalf.com
 +.jwdhoxw.cn
 +.jwdn.net
-+.jweizaa.top
 +.jwf633.onl.onlinetrees.co.uk
 +.jwhfkj.cn
 +.jwhjqjfl.icu
@@ -68386,7 +68363,6 @@
 +.kaascypher.com
 +.kabacinska.pl
 +.kabakamarbles.top
-+.kabakastopsy.com
 +.kabarnaira.com
 +.kabbmedia.com
 +.kabex.com
@@ -72065,7 +72041,6 @@
 +.lenovoappsshareitprod.112.2o7.net
 +.lenovoappssystemupdateprod.112.2o7.net
 +.lenovosimpletapdev.112.2o7.net
-+.lensklep.pl
 +.lenta.sparrow.ru
 +.lentculturalstudied.com
 +.lentemaniapty.com
@@ -83360,7 +83335,6 @@
 +.naivestatement.com
 +.naj.sk
 +.naja59jg.com
-+.najdnwpx.blue
 +.najlepsiebyvanie.webmerc.eu
 +.najmashoppify.com
 +.najmubn5aaq8.live
@@ -85696,7 +85670,6 @@
 +.nnamoo.duckdns.org
 +.nnaxis.vip
 +.nnbqgxo.cc
-+.nndzsw.com
 +.nnews.co
 +.nnfalf.xyz
 +.nngft.com
@@ -88007,13 +87980,11 @@
 +.olx-pl.izavist.lol
 +.olx-pl.liapunde.lol
 +.olx-pl.lomena.pics
-+.olx-pl.miuide.lol
 +.olx-pl.oskter.lol
 +.olx-pl.pbraike.lol
 +.olx-pl.pexand.lol
 +.olx-pl.plehic.lol
 +.olx-pl.posurte.lol
-+.olx-pl.siojeni.lol
 +.olx-pl.tikjem.lol
 +.olx-pl.walner.lol
 +.olx-pl.walnfer.lol
@@ -89967,7 +89938,6 @@
 +.ouvlook.com
 +.ouvrefth.shop
 +.ouyaoxiazai.com
-+.ouythtdrd.top
 +.ouzeelre.net
 +.ouzosbesiren.com
 +.ov.yahoo.co.jp
@@ -90122,7 +90092,6 @@
 +.ownanuevoscarrosok.live
 +.owndata.network
 +.ownentertainment.com
-+.owner-vacat10n.sbs
 +.ownerdemand.best
 +.owneriq.net
 +.ownhealthinsurance.com
@@ -95053,7 +95022,6 @@
 +.postnlz.top
 +.postnorddo-se.top
 +.postnordlse.top
-+.postnordsee.top
 +.postofficce.top
 +.postofficeco-za.ink
 +.postofficle.top
@@ -96161,7 +96129,6 @@
 +.probestrike.com
 +.probestshop.su
 +.probeswiglet.top
-+.problem.hold-managert.com
 +.problemtv.com
 +.probtn.com
 +.probtp-finance.fr
@@ -97180,7 +97147,6 @@
 +.pttgov-trop.top
 +.pttgov-trrl.top
 +.pttgov-tteq.top
-+.pttgov-ttii.top
 +.pttgov-ttrr.top
 +.pttgov-ttyz.top
 +.pttgov3.shop
@@ -104421,7 +104387,6 @@
 +.salonprimavera.by
 +.saloongkum.lpru.ac.th
 +.saloorthotics.com
-+.salottobar.com
 +.salpetriere.fr
 +.salsamania.ddns.net
 +.salt.zarcainteractive.com
@@ -114604,7 +114569,6 @@
 +.strekoza.com
 +.stremanp.com
 +.strempowered.com
-+.strenots.com
 +.strenuousfudge.com
 +.strenuoustarget.com
 +.strepanrol.sistemapreparatorio.io
@@ -119914,7 +119878,6 @@
 +.timetrackerinfo.com
 +.timeupdate.xyz
 +.timewarner.122.2o7.net
-+.timexparis.fr
 +.timez0.duckdns.org
 +.timezone.live
 +.timezoneutc.com
@@ -121126,7 +121089,6 @@
 +.toruk.tanx.com
 +.toryburchfrance.fr
 +.toryburchoutletonline.us
-+.toryburchsacoutlet.fr
 +.toscytheran.com
 +.toseniorlifehousingpageok.live
 +.tosfeed.com
@@ -125004,7 +124966,6 @@
 +.unavailableprocessionamazingly.com
 +.unawaredisk.com
 +.unawarehistory.pro
-+.unazumarillan.com
 +.unbearablepulverizeinevitably.com
 +.unbeastskilled.shop
 +.unbecominghall.com
@@ -126041,7 +126002,6 @@
 +.usavpoxu.top
 +.usawarehousedeal.com
 +.usbanners.com
-+.usbest.cyou
 +.usbest.top
 +.usbestnow.com
 +.usbkngf.cn
@@ -126336,7 +126296,6 @@
 +.uspsali.top
 +.uspsalu.top
 +.uspsalx.top
-+.uspsaneu.top
 +.uspsapp.com
 +.uspsappi.top
 +.uspsarcelservice.top
@@ -126441,7 +126400,6 @@
 +.uspskiz.top
 +.uspsksa.com
 +.uspsksdmc.top
-+.uspskwkmxc.top
 +.uspskwra.top
 +.uspslmn.top
 +.uspslookg.top
@@ -126477,7 +126435,6 @@
 +.uspsqu.top
 +.uspsqw.top
 +.uspsqwe.top
-+.uspsqwelo.top
 +.uspsqy.top
 +.uspsrty.top
 +.uspsrwnc.top
@@ -126485,7 +126442,6 @@
 +.uspsrwni.top
 +.uspsrwno.top
 +.uspsrwnu.top
-+.uspsrwnx.top
 +.uspsrwny.top
 +.uspsrwnz.top
 +.uspss-us.top
@@ -126532,15 +126488,10 @@
 +.uspsvlcb.top
 +.uspswhra.top
 +.uspswhrb.top
-+.uspswhrd.top
-+.uspswhrf.top
 +.uspswhrg.top
 +.uspswhri.top
 +.uspswhro.top
-+.uspswhrx.top
 +.uspswhry.top
-+.uspswnra.top
-+.uspswnri.top
 +.uspswnro.top
 +.uspswnrv.top
 +.uspswnrx.top
@@ -132407,7 +132358,6 @@
 +.with.oncapeservices.com
 +.withblaockbr.org
 +.withcwallet.com
-+.withdedukication.com
 +.withdrawcosmicabundant.com
 +.withdrawdose.com
 +.withdrawwantssheep.com
@@ -135567,7 +135517,6 @@
 +.yarbitsshal.page.link
 +.yarlnk.com
 +.yarrdex.ru
-+.yasaminkavgaveodulleri.xyz
 +.yasarkemalplatformu.org
 +.yasarlarinsaat.com.tr
 +.yaseber.com
@@ -137457,7 +137406,6 @@
 +.zhusandyoi.websoft.kz
 +.zhushou.2345.com
 +.zhwnlapi.etouch.cn
-+.zhwt1lf5gclu.live
 +.zhybzp.cn
 +.zhyivocrjeplby.com
 +.zhzzx.com
