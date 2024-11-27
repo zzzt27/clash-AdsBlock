@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 27 Nov 2024
 # LatestVersion 24.01
-# Domain Count: 15919
+# Domain Count: 15918
 #===============================================================
 
 +.0i0i0i0.com
@@ -15002,7 +15002,6 @@
 +.smetrics.sharecare.com
 +.smetrics.sharekhan.com
 +.smetrics.shell.co.uk
-+.smetrics.shinseibank.com
 +.smetrics.shopmyexchange.com
 +.smetrics.shoppremiumoutlets.com
 +.smetrics.singlife.com
