@@ -1,9 +1,9 @@
-# Version: 202411270007
+# Version: 202411270207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137935
-# Last modified: 2024-11-27T00:07:15+0000
+# Entries: 137847
+# Last modified: 2024-11-27T02:07:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2287,7 +2287,6 @@
 +.3192a7tqk.de
 +.31aceidfj.de
 +.31aqn13o6.de
-+.31bfe14933.95d127d868.com
 +.31bqljnla.de
 +.31ccde254b.58081163e7.com
 +.31cm5fq78.de
@@ -4041,7 +4040,6 @@
 +.6craqg.onl.onlinetrees.co.uk
 +.6d39809b4a.com
 +.6dad.com
-+.6dcff87d268c945d0f057d9905a89a65.org
 +.6de72955d8.com
 +.6dtxgqam4crv6rr6.onion.cab
 +.6dvip.com
@@ -4618,7 +4616,6 @@
 +.8cnd.com
 +.8coins.ru
 +.8cpsp4.gow.englishwoodlands.co.uk
-+.8d07a.xyz
 +.8d3sne.blow.harrisretreat.com
 +.8d96fe2f01.com
 +.8d9a34f9cc.1c2884f59e.com
@@ -4793,6 +4790,7 @@
 +.9560.xyz
 +.95b1e00252.com
 +.95d04d0751.22ad426520.com
++.95d127d868.com
 +.95gmail.com
 +.95photo.cn
 +.95ppq87g.de
@@ -13804,7 +13802,6 @@
 +.amendepaiement.fr
 +.amendes-gov.fr
 +.amendes-service-france.fr
-+.amendes.best
 +.amendesa.top
 +.amendescontestation.fr
 +.amendexasperatematter.com
@@ -15321,7 +15318,6 @@
 +.anthonystrategiesgroup.com
 +.anthraar.com
 +.anthropologiesaleus.com
-+.anthrylshoq.click
 +.anti-adblock.herokuapp.com
 +.anti-bot.baidu.com
 +.anti-toolbar.com
@@ -15480,7 +15476,6 @@
 +.ao.city24.lv
 +.ao.pe
 +.aoalmfwinbsstec23.com
-+.aoao11211iis.top
 +.aobao.com
 +.aobodsuia-auto-parts.com
 +.aobtwv.icu
@@ -16843,7 +16838,6 @@
 +.aramcoprocurementsuae.com
 +.aramcoprojects-ae.com
 +.aramcosuppliers-ksa.com
-+.aramcotender-uae.com
 +.aramcotenderprocurement-uae.com
 +.aramcotenderprocurement.com
 +.aramcotenders-uae.com
@@ -16955,7 +16949,6 @@
 +.arcoanticoristorante.it
 +.arcomtechnologies.com
 +.arconarchitects.com
-+.arcossinsion.shop
 +.arcost54ujkaphylosuvaursi.com
 +.arcpine.com
 +.arcsim.ro
@@ -17392,7 +17385,6 @@
 +.asaphealthinsurance.com
 +.asaplegaldocuments.com
 +.asbaloney.com
-+.asbbclul.beauty
 +.asbbclul.top
 +.asbgenius.com
 +.asbhyer.top
@@ -19544,7 +19536,6 @@
 +.b2b.baidusec.top
 +.b2bfile.com
 +.b2c.com
-+.b2c5.icu
 +.b2corp.com.br
 +.b2e0073814.com
 +.b2een.xyz
@@ -25656,7 +25647,6 @@
 +.busineess-postee.top
 +.business-api.tiktok.com
 +.business-degree.live
-+.business-manager-report.com
 +.business-manange.com
 +.business-page-property-897432967.netlify.app
 +.business-poste.top
@@ -27772,7 +27762,6 @@
 +.cbyhoe.xyz
 +.cc-shop.su
 +.cc.8181zx.com
-+.cc.advancedpccare.online
 +.cc.calltracking.ru
 +.cc.dynamicdns.co.uk
 +.cc.histoires-de-sexe-gratuites.com
@@ -29834,7 +29823,6 @@
 +.chronopost-suivrecolis.fr
 +.chronopost-tracking.fr
 +.chronopost-xpress.fr
-+.chronopost.casa
 +.chronopost24h.fr
 +.chronopostacheminementcolis.fr
 +.chronopostaide.fr
@@ -33273,7 +33261,6 @@
 +.cooporatestock.com
 +.coordinatedbedroom.com
 +.coordinatedcoat.com
-+.coordinatedcub.com
 +.coordinatereopen.com
 +.coordino.com
 +.coorgmeadows.com
@@ -34913,7 +34900,6 @@
 +.cryjun.com
 +.crylto.com
 +.cryo.socialblade.com
-+.cryonicromero.com
 +.cryorganichash.com
 +.cryp-o.online
 +.cryp-prel.com
@@ -37376,7 +37362,6 @@
 +.danteshpk.com
 +.dantiecreekkennel.co.za
 +.dantri.live
-+.dantrii.info
 +.danun.cn
 +.danv01ao0kdr2.cloudfront.net
 +.danylevych.com
@@ -41782,7 +41767,6 @@
 +.dowrylatest.com
 +.dowseservices.com
 +.dowskobl.world
-+.dox.ninja
 +.dox.su
 +.doxihz.xyz
 +.doxy.ws
@@ -43017,7 +43001,6 @@
 +.e2parts.com
 +.e2sky.com
 +.e2systems.se
-+.e2ys.com
 +.e30a86a427.com
 +.e3694.a.akamaiedge.net
 +.e37768b532.6117ff78fc.com
@@ -44331,7 +44314,6 @@
 +.elegantesolutions.com
 +.elegantmassoy.shop
 +.elegantsavannahkittens.com
-+.eleja11vt.top
 +.elektriki-spb.ru
 +.elektro-magdeburg.de
 +.elektrodigital.eu
@@ -45355,7 +45337,6 @@
 +.eqads.com
 +.eqbyc.com
 +.eqckurke.wiki
-+.eqckurke.world
 +.eqcwpeo.cn
 +.eqdudaj.com
 +.eqett13assz.appspot.com
@@ -51042,7 +51023,6 @@
 +.framprix.fr
 +.framtr.com
 +.france-accreditation.fr
-+.france-gouvernement.fr
 +.france-insoumise.fr
 +.france-isolation.org
 +.france-mizuno.fr
@@ -53202,7 +53182,6 @@
 +.gcssem.xyz
 +.gcsucai.com
 +.gcumgu.xyz
-+.gcvbd.cfd
 +.gcvir.xyz
 +.gcw.mysavings.com
 +.gcybnvhleaebkp.com
@@ -55623,7 +55602,6 @@
 +.googlep.top
 +.googlep.vip
 +.googlepay.nu
-+.googlepay.top
 +.googlepaye.com
 +.googlepey.com
 +.googlepiy.com
@@ -55970,7 +55948,6 @@
 +.gov.akgr.top
 +.gov.akrtgr.buzz
 +.gov.alareengr.com
-+.gov.alice-gr.com
 +.gov.aligr.sbs
 +.gov.allegr.ru
 +.gov.allinbloomgr.com
@@ -56087,7 +56064,6 @@
 +.gov.eitughzkgr.icu
 +.gov.eldoradocasino-agr.top
 +.gov.eldoradocasino-igr.top
-+.gov.eltangr.buzz
 +.gov.emkgr.info
 +.gov.enhigr.buzz
 +.gov.eqynmudfzgr.info
@@ -56142,17 +56118,14 @@
 +.gov.gozigr.xyz
 +.gov.gr-govgr.top
 +.gov.gr.sbs
-+.gov.gr0xhaf-xregr.com
 +.gov.gregr.buzz
 +.gov.grfui7ty-fgr.com
 +.gov.grybh-tyfgr.com
 +.gov.grzewgr.info
 +.gov.gsgr.site
-+.gov.gunnlaugr.net
 +.gov.gwjgr.buzz
 +.gov.gx0wgr.com
 +.gov.habgr.com
-+.gov.hagr.online
 +.gov.hamburgr.com
 +.gov.hcwrgr.buzz
 +.gov.hdfgr.autos
@@ -56161,7 +56134,6 @@
 +.gov.hennebiquepolutsalgr.xyz
 +.gov.hfkgr.com
 +.gov.hgifgr.info
-+.gov.hifgr.com
 +.gov.hmbgr.top
 +.gov.hmrc.uktaxrefund.uk
 +.gov.hnigr.buzz
@@ -56357,7 +56329,6 @@
 +.gov.pdxagr.sbs
 +.gov.pebblegr.store
 +.gov.pegr.lat
-+.gov.peomkgr.com
 +.gov.people-atgr.xyz
 +.gov.pfgr.lat
 +.gov.pfuckingr.com
@@ -56663,7 +56634,6 @@
 +.gowuq.podcast.lisameyerson.com
 +.goxmix.com
 +.goyard-handbags1.com
-+.goyard-handbags11.com
 +.goyard-handbags15.com
 +.goyard-outlet.fr
 +.goyetyblog.info
@@ -57265,7 +57235,6 @@
 +.grenkolgav.com
 +.grenoble-alpes-univ.fr
 +.grepeiros.com
-+.grepol.pl
 +.greptump.com
 +.greroaso.com
 +.grersomp.xyz
@@ -63698,7 +63667,6 @@
 +.imposi.com
 +.impositionverif.fr
 +.impossibilityaboriginalblessed.com
-+.impossibilityfighter.com
 +.impossibleexpansion.com
 +.impossiblemove.com
 +.imposterlost.com
@@ -64244,7 +64212,6 @@
 +.info-trackingk.vip
 +.info-trackingl.vip
 +.info-trackingnsm.xyz
-+.info-trackingnsw.xyz
 +.info-trackingoa.top
 +.info-trackingos.vip
 +.info-trackings.vip
@@ -64799,7 +64766,6 @@
 +.instagramv.com
 +.instagramw.com
 +.instagramx.ru
-+.instagrann.site
 +.instagrem.com
 +.instagrms.com
 +.instagrom.com
@@ -67178,7 +67144,6 @@
 +.jndszs.com
 +.jne-express.my.id
 +.jnfglobe.com
-+.jngvrye.top
 +.jnhjpdayvpzj.com
 +.jnhosting.com
 +.jnhwjyw.com
@@ -68208,7 +68173,6 @@
 +.jysbj.cn
 +.jyss7n9vmgie.live
 +.jystea.com
-+.jytrgsdgs.top
 +.jyusesoionsglear.info
 +.jyuskb.cn
 +.jywczbx.com
@@ -69739,7 +69703,6 @@
 +.kobeden.com
 +.kobel.services
 +.kobikom.com
-+.koblt-shopsinfo.bond
 +.kocairdo.net
 +.koch-ip.com.au
 +.kocholofood.com
@@ -71700,7 +71663,6 @@
 +.lebonboncoin.fr
 +.lebonc.fr
 +.lebonc0in.fr
-+.lebonccheck.fr
 +.lebonchoix.net
 +.lebonciin.fr
 +.leboncion.fr
@@ -72239,7 +72201,6 @@
 +.lflash.ru
 +.lflcbcb.com
 +.lfmetrics.loyalfans.com
-+.lfooldjzuyfhae.com
 +.lfov.net
 +.lfqvgmphn.com
 +.lfrfzr.xyz
@@ -72373,7 +72334,6 @@
 +.libjs.inquirerjs.com
 +.libjs.xyz
 +.liblockchain.org
-+.librari-night.sbs
 +.library.arihantmbainstitute.ac.in
 +.library.ooo
 +.libraryglowingjo.com
@@ -73539,7 +73499,6 @@
 +.lnstagram.txt.tr.ht
 +.lnstagram.update.tr.ht
 +.lnstagram.us.com
-+.lnstagram.webcenters.online
 +.lnstagram.ws
 +.lnstagram.xn--hlp-kra.com
 +.lnstagram.zendesk.com
@@ -77795,7 +77754,6 @@
 +.mdapp01.com
 +.mdasidy72.shop
 +.mdb.nu
-+.mdbrvlfy.black
 +.mdcgeneralcontractor.com
 +.mddfcb.jik.thetreecentre.com
 +.mdeliexp.com
@@ -81001,7 +80959,6 @@
 +.monespacehabillement.fr
 +.monespaceinfo.fr
 +.monespaceprivemsa.fr
-+.monespacepro-client.3utilities.com
 +.monespaces.fr
 +.monespacesamu.fr
 +.monespacesant.fr
@@ -81102,7 +81059,6 @@
 +.monlabomesanalyses.fr
 +.monlamit.com
 +.monlyceeconnecte.fr
-+.monmondial-colis.fr
 +.monmondo.fr
 +.monmt.com
 +.monnaripl.shop
@@ -82719,7 +82675,6 @@
 +.mygift.site
 +.mygift.website
 +.mygiftresource.com
-+.mygol.info
 +.mygoldenretrieverpuppies.com
 +.mygonow.com.de
 +.mygoodlives.com
@@ -84665,7 +84620,6 @@
 +.news-back2.com
 +.news-bit.com
 +.news-buzz.cc
-+.news-capufu.com
 +.news-central.org
 +.news-delta.com
 +.news-easy.com
@@ -87899,7 +87853,6 @@
 +.olx-pl.cgeuas.lol
 +.olx-pl.izavist.lol
 +.olx-pl.liapunde.lol
-+.olx-pl.lomena.pics
 +.olx-pl.oskter.lol
 +.olx-pl.pexand.lol
 +.olx-pl.plehic.lol
@@ -88210,7 +88163,6 @@
 +.oneillandsasso.com
 +.oneip.com.my
 +.oneisan.net
-+.onekk1pn.top
 +.onelao.line.pm
 +.onelinehome.fr
 +.onelink.appsflyer.com
@@ -88406,7 +88358,6 @@
 +.onlinekey.biz
 +.onlinelaundry.com
 +.onlinelegitdocuments.com
-+.onlinelive.info
 +.onlineloginfiledrives.nauttoys.com
 +.onlinelove.live
 +.onlinemailerservices.com
@@ -89237,7 +89188,6 @@
 +.orengedirects.fr
 +.orengenous.fr
 +.orengesupp.fr
-+.orengetnous.fr
 +.orengeveriredirec.fr
 +.orengevousnous.fr
 +.oreoverseer.top
@@ -89402,11 +89352,9 @@
 +.osfultrbriolenai.info
 +.osgbjqxllgcrpwuelm.com
 +.osgenpharma.uk
-+.osgqretnpoqsubt.com
 +.osgsijvkoap.com
 +.oshanixot.com
 +.osharvrziafx.com
-+.oshcmrmxkb.com
 +.osheoufhusheoghuesd.ru
 +.oshidefender.com
 +.oshir0app1e.hatenablog.com
@@ -91348,7 +91296,6 @@
 +.pattreon.duckdns.org
 +.pattyheadlong.com
 +.patwamicwind1986.blogspot.be
-+.patyholdups.com
 +.pauchalopsin.com
 +.pauewr4cw2xs5q.com
 +.paul.sportlearningcenters.info
@@ -94476,7 +94423,6 @@
 +.populationencouragingunsuccessful.com
 +.populationgrapes.com
 +.populationrind.com
-+.populeranimaserverdunyasi.xyz
 +.populis.fr
 +.populisengage.com
 +.popult.com
@@ -94826,7 +94772,6 @@
 +.postarz.top
 +.postas-mk.top
 +.postas-svk.top
-+.postashopp.best
 +.postask.top
 +.postasrsr.top
 +.postasvkc.ink
@@ -95552,7 +95497,6 @@
 +.prepositionrumour.com
 +.preppiesteamer.com
 +.preptrad.mixh.jp
-+.prerniumgateaccess.com
 +.prerogativeproblems.com
 +.prerogativeslob.com
 +.prerre.com
@@ -97105,7 +97049,6 @@
 +.ptttecoplogies.top
 +.ptttgovl.top
 +.pttu-gvv.vip
-+.pttur-gyv.icu
 +.pttur-gyv.vip
 +.pttwi.ink
 +.pttwo.ink
@@ -99780,7 +99723,6 @@
 +.real-mind.com
 +.real-websolutions.nl
 +.real-women-online.com
-+.real-world.co
 +.realcastmedia.com
 +.realcitsgroup.com
 +.realclever.com
@@ -100634,7 +100576,6 @@
 +.relating.us
 +.relationrest.com
 +.relations-client.fr
-+.relationsquiver.com
 +.relativeballoons.com
 +.relativefraudulentprop.com
 +.relativelyfang.com
@@ -104515,7 +104456,6 @@
 +.sangheralimited.com
 +.sanghuangvip.com
 +.sanglah.com
-+.sangobuild.cn
 +.sangokythuat.com.vn
 +.sanhpaox.xyz
 +.sanibath.com
@@ -104571,7 +104511,6 @@
 +.sante-renouvellement-enligne.fr
 +.sante-vitale.fr
 +.santeclaire.fr
-+.santeinfo-2024.fr
 +.santeinterimaire.fr
 +.santepublicfrance.fr
 +.santeservice.fr
@@ -107131,7 +107070,6 @@
 +.servientregas-uk.top
 +.servientregas-yc.top
 +.servientregas.top
-+.servientregass-co.top
 +.servientrerga.top
 +.servietrega-1nk.top
 +.servietrega-cob.top
@@ -107652,7 +107590,6 @@
 +.shar-m.com
 +.sharamoves718.weebly.com
 +.sharan.kro.kr
-+.shard.skin
 +.shardycacalia.shop
 +.share-apple.com
 +.share-server.com
@@ -107870,7 +107807,6 @@
 +.shexawhy.net
 +.sheymarieinteriors.com
 +.shf-law.net
-+.shffcy.cn
 +.shfsdvc.com
 +.shgansheng.cn
 +.shgshg9nationalobjwsdyindustrialgoogler.duckdns.org
@@ -109156,7 +109092,6 @@
 +.sitononraggiungibile.it
 +.sitstio.com
 +.sittercity.fr
-+.sitti.co.id
 +.sittingpets.com
 +.sittingtransformation.com
 +.situatedconventionalveto.com
@@ -113629,7 +113564,6 @@
 +.steam.communyty.worldhosts.ru
 +.steam.comnunity.com
 +.steam.mmosvc.com
-+.steam.poweredartsworkshop.com
 +.steam.tappalm.com
 +.steam.zssjsq.com
 +.steam4you.online
@@ -115179,7 +115113,6 @@
 +.sunologie.fr
 +.sunologyplay.fr
 +.sunonesearch.112.2o7.net
-+.sunonline.store
 +.sunopenoffice.112.2o7.net
 +.sunpass-etoll-id.kupu.desa.id
 +.sunqtr.com
@@ -117487,7 +117420,6 @@
 +.techhealth.ru
 +.techhealthco.com
 +.techhook.org
-+.techhubshop24578.shop
 +.techhubsol.com
 +.techieandyouknowit.com
 +.techieprojects.com
@@ -119734,7 +119666,6 @@
 +.timeabout.com
 +.timebus2.112.2o7.net
 +.timec.us
-+.timeclickpro.bond
 +.timecom.112.2o7.net
 +.timecom.122.2o7.net
 +.timecrom.com
@@ -120103,7 +120034,6 @@
 +.tlootas.org
 +.tlpyft.xyz
 +.tlrkcj17.de
-+.tls.telemetry.swe.quicinc.net
 +.tlse2.fr
 +.tlse3.fr
 +.tlslbrands.com
@@ -123879,10 +123809,8 @@
 +.tweet818k.2fh.co
 +.tweezesmalanga.com
 +.tweitter.com
-+.tweizai.top
 +.twelfthcomprehendgrape.com
 +.twelfthdistasteful.com
-+.twelkk12pn.top
 +.twelkk12sr.top
 +.twelveforever.net
 +.twelvemissionjury.com
@@ -124626,7 +124554,6 @@
 +.ujtgtmj.com
 +.ujujuju.barrel-of-knowledge.info
 +.ujujuju.is-a-painter.com
-+.ujujuju.merseine.org
 +.ujujuju.selfip.biz
 +.ujvilagtudat.blogspot.hu
 +.ujxrfkhsiss.xyz
@@ -126226,7 +126153,6 @@
 +.uspscheckshipusup.com
 +.uspscmxjsm.top
 +.uspscoi.top
-+.uspscom-freight.icu
 +.uspscom-freight.top
 +.uspscom.buzz
 +.uspscops.top
@@ -126286,7 +126212,6 @@
 +.uspsj92.fr
 +.uspsjfgd.top
 +.uspsjkhlw.top
-+.uspsjkhuqs.top
 +.uspsjpopjp.top
 +.uspsjpqwm.top
 +.uspskic.top
@@ -126309,7 +126234,6 @@
 +.uspsncojkw.top
 +.uspsncsxcf.top
 +.uspsnvans.top
-+.uspsnwhjkq.top
 +.uspsoiu.top
 +.uspsoiy.top
 +.uspsonline-safe.com
@@ -126382,23 +126306,16 @@
 +.uspswhrb.top
 +.uspswhrg.top
 +.uspswhro.top
-+.uspswhry.top
-+.uspswnro.top
-+.uspswnrv.top
-+.uspswnrx.top
 +.uspswrma.top
-+.uspswrng.top
 +.uspsxcjmvb.top
 +.uspsxdhjxkc.top
 +.uspsxhome.top
 +.uspsxjlndf.top
-+.uspsxjlvjv.top
 +.uspsxmlzs.top
 +.uspsxss.com
 +.uspsxva.com
 +.uspsxvnjcxk.top
 +.uspsxzhjx.top
-+.uspsxzzww.top
 +.uspsyjd.top
 +.uspsyv.top
 +.uspsyyikkd.top
@@ -126745,7 +126662,6 @@
 +.uwavoptig.com
 +.uwaxoyfklhm.com
 +.uwdtsczi.top
-+.uweizat.top
 +.uwfcqtdb.xyz
 +.uwgmguwpzkeudh.com
 +.uwirgh.com
@@ -129497,7 +129413,6 @@
 +.vu5b47m18jn.life
 +.vu7r6.cn
 +.vuabem.com
-+.vuau3v3z.top
 +.vudaiksaidy.com
 +.vudoutch.com
 +.vudun.com
@@ -129858,7 +129773,6 @@
 +.wallet.genom.minerpool.net
 +.walletbrutallyredhead.com
 +.walletcomnecitt.gitbook.io
-+.walletconnectdapps.online
 +.wallmart.website
 +.wallmirrors.in
 +.wallowwholi.info
@@ -131432,7 +131346,6 @@
 +.wherevertogo.com
 +.wherticewhee.com
 +.wherunee.com
-+.whestail.com
 +.whethergaseoatra.pw
 +.whetin.com
 +.wheykingsupplements.com
@@ -137488,7 +137401,6 @@
 +.zmmlllpjxvxl.buzz
 +.zmomo.cc
 +.zmonei.com
-+.zmrmbc.xyz
 +.zmwbrza.com
 +.zmysashrep.com
 +.zn.glucinasileni.com
