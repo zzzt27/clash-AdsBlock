@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Nov 2024 16:50 UTC
-# Version: 2024.1125.1650.11
+# Last modified: 27 Nov 2024 04:18 UTC
+# Version: 2024.1127.0418.53
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1506
 #
@@ -631,7 +631,6 @@ DOMAIN-SUFFIX,dns.api.sandbox.globuscs.info
 DOMAIN-SUFFIX,dns.api.staging.globuscs.info
 DOMAIN-SUFFIX,dns.api.test.globuscs.info
 DOMAIN-SUFFIX,agh.gloom.nexus
-DOMAIN-SUFFIX,dns.glorydns.com
 DOMAIN-SUFFIX,dns.gnb09.id
 DOMAIN-SUFFIX,privacydns.go6lab.si
 DOMAIN-SUFFIX,dns.goldplate.org
@@ -893,6 +892,7 @@ DOMAIN-SUFFIX,doh.micronets.in
 DOMAIN-SUFFIX,dns.mihanentalpo.me
 DOMAIN-SUFFIX,dns.mikeliu.org
 DOMAIN-SUFFIX,mikezhang.xyz
+DOMAIN-SUFFIX,dns.milkpie.one
 DOMAIN-SUFFIX,minilla.store
 DOMAIN-SUFFIX,netcup.mismat.ch
 DOMAIN-SUFFIX,doh.mmmalia.com
