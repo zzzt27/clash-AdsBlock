@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Nov 2024 04:16 UTC
-# Version: 2024.1128.0416.27
+# Last modified: 27 Nov 2024 04:18 UTC
+# Version: 2024.1127.0418.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1507
+# Number of entries: 1506
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -621,6 +621,7 @@ DOMAIN-SUFFIX,adguard.maison.gifino.fr
 DOMAIN-SUFFIX,dns.ginovs.nl
 DOMAIN-SUFFIX,dns.girino.org
 DOMAIN-SUFFIX,h.gjrick.tw
+DOMAIN-SUFFIX,sdns22.gkonuralp.com
 DOMAIN-SUFFIX,glacius.top
 DOMAIN-SUFFIX,dns.glf.wtf
 DOMAIN-SUFFIX,dns.api.globus.org
@@ -630,7 +631,6 @@ DOMAIN-SUFFIX,dns.api.sandbox.globuscs.info
 DOMAIN-SUFFIX,dns.api.staging.globuscs.info
 DOMAIN-SUFFIX,dns.api.test.globuscs.info
 DOMAIN-SUFFIX,agh.gloom.nexus
-DOMAIN-SUFFIX,dns.glorydns.com
 DOMAIN-SUFFIX,dns.gnb09.id
 DOMAIN-SUFFIX,privacydns.go6lab.si
 DOMAIN-SUFFIX,dns.goldplate.org
@@ -838,7 +838,6 @@ DOMAIN-SUFFIX,doh.phdns3.lonet.org
 DOMAIN-SUFFIX,doh.phdns4.lonet.org
 DOMAIN-SUFFIX,doh.phdns5.lonet.org
 DOMAIN-SUFFIX,n5.lsasss.com
-DOMAIN-SUFFIX,dns.lsho.top
 DOMAIN-SUFFIX,lukscasino-479-tr.xyz
 DOMAIN-SUFFIX,lukscasino-542-tr.xyz
 DOMAIN-SUFFIX,lukscasino-929-tr.xyz
