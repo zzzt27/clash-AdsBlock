@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Nov 2024 23:46 UTC
-# Version: 2024.1129.2346.13
+# Last modified: 29 Nov 2024 04:17 UTC
+# Version: 2024.1129.0417.17
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1507
 #
@@ -563,7 +563,6 @@ DOMAIN-SUFFIX,fra1.eyecay.xyz
 DOMAIN-SUFFIX,dns.ezyss.id
 DOMAIN-SUFFIX,dns.f4a.fun
 DOMAIN-SUFFIX,jp1.f7b6h9.tk
-DOMAIN-SUFFIX,dns.f97.xyz
 DOMAIN-SUFFIX,pdns.faelix.net
 DOMAIN-SUFFIX,rdns.faelix.net
 DOMAIN-SUFFIX,dns.faked.org
@@ -1372,6 +1371,7 @@ DOMAIN-SUFFIX,sg.teradns.org
 DOMAIN-SUFFIX,tx.teradns.org
 DOMAIN-SUFFIX,uk.teradns.org
 DOMAIN-SUFFIX,dns.soldier.terumi.club
+DOMAIN-SUFFIX,dns.tesem.dog
 DOMAIN-SUFFIX,cloud.tezoi.com
 DOMAIN-SUFFIX,dns.thebuckners.org
 DOMAIN-SUFFIX,dns.thegoodsource.net
