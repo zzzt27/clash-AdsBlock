@@ -1,9 +1,9 @@
-# Version: 202412010907
+# Version: 202412011007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 140544
-# Last modified: 2024-12-01T09:07:17+0000
+# Entries: 140539
+# Last modified: 2024-12-01T10:07:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11268,7 +11268,6 @@
 +.adzs.com
 +.ae-edqfrmstp.one
 +.ae.bdstatic.com
-+.ae.iads.unity3d.com
 +.ae2f6a33e6.com
 +.ae37.com
 +.ae4.ifeng.com
@@ -40503,7 +40502,6 @@
 +.disbeliefenvelopemeow.com
 +.disbored.com
 +.disburymixy.shop
-+.disc.cool
 +.disc0rd.xyz
 +.discard.gg
 +.discard.pro
@@ -55844,7 +55842,6 @@
 +.gmtafigp.wiki
 +.gmtdpuo.cc
 +.gmter.com
-+.gmthhftif.com
 +.gmummy.com
 +.gmvorai.com
 +.gmx10.top
@@ -62687,7 +62684,6 @@
 +.htlolls.top
 +.htlollstt.top
 +.htmass.com
-+.html-uap.iads.unity3d.com
 +.html.696157.com
 +.html.atm.youku.com
 +.html.orange-idea.com
@@ -63304,7 +63300,6 @@
 +.hzvs1.cnzz.com
 +.hzxfmc.com
 +.hzychcvdmjo.com
-+.i-adq.mediation.unity3d.com
 +.i-c-c-c.com
 +.i-consultants.online
 +.i-dhl.top
@@ -63427,6 +63422,7 @@
 +.iadmusicmatvideo.music.126.net
 +.iadnet.com
 +.iads.staticscdn.net
++.iads.unity3d.com
 +.iads.vision
 +.iadsdk.apple.com
 +.iadvize.com
@@ -79458,6 +79454,7 @@
 +.mediation-tracking.prd.mz.internal.unity3d.com
 +.mediation.adnxs.com
 +.mediation.mwmadnetworks.com
++.mediation.unity3d.com
 +.mediationpathways.com.au
 +.mediative.ca
 +.mediative.com
@@ -88259,7 +88256,6 @@
 +.nzx65821s.com
 +.nzxsxn.98kk89.com
 +.nzzpost.one
-+.o-adq.mediation.unity3d.com
 +.o-cean-fortune.biz
 +.o-cean-fortune.com
 +.o-drugs.com
@@ -88269,7 +88265,6 @@
 +.o.027eat.com
 +.o.go2yd.com
 +.o.hotsextube.tv
-+.o.iads.unity3d.com
 +.o.xofilmes.com
 +.o.xoporn.com
 +.o0.winfuture.de
