@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 01 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15916
+# Domain Count: 15917
 #===============================================================
 
 +.0i0i0i0.com
@@ -14235,6 +14235,7 @@
 +.rm0005.net
 +.rm02.net
 +.rm04.net
++.rmhfrtnd.com
 +.ro-up.vivoglobal.com
 +.rockabox.co
 +.roia.biz
