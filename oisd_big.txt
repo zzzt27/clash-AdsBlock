@@ -1,9 +1,9 @@
-# Version: 202412020008
+# Version: 202412020206
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 140607
-# Last modified: 2024-12-02T00:08:25+0000
+# Entries: 140568
+# Last modified: 2024-12-02T02:06:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10988,7 +10988,6 @@
 +.advertising.hiasys.com
 +.advertising.illinimedia.com
 +.advertising.microsoft.com
-+.advertising.ntuplay.xyz
 +.advertising.online-media24.de
 +.advertising.paltalk.com
 +.advertising.quote.com
@@ -12527,7 +12526,6 @@
 +.aka-cdn-ns.adtechus.com
 +.aka-cdn.adtechus.com
 +.akaads-espn.starwave.com
-+.akabo.ru
 +.akad.tc
 +.akademiabambino.pl
 +.akademitalksmail.com
@@ -22437,7 +22435,6 @@
 +.betmasquerainchan.com
 +.betnidorinoan.net
 +.betnxigm.quest
-+.betnxigm.skin
 +.betonred-france.fr
 +.betonred.com
 +.betonred1.fr
@@ -26591,7 +26588,6 @@
 +.c10.statcounter.com
 +.c105cec81a.a3b32bb87c.com
 +.c11.statcounter.com
-+.c11011.com
 +.c12.statcounter.com
 +.c13.statcounter.com
 +.c14.statcounter.com
@@ -29410,7 +29406,6 @@
 +.chase-verifysupport.servehttp.com
 +.chase007.serveirc.com
 +.chase2fa.com
-+.chasebank.anioutii.beget.tech
 +.chasebranchstore.com
 +.chasecompany.publicvm.com
 +.chasecreditcard.loginm.net
@@ -29691,7 +29686,6 @@
 +.cheathall.playground.ru
 +.cheatingagricultural.com
 +.cheatinghans.com
-+.cheatingstiffen.com
 +.cheatkeys.com
 +.cheatload.com
 +.cheatmods.com
@@ -31274,7 +31268,6 @@
 +.client-creditmutuel.fr
 +.client-disney.fr
 +.client-dmp.suishenyun.cn
-+.client-espace.fr
 +.client-livraison.fr
 +.client-log.karte.io
 +.client-logger.beta.salemove.com
@@ -31945,7 +31938,6 @@
 +.coactedtoe.top
 +.coads.akipress.org
 +.coadymarine.com
-+.coafogle.com
 +.coagrohos.com
 +.coalbandmanicure.com
 +.coalimpex.com
@@ -41715,7 +41707,6 @@
 +.dofuskamas-generateur.com
 +.dofuspoulesnoobs.fr
 +.dofuspourlesnoobs.fr
-+.dofustouch.fr
 +.dog-portrait.com
 +.dog-years.net
 +.dog.christinamoore.us
@@ -50736,7 +50727,6 @@
 +.flashb.id
 +.flashbanners.static.ard.sexplaycam.com
 +.flashblocks.io
-+.flashclicks.com
 +.flashdigitals.com
 +.flashdollars.com
 +.flashexpress6.top
@@ -51088,7 +51078,6 @@
 +.flymindsoud.com
 +.flymob.com
 +.flymylife.info
-+.flynews.us
 +.flynotion.com
 +.flysawyer.com
 +.flyserve.co
@@ -51234,7 +51223,6 @@
 +.folkrbvi.pages.dev
 +.folkspants.com
 +.folksrh.com.br
-+.follow-friends.co
 +.follow-insta.com
 +.follow-sv.com
 +.follow-trend.shop
@@ -52904,7 +52892,6 @@
 +.furtbaechler.ch
 +.furtheradmittedsickness.com
 +.furtherbasketballoverwhelming.com
-+.furykms.com
 +.furyprosecutionkitchen.com
 +.furystealer.com
 +.furzetshi.com
@@ -53437,7 +53424,6 @@
 +.gallopextensive.com
 +.gallopsalmon.com
 +.gallupcommend.com
-+.galootsmulcted.shop
 +.galopelikeantelope.com
 +.galotop1.com
 +.galrov2.ddns.net
@@ -64663,7 +64649,6 @@
 +.imobuy.com
 +.imonomy.com
 +.imop.com
-+.imoveis.ru
 +.imp-gou.serveftp.com
 +.imp.accesstra.de
 +.imp.ad.xelements.cn
@@ -67472,7 +67457,6 @@
 +.jalewaads.com
 +.jalilgroup.com
 +.jaluzeledeexterior.ro
-+.jalvarshaborewell.com
 +.jam-batty.cyou
 +.jamaicacpost.top
 +.jamaicaspost.top
@@ -70594,7 +70578,6 @@
 +.kitchenremodelsite.com
 +.kitchensbydesignri.com
 +.kitchentablegang.org
-+.kitchenwarehouse.eu
 +.kitchiepreppie.com
 +.kite.cardneyestate.co.uk
 +.kite.devin.website
@@ -71079,7 +71062,6 @@
 +.kongtuke.com
 +.konica-minolta.fr
 +.konicaminoltahd.122.2o7.net
-+.konicpirg.com
 +.konie.ru
 +.konimkan.com
 +.konmm.com
@@ -71339,7 +71321,6 @@
 +.ksdiy.com
 +.ksdjwi.eye-network.ru
 +.ksdnewr.com
-+.ksdr.xyz
 +.ksds.jp
 +.kse2q7uxyrwp.live
 +.ksehinkitw.hair
@@ -74478,7 +74459,6 @@
 +.livesd-post.com
 +.livesd-posyd.xyz
 +.livesd-posye.xyz
-+.livesd-posyf.xyz
 +.livese-post.com
 +.livesearchnow.com
 +.livesetwebs.org
@@ -77613,7 +77593,6 @@
 +.mailingshipauthbox.webador.com
 +.mailingtodomail.com
 +.mailklick.com
-+.maillity.shop
 +.mailllotdefootstore.fr
 +.maillnstagram.com
 +.maillot-officiel-euro-2024.fr
@@ -82940,7 +82919,6 @@
 +.moveitsport.com
 +.movemeal.com
 +.movemeforward.co
-+.movementdespise.com
 +.movementshereafter.com
 +.movementxvi.info
 +.movemybackup.co
@@ -85235,7 +85213,6 @@
 +.nbads.com
 +.nbagametimeprod.112.2o7.net
 +.nbascht.page.link
-+.nbbalance.de
 +.nbbalance.fr
 +.nbbedon.com
 +.nbc.com.vn
@@ -86106,7 +86083,6 @@
 +.newnet.qsrch.com
 +.newnewcarok.live
 +.newnewcarsok.live
-+.newnewlt.duckdns.org
 +.newnewton.pw
 +.newngreatonlinedegreedealus.com
 +.newnservicedogcertifypurch.com
@@ -89224,7 +89200,6 @@
 +.okalina.com
 +.okamoto.hopto.org
 +.okanekasegeru.com
-+.okanekubari.site
 +.okapia01.top
 +.okapitravel.co.tz
 +.okautocoverage.com
@@ -93524,7 +93499,6 @@
 +.pecans.kro.kr
 +.pecasnotebook.com.br
 +.pechkin.in.ua
-+.pecialukizeias.info
 +.pecifyspacing.com
 +.pecinternational.net
 +.peck4grakjq3.live
@@ -98642,7 +98616,6 @@
 +.ptcdn.mbicash.nl
 +.ptcdwm.com
 +.ptcstair.com
-+.ptdhl-tracking.com
 +.ptdrw.com
 +.pte-certificate.com
 +.pteandieltsguidance.com
@@ -101065,7 +101038,6 @@
 +.ralph-lauren-pas-cher.fr
 +.ralph-laurenfr.fr
 +.ralph-laurens.fr
-+.ralphlauren-france.fr
 +.ralphlaurenfrsolde.fr
 +.ralphlaurenfrsoldes.fr
 +.ralphlaurenparis.fr
@@ -102901,7 +102873,6 @@
 +.reproductiontape.com
 +.reprogramation-relay.info
 +.reproio.com
-+.repsrowedpay.com
 +.reptamhab.shop
 +.reptile.o-lit.fr
 +.reptile.sat.trading
@@ -104070,7 +104041,6 @@
 +.robinmooreband.com
 +.robints.us
 +.robiox.net
-+.robl9ox.com
 +.roblex.online
 +.roblex.site
 +.roblix.ru
@@ -106582,7 +106552,6 @@
 +.sareen.ru
 +.sarele.com
 +.sarfhome.com
-+.sarfoman.co.in
 +.sarinfalun.com
 +.sarithgg.com
 +.saritsaini.com
@@ -110136,7 +110105,6 @@
 +.shopcodelienquan.com
 +.shopcombined.co
 +.shopcorset.com
-+.shopcuadailodanhvong.com
 +.shopdashus.com
 +.shopdatph.tudong.pro
 +.shopdayroi.com
@@ -121098,7 +121066,6 @@
 +.thenewcoin.com
 +.thenews4views.com
 +.thenewsearch.com
-+.thenewsroom.in
 +.thenewstreams.com
 +.thenewworldpost.com
 +.thenfulfilearnestly.com
@@ -123290,7 +123257,6 @@
 +.tourukaustoglee.net
 +.tourups.com
 +.toushibao.com
-+.toushuhoophis.xyz
 +.toutanymm.asia
 +.toutiao.qiushibaike.com
 +.toutiaopage.com
@@ -124403,7 +124369,6 @@
 +.trackrrt.top
 +.trackrru.top
 +.trackrrv.top
-+.trackrrw.top
 +.trackrrx.top
 +.trackrrz.top
 +.trackrs.top
@@ -128797,7 +128762,6 @@
 +.uspsylua.top
 +.uspsyluaw.top
 +.uspsyludq.top
-+.uspsyluen.top
 +.uspsyluoi.top
 +.uspsyluoq.top
 +.uspsyluqe.top
@@ -131363,7 +131327,6 @@
 +.vjym48.uehsht.cn
 +.vk-ads.ru
 +.vk10.viptop.ru
-+.vkadm.ru
 +.vkaka.com
 +.vkaktivations23.bos.ru
 +.vkblue.com
@@ -135359,7 +135322,6 @@
 +.wowdentalimplantsok.live
 +.woweo.yt
 +.wowfary.shop
-+.wowhaujy.com
 +.wowkydktwnyfuo.com
 +.wowlnk.com
 +.wowlong.com
@@ -136866,7 +136828,6 @@
 +.xml.100conversions.com
 +.xml.9dotsmedia.com
 +.xml.a1.0network.com
-+.xml.adfclick1.com
 +.xml.adflores.com
 +.xml.adflydsp.com
 +.xml.adfootmedia.com
