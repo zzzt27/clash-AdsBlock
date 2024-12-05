@@ -1,9 +1,9 @@
-# Version: 202412050007
+# Version: 202412050207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45657
-# Last modified: 2024-12-05T00:07:07+0000
+# Entries: 45644
+# Last modified: 2024-12-05T02:07:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -470,7 +470,6 @@
 +.22lmsi1t5.de
 +.22media.world
 +.231dasda3dsd.aniyae.com
-+.231f853f2a.com
 +.23a70832cd.2f359a8315.com
 +.23f19b241e.f7050945a4.com
 +.23hssicm9.de
@@ -4619,7 +4618,6 @@
 +.akariyer.com
 +.akaroafrypan.com
 +.akatracking.esearchvision.com
-+.akbuwfkgeuq.com
 +.akcr.free.fr
 +.akdbr.com
 +.akeedser.com
@@ -10144,7 +10142,6 @@
 +.cdnfreemalva.com
 +.cdngain.com
 +.cdngcloud.com
-+.cdnid.net
 +.cdnion.com
 +.cdnjs.mopair-erm.net
 +.cdnkimg.com
@@ -10725,7 +10722,6 @@
 +.ckg.vipyl.com
 +.ckgsrzu.com
 +.ckitwlmqy-c.today
-+.cklithuw.xyz
 +.ckngjplc.com
 +.ckqebz.cn
 +.ckrf1.com
@@ -13701,7 +13697,6 @@
 +.d8cxnvx3e75nn.cloudfront.net
 +.d8dcj5iif1uz.cloudfront.net
 +.d8dkar87wogoy.cloudfront.net
-+.d8f0d7e2c9.com
 +.d8xy39jrbjbcq.cloudfront.net
 +.d90z5o386dhs7.cloudfront.net
 +.d91i6bsb0ef59.cloudfront.net
@@ -14092,7 +14087,6 @@
 +.decadenceestate.com
 +.decateromulus.com
 +.decatyldecane.com
-+.decaysskeery.shop
 +.decaytreacherous.com
 +.decbusi.com
 +.deceittoured.com
@@ -17241,7 +17235,6 @@
 +.f9d3dca725.b291310c77.com
 +.fa3f4c916c.com
 +.fa77756437.com
-+.faailkwaughy.com
 +.fabricwaffleswomb.com
 +.fabriczigzagpercentage.com
 +.fabu333.top
@@ -20589,7 +20582,6 @@
 +.hentaigold.net
 +.hentaionline.net
 +.hentent.stre4mplay.one
-+.hentent.streampiay.fun
 +.henwilkson.com
 +.heoidln.com
 +.heparlorne.org
@@ -36186,7 +36178,6 @@
 +.skeinsromish.shop
 +.skeletondeceiveprise.com
 +.skeletonlimitation.com
-+.skeliccater.shop
 +.skenaiaefaldy.com
 +.sketbhang.guru
 +.sketchinferiorunits.com
@@ -36691,7 +36682,6 @@
 +.sovereigngoesintended.com
 +.sovietcontaminate.com
 +.sovietransom.com
-+.sovietsdryers.top
 +.sowfairytale.com
 +.sowfootsolent.com
 +.sowoltairtoom.net
@@ -38512,7 +38502,6 @@
 +.system-beta.b-cdn.net
 +.system-notify.app
 +.systeme-business.online
-+.systemhostess.com
 +.systemleadb.com
 +.syyycc.com
 +.sz.famanils.com
@@ -38921,7 +38910,6 @@
 +.tc.tinmensorned.com
 +.tc.udasitestily.com
 +.tc8ji.website
-+.tc911.vip
 +.tcads.net
 +.tcadserver.rain-digital.ca
 +.tcaochocskid.com
@@ -44551,7 +44539,6 @@
 +.xml.adflores.com
 +.xml.adflydsp.com
 +.xml.adfootmedia.com
-+.xml.adkrivmedia.com
 +.xml.admozartppc.com
 +.xml.adportonic.com
 +.xml.ads9.com
