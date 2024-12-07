@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 07 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15931
+# Domain Count: 15936
 #===============================================================
 
 +.0i0i0i0.com
@@ -4594,13 +4594,18 @@
 +.mkt1227.com
 +.mkt12270.com
 +.mkt12271.com
++.mkt12272.com
 +.mkt12273.com
 +.mkt12274.com
 +.mkt12275.com
 +.mkt12276.com
 +.mkt12277.com
 +.mkt12278.com
++.mkt12279.com
 +.mkt1228.com
++.mkt12280.com
++.mkt12281.com
++.mkt12282.com
 +.mkt12283.com
 +.mkt1229.com
 +.mkt1230.com
