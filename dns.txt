@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Dec 2024 04:22 UTC
-# Version: 2024.1209.0422.22
+# Last modified: 10 Dec 2024 04:20 UTC
+# Version: 2024.1210.0420.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1490
+# Number of entries: 1493
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -264,6 +264,7 @@ DOMAIN-SUFFIX,us.doh.cloudveil.org
 DOMAIN-SUFFIX,dns.cmrg.net
 DOMAIN-SUFFIX,pope.cnblw.me
 DOMAIN-SUFFIX,doh.cnetwork.cloud
+DOMAIN-SUFFIX,adguard.aa4.co.uk
 DOMAIN-SUFFIX,pihole.datamatter.co.za
 DOMAIN-SUFFIX,www.dnsadguard.co.uk
 DOMAIN-SUFFIX,dns.gayanalysing.co.uk
@@ -1003,6 +1004,8 @@ DOMAIN-SUFFIX,doh.nic.lv
 DOMAIN-SUFFIX,dnsotls.lab.nic.cl
 DOMAIN-SUFFIX,odvr.nic.cz
 DOMAIN-SUFFIX,dns.nick-slowinski.de
+DOMAIN-SUFFIX,doh-own-recursion.nicolas-dorriere.fr
+DOMAIN-SUFFIX,doh-random-upstream.nicolas-dorriere.fr
 DOMAIN-SUFFIX,nicsezcheckfbi.gov
 DOMAIN-SUFFIX,dns1.nielsdb.be
 DOMAIN-SUFFIX,dns.ningkelle.id
