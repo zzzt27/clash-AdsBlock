@@ -1,9 +1,9 @@
-# Version: 202412142008
+# Version: 202412142207
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45513
-# Last modified: 2024-12-14T20:08:07+0000
+# Entries: 45497
+# Last modified: 2024-12-14T22:07:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -356,7 +356,6 @@
 +.1f6bf6f5a3.com
 +.1f7wwaex9rbh.com
 +.1f84e33459.com
-+.1f87527dc9.com
 +.1f98dc1262.com
 +.1fa028dea6.com
 +.1fd92n6t8.de
@@ -1599,7 +1598,6 @@
 +.a.b7q9v8z.com
 +.a.babezunknown.com
 +.a.baidinet.com
-+.a.baomihua.com
 +.a.bdsmz.tube
 +.a.bfking.cn
 +.a.blesk.cz
@@ -4622,7 +4620,6 @@
 +.aklorswikk.com
 +.akmxts.com
 +.akn.analytics.autodesk.com
-+.aknusp.cn
 +.aksb-a.akamaihd.net
 +.aksleaj.com
 +.aksonural.ru
@@ -5746,7 +5743,6 @@
 +.antarcticdashedscuffle.com
 +.antarcticfiery.com
 +.antarcticoffended.com
-+.antaresarcturus.com
 +.antcompany.com
 +.anteater.audioadventuregame.com
 +.anteater.benborgers.com
@@ -8786,7 +8782,6 @@
 +.bouptosaive.com
 +.bourrepardale.com
 +.boustahe.com
-+.bousyapinoid.top
 +.bouteesh.com
 +.bouwehee.xyz
 +.bouwhaici.net
@@ -10690,7 +10685,6 @@
 +.ckgsrzu.com
 +.ckitwlmqy-c.today
 +.ckrf1.com
-+.ckvjswjlud.com
 +.ckynh.com
 +.ckywou.com
 +.cl-997764a8.gcdn.co
@@ -12675,7 +12669,6 @@
 +.d18t35yyry2k49.cloudfront.net
 +.d19182vyfoustz.cloudfront.net
 +.d191y0yd6d0jy4.cloudfront.net
-+.d1920b051c.com
 +.d192g7g8iuw79c.cloudfront.net
 +.d192r5l88wrng7.cloudfront.net
 +.d196fri2z18sm.cloudfront.net
@@ -13645,7 +13638,6 @@
 +.d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 +.d7d5184132.dacb7ae0f7.com
 +.d7dza8s7j2am6.cloudfront.net
-+.d7e13aeb98.com
 +.d7gse3go4026a.cloudfront.net
 +.d7jpk19dne0nn.cloudfront.net
 +.d7oskmhnq7sot.cloudfront.net
@@ -14436,7 +14428,6 @@
 +.dfjlgfb4lxka5.cloudfront.net
 +.dflow.log.hunantv.com
 +.dfnetwork.link
-+.dfprljx.xyz
 +.dfqcp2awt0947.cloudfront.net
 +.dfryzh.xyz
 +.dfsdkkka.com
@@ -14829,7 +14820,6 @@
 +.dj2550.com
 +.djadoc.com
 +.djfiln.com
-+.djghtqdbptjn.com
 +.djm080u34wfc5.cloudfront.net
 +.djnaivalj34ub.cloudfront.net
 +.djosbhwpnfxmx.com
@@ -21328,7 +21318,6 @@
 +.hypnotone.com
 +.hypochloridtilz.click
 +.hypocrisysmallestbelieving.com
-+.hyrankhit.meldingcloud.com
 +.hyrewusha.pro
 +.hysteriaculinaryexpect.com
 +.hysteriaethicalsewer.com
@@ -21506,7 +21495,6 @@
 +.if.bagnetfoxship.com
 +.ifa.tube8live.com
 +.ifdbdp.com
-+.ifdividemeasuring.com
 +.ifdmuggdky.com
 +.ifdnzact.com
 +.ifefashionismscold.com
@@ -31534,7 +31522,6 @@
 +.printerswear.com
 +.printgrownuphail.com
 +.printsmull.com
-+.prioraslop.com
 +.priorityblockinghopped.com
 +.priselapse.com
 +.prisma-tr.prismamedia.com
@@ -32737,7 +32724,6 @@
 +.qusfybj.cn
 +.qusrow.xyz
 +.quwkke.xyz
-+.quwsncrlcwjpj.com
 +.quxsiraqxla.com
 +.quzpvtt.xyz
 +.quzwteqzaabm.com
@@ -37364,7 +37350,6 @@
 +.static.proxibid.com
 +.static.pulsefintech.net
 +.static.pureadsltd.com
-+.static.pyrrhicmechntech.com
 +.static.rapidbidhub.com
 +.static.ras-trk.com
 +.static.reachclicks.net
@@ -39873,7 +39858,6 @@
 +.tpmedia.online
 +.tpn134.com
 +.tpnads.com
-+.tpshpmsfldvtom.com
 +.tpstelemetry.tencent.com
 +.tptgvh.xyz
 +.tptp002.cfd
