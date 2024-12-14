@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 14 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15931
+# Domain Count: 15923
 #===============================================================
 
 +.0i0i0i0.com
@@ -906,7 +906,6 @@
 +.bstats.org
 +.btloader.com
 +.btrll.com
-+.btserve.com
 +.btstatic.com
 +.bttrack.com
 +.btttag.com
@@ -1046,7 +1045,6 @@
 +.clog.geniex.com
 +.clog.weverse.io
 +.closealert.com
-+.clouddecrease.com
 +.clouderrorreporting.googleapis.com
 +.cloudservice14.kingsoft-office-service.com
 +.cluep.com
@@ -1216,14 +1214,12 @@
 +.de.coremetrics.com
 +.de17a.com
 +.dealer.com
-+.dealtale.com
 +.decenthat.com
 +.decibelinsight.com
 +.decibelinsight.net
 +.dedicated.domains
 +.deema.agency
 +.deepintent.com
-+.deeprootedstranded.com
 +.deliverimp.com
 +.demand.supply
 +.demandbase.com
@@ -1265,7 +1261,6 @@
 +.display.io
 +.displaycontentnetwork.com
 +.displaycontentprofit.com
-+.displaymarketplace.com
 +.displayvertising.com
 +.disqusads.com
 +.disrespectpreceding.com
@@ -1626,7 +1621,6 @@
 +.granify.com
 +.grantedpigsunborn.com
 +.grapeshot.co.uk
-+.grapeshot.com
 +.graph.accountkit.com
 +.graphiq.com
 +.gravity.com
@@ -1664,7 +1658,6 @@
 +.headerlift.com
 +.heapanalytics.com
 +.heartbeat.dm.origin.com
-+.heartbeat.flickr.com
 +.heatmap.it
 +.hellobar.com
 +.hellosmpl.com
@@ -1691,7 +1684,6 @@
 +.hisavana.com
 +.histats.com
 +.hit.gemius.pl
-+.hit.skrz.cz
 +.hitbox.com
 +.hitslink.com
 +.hitsteps.net
