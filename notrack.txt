@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 18 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15908
+# Domain Count: 15909
 #===============================================================
 
 +.0i0i0i0.com
@@ -15687,6 +15687,7 @@
 +.variouscreativeformats.com
 +.variousformatscontent.com
 +.vcardsdkservice.vivo.com.cn
++.vcmdiawe.com
 +.vcmedia.vn
 +.vcommission.com
 +.vdna-assets.com
