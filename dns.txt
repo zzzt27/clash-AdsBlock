@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 19:25 UTC
-# Version: 2024.1217.1925.24
+# Last modified: 19 Dec 2024 13:20 UTC
+# Version: 2024.1219.1320.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1488
+# Number of entries: 1487
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -140,7 +140,6 @@ DOMAIN-SUFFIX,doh.azoris.ovh
 DOMAIN-SUFFIX,dns.azsopro.net
 DOMAIN-SUFFIX,doh1.b-cdn.net
 DOMAIN-SUFFIX,doh2.b-cdn.net
-DOMAIN-SUFFIX,b-ii.com
 DOMAIN-SUFFIX,dns.b33.space
 DOMAIN-SUFFIX,dns.b612.me
 DOMAIN-SUFFIX,dns.b72.com
