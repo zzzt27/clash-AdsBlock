@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 21 Dec 2024
 # LatestVersion 24.01
-# Domain Count: 15897
+# Domain Count: 15895
 #===============================================================
 
 +.0i0i0i0.com
@@ -14343,7 +14343,6 @@
 +.sentry.ozon.ru
 +.sentry.platform24.tv
 +.sentry.prusa3d.com
-+.sentry.rustore.ru
 +.sentry.srv.habr.com
 +.seoab.io
 +.servebom.com
@@ -15506,7 +15505,6 @@
 +.tracking.minitool.com
 +.tracking.miui.com
 +.tracking.olx-st.com
-+.tracking.onap.io
 +.tracking.ott.yandex.net
 +.tracking.ott.yandex.ru
 +.tracking.overwolf.com
