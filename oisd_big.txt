@@ -1,9 +1,9 @@
-# Version: 202412251608
+# Version: 202412251808
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137794
-# Last modified: 2024-12-25T16:08:15+0000
+# Entries: 137782
+# Last modified: 2024-12-25T18:08:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17695,7 +17695,6 @@
 +.a.baidinet.com
 +.a.baidu.com
 +.a.baiy.net
-+.a.baomihua.com
 +.a.bdsmz.tube
 +.a.bestcontentnetwork.top
 +.a.bf-tools.net
@@ -33819,7 +33818,6 @@
 +.becamesprinkle.com
 +.becanium.com
 +.becasmexico.info
-+.beccc1d245.com
 +.becharakam.ddns.net
 +.bechatotan.com
 +.beck-architekt.de
@@ -59689,7 +59687,6 @@
 +.fkj8.com
 +.fkjdiefz.icu
 +.fkjsjwbs.xyz
-+.fkjxzzc.com
 +.fkkse.com
 +.fklike.com
 +.fkllodaa.com
@@ -73067,7 +73064,6 @@
 +.ipv4.login.msa.akadns6.net
 +.ipv4.windowsupdate.lflinkup.com
 +.ipv6.172-208-106-5.cprapid.com
-+.ipv6.172-96-161-26.cprapid.com
 +.ipvertnet.com
 +.iq.sixaxisllc.com
 +.iqbalandsons.com
@@ -74938,7 +74934,6 @@
 +.jpgtpbl.cn
 +.jpgtrk.com
 +.jpguccioutlet.com
-+.jphfqq.cn
 +.jpmkbcgx-o.buzz
 +.jpml.net
 +.jpmpartnersites.112.2o7.net
@@ -77917,7 +77912,6 @@
 +.laiceadsl.fr
 +.laichook.net
 +.laichsisogony.com
-+.laifu365.com
 +.laih.com
 +.laihoana.com
 +.laikaush.com
@@ -78737,7 +78731,6 @@
 +.leclerc-socamil.fr
 +.lecompteasso.fr
 +.leconboin.fr
-+.lecticashaptan.com
 +.ledajesaler.weebly.com
 +.ledauphinee.fr
 +.ledbest.ru
@@ -105977,7 +105970,6 @@
 +.rjusm.yt
 +.rjw4obbw.com
 +.rjwc95.com
-+.rjwljrf.xyz
 +.rk-makler.de
 +.rk88w6.postal.gameplansession.com
 +.rkadint.com
@@ -119961,7 +119953,6 @@
 +.teachmewind.com
 +.teachscape.vo.llnwd.net
 +.teachsuite.co.uk
-+.teacupbooks.com
 +.teads.tv
 +.teadwightshaft.com
 +.teakun.com
@@ -122680,7 +122671,6 @@
 +.topfulldentures.com
 +.topg.jp
 +.topgamesites.net
-+.topgamse.com
 +.topglobalapp.com
 +.topgoldreviews.com
 +.tophaat.com
@@ -127429,7 +127419,6 @@
 +.utiq.tz.de
 +.utiq.wa.de
 +.utkauo.xyz
-+.utkin.space
 +.utl-1.com
 +.utm-adrooz.com
 +.utm-adschuk.com
@@ -130053,7 +130042,6 @@
 +.vtnay.org
 +.vtnmxx.xyz
 +.vto.kz
-+.vtoajoyxqicss.com
 +.vtoyshop.com
 +.vtqt.xyz
 +.vtracy.de
