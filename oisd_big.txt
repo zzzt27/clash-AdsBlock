@@ -1,9 +1,9 @@
-# Version: 202412260006
+# Version: 202412260208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 137845
-# Last modified: 2024-12-26T00:06:55+0000
+# Entries: 137839
+# Last modified: 2024-12-26T02:08:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7338,7 +7338,6 @@
 +.3656ccc.com
 +.3656d.cc
 +.3656dd.com
-+.3656dd.vip
 +.3656e.vip
 +.3656ee.com
 +.3656f.com
@@ -14220,6 +14219,7 @@
 +.6cfn83rb.square.site
 +.6chmes.stanishd.com
 +.6craqg.onl.onlinetrees.co.uk
++.6cs.icu
 +.6cxlrfd.imvolleyball.org
 +.6cyn7-7qaaa-aaaad-qetrq-cai.raw.ic0.app
 +.6d05b57d8bf1df423f7de91db6a71b31-dot-gle9392420309493993.rj.r.appspot.com
@@ -24332,7 +24332,6 @@
 +.advance-service.gamevil.com
 +.advance.zarca.net
 +.advanceb-lp-scanner.com
-+.advancecg.net
 +.advanced-cognitive.gl.at.ply.gg
 +.advanced-esim.fr
 +.advanced-ip-saaner.com
@@ -63686,7 +63685,6 @@
 +.giaodichquoctes.com
 +.giaodichquoctes.vercel.app
 +.giaodichtiente247ipay.weebly.com
-+.giaohangtietkiem247.com
 +.giaohangtietkiem247.top
 +.giaohangtietkiemvietnam.com
 +.giaohangtietkiemvn.website
@@ -72030,7 +72028,6 @@
 +.infochangement.fr
 +.infoclima.fr
 +.infocsgo.com
-+.infocstmueridp10jtt.pages.dev
 +.infocurrentlyallattmails.weebly.com
 +.infocurrentlyattmails.weebly.com
 +.infodigger.net
@@ -74044,6 +74041,7 @@
 +.jb-qroups.com
 +.jb.appme.ru
 +.jb.ecar168.cn
++.jbdch1.appmobile.cn
 +.jbexception.kariyer.net
 +.jbfacilitymanagement.net
 +.jbflil.cn
@@ -89913,7 +89911,6 @@
 +.negarehgallery.com
 +.negarpartition.com
 +.negationomitor.com
-+.negative-speed.pro
 +.negativebeats.com
 +.neglectblessing.com
 +.negligentpatentrefine.com
@@ -94075,7 +94072,6 @@
 +.onnuevoscarrosway.live
 +.onnuevoscarroswow.live
 +.onnuevoscarrosyes.live
-+.onoamoutsaitsy.net
 +.onofertasdecrucerosnew.live
 +.onomovie.xyz
 +.onongo.info
@@ -102318,6 +102314,7 @@
 +.pzqfmhy.com
 +.pztezl.xyz
 +.pzvai.site
++.pzzedx.icu
 +.q.azcentral.com
 +.q.broes.xyz
 +.q.ikre.xyz
@@ -110953,7 +110950,6 @@
 +.sfraide.fr
 +.sfrfacturation.fr
 +.sfrfactures.fr
-+.sfrfreou.beget.tech
 +.sfrhelp.fr
 +.sfrmediation.fr
 +.sfrpaycard.fr
@@ -127589,6 +127585,7 @@
 +.uwaxoyfklhm.com
 +.uwdjwfqvxpo.xyz
 +.uwfcqtdb.xyz
++.uwilmit.top
 +.uwjhzeb.com
 +.uwlzsfo.com
 +.uwmlmhcjmjvuqy.xyz
@@ -132644,7 +132641,6 @@
 +.wkvpvglcjsagi.xyz
 +.wkxnmg.postal.gameplansession.com
 +.wkybwa.xyz
-+.wkz88.com
 +.wkzw.me
 +.wl-analytics.tsp.li
 +.wl-cornholio.com
@@ -134028,7 +134024,6 @@
 +.xdjdpyrt.xyz
 +.xdmanage.com
 +.xdmnlxtu.xyz
-+.xdnaxnews.switz.web.id
 +.xdolhlwq.xyz
 +.xdowl0adxd0wnloadx.com
 +.xdownloadright.com
@@ -137325,7 +137320,6 @@
 +.zjcxyh.cn
 +.zjd-nmdong.xyz
 +.zjdac.com
-+.zjepcoomt.com
 +.zjfq4lnfbs7pncr5.tor2web.org
 +.zjgfq.com
 +.zjhao.dtdns.net
