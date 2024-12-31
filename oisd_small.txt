@@ -1,9 +1,9 @@
-# Version: 202412310007
+# Version: 202412310209
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45188
-# Last modified: 2024-12-31T00:07:37+0000
+# Entries: 45184
+# Last modified: 2024-12-31T02:09:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8720,7 +8720,6 @@
 +.bofhlzu.com
 +.bogoloaner.click
 +.bogrodius.com
-+.bogtrmjz.xyz
 +.bogus-disk.com
 +.bohkhufmvwim.online
 +.bohonef.com
@@ -20677,7 +20676,6 @@
 +.hgtokjbpw.com
 +.hgub2polye.com
 +.hgx1.online
-+.hgx1.site
 +.hgx1.space
 +.hgxwhpba.xyz
 +.hh.jiankang.com
@@ -32667,7 +32665,6 @@
 +.r255.wmtw.com
 +.r2d2.aotter.net
 +.r451.jamanetwork.com
-+.r4u.icu
 +.r5.dir.bg
 +.r566.timescall.com
 +.r5apiliopolyxenes.com
@@ -42777,7 +42774,6 @@
 +.wealthextend.com
 +.wealthsgraphis.com
 +.wealthyonsethelpless.com
-+.weanyergravely.com
 +.weaponsnondescriptperceive.com
 +.wearbald.care
 +.wearevaporatewhip.com

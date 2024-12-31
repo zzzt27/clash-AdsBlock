@@ -1,9 +1,9 @@
-# Version: 202412310007
+# Version: 202412310208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 122937
-# Last modified: 2024-12-31T00:07:23+0000
+# Entries: 122927
+# Last modified: 2024-12-31T02:08:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10966,7 +10966,6 @@
 +.adwords.google.com
 +.adwords.google.sk
 +.adwordsmarket.com
-+.adworkplace.net
 +.adworld.club
 +.adworld.co.za
 +.adworld.com.tr
@@ -22436,7 +22435,6 @@
 +.bogoloaner.click
 +.bogosiom.beget.tech
 +.bogrodius.com
-+.bogtrmjz.xyz
 +.bogus-disk.com
 +.bohecingrid.wixsite.com
 +.bohemiadaily.com
@@ -42404,7 +42402,6 @@
 +.ettc-online.com
 +.ettilt.com
 +.etu-amse.fr
-+.etu-creteil.fr
 +.etu-nantes.fr
 +.etu-unistra.fr
 +.etui8.cn
@@ -54285,7 +54282,6 @@
 +.hguas.com
 +.hgub2polye.com
 +.hgx1.online
-+.hgx1.site
 +.hgx1.space
 +.hgxwhpba.xyz
 +.hh.jiankang.com
@@ -54358,7 +54354,6 @@
 +.hiddentonicformula.com
 +.hide.su
 +.hidemembershipprofane.com
-+.hidfolobena.xyz
 +.hidgfbsitnc.fun
 +.hidingenious.com
 +.hidner.com
@@ -64404,7 +64399,6 @@
 +.lbqdaua.icu
 +.lbsonline.pushct.baidu.com
 +.lbsycw.com
-+.lbv-84.de
 +.lbvxzfut.cba.pl
 +.lby2kd27c.com
 +.lc.jiathis.com
@@ -76672,7 +76666,6 @@
 +.nikeshoesslovenija.com
 +.nikespaces.com
 +.niketn-pascher.fr
-+.niketn.fr
 +.niketnfr.info
 +.niketnpascher2017.fr
 +.niketnrequin-pascher.fr
@@ -88692,7 +88685,6 @@
 +.r3fewdsarg3few.rf.gd
 +.r3wd6.cn
 +.r451.jamanetwork.com
-+.r4u.icu
 +.r5.dir.bg
 +.r566.timescall.com
 +.r5apiliopolyxenes.com
@@ -97834,7 +97826,6 @@
 +.sixth6ht.top
 +.sixth6sb.top
 +.sixth6vt.top
-+.sixtk6sb.top
 +.sixtlimo.com
 +.sixxstat.top
 +.siyaukq.com
@@ -116088,7 +116079,6 @@
 +.wealthyblessman.kozow.com
 +.wealthyjamesbond.ddns.net
 +.wealthyonsethelpless.com
-+.weanyergravely.com
 +.weaponsnondescriptperceive.com
 +.wearbald.care
 +.wearehealthinsurance.com
