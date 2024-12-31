@@ -1,9 +1,9 @@
-# Version: 202412302209
+# Version: 202412310007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 122945
-# Last modified: 2024-12-30T22:09:54+0000
+# Entries: 122937
+# Last modified: 2024-12-31T00:07:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14534,7 +14534,6 @@
 +.angry-golick-2a96e5.netlify.app
 +.angryhack.com
 +.angryheadlong.com
-+.angryipscaner.com
 +.angste.xicp.net
 +.angtr.112.2o7.net
 +.angts.112.2o7.net
@@ -63326,7 +63325,6 @@
 +.kuwgxyk.com
 +.kuwhudsa.com
 +.kuwoucaxoad.com
-+.kuxatsiw.net
 +.kuxfsgwjkfu.com
 +.kuxfznnf.xyz
 +.kuyhaa-me.pw
@@ -72192,7 +72190,6 @@
 +.mjfcv.club
 +.mjfiduciary.blogspot.com
 +.mjfuntime.co.uk
-+.mjglzzwwheqlqe.com
 +.mjjtobmrqyolqqbqukpl.com
 +.mjmobi.com
 +.mjnkcdmjryvz.click
@@ -75446,7 +75443,6 @@
 +.nb09pypu4.com
 +.nb327france.fr
 +.nb7kh0ch7jhi.live
-+.nba-center.org
 +.nba.112.2o7.net
 +.nba1001.net
 +.nba2k14.dlcodes.com
@@ -83392,7 +83388,6 @@
 +.phoamsoa.xyz
 +.phoawhap.net
 +.phoawhoax.com
-+.phockoogeeraibi.xyz
 +.phockukoagu.net
 +.phocmogo.com
 +.phoenix-adrunner.mycomputer.com
@@ -102019,7 +102014,6 @@
 +.steamcomnunitu.vov.ru
 +.steamcomnunity.com
 +.steamcomnunity.ru
-+.steamcomnunlty.ru
 +.steamcomnunmity.com
 +.steamcomrnunity.ru
 +.steamcomumity.com
@@ -116130,7 +116124,6 @@
 +.web-caisse-epargne.fr
 +.web-developer.info
 +.web-device-id.banggood.com
-+.web-domain.net
 +.web-ep.be
 +.web-espace-vitale.fr
 +.web-flix.fr
@@ -117022,7 +117015,6 @@
 +.wherevertogo.com
 +.wherticewhee.com
 +.wherunee.com
-+.whethergaseoatra.pw
 +.whetin.com
 +.whf.bz
 +.whfdny.org
