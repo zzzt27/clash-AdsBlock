@@ -1,9 +1,9 @@
-# Version: 202501010609
+# Version: 202501010809
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 127731
-# Last modified: 2025-01-01T06:09:14+0000
+# Entries: 127217
+# Last modified: 2025-01-01T08:09:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1939,7 +1939,6 @@
 +.25662zubo23739.com
 +.257639.com
 +.2577805-dot-oaao-274308.uc.r.appspot.com
-+.258104d2.live
 +.258a912d15.com
 +.25doctors.com
 +.25eaeccf95.com
@@ -4724,7 +4723,6 @@
 +.8b0a9809d8.com
 +.8b1b.com
 +.8b2f59b83b.55ef6cccfc.com
-+.8b71e197.xyz
 +.8b81ru.postal.gameplansession.com
 +.8b851c44b099054e09369f1def44d54b-dot-phonic-obelisk-274214.uk.r.appspot.com
 +.8bankmlet.buzz
@@ -4834,7 +4832,6 @@
 +.910de7044f.com
 +.911.cc
 +.911718.net
-+.91199a.xyz
 +.9119fa4031.com
 +.911promotion.com
 +.912648.aioc.qbgxl.com
@@ -5798,7 +5795,6 @@
 +.aagskcoamsswmciq.xyz
 +.aagzz.com
 +.aai0.com
-+.aaiaasyesuoycssa.xyz
 +.aaimac.com
 +.aaimymmckaggkesi.xyz
 +.aaiouwywwcwuuasm.xyz
@@ -5807,7 +5803,6 @@
 +.aakssusyausowssk.xyz
 +.aaktrade.com
 +.aakwuaukqcesawqg.xyz
-+.aakyayikiqqwiokm.xyz
 +.aaliceadsl.fr
 +.aamantrankurti.com
 +.aamar106fm.com
@@ -5825,7 +5820,6 @@
 +.aanqylta.com
 +.aantai.fr
 +.aaocywmicuaeqwwa.xyz
-+.aaokegqaauyyqugi.xyz
 +.aaokouqoosigguco.xyz
 +.aaokyscqeecowaci.xyz
 +.aaomqwcgaskwoswq.xyz
@@ -6591,7 +6585,6 @@
 +.accreteprocess.click
 +.accruefierceheartache.com
 +.accscdn.m.taobao.com
-+.accscmeyaqsscgie.xyz
 +.accssmkqqsaesoqa.xyz
 +.accugenedxmarketing.com
 +.accugenedxmarketing2.com
@@ -6719,14 +6712,12 @@
 +.acidmercy.com
 +.acidpigs.com
 +.acidprolific.com
-+.aciiwoikcqygwcys.xyz
 +.acilevarkadasi.com
 +.acim.com
 +.acimo.com
 +.acimqeoqacisqysa.xyz
 +.acintad.org
 +.aciparis.com
-+.aciyekgoayqgsaaq.xyz
 +.acjp.com
 +.acjs.aliyun.com
 +.ackcdn.net
@@ -6795,7 +6786,6 @@
 +.acproyectos.com
 +.acq.go2cloud.org
 +.acqaagqgmsmeouce.xyz
-+.acqaqqyuimiaieie.xyz
 +.acqmeaf.com
 +.acqpizkpo.com
 +.acqtfeofpa.com
@@ -6841,7 +6831,6 @@
 +.acs00.weebly.com
 +.acs4baichuan.m.taobao.com
 +.acs86.com
-+.acsasueemkyggswg.xyz
 +.acsboda.com
 +.acscdn.com
 +.acsgiugkuymugscg.xyz
@@ -6977,9 +6966,7 @@
 +.acwlimburg.be
 +.acwmqmaggecuwumw.xyz
 +.acxiom-online.com
-+.acyakwawaeegamqq.xyz
 +.acylbirri.digital
-+.acymiosakgsqgyci.xyz
 +.acyouuemisakuomo.xyz
 +.acyoysqwmaasekma.xyz
 +.acyqmaauusoaccce.xyz
@@ -12212,7 +12199,6 @@
 +.aipp-italia.it
 +.aiptshop.com
 +.aiqaekgosskisacy.xyz
-+.aiqasksgmyeqocei.xyz
 +.aiqidwcfrm.com
 +.aiqmgyyomwygooou.xyz
 +.aiqro.com
@@ -12324,7 +12310,6 @@
 +.aisleovershoe.com
 +.aisletransientinvasion.com
 +.aismewygoaiosgia.xyz
-+.aismiyskqimaeoue.xyz
 +.aisorussooxacm.net
 +.aisouk.cn
 +.aissamomentscoach.fr
@@ -12340,15 +12325,12 @@
 +.aitsatho.com
 +.aitsouty.top
 +.aiuaucogyyskgasq.xyz
-+.aiucumkaqcaakkks.xyz
 +.aiuiiwuyekiyumse.xyz
-+.aiusammkykucyyso.xyz
 +.aivaylaco.com
 +.aiveemtomsaix.net
 +.aiwen.cc
 +.aiwhooltoz.net
 +.aiwlxmy.com
-+.aiwosuuewsuowkys.xyz
 +.aiwsiqmmsyqkeoks.xyz
 +.aiwuqi.com.cn
 +.aiwutgxp.love
@@ -12531,7 +12513,6 @@
 +.akmedizone.com
 +.akmekmed.com
 +.akmh049.vip
-+.akmiawuyeimauasc.xyz
 +.akmookeiooemomsy.xyz
 +.akmwiegecmsemuyg.xyz
 +.akmxts.com
@@ -12539,7 +12520,6 @@
 +.ako.ddns.us
 +.ako.org
 +.akoagro.com
-+.akogeqcyeyaaiicu.xyz
 +.akomkeocuyqwcagk.xyz
 +.akouskeokeoqgewe.xyz
 +.akozamora.top
@@ -15276,9 +15256,7 @@
 +.aoemqagkkyoycsqy.xyz
 +.aoeuaqiomwqgakqg.xyz
 +.aoeyqimumkqkeiik.xyz
-+.aogaakukuugqswcy.xyz
 +.aogacqeqoqcemsoq.xyz
-+.aogiicowuicyiewc.xyz
 +.aogk88.asia
 +.aogmykwkwyysagko.xyz
 +.aogoxcgqw.com
@@ -15390,7 +15368,6 @@
 +.aopgwes.cc
 +.aoportunidade.com.br
 +.aoqayemwgmsyuimi.xyz
-+.aoqcowamekyiiyyu.xyz
 +.aoqcswaaoiaioguq.xyz
 +.aoqymkkusuecomsw.xyz
 +.aoracleclient.s3.ap-east-1.amazonaws.com
@@ -16504,7 +16481,6 @@
 +.aqi.wd.amberweather.com
 +.aqianniao.com
 +.aqiasckswiemisug.xyz
-+.aqiqweyeeayeecue.xyz
 +.aqisoeykoaqewueq.xyz
 +.aqiwaakaswakmyyo.xyz
 +.aqjbfed.com
@@ -16521,7 +16497,6 @@
 +.aqnazbbjlezqa.top
 +.aqncinxrexa.com
 +.aqnnysd.com
-+.aqoguyiyiwkueygy.xyz
 +.aqomswumcekgggqg.xyz
 +.aqowuiuamgsiccyc.xyz
 +.aqoyeayicgcesuek.xyz
@@ -16563,7 +16538,6 @@
 +.aqwueygukoaqoees.xyz
 +.aqxeko.flu.cc
 +.aqxme-eorex.site
-+.aqykiskiyasymcma.xyz
 +.aqylmil.cn
 +.aqysegekiogquwmm.xyz
 +.aqyuuqkmeiywwcgi.xyz
@@ -17387,7 +17361,6 @@
 +.asqconn.com
 +.asqpniwvxea.com
 +.asraichuer.com
-+.asrelatercondi.org
 +.asrety.com
 +.asricewaterhouseo.com
 +.asrop.xyz
@@ -18074,7 +18047,6 @@
 +.auglysingar.vinnustofan.is
 +.augmioywemksioum.xyz
 +.augmiysoeoqyeicu.xyz
-+.augoiaummyquegki.xyz
 +.augplqr.in
 +.augqeeuioaeswqou.xyz
 +.augqqiyyagyogeum.xyz
@@ -18139,7 +18111,6 @@
 +.auntieminiature.com
 +.auntishmilty.com
 +.auoggsakisqqgwec.xyz
-+.auomciiomsegwemo.xyz
 +.auooyicougiqaqiy.xyz
 +.auowmussgaesgwas.xyz
 +.auoyoqgkkkyawmae.xyz
@@ -18427,7 +18398,6 @@
 +.autsedpurgaammer.com
 +.auttimkxckets-facebo0k.emochila.com
 +.auuaimuamgweugmm.xyz
-+.auuisqaykqgeesae.xyz
 +.auuqemagecegsyii.xyz
 +.auuuusgkkukqwuqs.xyz
 +.auvergnerhonalpes.fr
@@ -18435,7 +18405,6 @@
 +.auvohoxm.xyz
 +.auwehnw.cn
 +.auwrtou.cn
-+.auwuqkecgykwuiey.xyz
 +.auwuwuqceouegmmo.xyz
 +.aux-log.videe.tv
 +.auxhan.fr
@@ -18443,9 +18412,7 @@
 +.auxiliaryspokenrationalize.com
 +.auxiliocorona.site
 +.auxilium.ftb.team
-+.auyasoiseisymaqg.xyz
 +.auykkeggacciskus.xyz
-+.auymcykgwwyucigk.xyz
 +.auyqwymmmsqscgik.xyz
 +.auysoyguiksysqmu.xyz
 +.auz95m.postal.gameplansession.com
@@ -18694,7 +18661,6 @@
 +.awbbcre.com
 +.awbbjmp.com
 +.awbmyfuture401k.com
-+.awcamksuwooqqasg.xyz
 +.awciqagkseaccaws.xyz
 +.awckueasimsqiuum.xyz
 +.awcmmsyugikucuqg.xyz
@@ -18787,7 +18753,6 @@
 +.awqemeimiakqyyqs.xyz
 +.awqgmmqqowwqyosa.xyz
 +.awqsaged.cn
-+.awquimmiceucqika.xyz
 +.awrfds3.pornpapa.com
 +.aws-api.sail-track.com
 +.aws-itcloud.net
@@ -18807,7 +18772,6 @@
 +.awsywgoagwagccea.xyz
 +.awuaokyugeuecaou.xyz
 +.awuasceiaugcyimo.xyz
-+.awueccgaaiocceke.xyz
 +.awuokyeekkcyscye.xyz
 +.awuuquuccskwieyw.xyz
 +.awuvcq.xyz
@@ -18824,7 +18788,6 @@
 +.awxgfiqifawg.com
 +.awxmyvbdep.com
 +.awymksugeywiskga.xyz
-+.awyogsywqmeoaemc.xyz
 +.awyomscgweuqmgaw.xyz
 +.awyuge.xyz
 +.awyys.com
@@ -21924,7 +21887,6 @@
 +.binfaqeeh.com
 +.bingads.microsoft.com
 +.bingdianhuanyuan.cn
-+.bingdianwang.com
 +.bingobongo.space
 +.bingowow.nl
 +.binh-chonthang7.weebly.com
@@ -25175,7 +25137,6 @@
 +.caa2c4.xyz
 +.caabaia.fr
 +.caahwq.com
-+.caaqkokkyawuwoeu.xyz
 +.caasuogiquucyuyy.xyz
 +.caayyoyoiimmymus.xyz
 +.cabaiaoutlet.fr
@@ -25940,7 +25901,6 @@
 +.carnavalensenada.mx
 +.carnavalesco.com.br
 +.carncreativecoaching.com
-+.carnelbawrel.com
 +.carnelian-poised-hardcover.glitch.me
 +.carneoam.com
 +.carnercare.com
@@ -26302,7 +26262,6 @@
 +.catwrite.com
 +.cau1aighae.com
 +.caubichofus.com
-+.caugogmqeqygoiwc.xyz
 +.caugrush.com
 +.caukoaph.net
 +.cauldronrepellentcanvass.com
@@ -26328,7 +26287,6 @@
 +.cauvousy.net
 +.cauwcsmyoqywciwe.xyz
 +.cauyuksehink.info
-+.cauyyiuouiawciaa.xyz
 +.cavaliersales.com
 +.cavalinaeventos.com
 +.cavallarotop.shop
@@ -27009,7 +26967,6 @@
 +.ceckmwoyqkwgeoqg.xyz
 +.cecksuogwgokmqyq.xyz
 +.cecmne.fr
-+.cecuwyeokgqgoicq.xyz
 +.cecyemuwkyqumiae.xyz
 +.ced-ns.sascdn.com
 +.ced.sascdn.com
@@ -27031,7 +26988,6 @@
 +.ceeieemaowoqaisi.xyz
 +.ceekougy.net
 +.ceemoptu.xyz
-+.ceeomiecgymecgau.xyz
 +.ceeqgwt.com
 +.ceeqwek-cewek-bookingan-faceb0ok.emochila.com
 +.ceerce.fr
@@ -27052,7 +27008,6 @@
 +.ceiakicqmiqaseme.xyz
 +.ceiekqsouoywwoic.xyz
 +.ceieoumogcsuiewc.xyz
-+.ceigyuceyegikoie.xyz
 +.ceiiuoosucogmggc.xyz
 +.ceilingbruiseslegend.com
 +.ceimamickkikwcay.xyz
@@ -27060,7 +27015,6 @@
 +.ceisystems.it
 +.ceiyuaaeuwyyasmw.xyz
 +.cekeeosckoouciwe.xyz
-+.cekggiciueyeyoku.xyz
 +.cekgsyc.com
 +.ceklcxte.com
 +.cekmekoyfenbilimleri.com
@@ -27223,8 +27177,6 @@
 +.cepsidsoagloko.net
 +.cept.lemsgroup.com
 +.ceq3ek-cewek-bookingan-faceb0ok.emochila.com
-+.ceqeyycwsmksummk.xyz
-+.ceqgiayayimmasis.xyz
 +.ceqwek-cewek-bokkingan-faceb0ok.emochila.com
 +.ceqwek-cewek-booikingan-facebo0k.emochila.com
 +.ceqwek-cewek-bookigan-faceb0ok.emochila.com
@@ -27299,7 +27251,6 @@
 +.cestec.org
 +.cestibegster.com
 +.cesupplay.fr
-+.cesussokouugakmu.xyz
 +.cetcf.cn
 +.ceteembathe.com
 +.cetelem-connecte.fr
@@ -27310,7 +27261,6 @@
 +.cetrk.com
 +.cettenus.com
 +.cetxouafsctgf.com
-+.ceueekmqqwksaoke.xyz
 +.ceumwiwmiwwsigyg.xyz
 +.ceuqckacyaeuwsss.xyz
 +.ceuqmqykaggesaic.xyz
@@ -27402,7 +27352,6 @@
 +.cg2017.com
 +.cg39171.tw1.ru
 +.cg83870.tw1.ru
-+.cgagsqguosagcyko.xyz
 +.cgaqkgoywgcosykw.xyz
 +.cgaukeqiswkwyysy.xyz
 +.cgbupajpzo-t.rocks
@@ -27422,7 +27371,6 @@
 +.cggsekqigwmcqiiu.xyz
 +.cgi-smart.de
 +.cgiale.com
-+.cgiamwsqgcmqgqse.xyz
 +.cgicol.amap.com
 +.cgicounter.oneandone.co.uk
 +.cgicounter.onlinehome.de
@@ -27433,8 +27381,6 @@
 +.cgirm.greatfallstribune.com
 +.cgis.fr
 +.cgispy.com
-+.cgkaosuyiowyygyy.xyz
-+.cgkgqqqgsmwksoie.xyz
 +.cgkyeuwyaaiguqsg.xyz
 +.cgmceekmikaewkmi.xyz
 +.cgmqgkcgqgcwoueu.xyz
@@ -27444,7 +27390,6 @@
 +.cgpdxpjlpdsr.com
 +.cgphqnflgee.com
 +.cgpnhjatakwqnjd.xyz
-+.cgqgiomayegqqycq.xyz
 +.cgqucawoiuasoekm.xyz
 +.cgsconsultoria.cl
 +.cgskqg.com
@@ -27457,12 +27402,9 @@
 +.cguyskeaiwyuiaem.xyz
 +.cgvhtvj.cn
 +.cgvsoluciones.net
-+.cgwccucgqiqgqmqm.xyz
 +.cgwgwmsuyaicegcq.xyz
 +.cgwkisqemucouqss.xyz
-+.cgwmsoismgaaocie.xyz
 +.cgwyycaiisgeowqy.xyz
-+.cgyegoyqsogymcsa.xyz
 +.cgyekskasecguiay.xyz
 +.cgyiewkckqgmqyow.xyz
 +.cgyokeqcsmyuqoea.xyz
@@ -29641,7 +29583,6 @@
 +.cmacnnkfbhlcncm.top
 +.cmadserver.de
 +.cmaecyamkasemaaw.xyz
-+.cmagkoqagweymeaw.xyz
 +.cmalamiere.com
 +.cmaomawmmmkyiuem.xyz
 +.cmaster-57540.portmap.io
@@ -29689,7 +29630,6 @@
 +.cmiqeggqcwmqiqom.xyz
 +.cmiqwwgaeuieiwqo.xyz
 +.cmisaludocupacional.com
-+.cmkcociycaywakoo.xyz
 +.cmkcscaauiumqcik.xyz
 +.cmkcugywmwwweike.xyz
 +.cmkegossussoigyc.xyz
@@ -29754,7 +29694,6 @@
 +.cmpworker.operationsports.com
 +.cmpworker.primagames.com
 +.cmqakqywukiiawmm.xyz
-+.cmqmiekweowyyykm.xyz
 +.cmqorg.com
 +.cms-image.cdn.bcebos.com
 +.cms.insviluppo.net
@@ -29785,14 +29724,12 @@
 +.cmuocicquwsqqkme.xyz
 +.cmuqekokuyuqgige.xyz
 +.cmuscyakosgukoas.xyz
-+.cmwagyqwwigkcmsw.xyz
 +.cmwckswauysosuqw.xyz
 +.cmweb.ilike.alibaba.com
 +.cmwekowycqcyiaao.xyz
 +.cmwi.net
 +.cmyagoqaqeowiecy.xyz
 +.cmyauueakwkgasuy.xyz
-+.cmyowamuqyeakskg.xyz
 +.cmysoeswkksocymi.xyz
 +.cmyx.xyz
 +.cn-server.com
@@ -30064,7 +30001,6 @@
 +.codegur.com
 +.codelabbeijing.cn
 +.codelaroute.fr
-+.codemylife.info
 +.codenow.cn
 +.codeonclick.com
 +.codepalpreplanviewer.info
@@ -30218,7 +30154,6 @@
 +.coinzilla.io
 +.cois.eu
 +.cojonez.com
-+.cokagkmewegagmkw.xyz
 +.cokcaoyciskiaqsm.xyz
 +.cokcegcyuicyuoie.xyz
 +.cokepompositycrest.com
@@ -31576,7 +31511,6 @@
 +.copyrightmonastery.com
 +.copythinker.com
 +.copywriteroo.com
-+.coqceagmicumyqyo.xyz
 +.coquine-dispo.com
 +.cor-interluebke.de
 +.cor8ni3shwerex.com
@@ -32116,7 +32050,6 @@
 +.cowhaits.com
 +.cowm199.com
 +.cowmussaoysagiqo.xyz
-+.cowoycsckiaiqqgo.xyz
 +.cowtpvi.com
 +.cowwwicawukaagqm.xyz
 +.cowymgwiymqgcsuy.xyz
@@ -33033,7 +32966,6 @@
 +.csad.cc
 +.csafg43ez.appspot.com
 +.csaisonmail.122.2o7.net
-+.csamiaaeciweemoo.xyz
 +.csawugywmougaoks.xyz
 +.csbestplayers.com
 +.csbew.com
@@ -33056,14 +32988,12 @@
 +.cscysgmyqwwaowci.xyz
 +.csdf4dn.pro
 +.csegurosural.com
-+.cseksqccmgaieyic.xyz
 +.cseswumiwaeeqcok.xyz
 +.csfchange.com
 +.csfphpn.cn
 +.csfstampi.it
 +.csg-app.com
 +.csgaiisggyogmsyk.xyz
-+.csgeeowkweemisqc.xyz
 +.csggwkmmaskikaom.xyz
 +.csgo-empire.pro
 +.csgo-run.site
@@ -33091,7 +33021,6 @@
 +.csgoweaponskins.net
 +.csgowild.com
 +.csgqsouskkiuwmqq.xyz
-+.csgssoqiwyciwaqa.xyz
 +.csgwumykkwogmesw.xyz
 +.csharp.pl
 +.csharpassociates.com
@@ -33105,8 +33034,6 @@
 +.csikskiaumycwais.xyz
 +.csikszentmihaly.ro
 +.csinterinc.com
-+.csiumciaykykasks.xyz
-+.csiuusqciyosmcoo.xyz
 +.csiykwakekqoqaym.xyz
 +.csiymeqcoikqsaow.xyz
 +.csk.ru
@@ -33115,8 +33042,6 @@
 +.cskh-ca-nhan-vpbank.com
 +.cskh-the-vpbank.com
 +.cskkiueigqqeoywu.xyz
-+.csksamekwcmacaee.xyz
-+.cskugmuseukgcmgy.xyz
 +.csldbxey.com
 +.cslidubsdtdeya.com
 +.csm-e-skyde-eb.cds1.yospace.com
@@ -33160,7 +33085,6 @@
 +.csseawaoweooyagu.xyz
 +.cssiuqsckwaoawie.xyz
 +.cssmagic.shop
-+.cssmqgsawimcemay.xyz
 +.cssqiiswkeeeecie.xyz
 +.cssuvtbfeap.com
 +.cstatic.weborama.fr
@@ -33264,9 +33188,7 @@
 +.cuaiyumkumeqwiwm.xyz
 +.cuanhomhe.vn
 +.cuanhomxingfanhapkhau.com
-+.cuaqqmkqmesaiuww.xyz
 +.cuaumuqcoeegomsq.xyz
-+.cuausseqsoecisqa.xyz
 +.cubase7crack.net
 +.cubchannel.com
 +.cubchillysail.com
@@ -33311,7 +33233,6 @@
 +.cuentaalertaa.blogspot.com
 +.cuesingle.com
 +.cuesteam.com
-+.cueuesmoeqogskqi.xyz
 +.cuevastrck.com
 +.cufcmdj.cn
 +.cufultahaur.com
@@ -33617,7 +33538,6 @@
 +.cy52165.tw1.ru
 +.cya1xz.pulty.multiversemechanics.info
 +.cya2.net
-+.cyaawimkowuooqga.xyz
 +.cyacc.com
 +.cyad.cc
 +.cyad.nate.com
@@ -33686,19 +33606,16 @@
 +.cycskyowesuquays.xyz
 +.cyctrust.org.nz
 +.cycvyo.xyz
-+.cycwqaggygguiauc.xyz
 +.cycwwkcaqqqcmaay.xyz
 +.cycytea.cn
 +.cydom.com
 +.cydoor.com
 +.cye-fscp.com
-+.cyemcqwkasuimkgs.xyz
 +.cyeqeewyr.com
 +.cyewcausucegaigk.xyz
 +.cyeyeqoimeyeumgm.xyz
 +.cyg-byzlgtns.world
 +.cygeomikesiegqsk.xyz
-+.cygmqaagqcuusmiq.xyz
 +.cygnus.com
 +.cygoyqeyyamiqoqy.xyz
 +.cyguaoyysgwqgecs.xyz
@@ -33711,7 +33628,6 @@
 +.cykgucwkesokooyw.xyz
 +.cykikemwauckgoqu.xyz
 +.cykksemsagugeiao.xyz
-+.cyksksauiiiiwoaw.xyz
 +.cykucaocgmceqisa.xyz
 +.cykukgucmwcocoey.xyz
 +.cyl3h68.cn
@@ -33756,13 +33672,10 @@
 +.cytochemistryrecitativewrasse.com
 +.cytomecruor.top
 +.cytopathic.analbanged.com
-+.cyukoyuasskcgqqa.xyz
 +.cyuyvjwyfvn.com
 +.cyvjmnu.com
 +.cywakkemwkqkasqm.xyz
 +.cywoimwmsoamqoem.xyz
-+.cywskkwcouymuuku.xyz
-+.cyysgiuacumwyyic.xyz
 +.cyyugimksyomeqow.xyz
 +.cyyukyomsoiqyyqa.xyz
 +.cyyyokugycioysok.xyz
@@ -40411,7 +40324,6 @@
 +.dzigzdbqkc.com
 +.dzijggsdx.com
 +.dzinestudio87.co.uk
-+.dzinzafogdpog.com
 +.dzkpopetrf.com
 +.dzliege.com
 +.dznews.live
@@ -41029,7 +40941,6 @@
 +.ecard4all.com
 +.ecart-global.com
 +.ecasigiwguqgguyw.xyz
-+.ecasqsegskyikksc.xyz
 +.eccdetailing.com
 +.ecceyoicwaesyumm.xyz
 +.eccheats.store
@@ -41206,7 +41117,6 @@
 +.ecyb.com
 +.ecyeicucweyigwkc.xyz
 +.ecykwaegcssieoos.xyz
-+.ecysycumqymyscay.xyz
 +.ed-blissful.com
 +.ed.at.thamaster.de
 +.ed746fc307.813c214a4e.com
@@ -41426,7 +41336,6 @@
 +.eegamaub.net
 +.eegde.adocean.pl
 +.eegeeglou.com
-+.eegewoqmgiaiqoii.xyz
 +.eeggwwsowsigeuqu.xyz
 +.eegheecog.net
 +.eeghooptauy.net
@@ -41438,7 +41347,6 @@
 +.eegqwmeusugiwmei.xyz
 +.eegqzvxd.shop
 +.eegroosoad.com
-+.eegucwiyqagqqmqo.xyz
 +.eegwxvadm.com
 +.eegyoukugcowaowm.xyz
 +.eeheersoat.com
@@ -41491,9 +41399,7 @@
 +.eeptoabs.com
 +.eeptushe.xyz
 +.eepubblica.it
-+.eeqaiwuwuyugyuie.xyz
 +.eeqcgymqoggiyukk.xyz
-+.eeqegswceoscgeoq.xyz
 +.eeqwg3mzq07.life
 +.eeqwguyaociowqqq.xyz
 +.eergithi.com
@@ -41514,15 +41420,11 @@
 +.eeuieyeygcoguouu.xyz
 +.eeukeiywwkeugaie.xyz
 +.eeuqeoimgoqakquw.xyz
-+.eeuqmyeuiskeiwkm.xyz
 +.eeusmsayogceoyuw.xyz
 +.eeuuwkamkyogseem.xyz
 +.eeweb.asia
-+.eewemiscguikogko.xyz
-+.eewgqkkwwqemagsc.xyz
 +.eewhapseepoo.net
 +.eewumgogwiqkmqqa.xyz
-+.eewyaimocegwyqcm.xyz
 +.eexailti.net
 +.eeyawuicagsyqugs.xyz
 +.eeycamqmycqeukga.xyz
@@ -41697,7 +41599,6 @@
 +.eiamcentral.art
 +.eiamglobal.co
 +.eicasgsemymmykwy.xyz
-+.eicgoygkgqoyeuqo.xyz
 +.eichholz-klinik.de
 +.eichholzklinik.de
 +.eickasockmoqgaik.xyz
@@ -41712,7 +41613,6 @@
 +.eiegkg.xyz
 +.eieiz.com
 +.eielecom.fr
-+.eiemqksceqkyoayy.xyz
 +.eiemwaoakgyuoiue.xyz
 +.eieqaqkkamksiuaa.xyz
 +.eieqgaiuykoskgoa.xyz
@@ -41735,7 +41635,6 @@
 +.eightygermanywaterproof.com
 +.eigns.com
 +.eigywisgeoiskekg.xyz
-+.eiicqkmeekkawmyy.xyz
 +.eiiqewcuwoesssic.xyz
 +.eika-akie220202.com
 +.eikcaquqiqcicusa.xyz
@@ -41744,7 +41643,6 @@
 +.eikgcqosgoigkyai.xyz
 +.eikokoike.com
 +.eilahcha.cc
-+.eilckjjhjtc.com
 +.eimg.jp
 +.eimoiqiummuqkuiy.xyz
 +.eimwyiqmuuqicqws.xyz
@@ -41768,7 +41666,6 @@
 +.eisasbeautifulas.com
 +.eisieoeycmsqascy.xyz
 +.eismkgyuaggymicu.xyz
-+.eisqycicwiquuscg.xyz
 +.eisskeiemmicooiw.xyz
 +.eiteribesshaints.com
 +.eitfromtheothe.org
@@ -41784,7 +41681,6 @@
 +.eiwmagmcsgkoooso.xyz
 +.eiykissmkaigugko.xyz
 +.eiyoookigiwwquks.xyz
-+.eiywummqwykewouo.xyz
 +.eizcott.in
 +.eizu.net
 +.ejad-tech.com
@@ -41875,7 +41771,6 @@
 +.ekwimeeskgocsuui.xyz
 +.ekwqqyaqwuookmee.xyz
 +.ekwseckgmkaiiwgq.xyz
-+.ekwwyksmiscegiwa.xyz
 +.ekwzxay.com
 +.ekxyrwvoegb.xyz
 +.ekykse.xyz
@@ -42908,7 +42803,6 @@
 +.eq-player-log.cdnext.stream.ne.jp
 +.eq.userneeds.com
 +.eqads.com
-+.eqagqggiqucaeqgi.xyz
 +.eqbyc.com
 +.eqcgwgyymsaoweqw.xyz
 +.eqciawooemoueyqu.xyz
@@ -42920,15 +42814,12 @@
 +.eqekseueimasciym.xyz
 +.eqett13assz.appspot.com
 +.eqgkqigeameauyus.xyz
-+.eqgoeemewamgucie.xyz
 +.eqgsowyeueemagcc.xyz
 +.eqgwaamacqweiwie.xyz
 +.eqgwaciqeumcgasq.xyz
-+.eqiaywqkkoamscec.xyz
 +.eqiggomqksgkiwwm.xyz
 +.eqit9pzsxz.appspot.com
 +.eqkaowycwkaaswwg.xyz
-+.eqkkcuekysiksqco.xyz
 +.eqkkkcuwkiqiecac.xyz
 +.eqkkswkomuemuyyk.xyz
 +.eqkqeecakgsaquui.xyz
@@ -42938,7 +42829,6 @@
 +.eqmrstcb.com
 +.eqmuegsmqaeigmya.xyz
 +.eqoowyqoioaaccwg.xyz
-+.eqoqkkgwgkmsiwym.xyz
 +.eqqksyiogycmyqmg.xyz
 +.eqqwgw.xyz
 +.eqsaeuswekucgcqi.xyz
@@ -42983,7 +42873,6 @@
 +.eqwkwcgiywoeoyww.xyz
 +.eqwmwuoowsoycecq.xyz
 +.eqworks.com
-+.eqyamamqwsseyoig.xyz
 +.eqyokyqiiksocgqg.xyz
 +.eqysyysyseyouucs.xyz
 +.er.search.naver.com
@@ -43149,7 +43038,6 @@
 +.es.loppi.se
 +.es.mobiplus.me
 +.esa-reg-eup.myoppo.com
-+.esagqoeisammemqu.xyz
 +.esaidees.com
 +.esaiosukuqcoyawq.xyz
 +.esaleerugs.com
@@ -43221,7 +43109,6 @@
 +.eslanto.com
 +.eslay.xyz.fozzyhost.com
 +.esmeralda.buzz
-+.esmksiyywcigycga.xyz
 +.esmmkycmaukkaycw.xyz
 +.esmwawuiyukigqwe.xyz
 +.esmystem.com
@@ -43230,7 +43117,6 @@
 +.esoaiqsweeumywwa.xyz
 +.esocialpro.com
 +.esocsuqgoagysuia.xyz
-+.esogoggkycaeiwcc.xyz
 +.esomniture.com
 +.esondent.com
 +.esonne.fr
@@ -43375,7 +43261,6 @@
 +.esumcyuauqeuskeq.xyz
 +.esumedadele.info
 +.esundinfo-dk.com
-+.esuoesiywmuykmws.xyz
 +.esuoyieawaakmysi.xyz
 +.esuqygwqymqamkgq.xyz
 +.esuuykesoeuqmosi.xyz
@@ -44062,13 +43947,10 @@
 +.ewkygoqqqygwkkki.xyz
 +.ewkyguomeqgccuqc.xyz
 +.ewmaismossiguiko.xyz
-+.ewmgqckawacgqiks.xyz
 +.ewmmgisyckswogag.xyz
-+.ewmuikaymaekoycw.xyz
 +.ewmwmikgcmeawywk.xyz
 +.ewnkfnsajr.com
 +.ewoawsgosykyskiy.xyz
-+.ewomsammaamcyick.xyz
 +.ewomssqskuywoeay.xyz
 +.eworkshop.ru
 +.ewqawggayaosaiac.xyz
@@ -44100,7 +43982,6 @@
 +.ewwgekouykyosgmy.xyz
 +.ewwgmiicuyowacum.xyz
 +.ewwoecomygquwaaw.xyz
-+.ewwqmawmgugeygmg.xyz
 +.ewwsmckwiyiiseaa.xyz
 +.ewwycocqsewkkoim.xyz
 +.ewxufqs.cn
@@ -44502,7 +44383,6 @@
 +.exyzz.pl
 +.ey5jnre5hn5.cn
 +.eyaldw.cn
-+.eyamgsyomaugqoie.xyz
 +.eyarffmarxwm.com
 +.eyaugukgqsiqcqgk.xyz
 +.eyauknalyticafra.info
@@ -44556,22 +44436,16 @@
 +.eyouv.cn
 +.eyowewcyiugyqaek.xyz
 +.eyoyiqskiciwwoyw.xyz
-+.eyoyssauceguqwmk.xyz
-+.eyoywwysgkgquwwo.xyz
-+.eyqewqgswoiwucau.xyz
-+.eyqisgaqugqwqumc.xyz
 +.eyqowmqqkoaauiyq.xyz
 +.eyqqamsmasquqwsm.xyz
 +.eyqyyggowegmcwce.xyz
 +.eyrybuiltin.shop
 +.eysiwqsuqecemooq.xyz
 +.eytsoft.com
-+.eyugiciiiccskeyc.xyz
 +.eywyikkiagsmwycg.xyz
 +.eyxtfk.cn
 +.eyyewueeywaaaesq.xyz
 +.eyyngo.xyz
-+.eyywayeuiagkyacc.xyz
 +.ez-survey.com
 +.ez33.org.cn
 +.ez4q2.cn
@@ -49254,7 +49128,6 @@
 +.g0-get-msg.net
 +.g0-get-s0me.net
 +.g0.doubleclick.net
-+.g00gledrivedevelopment-edouardmalingue-com.aceleradoradeempresas.com
 +.g024pwsdoxc.appspot.com
 +.g074o.codesandbox.io
 +.g0gr67p.de
@@ -49401,7 +49274,6 @@
 +.gae.karte.io
 +.gaeckqskaesykqyu.xyz
 +.gaee.hit.gemius.pl
-+.gaeewqucsqssaccc.xyz
 +.gaegemkagcgqkwqa.xyz
 +.gaeykoiuskycayqg.xyz
 +.gafmajosxog.com
@@ -49425,7 +49297,6 @@
 +.gaiciesswoismwms.xyz
 +.gaietyexhalerucksack.com
 +.gaigcgocceqcawuc.xyz
-+.gaigygwemgmkeoiw.xyz
 +.gaihotnhat18.byethost7.com
 +.gaihoumauwha.com
 +.gaijiglo.net
@@ -50055,7 +49926,6 @@
 +.gcesab.com
 +.gceusqyeiukamwou.xyz
 +.gceycgisakcccyso.xyz
-+.gcgaqccokesgqiyi.xyz
 +.gcgayykmsewommwe.xyz
 +.gcgeaaquaoaeycwe.xyz
 +.gcgquamqsyyqwguk.xyz
@@ -50108,8 +49978,6 @@
 +.gcirm.thespectrum.com
 +.gcirm.tucson.com
 +.gcirm2.indystar.com
-+.gcisaecyeewwckuk.xyz
-+.gckomgcaosasoaou.xyz
 +.gckuqqoomykuaueo.xyz
 +.gcld.xyz
 +.gcleaning.ru
@@ -50122,7 +49990,6 @@
 +.gcmiymmqgwuquokm.xyz
 +.gcmoumawmiqoekma.xyz
 +.gcmssgoyqsamiegg.xyz
-+.gcmwuyyegygicucm.xyz
 +.gcmyygyswcasaugi.xyz
 +.gcntoman.com
 +.gcomwx.icu
@@ -50500,7 +50367,6 @@
 +.geoma.com.br
 +.geometra-bologna.it
 +.geometrai.com
-+.geometryworstaugust.com
 +.geomon.top
 +.geomoto.com
 +.geompzr.com
@@ -50886,7 +50752,6 @@
 +.ggboom.ru
 +.ggc.cmvideo.cn
 +.ggcake.tindersplus.net
-+.ggcgywoiesaiewom.xyz
 +.ggchzzz.com
 +.ggcode.2345.com
 +.ggcorp.me
@@ -50901,7 +50766,6 @@
 +.ggeymcaisciikucq.xyz
 +.gggatat456.com
 +.gggetsurveey.com
-+.gggikayuqeiqqiua.xyz
 +.ggglcejvuqyhhps-dot-charming-sky-2700.appspot.com
 +.gggpnuppr.com
 +.gggtrenks.com
@@ -50910,8 +50774,6 @@
 +.ggiawmmwsoqueigs.xyz
 +.ggicikyqcaiyguee.xyz
 +.ggiergionard50.top
-+.ggikoswuesisckce.xyz
-+.ggiqseieggeoyeow.xyz
 +.ggiwmkegiekamyuw.xyz
 +.ggjqqmwwolbmhkr.com
 +.ggjs.d17.cc
@@ -50959,7 +50821,6 @@
 +.ggw.gusuwang.com
 +.ggw.watertu.com
 +.ggwaimwgoemcsgwk.xyz
-+.ggwcomeakcaqkwwu.xyz
 +.ggweb.net
 +.ggwifobvx.com
 +.ggwigcukqwmymski.xyz
@@ -51039,7 +50900,6 @@
 +.gi.getui.net
 +.giacatloi.info
 +.giaim.org
-+.giakigqycqwiwgkc.xyz
 +.giamcannhatban.com
 +.giampaolidolciaria.cfd
 +.giangho.biz
@@ -51136,7 +50996,6 @@
 +.giger.us
 +.gigeveryday.com
 +.giggleostentatious.com
-+.gigiowyyemmuqeio.xyz
 +.gigixo.com
 +.gigjjgb.com
 +.gigkqiaucskqwgyc.xyz
@@ -51150,7 +51009,6 @@
 +.giimqaemiuoeegec.xyz
 +.giisgosiuwoewayi.xyz
 +.giish.com
-+.giisiskgakaogeea.xyz
 +.giiuigecauuesysw.xyz
 +.giiyyciayseuokwo.xyz
 +.gijnohl.cc
@@ -51267,7 +51125,6 @@
 +.gishejuy.com
 +.gishpurer.shop
 +.gismoarette.top
-+.gismwsiuweammkqy.xyz
 +.gisqmiocwackcgsi.xyz
 +.gist.gitbusercontent.com
 +.gisygwymwseimkoc.xyz
@@ -51721,7 +51578,6 @@
 +.gma1.com
 +.gmacosoeiyqseomq.xyz
 +.gmads.net
-+.gmaesywgwcguaoii.xyz
 +.gmaewuckmooiyyqo.xyz
 +.gmai.com
 +.gmaiils.com
@@ -51752,10 +51608,8 @@
 +.gmeosycqceugasas.xyz
 +.gmeqccaiocakquuk.xyz
 +.gmeuwggmoquusygi.xyz
-+.gmeykuiqekiwamsi.xyz
 +.gmgaysqwwmkeseog.xyz
 +.gmgbmzz.xyz
-+.gmgeeyqoyqocwwum.xyz
 +.gmgllod.com
 +.gmglobalt3sites.112.2o7.net
 +.gmgmacfs.112.2o7.net
@@ -51777,7 +51631,6 @@
 +.gmixiwowford.com
 +.gmkail.com
 +.gmkckmmsocokwmwa.xyz
-+.gmkcomyqksuyamao.xyz
 +.gmkflsdaa.com
 +.gmknz.com
 +.gml-grp.com
@@ -51806,19 +51659,15 @@
 +.gmsqiaywggkccegc.xyz
 +.gmtdpuo.cc
 +.gmter.com
-+.gmugwksessyakayu.xyz
 +.gmummy.com
 +.gmuscoeuegeigaou.xyz
-+.gmwcscokucowyogs.xyz
 +.gmwgsiumaycoseyy.xyz
-+.gmwwgiaukosqiiga.xyz
 +.gmwwwomkuacqaqiw.xyz
 +.gmxvmvptfm.com
 +.gmxx.fr
 +.gmxysb.icu
 +.gmyoekqqigeqomsu.xyz
 +.gmyqagcgqgeoagyy.xyz
-+.gmyqeawakcukiqki.xyz
 +.gmyze.com
 +.gmzdaily.com
 +.gn01.top
@@ -52630,7 +52479,6 @@
 +.goyardhandbags10.com
 +.goyetyblog.info
 +.goyourheart.com
-+.goyygwggeeeewqwg.xyz
 +.goyymmugkyckkyoi.xyz
 +.gozendata.com
 +.gozofilmfestival.com
@@ -53791,7 +53639,6 @@
 +.guestsfingertipchristian.com
 +.gueur.com
 +.gugeeoqgz.wen.ru
-+.gugmakaaeaawuqsw.xyz
 +.gugulm.net
 +.gugulonger.cn
 +.guhomnfuzq.com
@@ -53858,7 +53705,6 @@
 +.gumcongest.com
 +.gumdiseasepreventionhelp.com
 +.gumgum.com
-+.gumimiakasuqqoco.xyz
 +.guminska.pl
 +.gumlahdeprint.com
 +.gummierhedera.life
@@ -53908,8 +53754,6 @@
 +.gusion.space
 +.guskyeyskymowaig.xyz
 +.guslew.webcindario.com
-+.gusmkkaiomeeqaiy.xyz
-+.gusqqwamwsqkksqo.xyz
 +.gussame.com
 +.gussbkpr.website
 +.gussiespiffler.website
@@ -53948,7 +53792,6 @@
 +.guuaygioesomkwik.xyz
 +.guucgeeqqsceqcew.xyz
 +.guugmuicssasouae.xyz
-+.guuuumaqaayuyuye.xyz
 +.guv-bounce.eniro.com
 +.guvan.yt
 +.guvmcalwio.com
@@ -53962,7 +53805,6 @@
 +.guxedsuba.com
 +.guxidrookr.com
 +.guxiezhuang.top
-+.guyggaeokyiqyygo.xyz
 +.guyhok.xyz
 +.guyiwkwygmcuyusk.xyz
 +.guypane.com
@@ -54096,7 +53938,6 @@
 +.gwaaz.cn
 +.gwallet.com
 +.gwangjuedu.com
-+.gwauoakcammiiqim.xyz
 +.gwavellc.com
 +.gwbone-cpw.today
 +.gwciiwiouwkmmuuc.xyz
@@ -54110,7 +53951,6 @@
 +.gwesuqmmummiookc.xyz
 +.gwggiroo.com
 +.gwikmqikcsgeommc.xyz
-+.gwimwkcogwwimwce.xyz
 +.gwkgqikqamaewkws.xyz
 +.gwmomwckmqcyeggo.xyz
 +.gwmsoasmmweqomcu.xyz
@@ -55388,7 +55228,6 @@
 +.hedgehog.fightforthefuture.org
 +.hedgehoghugsyou.com
 +.hedgerowbistro.com
-+.hedgybateman.com
 +.hedinhall.com
 +.hedmanconst.com
 +.hedmisreputys.info
@@ -55462,7 +55301,6 @@
 +.hello-chat-c47ad-default-rtdb.firebaseio.com
 +.helloaec.com
 +.hellobar.com
-+.hellobody.online
 +.hellobrico.fr
 +.hellocode.id
 +.hellojarvis.co
@@ -55826,7 +55664,6 @@
 +.hgtseguros.com.br
 +.hguas.com
 +.hgub2polye.com
-+.hgvzrpxnkmbtw.monster
 +.hgvzrpxnkmbtw.pink
 +.hgvzrpxnkmbtw.wiki
 +.hgvzrpxnkmbtw.work
@@ -57556,7 +57393,6 @@
 +.hvd-store.com
 +.hvdt8.chimeratool.com
 +.hvjv8x.4.fourcrossesinn.com
-+.hvlitr.xyz
 +.hvooyieoei.com
 +.hvoq.podcast.lisameyerson.com
 +.hvv.qududu.cc
@@ -57896,9 +57732,7 @@
 +.iagacwmkquesymoo.xyz
 +.iagc.ru
 +.iagentemail.com.br
-+.iagisciiyoemgwaa.xyz
 +.iagmeuggisqwuswe.xyz
-+.iagoiwwauswgoqus.xyz
 +.iagori.com
 +.iagyaguuuqcmmucy.xyz
 +.iagyiseyomemugcy.xyz
@@ -58320,7 +58154,6 @@
 +.iecimmgckaqagcai.xyz
 +.iecmca.xyz
 +.iecmycogoemyeakm.xyz
-+.iecugwcyeoouougq.xyz
 +.iedc.fitbit.com
 +.iedefender.com
 +.iee5.com
@@ -58334,14 +58167,12 @@
 +.ieikmuieoqqmugwu.xyz
 +.ieimiyeaaykaqqso.xyz
 +.ieimsimsawwoiook.xyz
-+.ieiuimsucycucciq.xyz
 +.ieiwcmcesuecweus.xyz
 +.iek-kranichfeld.de
 +.iekiouoimmmqmeqs.xyz
 +.iekiycamkieyggok.xyz
 +.iekkasoysyckquke.xyz
 +.iekkwkumqoakyeym.xyz
-+.iekoyaeicwooguik.xyz
 +.iekwycaugiocwcoi.xyz
 +.ielgag.top
 +.ielmzzm.com
@@ -58359,7 +58190,6 @@
 +.ienkdago.cn
 +.ientent.stre4mplay.one
 +.ientrymail.com
-+.ieokoumqiucamugc.xyz
 +.ieonline.microsoft.com
 +.ieosqyksmqcycooo.xyz
 +.ieossqqiqwiayquy.xyz
@@ -58378,15 +58208,12 @@
 +.iesmkwqgmkmksgam.xyz
 +.iesnare.co.uk
 +.iessoqmekciygwgu.xyz
-+.iesucgmgiyaquesq.xyz
 +.ieswuawqgygeoqii.xyz
 +.ietyofedinj89yewtburgh.com
 +.ieuaeqceycqyqygk.xyz
 +.ieummimgyeikmqia.xyz
 +.iew-mo.re
-+.iewaaswaascuiyec.xyz
 +.iewmyyeguwqcqwoe.xyz
-+.iewqcykakqesymqy.xyz
 +.iewtwo.xyz
 +.iexplorer-sistem.duckdns.org
 +.iexplorer-vps.duckdns.org
@@ -58464,7 +58291,6 @@
 +.igasp.biz
 +.igazre.com
 +.igbfwa.com
-+.igcjyxvdkwb.black
 +.igcqseomaiwegiom.xyz
 +.igdigital.com.br
 +.igeaaioeymaswyaa.xyz
@@ -58543,7 +58369,6 @@
 +.igwmayogmweoukgc.xyz
 +.igyokuguakkcequa.xyz
 +.igyswewyemskcumi.xyz
-+.igyymcyymismwsga.xyz
 +.ih1.fileforums.com
 +.ih1.gamecopyworld.com
 +.ih1889417.myihor.ru
@@ -58632,17 +58457,14 @@
 +.ijstat.com
 +.ijtlu.tech
 +.ijuns.com
-+.ikagiiiuyyaiauya.xyz
 +.ikahnruntx.com
 +.ikaioywakggyssca.xyz
 +.ikamckokegecmacs.xyz
 +.ikaroo.at
-+.ikauyqayakccwqwe.xyz
 +.ikawwmmesgsuiiss.xyz
 +.ikbgika.cn
 +.ikbhgj.cn
 +.ikcaru.com
-+.ikckoiswmsyssiqa.xyz
 +.ikcsccciuymysmay.xyz
 +.ikea.122.2o7.net
 +.ikea.pm
@@ -58661,7 +58483,6 @@
 +.ikkeksgikoayqqmi.xyz
 +.ikkkeqmooausiags.xyz
 +.ikkkeueeoqsawyco.xyz
-+.ikkkqyuogqmqyaiw.xyz
 +.ikkyoeigmaeogagg.xyz
 +.iklan-indo.org
 +.iklan-laris.com
@@ -58702,19 +58523,14 @@
 +.iksqykuqwssscimq.xyz
 +.ikssllnhrb.com
 +.iktrit485.duckdns.org
-+.ikuayissiuiuwmoy.xyz
 +.ikucikacwskescug.xyz
 +.ikuhentai.net
 +.ikumqguewogwwgyc.xyz
 +.ikunselt.com
 +.ikuqcoqwmckaaqus.xyz
 +.ikuuqswioseiuaao.xyz
-+.ikuyyqseukmwcyug.xyz
 +.ikvcxz.cn
-+.ikwacuakiqeimwua.xyz
 +.ikwaqscguomwqaew.xyz
-+.ikwmsakuggacgika.xyz
-+.ikwwwqwqymkusoag.xyz
 +.ikwyekyoosmmkiii.xyz
 +.ikwyoiaqugscscss.xyz
 +.ikwyooieywakeqog.xyz
@@ -59075,11 +58891,9 @@
 +.imitationname.com
 +.imitrck.net
 +.imitrk.com
-+.imiucooqcmcuqosg.xyz
 +.imiwqsmkacououmm.xyz
 +.imjbyqdy.eu
 +.imk.neweggimages.com
-+.imkagaqsyogacciy.xyz
 +.imkeukayeaikgksc.xyz
 +.imkgoyeusqocwcyy.xyz
 +.imkwuyosswuuiiig.xyz
@@ -59089,7 +58903,6 @@
 +.immaculategirdlewade.com
 +.immaculatestolen.com
 +.immagirls.myvnc.com
-+.immcmswwoqwuukog.xyz
 +.immenseatrociousrested.com
 +.immensehoney.com
 +.immenseoriententerprise.com
@@ -59119,7 +58932,6 @@
 +.imockwmagiikgssy.xyz
 +.imonomy.com
 +.imop.com
-+.imouygqmoigskwkw.xyz
 +.imowuwmkqicyakqm.xyz
 +.imp-gou.serveftp.com
 +.imp.accesstra.de
@@ -59307,7 +59119,6 @@
 +.imyanmarads.com
 +.imygqwowcuaycyua.xyz
 +.imymseemoaagosms.xyz
-+.imywksieagmoooow.xyz
 +.in-appadvertising.com
 +.in-bdcvlj.love
 +.in-group.xyz
@@ -59385,7 +59196,6 @@
 +.incheonfocus.com
 +.inci-huidtherapie.nl
 +.incident-chronopost.fr
-+.incidentbunchludicrous.com
 +.incisivemedia.112.2o7.net
 +.inclk.com
 +.incloak.com
@@ -60912,12 +60722,9 @@
 +.iqikiqciaqigocqi.xyz
 +.iqjzvexejtgrbrs.duckdns.org
 +.iqkcgmmeycookgyq.xyz
-+.iqkmmsyqeyowocug.xyz
 +.iqkuewquumwokewu.xyz
 +.iqkwmsweeqkswiyi.xyz
 +.iqm.com
-+.iqmacyeoeosgccsg.xyz
-+.iqmeoesaumyeaesg.xyz
 +.iqminds.me
 +.iqmlcia.com
 +.iqmoiyagqoquywmm.xyz
@@ -60928,7 +60735,6 @@
 +.iqpqoamhyccih.xyz
 +.iqqeoamqwiuiyuua.xyz
 +.iqsoeecisqgmauqw.xyz
-+.iqsogimomioksqss.xyz
 +.iqtest.de
 +.iqtest365.online
 +.iqu-operation.com
@@ -60940,7 +60746,6 @@
 +.iqwgsuimkwimogsg.xyz
 +.iqwsyigqwkgoowai.xyz
 +.iqyamqwcimioeewg.xyz
-+.iqygckmoycmqaewa.xyz
 +.iqyieecegksogcgi.xyz
 +.iqyqkwuiuwcgkcaa.xyz
 +.iqzone.com
@@ -61055,7 +60860,6 @@
 +.isaac-mafi.persiangig.com
 +.isabellagodpointy.com
 +.isabellahopepancake.com
-+.isaeicumkcuwqmqq.xyz
 +.isafe.pro
 +.isanalyze.com
 +.isaoweukaiiieysg.xyz
@@ -61086,7 +60890,6 @@
 +.isearchbse.com
 +.iseberkis.com
 +.isekooiiwkkukyog.xyz
-+.isemauqkwwiumyky.xyz
 +.iseqqkwgqwiaswye.xyz
 +.isesmyuesgicukue.xyz
 +.iseweacoayoakgqa.xyz
@@ -61135,7 +60938,6 @@
 +.ismea.it
 +.ismemueuwykwqkwk.xyz
 +.ismesab.com
-+.ismkeauoisusogmu.xyz
 +.ismlks.com
 +.ismoili.com
 +.ismqaewykmoiguki.xyz
@@ -61146,7 +60948,6 @@
 +.isobelincidentally.com
 +.isogoed.nl
 +.isohits.com
-+.isokwkyemmugiwmm.xyz
 +.isolatedovercomepasted.com
 +.isolatedransom.com
 +.isolationoranges.com
@@ -61499,9 +61300,6 @@
 +.iy9erpxzoaz.appspot.com
 +.iya.net.cn
 +.iya5.com
-+.iyaciioygqkioucg.xyz
-+.iyagyqsqyqgcgqky.xyz
-+.iyaikmkkowcqemsi.xyz
 +.iyaisgmiyckqmoku.xyz
 +.iyakeigikmwiqyum.xyz
 +.iyawyckqggkwsyoq.xyz
@@ -61542,7 +61340,6 @@
 +.iymukyseoieqccac.xyz
 +.iymyicscaawawwis.xyz
 +.iyocciisiygigqii.xyz
-+.iyocqaamsouwecay.xyz
 +.iyodoctor.com
 +.iyoequyowacgwwge.xyz
 +.iyogo.shop
@@ -61563,10 +61360,8 @@
 +.iyuedu.cn.com
 +.iyuqqgqemsiuaoqy.xyz
 +.iyv.pconline.com.cn
-+.iyweisqcsgomwcek.xyz
 +.iyweyqsoykkkwgwq.xyz
 +.iywkeucakysoeaqg.xyz
-+.iywmsqgqwuciiaga.xyz
 +.iywsuagcuwgimqeo.xyz
 +.iywuiuksgssaesqm.xyz
 +.iyxuude.cn
@@ -63865,8 +63660,6 @@
 +.kchaxton.com
 +.kciap.pw
 +.kcigysckecekksue.xyz
-+.kcikiimkemesgwmi.xyz
-+.kcioeuaqqyiqsuky.xyz
 +.kciugskcakqqyuui.xyz
 +.kcjal.com
 +.kckark.xyz
@@ -63937,14 +63730,12 @@
 +.kearnypaving.com
 +.keassbohrer.com
 +.keaykmyqkawgwksg.xyz
-+.keaysasqyiigeiyq.xyz
 +.kebapsaray.be
 +.kebegvpl.com
 +.kebohjhh.xyz
 +.keboncoin.fr
 +.kebunrayabaturraden.id
 +.kecamatan.id
-+.kecawmyawmioioug.xyz
 +.kecgikusmakuksma.xyz
 +.keciorenkoltukyikama.net
 +.keckssemmeoqieqe.xyz
@@ -64036,7 +63827,6 @@
 +.kejet.net
 +.kejpa.com
 +.kekcieqaiucaaewk.xyz
-+.kekeakaaqksqwkmy.xyz
 +.kekiyykukeaosouo.xyz
 +.kekkiqacasckiuqw.xyz
 +.kekmcgakqcicegie.xyz
@@ -64072,7 +63862,6 @@
 +.kemcqmmesmekecsm.xyz
 +.kemimiuqgmmoykum.xyz
 +.kemoachoubsosti.xyz
-+.kemogoacmqswqaee.xyz
 +.kemostarlogistics.co.ke
 +.kempenfietst.be
 +.kempensekranten.be
@@ -64110,7 +63899,6 @@
 +.kenxq.com
 +.kenzoworld.fr
 +.keoauqiqaasmqsmq.xyz
-+.keockkeuawomiyoe.xyz
 +.keoeqyoucqeeocom.xyz
 +.keogeokiqouwigsu.xyz
 +.keomyikugeeoqkey.xyz
@@ -64169,7 +63957,6 @@
 +.keshiweicy.com
 +.keskes.xyz
 +.keskeskes.xyz
-+.kesowemsyoqwmwma.xyz
 +.kesseolluck.com
 +.kesskgcksmmismwe.xyz
 +.kesslerpark.org
@@ -64194,7 +63981,6 @@
 +.kevinandhowlin.com
 +.kevinleeart.com
 +.kewaeiakakmukqgq.xyz
-+.kewgquswkewgaweo.xyz
 +.kewweiikaaysqugi.xyz
 +.kexarvamr.com
 +.kexojito.com
@@ -64216,7 +64002,6 @@
 +.keydoordasher.shop
 +.keydot.net
 +.keye.info
-+.keyesowcwwkmiiwa.xyz
 +.keyforlife.ru
 +.keygeneratorandcrack.com
 +.keygenfiles.com
@@ -64395,7 +64180,6 @@
 +.kidzcaters.com
 +.kieaecuouaegowwi.xyz
 +.kieiiwyoyuaaeeqm.xyz
-+.kiekycgioggqkkim.xyz
 +.kielpinski-immobilien.de
 +.kiemlua.com
 +.kiemthehuyenlong.com
@@ -64410,9 +64194,7 @@
 +.kiesta.net
 +.kiestercentry.com
 +.kiesuqgwksuomewu.xyz
-+.kieyaoucmskyawac.xyz
 +.kigak8b9c.narod.ru
-+.kigcewceemkckeow.xyz
 +.kigcgqqcecsmwqoa.xyz
 +.kigcpofilaw.com
 +.kigikouuucscceiy.xyz
@@ -64570,7 +64352,6 @@
 +.kipos.xyz
 +.kippsmart.com
 +.kipq.com
-+.kiqeesseiocsoqik.xyz
 +.kiqiwsmuekmqwskg.xyz
 +.kiquokwiacmkqsqk.xyz
 +.kiquqiqikaysymkk.xyz
@@ -64658,7 +64439,6 @@
 +.kityko.com
 +.kityour.com
 +.kiuawkcguuoikmme.xyz
-+.kiukyiaismamqqkm.xyz
 +.kiusekymkwkaiscc.xyz
 +.kiuwqqkgkokmqkoo.xyz
 +.kiuwugeowywwoqcw.xyz
@@ -64759,13 +64539,10 @@
 +.kklifestyle.com
 +.kkmacsqsbf.info
 +.kkmaqkkswawqkqku.xyz
-+.kkmiucyseamegyem.xyz
 +.kkmyacmugimmeese.xyz
 +.kkmycqgoqwsgagmm.xyz
-+.kkmywiywuikugeow.xyz
 +.kknvwhcmqoet.com
 +.kkokkoyaa.com
-+.kkooiogssomekguw.xyz
 +.kkouaykikaumyaew.xyz
 +.kkpgv2.xunlei.com
 +.kkpjp9jzbzba.live
@@ -64787,7 +64564,6 @@
 +.kkuuagakcmsweqci.xyz
 +.kkvesjzn.com
 +.kkwigaiueiamyeyc.xyz
-+.kkwkgmcoawgaoiwg.xyz
 +.kkwsoucoocaouyas.xyz
 +.kkwyusocoaouieyy.xyz
 +.kkyjfdj.xyz
@@ -65131,7 +64907,6 @@
 +.komunikasi.fisipol.ugm.ac.id
 +.komuza40.ru
 +.komwimwqwoeaqcwk.xyz
-+.komywcigsooysyas.xyz
 +.kon.hit.gemius.pl
 +.kondorie.com
 +.kone-sneakers.fr
@@ -65179,7 +64954,6 @@
 +.koophaip.net
 +.koosgsmiiwcsyemg.xyz
 +.koosheew.com
-+.koouumcuucaeakye.xyz
 +.koowgmqaieooiwgu.xyz
 +.koowo.com
 +.kooyoawyysmykoqg.xyz
@@ -65189,7 +64963,6 @@
 +.kops1.site
 +.kopsipass.wpengine.com
 +.kopticom.122.2o7.net
-+.koqecmkiokuiokco.xyz
 +.koqescwwcqegeyiq.xyz
 +.koqggyoqckwoyoeq.xyz
 +.koqgikymouuagikg.xyz
@@ -65244,7 +65017,6 @@
 +.koubi.jp
 +.kouceeptait.com
 +.koucerie.com
-+.kouckiqueckwawmc.xyz
 +.kouclo.com
 +.kougqkqswaqcmake.xyz
 +.kouji.ddns.net
@@ -65266,7 +65038,6 @@
 +.kowgimceiswekaum.xyz
 +.kowhinauwoulsas.net
 +.kowkuoagommaeueg.xyz
-+.kowmqesmwesuqmqi.xyz
 +.kowwkicscuwceoui.xyz
 +.koy.jp
 +.koyqegwiaaeykgka.xyz
@@ -65301,7 +65072,6 @@
 +.kqeagmseacsisiye.xyz
 +.kqemwgogqeoccaau.xyz
 +.kqeuigcyeqykgoks.xyz
-+.kqggcmgimkogkaeq.xyz
 +.kqhgjmap.com
 +.kqhi97lf.de
 +.kqieimomwyouskgq.xyz
@@ -65315,25 +65085,19 @@
 +.kqmousmwqiksmmso.xyz
 +.kqmsmcygoqsamkoo.xyz
 +.kqoceoymymoicqky.xyz
-+.kqoemaamwegkwyqw.xyz
 +.kqoeoowkwikcaouy.xyz
 +.kqoqiqquoeqmgcom.xyz
-+.kqqswkcomqowociw.xyz
-+.kqquseoymooeyska.xyz
 +.kqrcijq.com
-+.kqsaksyecgoccaoa.xyz
 +.kqsamcsauqiagmma.xyz
 +.kqsgeiuecmgoiacu.xyz
 +.kqsiouewkkaeaooc.xyz
 +.kqsowcqysckucucc.xyz
-+.kqueagsoikuyocca.xyz
 +.kqueaicqgewaswcy.xyz
 +.kquegqmwkaeisqwi.xyz
 +.kqugkaiomcqmgcue.xyz
 +.kquzgqf.com
 +.kqvvqv.icu
 +.kqwerp.top
-+.kqwuiggiwyysmckm.xyz
 +.kqy1.com
 +.kqyaqemscseygqas.xyz
 +.kqycwciggqqociso.xyz
@@ -65538,7 +65302,6 @@
 +.kuizhai.com
 +.kujbxpbphyca.com
 +.kukggesmkomoousk.xyz
-+.kukksomwokwumcoq.xyz
 +.kukouuoguigkwygy.xyz
 +.kukrosti.com
 +.kukutrustnet666.info
@@ -65584,7 +65347,6 @@
 +.kuqgrelpiamw.com
 +.kuqi.com
 +.kuqpdxek.today
-+.kuqugkamouyyemgc.xyz
 +.kurama.ltd
 +.kurarray.com
 +.kurbashfactor.com
@@ -65616,7 +65378,6 @@
 +.kutsatsa.com
 +.kutsouleghoar.net
 +.kuuad.com
-+.kuuakeewwiiqwece.xyz
 +.kuuaugoyqouwawyi.xyz
 +.kuuqcgakuykukoya.xyz
 +.kuurza.com
@@ -65632,7 +65393,6 @@
 +.kuxfznnf.xyz
 +.kuyhaa-me.pw
 +.kuyhaa.cc
-+.kuyoukwwacqkcoyo.xyz
 +.kuywuskkgqsigqqs.xyz
 +.kuyzh.yt
 +.kuzukiakira.work
@@ -65682,7 +65442,6 @@
 +.kwayoutlet.fr
 +.kwayqwywkyawywgm.xyz
 +.kwayshop.fr
-+.kwaywmaequkqccai.xyz
 +.kwazindernuren.com
 +.kwbgmufi.com
 +.kwcaouuyaccsiyos.xyz
@@ -65692,7 +65451,6 @@
 +.kweaesycueosscem.xyz
 +.kwedzcq.com
 +.kweeiggcmeyoyasg.xyz
-+.kweiasymwgsumkqw.xyz
 +.kwesipharma.com
 +.kwgaoykuyookceya.xyz
 +.kwgescwycwsaakmm.xyz
@@ -65704,12 +65462,8 @@
 +.kwjam.com
 +.kwkigykscccqagsy.xyz
 +.kwkkqgcoumyusiwa.xyz
-+.kwkouaicookkkeqw.xyz
-+.kwmcuwccqmuecgea.xyz
-+.kwmocqockmyasyom.xyz
 +.kwmuuqoogmgagagc.xyz
 +.kwoesauawkouiecq.xyz
-+.kwogawueykiiumao.xyz
 +.kwogewsyemkeeamk.xyz
 +.kwokcgwecseqcsck.xyz
 +.kwoocuwmqcmuumwq.xyz
@@ -65733,7 +65487,6 @@
 +.kwtgntyu.xyz
 +.kwtnhdrmbx.com
 +.kwurl.ucweb.com
-+.kwuuwgemogmuomwq.xyz
 +.kwux-uudx.online
 +.kwuyeysggksaauew.xyz
 +.kwuyomwewequiooe.xyz
@@ -66905,7 +66658,6 @@
 +.leapcompatriotjangle.com
 +.leaplunchroom.com
 +.leapretrieval.com
-+.leardragonapp.monster
 +.learedoute.fr
 +.learn.doubleclick.com
 +.learnbitcoinnow.com
@@ -71016,7 +70768,6 @@
 +.magyarnep.me
 +.magyarokvagyunk.com
 +.magyarposta-hu.com
-+.magyiwwimecwyguu.xyz
 +.mah.mah3.com
 +.mah0ney.com
 +.maha.co.il
@@ -71034,7 +70785,6 @@
 +.mai-tel.jp
 +.mai1b0x.com
 +.maibaume.com
-+.maiceeuokskeeksq.xyz
 +.maichobooy.com
 +.maidr.pro
 +.maifvie.fr
@@ -71354,7 +71104,6 @@
 +.makumva.all-usanomination.com
 +.makutesoftware.com
 +.makygroup.com.au
-+.makysawqyqkmmkuo.xyz
 +.malachite-rural-gander.glitch.me
 +.malajsie.webzdarma.cz
 +.malakonirgun.com
@@ -71632,7 +71381,6 @@
 +.mao1.jsnovel.com
 +.maoaimiaakuquqkq.xyz
 +.maobujie.com
-+.maoeeogmuauywsyu.xyz
 +.maolder.top
 +.maouyeuokasssqam.xyz
 +.maouymyemwcyumme.xyz
@@ -71678,7 +71426,6 @@
 +.maqiang520.online
 +.maqiwcgkkemqgwoa.xyz
 +.maqmais.com.br
-+.maqsgaqyosykieye.xyz
 +.maqugsekosimqiui.xyz
 +.maquiags.com
 +.maquinaentretenimento.com.br
@@ -71898,7 +71645,6 @@
 +.marriedmailbox.com
 +.marriedvalue.com
 +.marriottholdings.org
-+.marrowleaves.com
 +.marryingsakesarcastic.com
 +.mars.jd.com
 +.marshagalea.com
@@ -72205,7 +71951,6 @@
 +.mauiexpokennel.com
 +.mauigkoiiqgemuyy.xyz
 +.maulupoa.com
-+.maumaimiimquumyq.xyz
 +.mauogieguweuwoyq.xyz
 +.mauphiph.net
 +.mauphupooca.com
@@ -72237,7 +71982,6 @@
 +.mawamsymaammoeks.xyz
 +.mawieiaeeguckoce.xyz
 +.mawigsseygcgssqa.xyz
-+.mawkamakmayiiguu.xyz
 +.mawkggrbhsknuw.com
 +.mawlaybob.com
 +.mawnuzvkin.com
@@ -73753,7 +73497,6 @@
 +.mgiysouackmaqcas.xyz
 +.mgjournalnow.112.2o7.net
 +.mgkauymsssmckwsw.xyz
-+.mgkgamiceyqyoeoa.xyz
 +.mgkmiwqqoowiyimu.xyz
 +.mgksuygesiqaaeui.xyz
 +.mgkugekgyueaqeaa.xyz
@@ -73773,7 +73516,6 @@
 +.mgrmking.ddns.net
 +.mgs123.com
 +.mgseecwsokwuiugk.xyz
-+.mgsiccsicwosaqaw.xyz
 +.mgskyogoksgeeaoi.xyz
 +.mgspromo.cn.com
 +.mgstarexponent.112.2o7.net
@@ -73786,7 +73528,6 @@
 +.mguewiuemcsakege.xyz
 +.mgusueokqaqewoeu.xyz
 +.mguucayywwicyugs.xyz
-+.mguueiysamwmcais.xyz
 +.mguwcuaigkseywqy.xyz
 +.mgwcbd.112.2o7.net
 +.mgwcn.com
@@ -73863,9 +73604,7 @@
 +.micekraft.com
 +.micemismikicsccc.xyz
 +.miceqemygeauceei.xyz
-+.miceuckewokqkksk.xyz
 +.micfkbeljacob.com
-+.micggqmsswqoywmm.xyz
 +.micghiga2n7ahjnnsar0fbor.com
 +.michael--kors.fr
 +.michael-korsfrance.fr
@@ -74131,7 +73870,6 @@
 +.mihjeans.fr
 +.mihouse.pw
 +.miidi.net
-+.miiemwacaoeoeuou.xyz
 +.miiepofl.xyz
 +.miiqikimwgoysiqi.xyz
 +.mije.fr
@@ -74316,7 +74054,6 @@
 +.minero-proxy-02.now.sh
 +.minero-proxy-03.now.sh
 +.minero.cc
-+.minerva.devices.a2z.com
 +.minet.nl
 +.mineyour.com
 +.minfo.wps.cn
@@ -74437,10 +74174,8 @@
 +.miptic.ru
 +.miptj.space
 +.mipview.com
-+.miqciywyaqqumoqe.xyz
 +.miqieqsciskaswwe.xyz
 +.miqorhogxc.com
-+.miqscwyaoemmiqgq.xyz
 +.mir-holoda.by
 +.mir-kliparta.ru
 +.mir-stalkera.ru
@@ -74593,7 +74328,6 @@
 +.mito-pharma.pl
 +.mito03.top
 +.mitrarank.ir
-+.mitratechoiler.com
 +.mitreart.com
 +.mitreskravers.com
 +.mitself.net
@@ -74641,7 +74375,6 @@
 +.miyabiballet.jp
 +.miyagcigmomoommo.xyz
 +.miyaluorenliziuan.cn
-+.miyikwamwkeyigoo.xyz
 +.miymkmaicisycwio.xyz
 +.miysoiiqgyewuceo.xyz
 +.miyuhot.com
@@ -74809,7 +74542,6 @@
 +.mmbonline01.com
 +.mmc.122.2o7.net
 +.mmcacecmowmmusmc.xyz
-+.mmcgucuoaiumygks.xyz
 +.mmchoicehaving.com
 +.mmcjo.com
 +.mmclub.info
@@ -74911,7 +74643,6 @@
 +.mmtcw.cn
 +.mmtracking.com
 +.mmtysm.com
-+.mmuggcecoqiiowak.xyz
 +.mmuomuweiosyueas.xyz
 +.mmusiwmqskocwkmu.xyz
 +.mmvid.s3.amazonaws.com
@@ -74919,10 +74650,8 @@
 +.mmwuuaauycwimaek.xyz
 +.mmx.kz
 +.mmy.ddns.us
-+.mmygsewuukqkiiok.xyz
 +.mmymeyegcgwqoowm.xyz
 +.mmymmauyiiksiugu.xyz
-+.mmysewewuymuwqgm.xyz
 +.mmyukmsqamgicqai.xyz
 +.mn.appme.ru
 +.mn.haoyuming.net
@@ -75280,7 +75009,6 @@
 +.moftizadeh.com
 +.mogenromantik.com
 +.mogkckceoggeseia.xyz
-+.mogmkiuwgougqkuc.xyz
 +.mogo-crypto.net
 +.mogointeractive.com
 +.mogtrmjz.xyz
@@ -75294,11 +75022,9 @@
 +.mohit5938.github.io
 +.mohiwhaileed.com
 +.mohr-tranebjaerg.de
-+.moiacqgmookkgygi.xyz
 +.moiernonpaid.com
 +.moigwmmwmwaesewy.xyz
 +.moiimkscmiswaesw.xyz
-+.moiiuoigiuaogwsk.xyz
 +.moikkgeyeesssycq.xyz
 +.moikswousgwuwqiw.xyz
 +.moilizoi.com
@@ -75692,7 +75418,6 @@
 +.moodoocrv.com.cn
 +.moodsweet.com
 +.moody-night.net
-+.mooecmeoakikmwyq.xyz
 +.moogos.com
 +.mooithailand.nl
 +.mookie1.com
@@ -75920,7 +75645,6 @@
 +.mou.niu.xunlei.com
 +.mouas.xyz
 +.moudixg.ddns.net
-+.mouicseaeoycueyu.xyz
 +.mouldeye.com
 +.moumaiphuch.net
 +.mountain-paradise.co.uk
@@ -76388,7 +76112,6 @@
 +.mswmwpapolloprod.122.2o7.net
 +.mswnetworks.nl
 +.mswordupdate17.com
-+.mswqcwmeommuqiay.xyz
 +.msyecoiqeyqeiquy.xyz
 +.msykgicsyaeiwmcg.xyz
 +.mt-bau.info
@@ -76496,7 +76219,6 @@
 +.muathengay.com
 +.muathietke.com
 +.muaxanh.com
-+.muayagmmsuwuqyes.xyz
 +.mubjahuke.b-cdn.net
 +.mubyza.com
 +.muc8he.hbg.hebdenbridgedental.co.uk
@@ -76533,7 +76255,6 @@
 +.muenchner-zeitung.de
 +.muendakutyfore.info
 +.mueritzer-raeuchertipps.de
-+.mueuwcqsioowsmce.xyz
 +.mufflercypress.com
 +.mufflerlightsgroups.com
 +.mufg.tokyo
@@ -76561,7 +76282,6 @@
 +.muindetuva.com
 +.muitolindoisso.com.br
 +.muiuim.icu
-+.muiwiysikggkgsco.xyz
 +.mujib-store28.blogspot.com
 +.mukeshgoyal.in
 +.mukgoiayggikuweq.xyz
@@ -76962,7 +76682,6 @@
 +.myasmkwismasqoeg.xyz
 +.myassistpro.com
 +.myaudioads.com
-+.myaueqycgeikwagc.xyz
 +.myauieoooeuiqycy.xyz
 +.myautoinsuranceray.com
 +.myaviatorcar.com
@@ -77006,7 +76725,6 @@
 +.mycdn2.co
 +.mycelesterno.com
 +.mycellularphonesok.live
-+.mycemwwuweiwkecs.xyz
 +.mycfrstudio.club
 +.mycgaaaymgowwicw.xyz
 +.mychaelknight.com
@@ -77714,7 +77432,6 @@
 +.namjai.com
 +.namjestajgavranovic.com
 +.namjzoa.xyz
-+.namoba.sanruko.info
 +.namol.xyz
 +.namthai.com
 +.namthaibinh.net
@@ -81058,10 +80775,8 @@
 +.ocikmgiayckioeee.xyz
 +.ociksiwakgqiasgs.xyz
 +.ocjmbhy.com
-+.ockaokykiqmsqgcc.xyz
 +.ockerfisher.top
 +.ockiqqwuucwosuoy.xyz
-+.ocksaoowqwqykoci.xyz
 +.ockuuymkmmeuekqe.xyz
 +.oclaserver.com
 +.oclasrv.com
@@ -81086,7 +80801,6 @@
 +.ocsg.ru
 +.ocsgqymmuoceecqe.xyz
 +.ocsh.ru
-+.ocsoaeqiqyuiooia.xyz
 +.oct1.xyz
 +.oct2.xyz
 +.octanmystes.com
@@ -81113,7 +80827,6 @@
 +.ocular.mydealz.de
 +.ocuqmkacoismsois.xyz
 +.ocuqocgaigsyuiwk.xyz
-+.ocuuyaacsmucqqcc.xyz
 +.ocuwyfarlvbq.com
 +.ocwaiucmmyyyyuii.xyz
 +.ocweeuqyaqmoqykk.xyz
@@ -81176,9 +80889,7 @@
 +.oecsgmygskemoqai.xyz
 +.oecyokkioyqywaio.xyz
 +.oeegecksewamggaa.xyz
-+.oeeoewcaiauwueiy.xyz
 +.oeeoucsuawuqkqoi.xyz
-+.oegiwwiqaekkqaem.xyz
 +.oegmasywouekcsmk.xyz
 +.oegoemyqekmisque.xyz
 +.oegoygwmqwqsmoyq.xyz
@@ -81661,7 +81372,6 @@
 +.okead.com
 +.okean-qoj.com
 +.okeeisigmkwasigc.xyz
-+.okeemqkyqmokeqgu.xyz
 +.okehieugochukwucassperkroosdavid.duckdns.org
 +.okemcqqkucoumsos.xyz
 +.okesygeuwmsuskck.xyz
@@ -81682,7 +81392,6 @@
 +.okiuayowumgmywwm.xyz
 +.okiysygykgeeayoe.xyz
 +.okjjwuru.com
-+.okkawomauckygogm.xyz
 +.okkkgyauccwumiuy.xyz
 +.okkkk.com
 +.okkodoo.com
@@ -81768,7 +81477,6 @@
 +.okuocsokukcqeaau.xyz
 +.okuouiugsgamyagc.xyz
 +.okuqqmqkgimcuasu.xyz
-+.okusmimokaaecscw.xyz
 +.okuysouissysokai.xyz
 +.okvovqrfuc.com
 +.okwayucaioweqwwk.xyz
@@ -81893,11 +81601,9 @@
 +.omagiyeiaggkeiqa.xyz
 +.omaiqqasakscckii.xyz
 +.omakase-nmnt.com
-+.omakcwesmgiywkoq.xyz
 +.omaksoaguiogcauy.xyz
 +.omanala.com
 +.omaosaekmsaqkekm.xyz
-+.omaqogskywiyqwoa.xyz
 +.omarcheopson.com
 +.omareeper.com
 +.omarwhats.app
@@ -81914,7 +81620,6 @@
 +.omciecoa37tw4.com
 +.omcigckimocgmgqy.xyz
 +.omclacrv.com
-+.omcoiyimaicasqgc.xyz
 +.omcrobata.com
 +.omcywcakcskacski.xyz
 +.omdittoa.com
@@ -81964,7 +81669,6 @@
 +.omgwicquywuskoom.xyz
 +.omgwowgirls.com
 +.omiiisuiukkeocys.xyz
-+.omiiyauagmaegyqa.xyz
 +.ominousgutter.com
 +.omisegotoken.com
 +.omission119.fun
@@ -82021,7 +81725,6 @@
 +.omseiueemcekcqmk.xyz
 +.omshedinjaor.com
 +.omshellderom.com
-+.omsiycwceqwgwyuc.xyz
 +.omsmedia.com
 +.omsugguucwemagek.xyz
 +.omsuqqqceawkesgs.xyz
@@ -82038,7 +81741,6 @@
 +.omyeeqgeumuugiyg.xyz
 +.omygd.com
 +.omyiwqwmmysyecee.xyz
-+.omyqywsismmusssg.xyz
 +.omzmao.com
 +.omzoroarkan.com
 +.omzylhvhwp.com
@@ -82947,9 +82649,7 @@
 +.oqceegweasauwugg.xyz
 +.oqcsmsouwkcuyaoo.xyz
 +.oqcwmqeuygykauks.xyz
-+.oqegmuqkgyaywwmc.xyz
 +.oqegwsisauaesaea.xyz
-+.oqegyooqaksqmsse.xyz
 +.oqejupqb.xyz
 +.oqeumicwsoemaoua.xyz
 +.oqeycucumgakgkwm.xyz
@@ -82962,7 +82662,6 @@
 +.oqguiqcckakicqkc.xyz
 +.oqicsoassyowsuuk.xyz
 +.oqikgswgguiqeawy.xyz
-+.oqkaiccmqmsaessq.xyz
 +.oqkqeuwcayumseoa.xyz
 +.oqkugumgisuicoyw.xyz
 +.oqkwaummeckgssqg.xyz
@@ -82970,7 +82669,6 @@
 +.oqnabsatfn.com
 +.oqoaumkywacmuwwm.xyz
 +.oqoegigekmuccuoe.xyz
-+.oqoqaciimqmaemcc.xyz
 +.oqowmcoggmageiug.xyz
 +.oqpahlskaqal.com
 +.oqqkigmwcuoocske.xyz
@@ -82986,11 +82684,8 @@
 +.oqwaeywcacicaiig.xyz
 +.oqwkiseweaeccoke.xyz
 +.oqwqysccmgciiguy.xyz
-+.oqyawiowcssecwki.xyz
 +.oqycmugocqsyuaae.xyz
 +.oqyictvedqfhhd.com
-+.oqyioysocaassygy.xyz
-+.oqysssuwssoguyqu.xyz
 +.oqyyuyogsmsaeseq.xyz
 +.oqzoqbeoqgz.wen.ru
 +.or-fail.gl.at.ply.gg
@@ -83236,7 +82931,6 @@
 +.os-mon.zijieapi.com
 +.os.scmpacdn.com
 +.osa-co.com
-+.osacwmiwqocqqeee.xyz
 +.osadooffinegold.com
 +.osads.ddns.net
 +.osadspro.com
@@ -83340,7 +83034,6 @@
 +.osspalkiaom.com
 +.osspinsira.com
 +.osspwamuhn.com
-+.ossqmcwoooamekgu.xyz
 +.ossreuniclusr.com
 +.ossrhydonr.com
 +.osssaeksyiueugsw.xyz
@@ -83380,9 +83073,7 @@
 +.oswmciqmoeimsyqm.xyz
 +.oswmsqcwcgwkkqcu.xyz
 +.oswowg.xyz
-+.oswuoyeaogmsiuky.xyz
 +.osyacwusucqmayag.xyz
-+.osyaeyiewecwwosm.xyz
 +.osyawgmkggwwaise.xyz
 +.osyilvl.dns-cloud.net
 +.osyqameakgkceeog.xyz
@@ -83837,7 +83528,6 @@
 +.owawsygmkommkkyc.xyz
 +.owb101.goo.ne.jp
 +.owbroinothiermol.xyz
-+.owceqsiqwaamwsqe.xyz
 +.owcscmkiwoogwiik.xyz
 +.oweeucusacywwqgs.xyz
 +.oweltygagster.top
@@ -83893,7 +83583,6 @@
 +.owoksuegymmgesys.xyz
 +.owppijqakeo.com
 +.owqaywkieskcqcuc.xyz
-+.owqcsoqgmugceyou.xyz
 +.owqieeueuscmkguc.xyz
 +.owqmwuwcqusyqkew.xyz
 +.owqygkuyyecaasko.xyz
@@ -83998,7 +83687,6 @@
 +.oyiiawgswogeqkkg.xyz
 +.oyikmsqqocecqywu.xyz
 +.oyimkmiyskucugyo.xyz
-+.oyiqusqemygmyako.xyz
 +.oyknmi.cn
 +.oymkoigsyaymygai.xyz
 +.oymseuywqeacmwes.xyz
@@ -84007,7 +83695,6 @@
 +.oyocwswugeiqqyoo.xyz
 +.oyoiqsmguymyqkew.xyz
 +.oyomcgeeogacuiqi.xyz
-+.oyqsqawsmsgwqawq.xyz
 +.oys0ro.static.otenet.gr
 +.oysesussqauokysi.xyz
 +.oysqeemyyguscqiy.xyz
@@ -84019,9 +83706,7 @@
 +.oyueyuseigeuwewu.xyz
 +.oyugsiiaesusiuik.xyz
 +.oyunstar.com
-+.oyusigeegsikaiic.xyz
 +.oyuuqaqumiuyiqis.xyz
-+.oywceimuemggqmgg.xyz
 +.oywgqkusocouysua.xyz
 +.oywhowascryingfo.com
 +.oywkwakwykimigck.xyz
@@ -84030,7 +83715,6 @@
 +.oyyamqygcecqocmq.xyz
 +.oyybgs.cn
 +.oyycmayowiyueiio.xyz
-+.oyykeookoyeswqws.xyz
 +.oyymiueymiccuwkq.xyz
 +.oz-yypkhuwo.rocks
 +.oz.valueclick.ne.jp
@@ -87978,7 +87662,6 @@
 +.pormhub.fr
 +.porn-corn.com
 +.porn-girls-nude-and-horny.com
-+.porn-screen.com
 +.porn-sex-free.com
 +.porn-sex-sluts-webcams-movies.com
 +.porn-sluts.com
@@ -90834,7 +90517,6 @@
 +.qaesukwegwsoqsue.xyz
 +.qagaeyiqsgakegya.xyz
 +.qagcuowasuuoimiw.xyz
-+.qageyqkuqyouwgwc.xyz
 +.qaghoz.com
 +.qagmagkykmyoqukc.xyz
 +.qaigakkkimiqgsqo.xyz
@@ -90845,7 +90527,6 @@
 +.qakcwuyuagkwgiyw.xyz
 +.qakiumcggcqugaia.xyz
 +.qakqmmykyoqeokyy.xyz
-+.qaksyewieaoiekuc.xyz
 +.qakzfubfozaj.com
 +.qalscihrolwu.com
 +.qamar-alsharqia.com
@@ -90861,7 +90542,6 @@
 +.qaq2.machineaccountquota.com
 +.qaqaiagmweawwacs.xyz
 +.qaqioiuoggqgewmo.xyz
-+.qaqommwgweuciwkq.xyz
 +.qarantaine-connecte.fr
 +.qarewien.com
 +.qarticles.com
@@ -90927,13 +90607,10 @@
 +.qcerujcajnme.com
 +.qceskquokackwqgc.xyz
 +.qcgg.net
-+.qcggikgwiakqkkoq.xyz
-+.qcgkccgikkaekkae.xyz
 +.qcgokoqawweegyio.xyz
 +.qcgqgwmkkyaaakay.xyz
 +.qchannel03.cn
 +.qchannel04.cn
-+.qcieaiaeqeuoouac.xyz
 +.qciescymyeuemwcm.xyz
 +.qciigemkuqiyyikm.xyz
 +.qcikymsmoawqsaog.xyz
@@ -90943,7 +90620,6 @@
 +.qciuomsmeqeaqgoe.xyz
 +.qcjslm.com
 +.qckaoimmkqgmkgae.xyz
-+.qckeygqkwmacsymu.xyz
 +.qckkusoogwweosqc.xyz
 +.qckqkcgciikqmake.xyz
 +.qcksqukoooqocgwy.xyz
@@ -90971,7 +90647,6 @@
 +.qcwsqcaukuqmggak.xyz
 +.qcwwwcaeyaaoqeia.xyz
 +.qcxhwrm.com
-+.qcyaoycsgieeuogg.xyz
 +.qcygacuamqqugcck.xyz
 +.qcyksokwumicscaa.xyz
 +.qcyqoyugmacgmmio.xyz
@@ -91037,7 +90712,6 @@
 +.qfzbw4.postal.gameplansession.com
 +.qg3jqz.4.fourcrossesinn.com
 +.qgaesigimeusqwcq.xyz
-+.qgaigyqmkyywwsyq.xyz
 +.qgaiosyouwwkgsmm.xyz
 +.qgaosacqoiuucuwm.xyz
 +.qgawomicyiwqesam.xyz
@@ -91067,8 +90741,6 @@
 +.qgkmsekougssaawq.xyz
 +.qgkmuweisieywgsc.xyz
 +.qgkokkosswamucga.xyz
-+.qgkswogkcsaeegki.xyz
-+.qgkysskomkcgeogs.xyz
 +.qglinlrtdfc.com
 +.qgmwby.com
 +.qgmwemwyamwmeimo.xyz
@@ -91096,7 +90768,6 @@
 +.qguyyqgwyyccgmqe.xyz
 +.qgwcoaqmigqcieie.xyz
 +.qgwcuyyqwwqakkue.xyz
-+.qgwkkkyicoqmooqu.xyz
 +.qgwyyuogucsacceq.xyz
 +.qgxbluhsgad.com
 +.qgysyseciyqgygws.xyz
@@ -91145,7 +90816,6 @@
 +.qiemkmiyuqyuiems.xyz
 +.qienews.cn
 +.qieoqgsomueyeass.xyz
-+.qiewcykmuuacuoyk.xyz
 +.qieycgcwaaaigmke.xyz
 +.qieymccceokeamuq.xyz
 +.qigaaawumoqgmwck.xyz
@@ -91198,7 +90868,6 @@
 +.qiqyisqgiyywqqwq.xyz
 +.qirls.info
 +.qisa.xyz
-+.qisaiouamwoeskgu.xyz
 +.qisamuiqokooamye.xyz
 +.qisekuoccmuyicga.xyz
 +.qislvfqqp.com
@@ -91231,7 +90900,6 @@
 +.qiyggmguowygeooc.xyz
 +.qiyijiazhuangshi.com
 +.qiyou.com
-+.qiyqqqmeeaqeaskc.xyz
 +.qiysaigssiwkssmo.xyz
 +.qizhao.com
 +.qizjkwx9klim.com
@@ -91299,13 +90967,10 @@
 +.qoauiwaqsmmumcmk.xyz
 +.qoaweokuqggaymks.xyz
 +.qobuz.surveysparrow.com
-+.qocmokqaaaickcis.xyz
 +.qocowwieiskuagak.xyz
 +.qocqgkoagcsqkawk.xyz
 +.qocqkgygeeeqqoqa.xyz
-+.qocqmoigcqsamkyg.xyz
 +.qocscaaawsaoqcce.xyz
-+.qocsugamcuuaicss.xyz
 +.qocuiqecumeiuwee.xyz
 +.qoeikggygouoamum.xyz
 +.qoeiqseaiwgmsgcg.xyz
@@ -91342,9 +91007,7 @@
 +.qosiasgaiuoemqik.xyz
 +.qosiywgcuamwuuos.xyz
 +.qoskuqckeioessga.xyz
-+.qosuyeayukkaiysi.xyz
 +.qoswkcyeyeesaqew.xyz
-+.qoucecgacassqwiy.xyz
 +.qouckwoqysaumyam.xyz
 +.qousaksciymowiow.xyz
 +.qovua60gue.tubewolf.com
@@ -91378,7 +91041,6 @@
 +.qqauygmgoyqgyieu.xyz
 +.qqbqy.com
 +.qqcismssweasmeum.xyz
-+.qqcocockauwyiceg.xyz
 +.qqdata.ab.qq.com
 +.qqdwz.com
 +.qqeoicscgsaqckow.xyz
@@ -91429,7 +91091,6 @@
 +.qqurzfi.com
 +.qquuoesiimksawye.xyz
 +.qqwgcgoewowwsuww.xyz
-+.qqwwkgwgqqaukooy.xyz
 +.qqwwmm.com
 +.qqwyihwm.thjen.tech
 +.qqwyyeosuqcsqgoi.xyz
@@ -91505,7 +91166,6 @@
 +.qu3.cc
 +.qu8z6xvgn574.live
 +.qu96.com
-+.quacaewocmgewimg.xyz
 +.quacktypist.com
 +.quackupsilon.com
 +.quada.ru
@@ -91725,7 +91385,6 @@
 +.quirkybliss.com
 +.quirkysugar.com
 +.quisma.com
-+.quisoakcuqsygyyc.xyz
 +.quit.do.am
 +.quitaragora.godaddysites.com
 +.quitasueno.com
@@ -91751,7 +91410,6 @@
 +.qujishu.com
 +.qukeoukgaykkuwck.xyz
 +.qukkmaogmqgecimw.xyz
-+.qukscussccawqugo.xyz
 +.qukywwwumwskcgua.xyz
 +.qumagee.com
 +.qumeqkmceqgusuye.xyz
@@ -91780,7 +91438,6 @@
 +.quotes.com
 +.quotex.com.in
 +.quotidiennokoue.com
-+.quouwaeaiwyqyeio.xyz
 +.quqeciymqmkqccqw.xyz
 +.quqeumaciwgismgo.xyz
 +.quqkqkegkayoewou.xyz
@@ -91799,7 +91456,6 @@
 +.quwkke.xyz
 +.quwocusecekwqkaw.xyz
 +.quwqygisgcgyemuw.xyz
-+.quwukceaqmieiueu.xyz
 +.quwwkgogkmqgaekc.xyz
 +.quxaehkor.ru.gg
 +.quxhhrl3ncy4j5cvusni.maherstcottage.com.au
@@ -91836,7 +91492,6 @@
 +.qwaquooscuucsgai.xyz
 +.qwaweqiauwkqcqoe.xyz
 +.qwaxcv.myshoplaza.com
-+.qwcasagckusqiuow.xyz
 +.qwcgiogwcooqgiea.xyz
 +.qwciwuuomsgksksk.xyz
 +.qwcoyysusgwiykee.xyz
@@ -91859,13 +91514,11 @@
 +.qweykqemsqeouqcm.xyz
 +.qwfh39851jtfvkurf21hf.com
 +.qwggykgwkqoceiuo.xyz
-+.qwgogmasssoceeqi.xyz
 +.qwguugcyemwoeyyo.xyz
 +.qwhc.yt
 +.qwicesqeioeuwisy.xyz
 +.qwiekemeciqayscq.xyz
 +.qwiklnk.com
-+.qwioacowakksekqs.xyz
 +.qwiqcimykkaggocs.xyz
 +.qwiseyogkqooaiqg.xyz
 +.qwivhkmuksjodtt.com
@@ -91896,7 +91549,6 @@
 +.qwssaiocgaycgmqk.xyz
 +.qwsua.yt
 +.qwswmuuwmcgkyguy.xyz
-+.qwsyyoiomicigqyi.xyz
 +.qwt.co
 +.qwtag.com
 +.qwuaqrxfuohb.com
@@ -95433,7 +95085,6 @@
 +.rreis.yt
 +.rrforeverjewellery.com
 +.rrgbjybt.com
-+.rrhscsdlwufu.xyz
 +.rrmlejvyqwzk.top
 +.rronrestaurant.com
 +.rronsep.com
@@ -97197,7 +96848,6 @@
 +.saudigeriatrics.org
 +.saudinationaloil.com
 +.saudinationaloilcompany.com
-+.saudinationaoilcompanyvendors.com
 +.saudioilandgas-uae.net
 +.saudioilmanagement-ae.com
 +.sauerkraut.sellclassics.com
@@ -97471,7 +97121,6 @@
 +.scarlet-clicks.info
 +.scarofnght.com
 +.scarpa-france.fr
-+.scarpelouboutinonline.net
 +.scarymarine.com
 +.scashwl.com
 +.scatteredheat.com
@@ -98141,7 +97790,6 @@
 +.seattleuniversitylawreview.com
 +.seaviewresidence.com
 +.seayipsex.com
-+.sebago-nederland.com
 +.sebar.thand.info
 +.sebateastrier.com
 +.sebazi.com
@@ -98685,7 +98333,6 @@
 +.seeshaitoay.net
 +.seeskincare.com
 +.seessoyccessskgs.xyz
-+.seeswqekicygiyeq.xyz
 +.seetaziy.net
 +.seeteksystems.com
 +.seethisinaction.com
@@ -98860,7 +98507,6 @@
 +.seminarioteologicobatista.com.br
 +.seminarium.com
 +.semiyun.com
-+.semkemymmqwmsgks.xyz
 +.semkyqwweoskwswk.xyz
 +.semoit.com
 +.semokmsyueeyoimy.xyz
@@ -98870,7 +98516,6 @@
 +.sempretemmais.com.br
 +.semqraso.net
 +.semquedagotas.com.br
-+.semqysakqckcegos.xyz
 +.semsicou.net
 +.semsy-oda.duckdns.org
 +.semurox.com
@@ -99047,7 +98692,6 @@
 +.seouldae.gosiwonnet.com
 +.seouldementia.or.kr
 +.seoulpr.com
-+.seouyikkgsiwaaky.xyz
 +.seowebguy.com
 +.separatepattern.pro
 +.separatesort.com
@@ -99081,7 +98725,6 @@
 +.seqoiioiokewosyi.xyz
 +.seqqcwiwaesqgicq.xyz
 +.sequencestairwellseller.com
-+.seqymisssskcqimq.xyz
 +.ser.adjw.co.kr
 +.ser.everydayporn.co
 +.ser.nrovn.xyz
@@ -99661,8 +99304,6 @@
 +.sexzavod.com
 +.seydabutik.com
 +.seydel-media.de
-+.seyecysqoquwscuy.xyz
-+.seyiuqiomssiiyic.xyz
 +.seyssinet-handball.club
 +.sez-pr.com
 +.sez.jp
@@ -99770,7 +99411,6 @@
 +.sgfinery.com
 +.sgfsdvc.com
 +.sgg.southcn.com
-+.sggckwskgysmcgmi.xyz
 +.sggiukskiqwkmokm.xyz
 +.sggmaqqoqagcqwcw.xyz
 +.sggocgoquycgkuem.xyz
@@ -99798,13 +99438,11 @@
 +.sgomwkyqmesiiqou.xyz
 +.sgookiaayeeuuqgw.xyz
 +.sgovernments.com
-+.sgoyackmiukyymmc.xyz
 +.sgozmks.icu
 +.sgp1.vultrobjects.com
 +.sgp389.com
 +.sgqccsieuuaowoki.xyz
 +.sgqcqueseucmacea.xyz
-+.sgqwuwmskisykocm.xyz
 +.sgqyyqwwkcsoqoim.xyz
 +.sgrawwa.com
 +.sgrecrutement.fr
@@ -99815,7 +99453,6 @@
 +.sgsecure.fr
 +.sgsosi.xyz
 +.sgswuesocfr.com
-+.sgsymioueosiaiqi.xyz
 +.sgtm.anita.com
 +.sgtm.atg.se
 +.sgtm.blume2000.de
@@ -99850,9 +99487,7 @@
 +.sgwayqyaeuisyuiy.xyz
 +.sgwcccqoyeyquuew.xyz
 +.sgwgewwkukycwiok.xyz
-+.sgwmmkiqegiguqoo.xyz
 +.sgwqieucwqwcsugi.xyz
-+.sgwsmaqmgiuyowyu.xyz
 +.sgwsss.xyz
 +.sgyiyceyaocemiqu.xyz
 +.sgyosccwmusakiag.xyz
@@ -100298,7 +99933,6 @@
 +.shohanb.com
 +.shokofaandish.com
 +.sholke.com
-+.sholphot.com
 +.sholraidsoalro.net
 +.shonetransmittedfaces.com
 +.shonevegetable.com
@@ -101439,7 +101073,6 @@
 +.skivingepileny.top
 +.skiwaiyaaieeyikk.xyz
 +.skjbqcqgw.com
-+.skkqguukuwmoamwk.xyz
 +.sklaluminium.com
 +.sklicious.com
 +.skltrachqwbd.com
@@ -101467,7 +101100,6 @@
 +.skowikcksqmwkews.xyz
 +.skqaumiskekmuwci.xyz
 +.skqcagawgesusowc.xyz
-+.skqiwosgygacgikg.xyz
 +.skqkacoiuskqicui.xyz
 +.skqkqwycaswwugam.xyz
 +.skqskeqyumcqeeoy.xyz
@@ -101485,7 +101117,6 @@
 +.skssioqkemoiieaa.xyz
 +.sksukicowmkseywa.xyz
 +.skuawill.com
-+.skucqauygciieqkm.xyz
 +.skuligpzifan.com
 +.skulldesperatelytransfer.com
 +.skullhalfway.com
@@ -101500,7 +101131,6 @@
 +.skvxbool.xyz
 +.skwaoieskwggciwg.xyz
 +.skwgcaakckiassgc.xyz
-+.skwmeoeewcgwoeam.xyz
 +.skwyuweeckoosygm.xyz
 +.sky-design.ru
 +.sky.brookviewcommunications.com
@@ -101527,7 +101157,6 @@
 +.skygqrsm.com
 +.skygqrsm.net
 +.skyjh.cn
-+.skykosewmsiwcimu.xyz
 +.skyleaders.com
 +.skylergallimore.com
 +.skylindo.com
@@ -101879,7 +101508,6 @@
 +.smartupdatecenter.com
 +.smartupeg.com
 +.smartusluga.xja.pl
-+.smartwatch-officiel.fr
 +.smartwatchesnl24.com
 +.smartwatchs.com
 +.smartwebdesign.ro
@@ -102408,7 +102036,6 @@
 +.smwww.112.2o7.net
 +.smwywssyyaciqkae.xyz
 +.smx.nu
-+.smyacmmaeomcqkoq.xyz
 +.smyccgcoeycieogo.xyz
 +.smyciaycqwymames.xyz
 +.smyecqasyiyuqkag.xyz
@@ -104179,7 +103806,6 @@
 +.ssedonthep.info
 +.ssee-mo.re
 +.ssee-mor.re
-+.sseeykkocmqieyyg.xyz
 +.ssegemwgmysiwoya.xyz
 +.ssestherssa.com
 +.ssetbihar.com
@@ -104188,18 +103814,15 @@
 +.ssgcmiagwwywsaki.xyz
 +.ssgdizosofepz.cn
 +.ssgg.chazidian.com
-+.ssgquawgywywkgma.xyz
 +.ssgs-sol.co.uk
 +.ssgsna7n.beget.tech
 +.ssgwkusmeokkgssi.xyz
 +.ssh.4i7i.com
 +.sshskindnessproject.ca
 +.ssi9.com
-+.ssieyqogeoegioyy.xyz
 +.ssigouv.fr
 +.ssindserving.com
 +.ssiooaeoaocuyaow.xyz
-+.ssiqswoeeooeaseg.xyz
 +.ssjiancai.com
 +.ssjpx.com
 +.ssjy.shop
@@ -104283,7 +103906,6 @@
 +.ssr1000.com
 +.ssrv7.com
 +.sssawsmmkmuyqsaq.xyz
-+.ssscykuiukikmomc.xyz
 +.sssee.cc
 +.sssocgougukwsysk.xyz
 +.sssocymgqkwcasum.xyz
@@ -104299,14 +103921,12 @@
 +.ssukgeykkeqquqig.xyz
 +.ssun.info
 +.ssurvey2you.com
-+.ssuuakocumqeaowg.xyz
 +.ssuwocqmmqkgkisu.xyz
 +.ssw.live.com
 +.sswcigaekckuoguo.xyz
 +.sswcsguygegqewqq.xyz
 +.sswkuaaaweuomqsg.xyz
 +.ssxxtwqq.wufoo.com
-+.ssyaaiymqcqmcemw.xyz
 +.ssyauyaiwssecesw.xyz
 +.ssyuwiwgseaeawke.xyz
 +.ssywwicqagkwsikk.xyz
@@ -106681,7 +106301,6 @@
 +.suerte.ninja
 +.suesschool.com
 +.suesuspiciousin.com
-+.sueueeyeuoosmumu.xyz
 +.sufeshivu.com
 +.sufferamazia.com
 +.sufferenough.net
@@ -106708,7 +106327,6 @@
 +.suggestive.com
 +.suggestnotegotistical.com
 +.sugilicali.zbel50.now.sh
-+.sugoekgkaesqsoki.xyz
 +.sugoicounter.com
 +.sugs.m.sm.cn
 +.suguaitaina.com
@@ -106718,7 +106336,6 @@
 +.sugulove.com
 +.sugulove777.com
 +.sugusagasu.com
-+.sugusmkcgueioigu.xyz
 +.suhelux.com
 +.suia.ru
 +.suiatcarew.biz
@@ -106950,7 +106567,6 @@
 +.suoksm.cn
 +.suomiexpress.com
 +.suooekqcosywwqum.xyz
-+.suoqyakqyiqqywke.xyz
 +.suozmtcc.com
 +.sup-finance.com
 +.sup-idea.com
@@ -107373,9 +106989,7 @@
 +.suxaucmuny.com
 +.suxoxmnwolun.com
 +.suyoomawkweuymuo.xyz
-+.suysmewawkgwscua.xyz
 +.suyuexs.cdn.bcebos.co
-+.suyyekogmaeaaoyu.xyz
 +.suzanne.pro
 +.suzannemahler.com
 +.suzbcnh.com
@@ -107758,7 +107372,6 @@
 +.sympmsnsports.112.2o7.net
 +.symptomprominentfirewood.com
 +.symptomslightest.com
-+.symwoaysikukusku.xyz
 +.syn-172-251-171-170.res.spectrum.com
 +.synacast.com
 +.synacor.112.2o7.net
@@ -107851,7 +107464,6 @@
 +.syntheticincenseonline.com
 +.synthroid.fr
 +.synyg.com
-+.syoekkicskocmaqy.xyz
 +.syofi.com
 +.syogcgokwccaiiqk.xyz
 +.syoickeagwoemmei.xyz
@@ -107926,13 +107538,11 @@
 +.syuauicykgemuiok.xyz
 +.syucacukwgymkwiq.xyz
 +.syukk.yt
-+.syuqmugqawkkouck.xyz
 +.syuycuoqgmqyywis.xyz
 +.syuyqcwiqysmwscs.xyz
 +.syvk.yt
 +.syxgsq.com.cn
 +.syybmy.cn
-+.syyuiwmywoiuouag.xyz
 +.syyycc.com
 +.syzdbxg.com
 +.syzjxz2018.cn
@@ -110350,7 +109960,6 @@
 +.tholteti.com
 +.thomas-partly.gl.at.ply.gg
 +.thomasalthoughhear.com
-+.thomasbarlowpro.com
 +.thomashobbs.com
 +.thomaskoehler.eu
 +.thomasolschewski.de
@@ -114751,21 +114360,17 @@
 +.ucceokqisgqowues.xyz
 +.uccsgcekiwcyucou.xyz
 +.ucdn.adgebra.co
-+.uceaygkekiassamu.xyz
 +.uceeyaekmygyswye.xyz
-+.ucekgqmsemsywaoa.xyz
 +.ucesreferre.club
 +.ucfiles.com
 +.ucgeoumqkqqguccs.xyz
 +.ucgmosegyyikaoym.xyz
 +.ucgwcwsuqsuwewgc.xyz
 +.ucgwkoqumgkuiegs.xyz
-+.ucgyyigeqosowiqc.xyz
 +.uchcn1.hopto.org
 +.ucheephu.com
 +.uchmuk.com
 +.ucieogqsaiomcskc.xyz
-+.ucimwkemoyeuygce.xyz
 +.uciqgaemiekggsgo.xyz
 +.uciqgcawweywgwsa.xyz
 +.ucjevgue.xyz
@@ -114871,7 +114476,6 @@
 +.ueckugsciuucosgu.xyz
 +.uecyeccumcqkcacw.xyz
 +.uedas.qidian.com
-+.ueekiauiyqwioqmc.xyz
 +.ueeqiwuuqqqsuouw.xyz
 +.uefghvb.us
 +.ueg.cc
@@ -114898,14 +114502,11 @@
 +.uememumqymaksmce.xyz
 +.uemyeeauoqqewisi.xyz
 +.uemyuykscawksgic.xyz
-+.uemyyuiokouqmwek.xyz
 +.ueoemwemiioaekey.xyz
 +.ueokogisyowcmcme.xyz
 +.ueooosseoyqkamgg.xyz
-+.ueoqowmuqwcicmqy.xyz
 +.uep.gaijin.net
 +.uepkcdjgp.com
-+.ueqccsaqwwsyyuma.xyz
 +.ueqikwsoseucwkci.xyz
 +.ueqqiwwckmqcmeie.xyz
 +.ueqyawmiaoswcaqi.xyz
@@ -114918,7 +114519,6 @@
 +.uestat.video.qiyi.com
 +.ueswceuwioeiqgse.xyz
 +.ueuaysoyoaeaawgy.xyz
-+.ueucswucsuyoygik.xyz
 +.ueumcogommcomamm.xyz
 +.ueumdkc.cn
 +.ueuucukekouuseys.xyz
@@ -115107,7 +114707,6 @@
 +.uiq4ldas.duckdns.org
 +.uiqaiauqmymowyuo.xyz
 +.uiqcikykqgugcigq.xyz
-+.uiqiooossuuuigyi.xyz
 +.uiqkkomkaceqacec.xyz
 +.uiqquogiakcouyca.xyz
 +.uirusu.jp
@@ -115150,13 +114749,10 @@
 +.uk606.directrouter.com
 +.uk94.com
 +.ukagguomeauaoeey.xyz
-+.ukaiiiyqoooycyqm.xyz
 +.ukallinclusiveholidays.com
-+.ukamegiywmyoqcke.xyz
 +.ukankingwithea.com
 +.ukaqkqwmskacmeii.xyz
 +.ukasuyksssggosaq.xyz
-+.ukawkiuqycuiqcoc.xyz
 +.ukbanners.com
 +.ukbbjtfp.xyz
 +.ukblockbusterfilms.com
@@ -115165,7 +114761,6 @@
 +.ukcabeloffers.com
 +.ukcableservices.com
 +.ukcigsuisoqwucac.xyz
-+.ukcmooiaaiecmwyg.xyz
 +.ukcomparends.pro
 +.ukcreditcardshop.com
 +.ukcukyigcwamcoue.xyz
@@ -115183,11 +114778,9 @@
 +.ukgcsgccmsegmgic.xyz
 +.ukgeakkwimkacgwm.xyz
 +.ukgmmiakkgwgssak.xyz
-+.ukgmsaqmiquwyeuy.xyz
 +.ukgoikmsuaooeewq.xyz
 +.ukhiamkhdigxtbp-dot-charming-sky-2700.appspot.com
 +.ukicsmiwggcwksam.xyz
-+.ukimaaiweywwkyms.xyz
 +.ukindwouldmeu.com
 +.ukiqwmgqwccgkosq.xyz
 +.ukiuquyceauasaiu.xyz
@@ -115195,7 +114788,6 @@
 +.ukkiogeimswikwqg.xyz
 +.uklidovka.eu
 +.ukloxmchcdnn.com
-+.ukmeeaocauskcemq.xyz
 +.ukmkygwemogcqwii.xyz
 +.ukmlastityty.info
 +.ukmlastitytyeastf.com
@@ -115204,10 +114796,7 @@
 +.ukokjxfbdqwffmuvsd.jp
 +.ukosgagimugmgmue.xyz
 +.ukpersonalloanspro.com
-+.ukqcaqqoiaeuwkwq.xyz
-+.ukqskgcqgeueiskk.xyz
 +.ukqsmyigekooukis.xyz
-+.ukqyoqogwgucewys.xyz
 +.ukr-apteka.pp.ua
 +.ukrainebadcountry.org
 +.ukrainian.zapto.org
@@ -115231,13 +114820,11 @@
 +.ukwalkintub.com
 +.ukwalkintubhome.com
 +.ukwayeugqwigcskq.xyz
-+.ukwgqsiuowqyawii.xyz
 +.ukwgsimcamwqcqus.xyz
 +.ukwiqwassmawiwys.xyz
 +.ukwiyooomoeeyyae.xyz
 +.ukwoqasooyuagiwa.xyz
 +.ukyeyciwscqoaoui.xyz
-+.ukykgkmumeiqaoea.xyz
 +.ukymasiqmmsgmkai.xyz
 +.ukyogakooecoqmwk.xyz
 +.ukzoweq.com
@@ -115860,7 +115447,6 @@
 +.unxpoalimredsuiniqe.serveirc.com
 +.unynwld.com
 +.unypud.cn
-+.uoaagiookawaqggo.xyz
 +.uoaeyoycyycqkoci.xyz
 +.uoaiouayikuoukik.xyz
 +.uoamsqooyuuqugig.xyz
@@ -115869,7 +115455,6 @@
 +.uod2quk646.com
 +.uodoo.com
 +.uoeeuiaewmogugeo.xyz
-+.uoeiymqawsqiyuck.xyz
 +.uoej.net
 +.uoetderxqnv.com
 +.uoeukcckqmmsuwaa.xyz
@@ -115882,8 +115467,6 @@
 +.uogoumcwoweosyie.xyz
 +.uogtrmjz.xyz
 +.uoigsiqmemcscosu.xyz
-+.uoiikmoyakmyuwik.xyz
-+.uoimegwigagoueky.xyz
 +.uoioaakaucgcakai.xyz
 +.uoiqucqwmywmocas.xyz
 +.uoiuamiqegoeicgu.xyz
@@ -115893,7 +115476,6 @@
 +.uokkwosksygoomua.xyz
 +.uokmuyismigcimmk.xyz
 +.uokqeaieowiogsgc.xyz
-+.uoksagmacskaoqmo.xyz
 +.uokwa.agesonest.com
 +.uolfreeservers.112.2o7.net
 +.uoljunocom2.112.2o7.net
@@ -115904,10 +115486,8 @@
 +.uommsusoqygkwyws.xyz
 +.uomomwwmgacmcmqq.xyz
 +.uomsogicgi.com
-+.uomsosocoaqawqsa.xyz
 +.uonuvcrnert.com
 +.uooaokwekawgqisu.xyz
-+.uooeuakuogoeywom.xyz
 +.uoomsweweegwyquu.xyz
 +.uooqccgekassgeka.xyz
 +.uoosqk.xyz
@@ -115925,7 +115505,6 @@
 +.uowicsywgqmgagyc.xyz
 +.uowiqeccamgcgsam.xyz
 +.uowowiqiyeiuwmcc.xyz
-+.uowqckygumicucuw.xyz
 +.uowqiqmasqwwickc.xyz
 +.up-banner.wavecdn.de
 +.up-banner.wavecdn.net
@@ -116185,24 +115764,19 @@
 +.uqaakywogaaykiam.xyz
 +.uqaiekmccwwsgmai.xyz
 +.uqakkye.cn
-+.uqakyaekiwsqsuga.xyz
 +.uqaqmc.cn
 +.uqbcz.today
-+.uqcccieqeuoemewu.xyz
 +.uqcycqukayqaycey.xyz
 +.uqcygkeuiqqwgqqy.xyz
 +.uqecqpnnzt.online
 +.uqemagwusieaoqmu.xyz
 +.uqemqeoguyciagkm.xyz
-+.uqewaeggaqyiusmg.xyz
 +.uqgquaiwkumikqoq.xyz
 +.uqgssquuewayuyig.xyz
 +.uqidian.com
 +.uqigswmusewkymoy.xyz
 +.uqiokegowuayeoyu.xyz
-+.uqissekqckiwisyo.xyz
 +.uqjqripb.xyz
-+.uqkegwakkocyogus.xyz
 +.uqkucckeckeseaqc.xyz
 +.uqljlsqtrbrpu.com
 +.uqmmfpr.com
@@ -116210,7 +115784,6 @@
 +.uqmssoioasmysakg.xyz
 +.uqocgkiwgcwmscko.xyz
 +.uqqeyucmwooegism.xyz
-+.uqqicycoaeqaocsk.xyz
 +.uqqkiyssyiqkqika.xyz
 +.uqqmj868.xyz
 +.uqqqcewmayoiyykg.xyz
@@ -116225,13 +115798,10 @@
 +.uqwbcm.xyz
 +.uqwosisiuoquiqya.xyz
 +.uqwsmegcekmogguo.xyz
-+.uqwswmwyigigaqqi.xyz
-+.uqwycecguqismuus.xyz
 +.uqxue3.cmbtn.combertonplaygroup.co.uk
 +.uqydcs.xyz
 +.uqykeq.xyz
 +.uqyqiioggqimkqao.xyz
-+.uqyukkamycuaimsu.xyz
 +.uqz.com
 +.ur-l.me
 +.ura-nai-best.com
@@ -116575,7 +116145,6 @@
 +.usps.com-trackpas.top
 +.usps.com-trackpgx.top
 +.usps.com-trackqnu.top
-+.usps.com-trackqww.top
 +.usps.com-trackraa.top
 +.usps.com-trackrql.top
 +.usps.com-trackrsd.top
@@ -116597,7 +116166,6 @@
 +.usps.com-trackxqf.top
 +.usps.com-trackycg.top
 +.usps.com-trackyla.top
-+.usps.com-trackyng.top
 +.usps.com-trackzje.top
 +.usps.com-trackzwo.top
 +.uspsonline-safe.com
@@ -116818,18 +116386,14 @@
 +.uwecsmggqukasmqe.xyz
 +.uwewuwimgwcomqoq.xyz
 +.uwfcqtdb.xyz
-+.uwgguukogesugyma.xyz
 +.uwgicagyykoommga.xyz
 +.uwicmgyqacswaisi.xyz
 +.uwikaqwwyassskyc.xyz
-+.uwiukscaioiwqgqu.xyz
 +.uwjhzeb.com
 +.uwkswgwwcykmqgwk.xyz
-+.uwkyiygkqwmwsmis.xyz
 +.uwkyswkiekaouoqw.xyz
 +.uwlzsfo.com
 +.uwmekawaiwkucqaa.xyz
-+.uwmeqikcsmmmiegy.xyz
 +.uwmlmhcjmjvuqy.xyz
 +.uwoaptee.com
 +.uwokcqusmagemywa.xyz
@@ -116895,7 +116459,6 @@
 +.uyqgkimcauacwqqc.xyz
 +.uyqiegswceeuweoa.xyz
 +.uyqsgaqyuccykoug.xyz
-+.uyquqyaouioaemmy.xyz
 +.uyqwamqmyycyesgm.xyz
 +.uyqweqceegiekyqk.xyz
 +.uysaisaiwguccmau.xyz
@@ -116909,7 +116472,6 @@
 +.uyunad.com
 +.uyuoiugkgcuyawga.xyz
 +.uywswkuakuamkcqu.xyz
-+.uywwquowgyayuikq.xyz
 +.uyybde07w.com
 +.uyyegeiscaekamsw.xyz
 +.uyygagweoagcuqky.xyz
@@ -117603,7 +117165,6 @@
 +.vendimob.pl
 +.vendingboatsunbutton.com
 +.vendornegotiation.com
-+.vendorsadnoc.com
 +.veneeringextremely.com
 +.veneeringperfect.com
 +.veneziapost.com
@@ -119604,7 +119165,6 @@
 +.wa11ace.net
 +.waakkysiewiiogce.xyz
 +.waanadooo.fr
-+.waaqccyeaeywuoqu.xyz
 +.waardex.com
 +.waauwuuymgakysui.xyz
 +.waawgegeuecgkime.xyz
@@ -119644,7 +119204,6 @@
 +.wafmedia6.com
 +.waframedia5.com
 +.wafvertizing.crazygames.com
-+.wagaaoeksegsweoa.xyz
 +.wagadoo.fr
 +.wagane.com
 +.wagasowawsoyycom.xyz
@@ -119664,7 +119223,6 @@
 +.wagyuykcqmqyygkw.xyz
 +.wahoha.com
 +.wahyufian.zoomshare.com
-+.waigqaoqqsqmcqao.xyz
 +.waigumgwgoucoigs.xyz
 +.waikikitarifa.com
 +.waikoloacanoeclub.com
@@ -119915,7 +119473,6 @@
 +.was-empfehlt-ihr.de
 +.was.livere.me
 +.wasabi.studio
-+.wasaggaoieoaumwy.xyz
 +.wasanasosetto.com
 +.waschbankcraft.org
 +.washbanana.com
@@ -119939,7 +119496,6 @@
 +.waspishoverhear.com
 +.wasqimet.net
 +.wassedfast.com
-+.wassuwwiaysauseu.xyz
 +.wastearguewasteill.com
 +.wastecaleb.com
 +.wasted-nights.com
@@ -120154,7 +119710,6 @@
 +.wckawuawuyqsqwyy.xyz
 +.wckcqsgaqwwaiock.xyz
 +.wckisuaicisoiema.xyz
-+.wckkamkskycwausy.xyz
 +.wckkl.online
 +.wckqokeacqyikyou.xyz
 +.wclimie.top
@@ -120986,7 +120541,6 @@
 +.wgcxsnicqm.duckdns.org
 +.wgdacc.com
 +.wgdythbweu.duckdns.org
-+.wgeccokogoiumsck.xyz
 +.wgeeuiouscsauqmk.xyz
 +.wgemekmuimeuiems.xyz
 +.wgemkqmwasoamykk.xyz
@@ -121002,17 +120556,14 @@
 +.wghjq.cn
 +.wghzz4.gow.englishwoodlands.co.uk
 +.wgiaaeygcmqmgkwg.xyz
-+.wgiaewsoiygoacqe.xyz
 +.wgieiqmmckgeekak.xyz
 +.wginfotechnology.com
 +.wgiwkckomwwkogum.xyz
-+.wgkgaoasmsaaqgcs.xyz
 +.wgkqggkaswummoey.xyz
 +.wglxvkpybhnxhfv.com
 +.wgmauqicyaagasac.xyz
 +.wgmgoeiogeiyyweu.xyz
 +.wgmiwuwwmuwiggwc.xyz
-+.wgmsuswasekuiaim.xyz
 +.wgnmp.com
 +.wgo.mmstat.com
 +.wgona.click
@@ -121037,7 +120588,6 @@
 +.wguowuciigmuqwcc.xyz
 +.wgussqayuqskukoa.xyz
 +.wgvqa.club
-+.wgwmaeskqmwumwkk.xyz
 +.wgwmeqeiycgkecmw.xyz
 +.wgwuhauaqcrx.com
 +.wgwwqwccycccemwu.xyz
@@ -121497,7 +121047,6 @@
 +.wiemwsesaeokmmas.xyz
 +.wienbuzz.com
 +.wiessman.fr
-+.wieyiiycgiuqmwsw.xyz
 +.wifegraduallyclank.com
 +.wifekai.net
 +.wifescamara.click
@@ -122105,7 +121654,6 @@
 +.wmg.112.2o7.net
 +.wmgaaciwakooogiu.xyz
 +.wmgeaakkgkwaagcu.xyz
-+.wmgekikyogcmwooi.xyz
 +.wmgeoqqiwqcmimwu.xyz
 +.wmgiwseigqiaiekq.xyz
 +.wmgkmqayusosqgmo.xyz
@@ -122121,20 +121669,17 @@
 +.wmirk.ru
 +.wmiwyewsimowyigw.xyz
 +.wmkecwskkawiwemc.xyz
-+.wmkkmskgwyksouks.xyz
 +.wmkmqqqemoqygkca.xyz
 +.wmmasoiigkcuiocg.xyz
 +.wmmeckimuicyemcc.xyz
 +.wmmkaysoeoocqwee.xyz
 +.wmmqmuwgcekeqkkk.xyz
-+.wmmqoookummoswwm.xyz
 +.wmmukcacegoeyskk.xyz
 +.wmmusic.co.uk
 +.wmmyiagqkmkesqwi.xyz
 +.wmnnjfe.com
 +.wmober.com
 +.wmoiaeekogscwuew.xyz
-+.wmoiagkwmywqswka.xyz
 +.wmpevgwd.com
 +.wmplace.ru
 +.wmpset.com
@@ -122144,13 +121689,11 @@
 +.wmptengate.com
 +.wmpuem.com
 +.wmpyuyj.cn
-+.wmqackqyiygkmiem.xyz
 +.wmqakymaucakggoa.xyz
 +.wmqcgwcegsomeqas.xyz
 +.wmqiuewwsciaugos.xyz
 +.wmqkiisuukooewmo.xyz
 +.wmqssswmwgscygem.xyz
-+.wmr18v4vi.top
 +.wmrak.com
 +.wms-eu.amazon-adsystem.com
 +.wms-na.amazon-adsystem.com
@@ -122165,7 +121708,6 @@
 +.wmwceukscyscmsiw.xyz
 +.wmwtsb.postal.gameplansession.com
 +.wmwwmbjkqomr.top
-+.wmyieieumgmsgsys.xyz
 +.wmyiqcmyyaiqqoia.xyz
 +.wmyygmkiysceoeoq.xyz
 +.wmzbya.onl.onlinetrees.co.uk
@@ -122209,7 +121751,6 @@
 +.wocgmayquecqyicw.xyz
 +.wocikmckwsmwkies.xyz
 +.wockoyekyageakcg.xyz
-+.wocucoggasiwgygc.xyz
 +.wocwibkfutrj.com
 +.wocwmmiseasieyee.xyz
 +.wodemeitu.com
@@ -122222,7 +121763,6 @@
 +.woeefpxz.com
 +.woefifty.com
 +.woemesgqkgqwsgea.xyz
-+.woemqoeqsqyceoga.xyz
 +.woeqqocewsugeqmq.xyz
 +.woespoke.com
 +.woesqgokkkmksyac.xyz
@@ -122243,7 +121783,6 @@
 +.woimswuswoyuqiwa.xyz
 +.woiqicewykymsgak.xyz
 +.woiwgoieugwqoiws.xyz
-+.woiwqwawiwswcaqq.xyz
 +.woiy.yt
 +.wojan.yt
 +.woke.college
@@ -122385,7 +121924,6 @@
 +.wootwood.com
 +.wooucakicuuoqyuq.xyz
 +.woovoree.net
-+.woowusmsakieasyw.xyz
 +.woozworld.ddns.net
 +.wopold.com
 +.wopsedoaltuwipp.com
@@ -122590,8 +122128,6 @@
 +.wowsecurityspider.duckdns.org
 +.wowshortvideos.com
 +.wowtrue.com
-+.wowyaikwimkcmeum.xyz
-+.woyegaomwacqassq.xyz
 +.woygycsaiqgqqeqg.xyz
 +.woyh.yt
 +.woyuaoqqwmaqqwgs.xyz
@@ -122795,22 +122331,17 @@
 +.wsegwucsiqookeog.xyz
 +.wseykmqyyaywaiuo.xyz
 +.wsftehcmdmrqaoif.com
-+.wsgckoqecwokecma.xyz
 +.wsggaqsgwwewoqqi.xyz
 +.wsggkemgawiyoyag.xyz
 +.wsgwawqymcoukwco.xyz
 +.wsgwc.com
-+.wsgymkcaqcoqkyam.xyz
 +.wshsoft.company
 +.wsi1.surf-town.net
-+.wsicgeayaoueooom.xyz
 +.wsisaoaauqwmuomg.xyz
-+.wsisguiucauisqiq.xyz
 +.wsisoamswskaamio.xyz
 +.wsiwisqmaqagskws.xyz
 +.wsjlbbqemr23.com
 +.wskqqcuacykqowai.xyz
-+.wsksmksamykcomey.xyz
 +.wskyywsiiwgiasmq.xyz
 +.wslits.cn
 +.wsmcdn.audioeye.com
@@ -122833,7 +122364,6 @@
 +.wssimacmseucokgo.xyz
 +.wssocsuqiomesaiu.xyz
 +.wssokeiewqwaemuy.xyz
-+.wsssmygeguagaium.xyz
 +.wsstore.cc
 +.wstat.ozon.ru
 +.wstat.pptv.com
@@ -122913,7 +122443,6 @@
 +.wueqeuamggosskmo.xyz
 +.wueuquagueoseoio.xyz
 +.wueykyqmkuqeeqea.xyz
-+.wugawosmayigyyoq.xyz
 +.wugoughurtaitsu.net
 +.wugroansaghadry.com
 +.wugsuiqgakqyeikm.xyz
@@ -122924,12 +122453,9 @@
 +.wuimosmqcyuwkgyu.xyz
 +.wuimqqsqwmkgqwew.xyz
 +.wuiqiq.xyz
-+.wukaqiusicksuguo.xyz
 +.wukawoasggqmkqoc.xyz
 +.wukkmoeeykekksek.xyz
-+.wuksougoakmkoucu.xyz
 +.wukuwscuwmuoykak.xyz
-+.wumeoqsyyycwwkyo.xyz
 +.wumgswaggcauqiku.xyz
 +.wumii.cn
 +.wumii.com
@@ -122944,9 +122470,7 @@
 +.wuoiwkwuqeeaeiou.xyz
 +.wuokiysmiucoucak.xyz
 +.wuoqasuwacckskak.xyz
-+.wuqcgyewgsyogwqi.xyz
 +.wuqggcwmoscwykwg.xyz
-+.wuqkeycucqumqkqq.xyz
 +.wuqwgeewuakmwisk.xyz
 +.wurfru.hbg.hebdenbridgedental.co.uk
 +.wurqaz.com
@@ -122958,7 +122482,6 @@
 +.wutpostkarte.de
 +.wutseelo.xyz
 +.wuumcmsysgskqemi.xyz
-+.wuusiiukmwcmimyk.xyz
 +.wuwaii.com
 +.wuwguoggmaaqsqkw.xyz
 +.wuwhaigri.xyz
@@ -122968,7 +122491,6 @@
 +.wuxj658w482y.live
 +.wuxlvvcv.com
 +.wuye3d.com
-+.wuyimmaacwoymeym.xyz
 +.wuyomogsuawkwegm.xyz
 +.wuzbhjpvsf.com
 +.wv-law.com
@@ -125231,13 +124753,11 @@
 +.yeniyildirimkargo.com.tr
 +.yeniyolgumruk.com
 +.yeomyogimecqkkiu.xyz
-+.yeoqukioswkaoqwq.xyz
 +.yepads.com
 +.yeptryme.digital
 +.yeqaeqcycsoouogq.xyz
 +.yeqaimgwaqcucwec.xyz
 +.yeqssyukoeqqwqse.xyz
-+.yequgaccqouegcmw.xyz
 +.yequiremuke.com
 +.yerifest.com
 +.yernbiconic.com
@@ -125289,7 +124809,6 @@
 +.yext-pixel.com
 +.yeyccaiagkmgcaiw.xyz
 +.yeykakwqoyckkoas.xyz
-+.yeyukscmumeiywwm.xyz
 +.yeyvibe.com
 +.yezilm.com
 +.yf898.com
@@ -125310,7 +124829,6 @@
 +.yfycy.com
 +.yfygs.cn
 +.yfzpxnb.xyz
-+.ygaiscokoueogsum.xyz
 +.ygasyycmmycaoium.xyz
 +.ygaykwkgyicqswsu.xyz
 +.ygblpbvojzq.com
@@ -125319,11 +124837,9 @@
 +.ygcn.ltd
 +.ygcuoigkiaekyeya.xyz
 +.ygdhmgjly.xyz
-+.ygeaaceeumuoyyyq.xyz
 +.ygeqiky.com
 +.ygeqmkowweyqeqoy.xyz
 +.ygesggekqumiysgk.xyz
-+.ygesoycecmkuwayg.xyz
 +.ygfytomneijjj.com
 +.yggcgeqcqkqomacm.xyz
 +.yggkzs.cn
@@ -125356,14 +124872,12 @@
 +.ygqmwqsoyuekmemu.xyz
 +.ygqqaiaumsiogqke.xyz
 +.ygqqaluei.com
-+.ygqsukkwwesiicqm.xyz
 +.ygquecgmaqsqissy.xyz
 +.ygquuyekcusgsqqu.xyz
 +.ygqyuygqmwmeomao.xyz
 +.ygsgugcmqumcksas.xyz
 +.ygto.com
 +.ygtube.xyz
-+.yguceumeqiicksok.xyz
 +.ygucsucmagwqsqcu.xyz
 +.ygumkuqecwikyiua.xyz
 +.ygumwiciqkcgskkc.xyz
@@ -125373,7 +124887,6 @@
 +.ygwdai.cn
 +.ygwuuquiwcyqsgwo.xyz
 +.ygycmumeiwuigeio.xyz
-+.ygyeimueoqwqggka.xyz
 +.ygyiciygkkkkcmcy.xyz
 +.ygzkedoxwhqlzp.com
 +.yh-metals.com
@@ -125514,7 +125027,6 @@
 +.ykad-gateway.youku.com
 +.ykaemgicmaiickuo.xyz
 +.ykaugyysumuuwcuc.xyz
-+.ykayqswkkkyogsqy.xyz
 +.ykcymqyeeeokkqis.xyz
 +.ykeaoyaycoiamqey.xyz
 +.ykecsicikisgocsy.xyz
@@ -125549,7 +125061,6 @@
 +.ykocmgumsmcmumks.xyz
 +.ykogkacwgiqkogoa.xyz
 +.ykoiyumcagycueqk.xyz
-+.ykosqcgawscymomw.xyz
 +.ykossioswycmgcus.xyz
 +.ykougqswsosuausg.xyz
 +.ykqgckkaweekeceu.xyz
@@ -125559,10 +125070,8 @@
 +.ykqwqkwkiaokmqsg.xyz
 +.ykraeij.com
 +.yksmsewamgkcawsk.xyz
-+.yksoymioissoaseg.xyz
 +.yktj.yzz.cn
 +.ykuasckuceswseig.xyz
-+.ykuasygggamkwmya.xyz
 +.ykuauwymkiguacwq.xyz
 +.ykucomegeqekugqs.xyz
 +.ykuegaycgouommyg.xyz
@@ -125629,11 +125138,9 @@
 +.ymcnsq.xyz
 +.ymcqb.com
 +.ymcsasiaqkuuwmsu.xyz
-+.ymcsweowcksyyumq.xyz
 +.ymcykwamasksqwmi.xyz
 +.ymcywsesssocmisi.xyz
 +.ymdxl.com
-+.ymeecggauqsaaige.xyz
 +.ymegumcuigggggeg.xyz
 +.ymeiqyyqqyaaygie.xyz
 +.ymesskawwowyacqq.xyz
@@ -125671,14 +125178,11 @@
 +.ymuiggyusggsymoi.xyz
 +.ymumysiouiaocgqi.xyz
 +.ymuren.top
-+.ymusmckasqogcwoc.xyz
 +.ymussuekwmqemiye.xyz
 +.ymuwamycugcqquwa.xyz
 +.ymwewweyiiikkkmo.xyz
 +.ymyamkikuwgqaeyy.xyz
-+.ymyamoiwmemqkuoi.xyz
 +.ymycqoyuusiimcoa.xyz
-+.ymygkkggyigeqcqe.xyz
 +.ymyiigsomsmumygu.xyz
 +.ymymyaqewwossgoi.xyz
 +.ymynsckwfxxaj.com
@@ -126069,7 +125573,6 @@
 +.yqakcdg.cn
 +.yqaqeeesgwyucaiq.xyz
 +.yqaqmesakkuuywoy.xyz
-+.yqcakkmwigkaumii.xyz
 +.yqccomkssscuaawc.xyz
 +.yqceweqmaumwwywy.xyz
 +.yqcmugwwkmkmqygm.xyz
@@ -126086,10 +125589,8 @@
 +.yqgjq.com
 +.yqgwicaeacumuiak.xyz
 +.yqieiseiqokiieoc.xyz
-+.yqikkmokeaqucmgu.xyz
 +.yqikuqaioyqqiwmw.xyz
 +.yqiyookgamuoamee.xyz
-+.yqiyuwccgickiwyk.xyz
 +.yqj2uy.shet.eveshamairporttransfers.co.uk
 +.yqjxzw.com
 +.yqkaiucaueikwaae.xyz
@@ -126110,7 +125611,6 @@
 +.yqoeqcmiuaqoccec.xyz
 +.yqogcqkwegswysqi.xyz
 +.yqoiaaywocygyuai.xyz
-+.yqoiewwywqqmoomk.xyz
 +.yqokqoaukkwkmogy.xyz
 +.yqosgwsmgmgwqkws.xyz
 +.yqqgqqcawogaowuw.xyz
@@ -126124,7 +125624,6 @@
 +.yqsygmwgyeswauee.xyz
 +.yqueosqaeacceusq.xyz
 +.yqugeoemkeecewuq.xyz
-+.yquocucuqoywwcsu.xyz
 +.yquoeoqcsuqcisyu.xyz
 +.yqw88.com
 +.yqwgugwweicmwqck.xyz
@@ -126387,7 +125886,6 @@
 +.ywgiikaoaaogkumo.xyz
 +.ywgiqekkosuswmya.xyz
 +.ywgpkjg.com
-+.ywgumgqgkwgmkkwa.xyz
 +.ywicyogeqkwkeeac.xyz
 +.ywigweksaeicswwy.xyz
 +.ywioqqeecwwekquo.xyz
@@ -126396,7 +125894,6 @@
 +.ywkamsiogkycyosy.xyz
 +.ywkguyqqweaiwugi.xyz
 +.ywkiiqywuuogseas.xyz
-+.ywkikcomsysyakqa.xyz
 +.ywkkycokcgaiiywc.xyz
 +.ywkwygkgkgqcouug.xyz
 +.ywkyoqsiwuycoeyo.xyz
@@ -126405,7 +125902,6 @@
 +.ywmcgaiskcgouokc.xyz
 +.ywmgykycywqqewqw.xyz
 +.ywmmqgoguakkuiem.xyz
-+.ywmycgooeqwiyuoc.xyz
 +.ywocskqwccayquwg.xyz
 +.ywoedr62.top
 +.ywowsqcmegskckkm.xyz
@@ -126424,7 +125920,6 @@
 +.ywwm.net
 +.ywwugcqqcakgmwkm.xyz
 +.ywxww.net
-+.ywyawywiuyecuiuu.xyz
 +.ywyeeccwugukcacw.xyz
 +.ywyqmeewycguakww.xyz
 +.ywywwwgwekicgico.xyz
@@ -126469,7 +125964,6 @@
 +.yycgamoiesmeakym.xyz
 +.yycggcwswuagymew.xyz
 +.yyckiqwoquywqikc.xyz
-+.yycqyaeeiyiqiquo.xyz
 +.yydwkkxhjb.com
 +.yyeicmougsyiyqqa.xyz
 +.yyessawqomskqyme.xyz
@@ -126478,7 +125972,6 @@
 +.yygasuemyicekoyq.xyz
 +.yyggueugywgqgygs.xyz
 +.yygiyyeeukyuawwu.xyz
-+.yygugamqkgaemomy.xyz
 +.yygymieowuqkumea.xyz
 +.yyhqch.com
 +.yyhxkq.angell.vantagetennis.com
@@ -126500,14 +125993,11 @@
 +.yyoiqmgqyqykgsim.xyz
 +.yyokqyckqgwqqwgo.xyz
 +.yyoocyoeyaesicus.xyz
-+.yyosasscymwseeuo.xyz
 +.yyoutube.com
 +.yyoutube.fr
-+.yyowoqassomkkess.xyz
 +.yyp17.com
 +.yyqeqqkkkmyoiuyk.xyz
 +.yyqiqwcccwouaiwu.xyz
-+.yyqmiikqggkgkcke.xyz
 +.yyselrqpyu.com
 +.yysgsikoiekeuiee.xyz
 +.yyslate.com
@@ -126515,12 +126005,10 @@
 +.yystzl.cn
 +.yysuaykwgcccsqym.xyz
 +.yysxk.yt
-+.yysyiewwgwukcemc.xyz
 +.yyucwisaesmceyom.xyz
 +.yyuewgegwqqkccay.xyz
 +.yyuewmocyciegwge.xyz
 +.yyuicgaayuseqcas.xyz
-+.yyuogicesqgcmscc.xyz
 +.yyuwimeasaqueeqi.xyz
 +.yyuyyeucumyogucc.xyz
 +.yyw114.cn
@@ -126528,10 +126016,8 @@
 +.yywgeeagmusemeqs.xyz
 +.yywgmuqggsagcmco.xyz
 +.yywkaeawogewuwuy.xyz
-+.yywkykgemiooquuk.xyz
 +.yywmwuyumcyqokyk.xyz
 +.yywoiommkmwyscwq.xyz
-+.yywygswukqcwoocg.xyz
 +.yyyagyakeciucagk.xyz
 +.yyyieeguawmesecm.xyz
 +.yyys.shop
