@@ -1,9 +1,9 @@
-# Version: 202501021310
+# Version: 202501021448
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 123466
-# Last modified: 2025-01-02T13:10:53+0000
+# Entries: 123464
+# Last modified: 2025-01-02T14:48:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -54098,7 +54098,6 @@
 +.hechaocheng.cn
 +.hechter-shoes.fr
 +.hecooltruckgoatvcsok.live
-+.hecopdtreatmentstab.live
 +.hecs.com
 +.hectorfeminine.com
 +.hectorobedient.com
@@ -74077,7 +74076,6 @@
 +.msmbook.com
 +.msmcoa.xyz
 +.msmcompare.com
-+.msmetrics.ws.sonos.com
 +.msmrus.ru
 +.msn.tns-cs.net
 +.msn1.com
