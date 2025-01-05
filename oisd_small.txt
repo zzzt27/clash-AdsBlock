@@ -1,9 +1,9 @@
-# Version: 202501051109
+# Version: 202501051309
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45182
-# Last modified: 2025-01-05T11:09:35+0000
+# Entries: 45181
+# Last modified: 2025-01-05T13:09:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11956,7 +11956,6 @@
 +.coolserving.com
 +.coolstreamsearch.com
 +.coonandeg.xyz
-+.coonouptiphu.xyz
 +.cooperateboneco.com
 +.coopsoaglipoul.net
 +.coordinatereopen.com
