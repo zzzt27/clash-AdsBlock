@@ -1,9 +1,9 @@
-# Version: 202501050508
+# Version: 202501050608
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 123739
-# Last modified: 2025-01-05T05:08:20+0000
+# Entries: 123731
+# Last modified: 2025-01-05T06:08:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13493,7 +13493,6 @@
 +.amendableirritatingprotective.com
 +.amendablepartridge.com
 +.amendablesloppypayslips.com
-+.amende-g0uv.fr
 +.amende-infractions.fr
 +.amende-renouvellement.com
 +.amende-service-public.fr
@@ -73413,7 +73412,6 @@
 +.mon-coffrefort.com
 +.mon-colis-chronopost.fr
 +.mon-colis-colissimo.fr
-+.mon-colis-mondialrelay.fr
 +.mon-colis-mondials.fr
 +.mon-compte-client.fr
 +.mon-compte-connect.fr
@@ -84383,7 +84381,6 @@
 +.piostatgastderd1970.blogspot.be
 +.piostatgastderd1970.blogspot.com
 +.piotyo.xyz
-+.piouscheers.com
 +.piouspoemgoodnight.com
 +.pip-pip-pop.com
 +.pip004.duduskying.tk
@@ -88694,7 +88691,6 @@
 +.qliceadsl.fr
 +.qling.com
 +.qlnkt.com
-+.qloo.net
 +.qloved.cn
 +.qlox.duckdns.org
 +.qlqd5zqefmkcr34a.onion.sh
@@ -96635,7 +96631,6 @@
 +.servicelayer.king.com
 +.serviceleboncoin.fr
 +.servicelnstagram.hstn.me
-+.servicelogin.service.true.continue.passive.green-enjoy.com
 +.servicemac.fr
 +.servicemailprime.com
 +.servicemajoinfo.fr
@@ -105925,7 +105920,6 @@
 +.tdid.m.qq.com
 +.tdjdpyrt.xyz
 +.tdk.petsplace.nl
-+.tdkd00.com
 +.tdko.com
 +.tdkt01.com
 +.tdkt04.com
@@ -116455,7 +116449,6 @@
 +.wangdx.com
 +.wangfenxi.com
 +.wanghejun.cn
-+.wangjianxd.site
 +.wangkuang.net.cn
 +.wangluoruanjian.com
 +.wangmeng.baidu.com
@@ -118650,7 +118643,6 @@
 +.wmsmailer.com
 +.wmtten.com
 +.wmty.yt
-+.wmudsraxwj.xyz
 +.wmw.matchin.jp
 +.wmwtsb.postal.gameplansession.com
 +.wmwwmbjkqomr.top
