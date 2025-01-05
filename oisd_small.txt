@@ -1,9 +1,9 @@
-# Version: 202501051809
+# Version: 202501051956
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45175
-# Last modified: 2025-01-05T18:09:37+0000
+# Entries: 45170
+# Last modified: 2025-01-05T19:56:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1755,7 +1755,6 @@
 +.a.jamni.xyz
 +.a.jerkdevice.tv
 +.a.jivem.site
-+.a.jurnalu.ru
 +.a.kainpopoy.com
 +.a.kambistory.ml
 +.a.kantotin.net
@@ -5821,7 +5820,6 @@
 +.andersondiamonds.com
 +.andevoskolly.click
 +.andiafanweed.top
-+.andlache.com
 +.andmlb.kshwtj.com
 +.andohs.net
 +.andomedia.com
@@ -6300,7 +6298,6 @@
 +.appreciatesaucepan.com
 +.appreciatewedgelearn.com
 +.apprefaculty.pro
-+.approachconducted.com
 +.approachresourceful.com
 +.approbationoutwardconstrue.com
 +.appropriateinaction.com
@@ -15280,7 +15277,6 @@
 +.donkey.jackellis.me
 +.donkey.masteringfinland.com
 +.donkey.mrfrisby.com
-+.donkey.the3rd.place
 +.donkstar2.online
 +.donttbeevils.de
 +.doo6pwib3qngu.cloudfront.net
@@ -44690,7 +44686,6 @@
 +.ypwlctfk.xyz
 +.ypyjyhny.xyz
 +.yqeuu.com
-+.yqghjejqlhbsv.com
 +.yqlzccxn.icu
 +.yqmxfz.com
 +.yr9n47004g.com
