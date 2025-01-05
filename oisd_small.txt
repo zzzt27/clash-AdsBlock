@@ -1,9 +1,9 @@
-# Version: 202501051409
+# Version: 202501051509
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45180
-# Last modified: 2025-01-05T14:09:36+0000
+# Entries: 45183
+# Last modified: 2025-01-05T15:09:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9687,6 +9687,7 @@
 +.cache2.delvenetworks.com
 +.cachegorilla.com
 +.cachuadirked.top
++.cachusrw.com
 +.caclick.baidu.com
 +.cad.youku.com
 +.cadencedisruptgoat.com
@@ -10228,6 +10229,7 @@
 +.cdn.pranmcpkx.com
 +.cdn.ptomw.com
 +.cdn.puyjjq.com
++.cdn.q0losid.com
 +.cdn.qc24h.com
 +.cdn.ravm.tv
 +.cdn.rawqel.com
@@ -11426,6 +11428,7 @@
 +.collect-ap2.attraqt.io
 +.collect-eu.attraqt.io
 +.collect-v6.51.la
++.collect.4gtv.tv
 +.collect.adplogger.no
 +.collect.alipay.com
 +.collect.alphastream.io
@@ -21620,6 +21623,7 @@
 +.iduq.com
 +.idydlesswale.info
 +.idyllteapots.com
++.idyurlio.top
 +.ie3wisa4.com
 +.ie8eamus.com
 +.ieapak.xyz
@@ -21668,6 +21672,7 @@
 +.igoamtaimp.com
 +.igoognou.xyz
 +.igouthoatsord.net
++.igraard.xyz
 +.igrid.org
 +.iguana.cypressridge-pca.org
 +.iguana.delbaoliveira.com
@@ -24741,7 +24746,6 @@
 +.log-hl.snssdk.com
 +.log-ird.outbrain.com
 +.log-lb.skyperfectv.co.jp
-+.log-marketing.jp
 +.log-player.arte.tv
 +.log-pq.shopfully.cloud
 +.log-sg.bytegsdk.com
@@ -34334,7 +34338,6 @@
 +.rtyufo.com
 +.rtyznd.com
 +.rtzbpsy.com
-+.ru-traffic.com
 +.ruamupr.com
 +.rubberdescendantfootprints.com
 +.rubbingwomb.com
@@ -37852,7 +37855,6 @@
 +.subheroalgores.com
 +.subjectamazement.com
 +.subjectedburglar.com
-+.subjectscooter.com
 +.subjectsfaintly.com
 +.subjectslisted.com
 +.submarinefortressacceptable.com
@@ -39004,7 +39006,6 @@
 +.thefenceanddeckguys.com
 +.thefreshposts.com
 +.theglossonline.com
-+.thegoodcaster.com
 +.thehotposts.com
 +.thehugefeed.com
 +.thehugejournal.com
@@ -40991,6 +40992,7 @@
 +.u33011.com
 +.u542.dailycamera.com
 +.u55011.com
++.u57.icu
 +.u578.wlwt.com
 +.u595sebqih.com
 +.u654.santacruzsentinel.com
@@ -41008,6 +41010,7 @@
 +.uads.guru
 +.uafkcvpvvelp.com
 +.uahosnnx.com
++.uaid.vtwenty.com
 +.uaoaig.xyz
 +.uarating.com
 +.uavbgdw.com
@@ -41029,6 +41032,7 @@
 +.uc.xddi.ru
 +.uc9.suinidai.com.cn
 +.ucationinin.info
++.ucavu.live
 +.ucdn.adgebra.co
 +.ucheephu.com
 +.uchmuk.com
@@ -43584,7 +43588,6 @@
 +.worritsmahra.com
 +.worryingonto.com
 +.worshipstubborn.com
-+.worst-zone.pro
 +.worstgoodnightrumble.com
 +.worstideatum.com
 +.worstspotchafe.com
