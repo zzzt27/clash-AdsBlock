@@ -1,9 +1,9 @@
-# Version: 202501051509
+# Version: 202501051609
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45183
-# Last modified: 2025-01-05T15:09:47+0000
+# Entries: 45180
+# Last modified: 2025-01-05T16:09:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1347,7 +1347,6 @@
 +.777seo.com
 +.77886044.xyz
 +.77bd7b02a8.com
-+.77bf977ba9.com
 +.77cdc6d130.com
 +.77e0708efa.com
 +.77sky.de
@@ -23214,7 +23213,6 @@
 +.juftujelsou.net
 +.jugerfowells.com
 +.jugjetwok.com
-+.jugnepha.xyz
 +.juhlkuu.com
 +.juicyads.com
 +.juicyads.me
@@ -40992,7 +40990,6 @@
 +.u33011.com
 +.u542.dailycamera.com
 +.u55011.com
-+.u57.icu
 +.u578.wlwt.com
 +.u595sebqih.com
 +.u654.santacruzsentinel.com
