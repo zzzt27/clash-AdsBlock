@@ -1,9 +1,9 @@
-# Version: 202501050808
+# Version: 202501050909
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 123703
-# Last modified: 2025-01-05T08:08:53+0000
+# Entries: 123694
+# Last modified: 2025-01-05T09:09:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2578,7 +2578,6 @@
 +.3a1.ru
 +.3a17d27bf9.com
 +.3a6b4dc07c.com
-+.3a70c13dec.com
 +.3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 +.3ac1b30a18.com
 +.3ad2ae645c.com
@@ -4500,7 +4499,6 @@
 +.80vn.cn
 +.80xmedia.com
 +.810251.com
-+.81182479.com
 +.8127646-dot-oaao-274308.uc.r.appspot.com
 +.8131.qizhihaotian.cn
 +.81438456aa.com
@@ -24539,7 +24537,6 @@
 +.c-y.jp
 +.c.adx.2345.com
 +.c.adyield.co
-+.c.alimama.com
 +.c.amazinglybrilliant.com.au
 +.c.ar.msn.com
 +.c.at.msn.com
@@ -26676,7 +26673,6 @@
 +.ceeheesa.com
 +.ceekougy.net
 +.ceemoptu.xyz
-+.ceeqgwt.com
 +.ceeqwek-cewek-bookingan-faceb0ok.emochila.com
 +.ceerce.fr
 +.ceesty.com
@@ -56259,7 +56255,6 @@
 +.hulewangsi.cn
 +.hulichuang.mobi
 +.huliot.in
-+.hulkpara.xyz
 +.hulocvvma.com
 +.hulu.112.2o7.net
 +.huludev.112.2o7.net
@@ -99591,7 +99586,6 @@
 +.sniperdz.com
 +.snipersex.com
 +.snipeskins.com
-+.snipjs.answcdn.com
 +.snippet.upviral.com
 +.snippetdata.api.swiftkey.com
 +.snippets.mozilla.com
@@ -118628,7 +118622,6 @@
 +.wneia.iaskhot.com
 +.wniamax.fr
 +.wnjjhksaue.com
-+.wnllmyw.xyz
 +.wnmaoc.xyz
 +.wnmyd8.postal.gameplansession.com
 +.wnojded.icu
@@ -119336,7 +119329,6 @@
 +.ww38.pasypal.de
 +.ww38.paypall.me
 +.ww38.twittrer.com
-+.ww5.co
 +.ww6.payal.me
 +.wwac-besancon.fr
 +.wwads.cn
@@ -123393,7 +123385,6 @@
 +.zorpia.com
 +.zosemien.sk
 +.zoset.net
-+.zotcjeig.xyz
 +.zotero.fr
 +.zougla.gr.com
 +.zougla.news
