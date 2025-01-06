@@ -1,9 +1,9 @@
-# Version: 202501061010
+# Version: 202501061210
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45142
-# Last modified: 2025-01-06T10:10:36+0000
+# Entries: 45133
+# Last modified: 2025-01-06T12:10:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10469,7 +10469,6 @@
 +.cgicounter.oneandone.co.uk
 +.cgicounter.onlinehome.de
 +.cgicounter.puretec.de
-+.cgpdxpjlpdsr.com
 +.cgphqnflgee.com
 +.cgpnhjatakwqnjd.xyz
 +.cgtwpoayhmqi.online
@@ -21427,7 +21426,6 @@
 +.hyistkechaukrguke.com
 +.hyjxtz.com
 +.hymenvapour.com
-+.hype-ads.com
 +.hypemakers.net
 +.hyperadx.com
 +.hyperbanner.net
@@ -22567,7 +22565,6 @@
 +.itwoheflewround.info
 +.ityonatallco.info
 +.itzekromom.com
-+.iuc1.online
 +.iudleaky.shop
 +.iuhrglyo.xyz
 +.iummqg.xyz
@@ -31705,7 +31702,6 @@
 +.prvc.io
 +.prx.wayfair.com
 +.prxy.online
-+.pryrhoohs.site
 +.przbzr.xyz
 +.ps1.reallifecam.to
 +.ps2.camcaps.to
@@ -38665,7 +38661,6 @@
 +.tdspa.top
 +.tdyygcic.xyz
 +.tdzqoewz.icu
-+.teachingcosmetic.com
 +.teachingopt.com
 +.teachingrespectfully.com
 +.teachingwere.com
@@ -39080,7 +39075,6 @@
 +.thirteenvolunteerpit.com
 +.thirty-good.lugg.com
 +.thirtycabook.com
-+.thirtyeducate.com
 +.thiscdn.com
 +.thisiswaldo.com
 +.thisisyourprize.site
@@ -41587,7 +41581,6 @@
 +.usxabwaiinnu.com
 +.ut.gamersyde.com
 +.ut13r.online
-+.ut13r.space
 +.utarget.co.uk
 +.utarget.pro
 +.utecsfi.com
@@ -44122,7 +44115,6 @@
 +.xml.expialidosius.com
 +.xml.expplatdirect.com
 +.xml.finevisit.com
-+.xml.flyerblaze.com
 +.xml.fstsrv10.com
 +.xml.fstsrv11.com
 +.xml.fstsrv14.com
@@ -44524,7 +44516,6 @@
 +.ykad-data.youku.com
 +.ykgtbakyb.com
 +.ykkhihg.cn
-+.ykraeij.com
 +.yktj.yzz.cn
 +.ykwfnicxmntel.com
 +.ykwykw.xyz
