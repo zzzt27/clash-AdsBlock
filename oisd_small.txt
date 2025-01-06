@@ -1,9 +1,9 @@
-# Version: 202501052209
+# Version: 202501060008
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45163
-# Last modified: 2025-01-05T22:09:51+0000
+# Entries: 45160
+# Last modified: 2025-01-06T00:08:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8435,7 +8435,6 @@
 +.bijiangqing.com
 +.bikhdeicide.click
 +.bikrurda.net
-+.bilateralgodmother.com
 +.bilingualwalking.com
 +.bilkersteds.com
 +.billboard.cz
@@ -28481,7 +28480,6 @@
 +.observativus.com
 +.observe-nexus.pointandplace.com
 +.observedbrainpowerweb.com
-+.observedlily.com
 +.observer.ip-label.net
 +.observer3452.fun
 +.observer384.fun
@@ -36602,7 +36600,6 @@
 +.sparrow.workingincontent.com
 +.sparrowaboveaveragedefence.com
 +.sparrowfencingnumerous.com
-+.sparsgroff.com
 +.spasmodictripscontemplate.com
 +.spasmusbarble.top
 +.spathalbarmie.com
