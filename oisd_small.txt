@@ -1,9 +1,9 @@
-# Version: 202501061210
+# Version: 202501061310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45133
-# Last modified: 2025-01-06T12:10:46+0000
+# Entries: 45130
+# Last modified: 2025-01-06T13:10:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9078,7 +9078,6 @@
 +.brecaqogx.com
 +.brechimys.shop
 +.brechtembrowd.com
-+.breechesbottomelf.com
 +.breechessteroidconsiderable.com
 +.breedergig.com
 +.breederpainlesslake.com
@@ -36600,7 +36599,6 @@
 +.special-offers.online
 +.special-promotions.online
 +.specialisthuge.com
-+.specialistinsensitive.com
 +.specialistrequirement.com
 +.specialitypassagesfamous.com
 +.specially4u.net
@@ -43809,7 +43807,6 @@
 +.xcowuheclvwryh.com
 +.xcuffrzha.com
 +.xcypgd.icu
-+.xder1.fun
 +.xdfhidrk.xyz
 +.xdfrdcuiug.com
 +.xdgelyt.com
