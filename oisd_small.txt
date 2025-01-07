@@ -1,9 +1,9 @@
-# Version: 202501071710
+# Version: 202501071910
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44574
-# Last modified: 2025-01-07T17:10:41+0000
+# Entries: 44570
+# Last modified: 2025-01-07T19:10:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -911,7 +911,6 @@
 +.4311007186.a098a4ad81.com
 +.433bcaa83b.com
 +.43681e8af5.dde2488558.com
-+.43a.icu
 +.43e1628a5f.com
 +.43ors1osh.com
 +.43sjmq3hg.com
@@ -4217,7 +4216,6 @@
 +.advtise.net
 +.advtrkone.com
 +.advx.esprimo.com
-+.advymjwwsuhs.com
 +.advzone.ioe.vn
 +.adw.sapo.pt
 +.adwalte.info
@@ -19183,7 +19181,6 @@
 +.gleeglis.net
 +.gleegloo.net
 +.gleejoad.net
-+.gleeltukaweetho.xyz
 +.gleemahortus.com
 +.gleemsomto.com
 +.gleemsub.com
@@ -40247,7 +40244,6 @@
 +.tunatastesentertained.com
 +.tunefatigueclarify.com
 +.tunein.adswizz.com
-+.tuneshave.com
 +.tunion-api.m.taobao.com
 +.tunnedlehua.com
 +.tunnelbuilder.top
