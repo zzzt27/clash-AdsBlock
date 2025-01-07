@@ -1,9 +1,9 @@
-# Version: 202501070408
+# Version: 202501070508
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45126
-# Last modified: 2025-01-07T04:08:38+0000
+# Entries: 45125
+# Last modified: 2025-01-07T05:08:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10838,7 +10838,6 @@
 +.circuitingratitude.com
 +.circulationnauseagrandeur.com
 +.circumstanceshurdleflatter.com
-+.circumstantialplatoon.com
 +.circusinjunctionarrangement.com
 +.cirrateremord.com
 +.cirtaisteept.net
