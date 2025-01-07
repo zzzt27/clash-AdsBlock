@@ -1,9 +1,9 @@
-# Version: 202501062308
+# Version: 202501070007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 123629
-# Last modified: 2025-01-06T23:08:56+0000
+# Entries: 123618
+# Last modified: 2025-01-07T00:07:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6077,7 +6077,6 @@
 +.abnad.net
 +.abncbp.com
 +.abnegateexcavator.com
-+.abnegationbanquet.com
 +.abnegationdenoteimprobable.com
 +.abnegationsemicirclereproduce.com
 +.abnehmen-info.de
@@ -11168,7 +11167,6 @@
 +.adx.mocoplex.com
 +.adx.opera.com
 +.adx.phunuadong.vn
-+.adx.rrt365.com
 +.adx.sogaha.cn
 +.adx.starnewsonline.com
 +.adx.theledger.com
@@ -13013,7 +13011,6 @@
 +.allskillon.com
 +.allsports4free.live
 +.allsports4free.online
-+.allsportslivenow.com
 +.allsprang.com
 +.allstarfestival.com
 +.allstarmediagroup.com
@@ -16168,7 +16165,6 @@
 +.appserver-ap.com
 +.appservice.sytes.net
 +.appsfire.com
-+.appsfire.net
 +.appsgamecheats.com
 +.appsget.monster
 +.appsgeyser.com
@@ -39071,7 +39067,6 @@
 +.driverdetails.com
 +.driverfinderpro.com
 +.driverightday.com
-+.driverinstaller.net
 +.driverpaksolution.ru
 +.drivers.com
 +.drivers4you.com
@@ -46305,7 +46300,6 @@
 +.floatingdrake.com
 +.flobenbontar.patrimoniosoberano.world
 +.flobenpal.veritasinvest.io
-+.flocait.com
 +.flocchem.com.pe
 +.floccischlump.com
 +.flockexecute.com
@@ -51697,7 +51691,6 @@
 +.grainshen.com
 +.grairdou.com
 +.grairgoo.com
-+.grairsoa.com
 +.grairtoorgey.com
 +.graitaulrocm.net
 +.graithos.net
@@ -57085,7 +57078,6 @@
 +.idydlesswale.info
 +.idyllicjazz.com
 +.idyllteapots.com
-+.idyurlio.top
 +.ie-aruba.blogspot.com
 +.ie-search.com
 +.ie.5500w.com
@@ -107324,7 +107316,6 @@
 +.thivelunliken.com
 +.thizecmeeshumum.net
 +.thj.astrakhan.ru
-+.thjwxz.xyz
 +.thko.com
 +.thlnbzi.cn
 +.thmfw.com
@@ -121706,7 +121697,6 @@
 +.yknlow.com
 +.yknlox.com
 +.yktj.yzz.cn
-+.ykwfnicxmntel.com
 +.ykwykw.xyz
 +.ykxafzdu.xyz
 +.yl-0-wf.com
@@ -122902,7 +122892,6 @@
 +.zgunion.cn
 +.zgwvcv.icu
 +.zgxuw.lihong.ltd
-+.zgyhw.mobi
 +.zgzhengke.com
 +.zgzmei.com
 +.zgzqfw.com
