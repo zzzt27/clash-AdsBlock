@@ -1,9 +1,9 @@
-# Version: 202501070609
+# Version: 202501070809
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45124
-# Last modified: 2025-01-07T06:09:14+0000
+# Entries: 45111
+# Last modified: 2025-01-07T08:09:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2884,7 +2884,6 @@
 +.adcrax.com
 +.adcron.com
 +.adcs.myappsget.com
-+.adcy.net
 +.adcycle.com
 +.add.newmedia.cz
 +.addapptr.com
@@ -11299,7 +11298,6 @@
 +.cnnected.org
 +.cnomy.com
 +.cnstats.cdev.eu
-+.cnt.3dmy.net
 +.cnt.affiliate.fc2.com
 +.cnt.alawar.com
 +.cnt.iol.it
@@ -14006,7 +14004,6 @@
 +.daptault.com
 +.darcycapacious.com
 +.darcyjellynobles.com
-+.dareka4te.shop
 +.darghinruskin.com
 +.daringsupport.com
 +.dariolunus.com
@@ -15224,7 +15221,6 @@
 +.doigtangles.click
 +.doinntz6jwzoh.cloudfront.net
 +.dojx47ab4dyxi.cloudfront.net
-+.dokaboka.com
 +.dokseptaufa.com
 +.dokzl8xhmt1x7.cloudfront.net
 +.dolarkurum.com
@@ -18015,7 +18011,6 @@
 +.fishermanslush.com
 +.fishingtouching.com
 +.fishmenkabbala.com
-+.fishybackgroundmarried.com
 +.fishyshortdeed.com
 +.fistevasionjoint.com
 +.fistofzeus.com
@@ -18044,7 +18039,6 @@
 +.fjqcqdr.icu
 +.fkbkun.com
 +.fkbwtoopwg.com
-+.fkcubmmpn.xyz
 +.fkehg.com
 +.fkesfg.com
 +.fkjdiefz.icu
@@ -20273,7 +20267,6 @@
 +.gypsitenevi.com
 +.gypsouspatron.com
 +.gypsyrysmarter.com
-+.gypufahuyhov.xyz
 +.gytlingpaint.top
 +.gyunce.xyz
 +.gyxkmpf.com
@@ -20787,7 +20780,6 @@
 +.hgthpj.xyz
 +.hgtokjbpw.com
 +.hgub2polye.com
-+.hgx1.online
 +.hh.jiankang.com
 +.hh9uc8r3.xyz
 +.hhbypdoecp.com
@@ -24030,7 +24022,6 @@
 +.langoumachu.com
 +.langretsahibah.com
 +.languidintentgained.com
-+.languishnervousroe.com
 +.lanknewcomer.com
 +.lanky-bar.com
 +.lanopoon.net
@@ -24452,7 +24443,6 @@
 +.lindasmensagens.online
 +.line1-log.biligame.net
 +.linearsubdued.com
-+.lines-metric.h16.ru
 +.lines.superkot.com
 +.lingamretene.com
 +.lingerdisquietcute.com
@@ -30018,7 +30008,6 @@
 +.peacefullyclenchnoun.com
 +.peach-analytics.vercel.app
 +.peachesevaporateearlap.com
-+.peachessummoned.com
 +.peachytopless.com
 +.peachywaspish.com
 +.peafowl.projectstrackt.dev
@@ -32441,7 +32430,6 @@
 +.qoaaa.com
 +.qobuz.surveysparrow.com
 +.qogearh.com
-+.qokira.uno
 +.qonbibff.icu
 +.qoqv.com
 +.qorbnalwihvhbp.com
@@ -33296,7 +33284,6 @@
 +.reluctancefleck.com
 +.reluctanceghastlysquid.com
 +.reluctanceleatheroptional.com
-+.reluctantconfuse.com
 +.reluctantlycopper.com
 +.reluctantlyjackpot.com
 +.reluctantlysolve.com
