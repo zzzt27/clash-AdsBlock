@@ -1,9 +1,9 @@
-# Version: 202501091609
+# Version: 202501091810
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44420
-# Last modified: 2025-01-09T16:09:46+0000
+# Entries: 44421
+# Last modified: 2025-01-09T18:10:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -495,7 +495,6 @@
 +.23f19b241e.f7050945a4.com
 +.23hssicm9.de
 +.24-sportnews.com
-+.24-xxx.biz
 +.24.eu
 +.24052107.live
 +.240aca2365.com
@@ -5346,6 +5345,7 @@
 +.analytics-events.inshorts.com
 +.analytics-gateway.delta.dp.lightricks.com
 +.analytics-ingestion-production.tubitv.com
++.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 +.analytics-ingestion.production-public.tubi.io
 +.analytics-ingress-global.bitmovin.com
 +.analytics-ingress.bitmovin.com
@@ -10953,7 +10953,6 @@
 +.clickwhitecode.com
 +.clickwinks.com
 +.clickwork7secure.com
-+.clickxchange.com
 +.clickz.com
 +.clicmanager.fr
 +.clicvortex.com
@@ -10971,6 +10970,9 @@
 +.client2009x25.xcdn.ovh
 +.clientinfo.phimmoizz.net
 +.clientlog.midomi.com
++.clientlog3.music.163.com
++.clientlogdep.music.163.com
++.clientlogsf.music.163.com
 +.clientmetrics-augmentum.kik.com
 +.clientmetrics-pa.googleapis.com
 +.clientmetrics.kik.com
@@ -11326,6 +11328,7 @@
 +.collector.statowl.com
 +.collector.superwall.me
 +.collector.szlcsc.com
++.collector.t-idr.com
 +.collector.taoxh.life
 +.collector.vhx.tv
 +.collector.wawlabs.com
@@ -13832,6 +13835,7 @@
 +.data.embeddables.com
 +.data.gosquared.com
 +.data.kameleoon.io
++.data.kuiniuca.com
 +.data.minute.ly
 +.data.mistat.india.xiaomi.com
 +.data.mistat.rus.xiaomi.com
@@ -15570,6 +15574,7 @@
 +.dynamicadx.com
 +.dynamicjsconfig.com
 +.dynamitedata.com
++.dynatrace.att.com
 +.dynpaa.com
 +.dynspt.com
 +.dynsrvbaa.com
@@ -16439,6 +16444,7 @@
 +.eravesofefinegoldf.com
 +.erbiscusysexbu.info
 +.ercoeteasacom.com
++.ercoils.com
 +.erdeallyighab.com
 +.erdecisesgeorg.info
 +.erebor.douban.com
@@ -22573,7 +22579,6 @@
 +.jikicotho.pro
 +.jikzudkkispi.com
 +.jili9.io
-+.jillbuildertuck.com
 +.jillsclickcorner.com
 +.jimtighoafoorg.net
 +.jingalbundles.com
@@ -23729,7 +23734,6 @@
 +.laughedaffront.com
 +.laughedrevealedpears.com
 +.laughingrecordinggossipy.com
-+.laughteroccasionallywarp.com
 +.laugoust.com
 +.lauhefoo.com
 +.lauhoosh.net
@@ -27188,6 +27192,7 @@
 +.netadclick.com
 +.netaffiliation.com
 +.netagent.cz
++.netapm.music.163.com
 +.netavenir.com
 +.netclickstats.com
 +.netcommunities.com
@@ -28702,7 +28707,6 @@
 +.orca.getnodo.com
 +.orca.overbold.co
 +.orccpeaodwi.com
-+.orcinhyi.com
 +.orcjagpox.com
 +.orclrul.com
 +.orcnakokt.com
@@ -31476,6 +31480,7 @@
 +.publicidad.elmundo.es
 +.publicidad.net
 +.publiclyphasecategory.com
++.publictelemetry.tophat.com
 +.publicunloadbags.com
 +.publicus.com
 +.publipagos.com
@@ -35706,7 +35711,6 @@
 +.sockwardrobe.com
 +.sodallay.com
 +.sodamash.com
-+.sodaprostitutetar.com
 +.sodhef.com
 +.sodiumcupboard.com
 +.sodiumendlesslyhandsome.com
@@ -36074,7 +36078,6 @@
 +.sperans-beactor.com
 +.spermwhale.rowansimpson.com
 +.spermwhale.thankbox.co
-+.speysiykiklnn.com
 +.spezialreporte.de
 +.spheredkapas.com
 +.spice-sugar.net
@@ -41234,7 +41237,6 @@
 +.velloxfire.pro
 +.velocecdn.com
 +.velocitycdn.com
-+.velocitypaperwork.com
 +.velti.com
 +.velvetneutralunnatural.com
 +.vemflutuartambem.com
@@ -42734,7 +42736,6 @@
 +.wmwwmbjkqomr.top
 +.wneia.iaskhot.com
 +.wnjjhksaue.com
-+.wnojded.icu
 +.wnrusisedprivatedq.info
 +.wnrvrwabnxa.com
 +.wnt-s0me-push.net
@@ -43614,7 +43615,6 @@
 +.xwvduxeiuv.com
 +.xwzbpkku-i.site
 +.xx-umomfzqik.today
-+.xxaks01081sspao.xyz
 +.xxaks01091sspao.xyz
 +.xxccdshj.com
 +.xxdfexbwv.top
@@ -43720,6 +43720,7 @@
 +.ydsdisuses.shop
 +.ydttxdqe.xyz
 +.ydwrkwwqytj.xyz
++.ye.dun.163yun.com
 +.ye185hcamw.com
 +.yeabble.com
 +.yeah1publishing.com
