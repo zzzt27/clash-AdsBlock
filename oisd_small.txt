@@ -1,9 +1,9 @@
-# Version: 202501091409
+# Version: 202501091609
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44431
-# Last modified: 2025-01-09T14:09:47+0000
+# Entries: 44420
+# Last modified: 2025-01-09T16:09:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -359,7 +359,6 @@
 +.1cctcm1gq.de
 +.1ckbfk08k.de
 +.1clic1don.fr
-+.1d0ec98437.com
 +.1d36243653.ef1dd1776c.com
 +.1d60ed7be0.c0699fd01b.com
 +.1db10dd33b.com
@@ -1356,7 +1355,6 @@
 +.78a0682747.51909ec7fa.com
 +.78b78ff8.xyz
 +.78bk5iji.de
-+.790475b914.com
 +.79180284.xyz
 +.7944bcc817.com
 +.79893962.xyz
@@ -1468,7 +1466,6 @@
 +.879.thebussybandit.com
 +.87f81e4343.d7ea5cbf87.com
 +.88129513.xyz
-+.882f53d76a.com
 +.88362zubo95838.com
 +.884de19f2b.com
 +.88545539.xyz
@@ -2185,7 +2182,6 @@
 +.absolutelytowns.com
 +.absolutepropositionmayonnaise.com
 +.absoluteroute.com
-+.absolutioncompulsivenoisy.com
 +.absolvedoggy.com
 +.absolveparticlesanti.com
 +.absolvewednesday.com
@@ -3120,7 +3116,6 @@
 +.admission.net
 +.admissiondemeanourusage.com
 +.admissionreceipt.com
-+.admitboutiqueparagraph.com
 +.admithelperbusy.com
 +.admitpursued.com
 +.admixer.co.kr
@@ -5277,7 +5272,6 @@
 +.amzargfaht.com
 +.amzbtuolwp.com
 +.amzrjyzjolzlv.top
-+.an.batmobi.net
 +.an.dongphim.net
 +.an.facebook.com
 +.an.reflektion.com
@@ -10513,7 +10507,6 @@
 +.chicoamseque.net
 +.chidir.com
 +.chief-cry.pro
-+.chiefegg.pro
 +.chieflyquantity.com
 +.chiglees.com
 +.chijauqybb.xyz
@@ -11040,7 +11033,6 @@
 +.clogcheapen.com
 +.clogstepfatherresource.com
 +.clonesmesopic.com
-+.clonkfanion.com
 +.closeattended.com
 +.closedpersonify.com
 +.closedsoonest.click
@@ -11699,7 +11691,6 @@
 +.contents-tracking.beop.io
 +.contentshamper.com
 +.context.hotline.ua
-+.contextualyield.com
 +.contextweb.com
 +.contineljs.com
 +.continentalaileendepict.com
@@ -12010,7 +12001,6 @@
 +.cpaway.com
 +.cpays.com
 +.cpcmart.com
-+.cpcstdploqqh.com
 +.cpcvabi.com
 +.cpdronhu.xyz
 +.cpkxahje.xyz
@@ -22569,7 +22559,6 @@
 +.jiaoben.ganji.cn
 +.jiaoben.jucanw.com
 +.jiaopei.com
-+.jibqbfftwup.xyz
 +.jicamadoless.com
 +.jicamasosteal.shop
 +.jiclzori.com
@@ -34326,6 +34315,7 @@
 +.saylnk.com
 +.saymedia.com
 +.saymustif.live
++.sb-hip-happy.ourservice.jp
 +.sb-stat1.com
 +.sb.scorecard.research.com
 +.sb89347.com
@@ -37766,7 +37756,6 @@
 +.ta3nfsordd.com
 +.taaqhr6axacd2um.com
 +.tabekeegnoo.com
-+.tabici.com
 +.tableinactionflint.com
 +.tablerquods.shop
 +.tablesgrace.com
