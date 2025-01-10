@@ -1,9 +1,9 @@
-# Version: 202501100007
+# Version: 202501100208
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44395
-# Last modified: 2025-01-10T00:07:30+0000
+# Entries: 44377
+# Last modified: 2025-01-10T02:08:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -437,7 +437,6 @@
 +.1talking.net
 +.1tds26q95.de
 +.1to1.bbva.com
-+.1tp.icu
 +.1ts18.top
 +.1ts19.top
 +.1ttv.net
@@ -1105,7 +1104,6 @@
 +.5cf8606941.com
 +.5clo0xmbf.com
 +.5d62055f0a.c1b891f5ff.com
-+.5da32c1419.com
 +.5dbc361cf4.d6774f016a.com
 +.5deca62174.9dfbbf28ec.com
 +.5e1b8e9d68.com
@@ -1250,7 +1248,6 @@
 +.6ce02869b9.com
 +.6cf0e7801e8cd.clicknplay.to
 +.6d39809b4a.com
-+.6d3f3332fd.com
 +.6de72955d8.com
 +.6e.co.kr
 +.6e17040111.aa12b32ecc.com
@@ -4205,7 +4202,6 @@
 +.adwhirl.com
 +.adwile.com
 +.adwin.geenstijl.nl
-+.adwitserver.com
 +.adworldnetwork.com
 +.adworx.be
 +.adworx.nl
@@ -7472,7 +7468,6 @@
 +.banner.5giay.vn
 +.banner.ambercoastcasino.com
 +.banner.appsflyer.com
-+.banner.blogranking.net
 +.banner.buempliz-online.ch
 +.banner.click-tt.de
 +.banner.cotedazurpalace.com
@@ -7745,7 +7740,6 @@
 +.bcfads.com
 +.bchina-1.xsfaya.com
 +.bclikeqt.com
-+.bclimiv.top
 +.bcloudhost.com
 +.bcprm.com
 +.bd-china-1.appmobile.cn
@@ -14273,7 +14267,6 @@
 +.dependpinch.com
 +.dephasevittate.com
 +.depictdeservedtwins.com
-+.depleteappetizinguniverse.com
 +.deplorablefaintest.com
 +.deploremythsound.com
 +.deponerdidym.top
@@ -17391,7 +17384,6 @@
 +.feedyourtralala.com
 +.feefoamo.net
 +.feegozoa.com
-+.feegreep.xyz
 +.feelfereetoc.top
 +.feelingsmixed.com
 +.feelingssignedforgot.com
@@ -23058,7 +23050,6 @@
 +.kejasosy.com
 +.kekrouwi.xyz
 +.kektds.com
-+.kekw.website
 +.kelekkraits.com
 +.kelopronto.com
 +.kelpiesregna.com
@@ -24344,7 +24335,6 @@
 +.loftknowing.com
 +.loftsbaacad.com
 +.loftyeliteseparate.com
-+.lofvmrnpbxqbh.com
 +.log-ana.h3z.jp
 +.log-api.cli.im
 +.log-api.pangolin-sdk-toutiao.com
@@ -26826,7 +26816,6 @@
 +.myopiacreeper.com
 +.myornamenti.com
 +.mypagerank.net
-+.mypagerank.ru
 +.mypopadpro.com
 +.mypopads.com
 +.mypowermall.com
@@ -32655,7 +32644,6 @@
 +.refpaxfbvjlw.top
 +.refraingene.com
 +.refraintupaiid.com
-+.refreshmentwaltzimmoderate.com
 +.refrigeratecommit.com
 +.refrigeratemaimbrunette.com
 +.refugedcuber.com
@@ -34495,7 +34483,6 @@
 +.sdrive.skoda-auto.com
 +.sdtagging.azureedge.net
 +.sdxtxvq.com
-+.sdyurlib.top
 +.seaboblit.com
 +.seafoodclickwaited.com
 +.seafooddiscouragelavishness.com
@@ -36945,7 +36932,6 @@
 +.stg-data-collector.playbuzz.com
 +.stgowan.com
 +.stherewerealo.org
-+.sthgqhb.com
 +.sthoutte.com
 +.sticalsdebaticalfe.info
 +.stichaur.net
@@ -37330,7 +37316,6 @@
 +.superiorickyfreshen.com
 +.superiorityfriction.com
 +.superiorityroundinhale.com
-+.superiorsufferorb.com
 +.superjj.online
 +.superlativegland.com
 +.supermarketrestaurant.com
@@ -37923,7 +37908,6 @@
 +.tappx.com
 +.taproximo.com
 +.taprtopcldfa.co
-+.taprtopcldfard.co
 +.taprtopcldfb.co
 +.tapsell.ir
 +.tapsense.com
@@ -41392,7 +41376,6 @@
 +.vietnamdaily-log.kienthuc.net.vn
 +.vietpub.com
 +.vieva.xyz
-+.view-flix.com
 +.view.fujitv.co.jp
 +.view4cash.de
 +.viewablemedia.net
@@ -43683,7 +43666,6 @@
 +.ycwuoq.xyz
 +.ydagjjgqxmrlqjj.xyz
 +.ydazjxso.xyz
-+.ydccmwrpnfy.com
 +.yddjmpjo.xyz
 +.ydenknowled.com
 +.ydevelelasticals.info
