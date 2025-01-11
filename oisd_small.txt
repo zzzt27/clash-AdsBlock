@@ -1,9 +1,9 @@
-# Version: 202501102348
+# Version: 202501110108
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44450
-# Last modified: 2025-01-10T23:48:59+0000
+# Entries: 44449
+# Last modified: 2025-01-11T01:08:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13423,7 +13423,6 @@
 +.d3dpet1g0ty5ed.cloudfront.net
 +.d3dq1nh1l1pzqy.cloudfront.net
 +.d3ec0pbimicc4r.cloudfront.net
-+.d3edbb478c.com
 +.d3edizycpjjo07.cloudfront.net
 +.d3efeah7vk80fy.cloudfront.net
 +.d3ej838ds58re9.cloudfront.net
