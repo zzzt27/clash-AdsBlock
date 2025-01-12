@@ -1,9 +1,9 @@
-# Version: 202501121915
+# Version: 202501122014
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 201842
-# Last modified: 2025-01-12T19:15:30+0000
+# Entries: 201843
+# Last modified: 2025-01-12T20:14:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -200537,6 +200537,7 @@
 +.yourcunt.com
 +.yourdaddygirl.com
 +.yourdailyamateurs.blogspot.com
++.yourdailygirls.com
 +.yourdailypornvdeos.com
 +.yourdailypornvideos.com
 +.yourdailypornvideos.live
