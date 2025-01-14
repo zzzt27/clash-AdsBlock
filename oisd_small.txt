@@ -1,9 +1,9 @@
-# Version: 202501140809
+# Version: 202501141409
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44596
-# Last modified: 2025-01-14T08:09:32+0000
+# Entries: 44610
+# Last modified: 2025-01-14T14:09:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1023,6 +1023,7 @@
 +.4ureyesonly.com
 +.4webmasters.com
 +.4wheel.de
++.4wm.fun
 +.4wnet.com
 +.4wnetwork.com
 +.4wu3gf.cn
@@ -1430,6 +1431,7 @@
 +.7wrxo2xh.iriscreative.co
 +.7xi9g1.com1.z0.glb.clouddn.com
 +.7xsf3h.com1.z0.glb.clouddn.com
++.7zb.fun
 +.80133082.xyz
 +.801b52ee68.9da095044f.com
 +.80d42b11c9.com
@@ -9008,6 +9010,7 @@
 +.breedtagask.com
 +.breezefraudulent.com
 +.brelawunbung.click
++.brephras.com
 +.brevityeconomy.com
 +.brewailmentsubstance.com
 +.brewingjoie.com
@@ -9593,6 +9596,7 @@
 +.cabnnr.com
 +.cabombaskopets.life
 +.cac6042d62.21d9d2f09e.com
++.cache.betweendigital.com
 +.cache.picxxxhub.com
 +.cache2.delvenetworks.com
 +.cachegorilla.com
@@ -16565,6 +16569,7 @@
 +.esjvrfq.com
 +.eskilhavena.info
 +.eskimi.com
++.eskux.xyz
 +.esmystemgthro.org
 +.esnlynotquiteso.com
 +.especiallyspawn.com
@@ -18963,6 +18968,7 @@
 +.getxmlisi.com
 +.getyourbitco.in
 +.getyoursoft.ru
++.geuba.xyz
 +.geumhuzzy.com
 +.gevmrjok.com
 +.gfdfgfgr.cn
@@ -21951,6 +21957,7 @@
 +.installer.betterinstaller.com
 +.installfree.pro
 +.installnow.pro
++.installpack.net
 +.installscolumnist.com
 +.installslocalweep.com
 +.installtracker.com
@@ -23122,6 +23129,7 @@
 +.kdjdpyrt.xyz
 +.kdlktswsqhpd.com
 +.kdmjvnk.com
++.kdomsid.top
 +.kdopag.xyz
 +.kdpic.pchome.com.tw
 +.kdxhsaaealyadm.com
@@ -23594,6 +23602,7 @@
 +.ky595images.com
 +.kyaywy.xyz
 +.kyccmn.com
++.kychq.cn
 +.kyemwo.xyz
 +.kymahuxv.xyz
 +.kymirasite.pro
@@ -23869,6 +23878,7 @@
 +.layingracistbrainless.com
 +.laylmty.com
 +.lazyrelentless.com
++.lazzrv.icu
 +.lb.secureweb24.net
 +.lb.usemaxserver.de
 +.lbfuvlyp.icu
@@ -32305,6 +32315,7 @@
 +.r255.wmtw.com
 +.r2d2.aotter.net
 +.r451.jamanetwork.com
++.r5.dir.bg
 +.r541.houstonchronicle.com
 +.r566.timescall.com
 +.r6.galya.ru
@@ -41785,6 +41796,7 @@
 +.vm8lm1vp.xyz
 +.vmap.v.ad-generation.jp
 +.vmauw.space
++.vmcnl.xyz
 +.vmkoqak.com
 +.vmmcdn.com
 +.vmring.cc
@@ -43129,6 +43141,7 @@
 +.wumufama.com
 +.wunishamjch.com
 +.wurqaz.com
++.wusfa.xyz
 +.wussucko.com
 +.wutseelo.xyz
 +.wuwhaigri.xyz
@@ -43683,6 +43696,7 @@
 +.xmlwiz.com
 +.xmm.wxc.cc
 +.xmsflzmygw.com
++.xmvxo.xyz
 +.xn--2ss830adjbqy7h.xn--fiqs8s
 +.xn--u1aaw.xn--p1ai
 +.xn--w9q675dm1p7em.net
