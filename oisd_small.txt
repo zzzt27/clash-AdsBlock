@@ -1,9 +1,9 @@
-# Version: 202501140138
+# Version: 202501140809
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44587
-# Last modified: 2025-01-14T01:38:19+0000
+# Entries: 44596
+# Last modified: 2025-01-14T08:09:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7887,6 +7887,7 @@
 +.beakerweedjazz.com
 +.beakexcursion.com
 +.beakobjectcaliber.com
++.beakpee.com
 +.bealafulup.com
 +.beam-tracker.telex.hu
 +.beam.mjhlifesciences.com
@@ -9419,6 +9420,7 @@
 +.byfoongusor.com
 +.bygliscortor.com
 +.bygoingawning.shop
++.bygonearabin.top
 +.bygoneskalpas.shop
 +.bygoneudderpension.com
 +.bygsworlowe.info
@@ -19137,6 +19139,7 @@
 +.glaidalr.net
 +.glaidekeemp.net
 +.glaidipt.net
++.glaignatsensah.xyz
 +.glaikrolsoa.com
 +.glaimpie.xyz
 +.glaisseexoar.net
@@ -22902,6 +22905,7 @@
 +.jswww.net
 +.jsxwfb.xyz
 +.jsyefc.com
++.jtegqwmjfxu.site
 +.jtezxmpb.xyz
 +.jthotb.icu
 +.jtp.expressen.se
@@ -24966,6 +24970,7 @@
 +.lqbzuny.com
 +.lqcaznzllnrfh.com
 +.lqcngjecijy.rocks
++.lqgenuq-j.life
 +.lqlwjr.icu
 +.lqtiwevsan.com
 +.lraonxdikxi.com
@@ -28028,6 +28033,7 @@
 +.oalreepsob.com
 +.oalsauwy.net
 +.oalselry.com
++.oamoacirdaures.net
 +.oamoameevee.net
 +.oamoatch.com
 +.oamtorsa.net
@@ -37142,6 +37148,7 @@
 +.stoadivap.com
 +.stoaglauksargoo.xyz
 +.stoagouruzostee.net
++.stoampaliy.net
 +.stoaphalti.com
 +.stoashou.net
 +.stoat.death-to-ie11.com
@@ -41704,6 +41711,7 @@
 +.visiblegains.com
 +.visiblejoseph.com
 +.visiblemeasures.com
++.visiblyhiemal.shop
 +.visio-x.fr
 +.visionchillystatus.com
 +.visistat.com
@@ -41804,6 +41812,7 @@
 +.voicefive.com
 +.voicepainlessdonut.com
 +.voicepeaches.com
++.voicepythons.shop
 +.voicerdefeats.com
 +.voidmodificationdough.com
 +.vokut.com
