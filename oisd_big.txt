@@ -1,9 +1,9 @@
-# Version: 202501140408
+# Version: 202501140508
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 166343
-# Last modified: 2025-01-14T04:08:52+0000
+# Entries: 166338
+# Last modified: 2025-01-14T05:08:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2718,7 +2718,6 @@
 +.2uts.com
 +.2uwdcs.postal.gameplansession.com
 +.2vb.ru
-+.2vgm.lat
 +.2vn.top
 +.2vv.cc
 +.2w90.co.cc
@@ -53409,7 +53408,6 @@
 +.eduad.baidu.com
 +.eduardolmartinez.com
 +.eduardorodiguez9584.ongraphy.com
-+.eduardosbooks.com
 +.edubloc.com
 +.educagility.com
 +.educanetserviceaccounts.weebly.com
@@ -77404,7 +77402,6 @@
 +.informacjapilnas.info
 +.informacjatelewizja.rest
 +.informacje-24.you2.pl
-+.informacje-379457-informacje.nf-app.pl
 +.informacje-dzis.b-cdn.net
 +.informacje-energylandia.dfirma.pl
 +.informacje-naszemiasto.x9.eu
@@ -149104,7 +149101,6 @@
 +.trustpgnt.space
 +.trustpool.xyz
 +.trustseal.e-rasaneh.ir
-+.trusttask10.com
 +.trusttech-id.com
 +.trusturman.com
 +.trustutn.org
@@ -151665,7 +151661,6 @@
 +.upcreditrepair.com
 +.upcty2.wixsite.com
 +.upcurlsreid.website
-+.upd.euteschan.top
 +.upd32-secure-serv4.com
 +.upd4tereceipt-app1e.servehttp.com
 +.updaight.com
