@@ -1,9 +1,9 @@
-# Version: 202501132109
+# Version: 202501140138
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44588
-# Last modified: 2025-01-13T21:09:18+0000
+# Entries: 44587
+# Last modified: 2025-01-14T01:38:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9036,7 +9036,6 @@
 +.brightonclick.com
 +.brightscarletclo.com
 +.brightshare.com
-+.briiiiantsdates.com
 +.brikinhpaxk.com
 +.brillianceherewife.com
 +.brimmallow.com
