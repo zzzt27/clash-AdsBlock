@@ -1,9 +1,9 @@
-# Version: 202501141911
+# Version: 202501142010
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 166521
-# Last modified: 2025-01-14T19:11:03+0000
+# Entries: 166514
+# Last modified: 2025-01-14T20:10:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4664,7 +4664,6 @@
 +.616959.ds.nac.net
 +.6170b1649f.25f5d4f39c.com
 +.6179b859b8.com
-+.617e5229e3a22fa85c5f244bc8abc558.alldom.co.pl
 +.61bd8c9f.kortfilmfestivalen.no
 +.61c3d331bf.com
 +.61serve.everydayporn.co
@@ -22330,7 +22329,6 @@
 +.autogatethailand.com
 +.autogestione.net
 +.autogielda-graczyk.pl
-+.autogielda-stolarczyk.pl
 +.autohaus-frank-wagner.de
 +.autohaus-lobmueller.de
 +.autoimporto.com
@@ -44807,7 +44805,6 @@
 +.d7644a4674.d53d0454c1.com
 +.d768p7cn.cn
 +.d77.paidtomoney.com
-+.d77ac4835674b8bbf2598002a490f918.serswise.pl
 +.d78201.flymetothevenus.com
 +.d78eee025b.com
 +.d7a13b77bf.11f65cf2f1.com
@@ -93811,7 +93808,6 @@
 +.marasgumpus.com
 +.marasi-ims.com
 +.marathiaura.com
-+.marathibusinesskatta.com
 +.marathimic.com
 +.marator.com
 +.marazma.com
@@ -94675,7 +94671,6 @@
 +.maxwavejo.com
 +.maxxassets.com
 +.maxxcorp.net
-+.maxxi-fits.cardmr.site
 +.maxximalmedia.de
 +.maxximbrasil.com
 +.maxxkonzept.de
@@ -113992,7 +113987,6 @@
 +.pl-id78432.top
 +.pl-impost-poland.top
 +.pl-inf.eu5.net
-+.pl-informacje-38603046362.azureedge.net
 +.pl-inpost-im.top
 +.pl-inpost-poland.top
 +.pl-inpost.621456.xyz
@@ -159569,7 +159563,6 @@
 +.winsoftware.com
 +.winsrr14.duckdns.org
 +.winsuccessacademy.world
-+.winsunlimted.com
 +.winsuv.com
 +.wintap.io
 +.winter-fillow.blogspot.com
