@@ -1,9 +1,9 @@
-# Version: 202501150609
+# Version: 202501150809
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 166507
-# Last modified: 2025-01-15T06:09:29+0000
+# Entries: 166469
+# Last modified: 2025-01-15T08:09:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3377,7 +3377,6 @@
 +.40.nu
 +.40.sub-75-237-94.myvzw.com
 +.4002dbde88aebefdb1f7-8f93653c470e43727b1b565964867247.r51.cf2.rackcdn.com
-+.4003s8p45hfb7kl5batv0507rkj82e4taidb24rbf5jht1njbl3o830.siasky.net
 +.400517034274668-dot-charming-sky-2700.appspot.com
 +.4006825178.com
 +.4006868488.cn
@@ -15454,7 +15453,6 @@
 +.allegrolokalnie.app
 +.allegrolokalnie.artykuly-polecane.shop
 +.allegrolokalnie.aukcja-id78613.pl
-+.allegrolokalnie.b0a821.com
 +.allegrolokalnie.chronionyzakup.com.pl
 +.allegrolokalnie.com.de
 +.allegrolokalnie.d6k361lf91c47yfjb.pl
@@ -21118,7 +21116,6 @@
 +.assetdtmamcom.112.2o7.net
 +.assetdtmewm.112.2o7.net
 +.assetize.com
-+.assetmaxcontrol.com
 +.assetoutdoor.shop
 +.assets-hellobar-com.s3.amazonaws.com
 +.assets-news.site
@@ -23619,6 +23616,7 @@
 +.bafkreiacfnkqabkgvxined2bhbaf5lo7cfullhamehvyzbrazrvk5ektgq.ipfs.dweb.link
 +.bafkreiacob24sdg65r7owiqwdalasslcukcmaoslx6kgnp3p3zb6bob2ke.ipfs.dweb.link
 +.bafkreiacqz5zfszay3tczco4xzcqrykgvulo7kybnzuttyz4ifbjpxsrym.ipfs.flk-ipfs.xyz
++.bafkreiactryhgfyn3cvrd2krwjpsspe3d4wsiwzk554ngplwqne4rmpxhq.ipfs.flk-ipfs.xyz
 +.bafkreiadkzn6pwt4ppzuqbvbf2ofdv5matldowfjb5hccvswllv6ooai5a.ipfs.dweb.link
 +.bafkreiagjgk7dw6ofalm7cnf6u7pfvjzcmll76r6sjattosvkjwnbaq3ni.ipfs.dweb.link
 +.bafkreiakkz2nwsrtyqlgdivt7dk6mohdvncazpsmw7lzqyykxue2wzisve.ipfs.dweb.link
@@ -23787,6 +23785,7 @@
 +.bafybeiaymxosvikstjusk2fvkii4gotgmlus3gtmp73yfffvbubgwsxh3q.ipfs.dweb.link
 +.bafybeiaysdu6q3ia62p3mzpcatofjomyrh25mzfzrgs6i3ook2affhjznq.ipfs.dweb.link
 +.bafybeiazococm3k6tloxm4fx277t25dzj54ga6horkhssj2g664dd3lhza.ipfs.dweb.link
++.bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
 +.bafybeib25glpw7dgtx4fm4bkzjyfizdwh33jdbe6hnn6mxytmlzzufpjvu.ipfs.cf-ipfs.com
 +.bafybeib25lh7bfo5zfqkjjryttyhlrtgxqlcintznf5uoyqfyho7k6lm7e.ipfs.cf-ipfs.com
 +.bafybeib2iyas5f6b3mlp37n2gdtbzlfxape3hz4rdtjydvppiwvokef2p4.ipfs.dweb.link
@@ -25361,7 +25360,6 @@
 +.bawlerhanoi.website
 +.bax.safars.online
 +.baxbyfn.cn
-+.baxotjdtesah.com
 +.baxter.olx.org
 +.baya.spectare.top
 +.bayabar.com
@@ -27131,6 +27129,7 @@
 +.bez-crizz.investchain.xyz
 +.bezlimitvideo.com
 +.bezlive.com
++.bezoriy.com
 +.bezpieczenstwaadminjednostka.moonfruit.com
 +.bezpieczenstwo24h.click
 +.bezpiecznaprzesylka.pl
@@ -27684,7 +27683,6 @@
 +.binanceus.com
 +.binaof.com
 +.binarium.global
-+.binary-acceptance-hotel-difficult.trycloudflare.com
 +.binary-glide.netlify.app
 +.binary99.com
 +.binaryborrowedorganized.com
@@ -30604,7 +30602,6 @@
 +.brianwebhostingservices.com
 +.brianwould.com
 +.briberysciencediaristes.pro
-+.bricanderson.com
 +.bricimo.fr
 +.brick.xhamster.com
 +.brick.xhamster.desi
@@ -31780,7 +31777,6 @@
 +.butterflyunkindpractitioner.com
 +.butterkatbakeshop.com
 +.buttersocial.com
-+.buttersource.com
 +.butthroud.pro
 +.button-call.zalo.me
 +.button-follow.zalo.me
@@ -32054,7 +32050,6 @@
 +.by-sabotage123.duckdns.org
 +.by.addrecipes.com
 +.by.adshuffle.com
-+.by.adxt.com
 +.by.dyq.cn
 +.by.haory.cn
 +.by007.cn
@@ -35306,7 +35301,6 @@
 +.cf-getfile.com
 +.cf-host.com
 +.cf-pixelfront-analytics.widencdn.net
-+.cf.addthis.com
 +.cf.cdn.inmobi.com
 +.cf.iqiyi.mom
 +.cf.kampyle.com
@@ -35672,7 +35666,6 @@
 +.charm-n.com
 +.charm.bizfxr.com
 +.charmflirt.com
-+.charminammoc.cyou
 +.charming-northcutt.193-42-36-172.plesk.page
 +.charming-salamander-e777e7.netlify.app
 +.charmingdating.life
@@ -41699,7 +41692,6 @@
 +.cre.dp.sina.cn
 +.cre.mix.sina.com.cn
 +.cre99.com
-+.crea8ers.com
 +.creadevents.us
 +.creadoradigital.online
 +.creadunet.com
@@ -42824,7 +42816,6 @@
 +.currentyatt.weebly.com
 +.currepush.com
 +.curriculture.com
-+.curryoxygencheaper.com
 +.cursecrap.com
 +.cursedspytitanic.com
 +.curseintegralproduced.com
@@ -47174,6 +47165,7 @@
 +.descz.ovh
 +.desdeelring.com
 +.desealo.com
++.desede-ch.com
 +.desekansr.com
 +.desenteir.com
 +.desenvolupament.ad
@@ -53211,7 +53203,6 @@
 +.ecosysgrps.com
 +.ecotransgas.com
 +.ecotuc.com
-+.ecoulsou.xyz
 +.ecoupons.com
 +.ecowat.fr
 +.ecpm.com
@@ -54736,6 +54727,7 @@
 +.emporiumvault.com
 +.empowerimmigrants.com
 +.empoweringherrealestate.com
++.empowermentgrowth.com
 +.empreendedoresradicais.com
 +.emprenven.com
 +.empresariosvidavacations.com
@@ -58211,7 +58203,6 @@
 +.faggrim.com
 +.fagnopackh.com
 +.fagovwnavab.com
-+.fagywalu.pro
 +.fahad26smsm.duckdns.org
 +.fahd2010.ddns.net
 +.fahd2011.ddns.net
@@ -59348,7 +59339,6 @@
 +.feevaihudofu.net
 +.feevolaphie.net
 +.feewostoo.com
-+.feezzer.com
 +.fefasa.hn
 +.fefgvh.xyz
 +.fefqkn.org
@@ -59465,7 +59455,6 @@
 +.fenix.press
 +.fenixm.com
 +.fenixwyld.com
-+.fenloxstream.wiki
 +.fennecsenlard.shop
 +.fennimakine.com
 +.fennoscandia.org
@@ -60536,7 +60525,6 @@
 +.finnhair.co.uk
 +.finnishformula.com
 +.finnnann.com
-+.finoheo.com
 +.finplustechnology.com
 +.finreporter.net
 +.finreports.com
@@ -60626,7 +60614,6 @@
 +.firesub.pl
 +.firetronicsinc.net
 +.fireup.xyz
-+.fireupload.org
 +.fireventcooperate.com
 +.firewallgame.com
 +.firewallgold.com
@@ -61067,7 +61054,6 @@
 +.flexbanner.com
 +.flexbikes.nl
 +.flexbitboost.com
-+.flexboxbuilder.com
 +.flexcheekadversity.com
 +.flexdeliveryuptade.com
 +.flexibilityquest.com
@@ -62117,7 +62103,6 @@
 +.fourtouici.fr
 +.fourtwentyseo.com
 +.fourtwentytradingcompany.net
-+.fourxstudio.com
 +.fout.jp
 +.foutzseptic.com
 +.fouwheepoh.com
@@ -65119,6 +65104,7 @@
 +.generatorrex.org
 +.generatorsupercenterofatlanta.com
 +.genereli.fr
++.generic.1910genetics.com
 +.genericflow.com
 +.genericlink.com
 +.generictab.com
@@ -77860,7 +77846,6 @@
 +.inpocst-pl.top
 +.inpocstpl.cc
 +.inpoct.vip
-+.inpoe.xyz
 +.inpoes.top
 +.inpoet.ink
 +.inpoet.shop
@@ -80315,7 +80300,6 @@
 +.j45.webringporn.com
 +.j4gp9e.postal.gameplansession.com
 +.j4jvcx227kw7.swipepages.net
-+.j53j8.moraspu14.com
 +.j5klegacytl.com
 +.j5mcvx.nt.nativetrees.co.uk
 +.j6mn99mr0m2n.com
@@ -83252,7 +83236,6 @@
 +.kasperthreatpostprod.112.2o7.net
 +.kaspianchoob.com
 +.kaspresksy.com
-+.kassed.elespcoinn.site
 +.kasselsounds.com
 +.kastafor.com
 +.kasyapiserve.com
@@ -83637,7 +83620,6 @@
 +.kenawue.pro
 +.kendallme.com
 +.kendeil-indfarad.com
-+.kendingfa.com
 +.kendingyou.com
 +.kendosliny.com
 +.kendotube.com
@@ -84111,7 +84093,6 @@
 +.kiklazopnqce.com
 +.kikoucuy.net
 +.kiksajex.com
-+.kiler96l.beget.tech
 +.kilin.xyz
 +.killbaidu.top
 +.killconvincing.com
@@ -85638,7 +85619,6 @@
 +.kreischerdesign.com
 +.kremlin-school.info
 +.kreport.com
-+.kretic.info
 +.kreuzberg.ru
 +.krez7d.postal.gameplansession.com
 +.kribyrisk.com
@@ -90439,7 +90419,6 @@
 +.login-prime.fr
 +.login-primevid.fr
 +.login-primevideo.fr
-+.login-rackspace.com
 +.login-review.tarotkid.com
 +.login-service.net
 +.login-to-your-paypal-account22.blogspot.com
@@ -91466,6 +91445,7 @@
 +.lq8xnir0vf430jssip7p.maherstcottage.com.au
 +.lqbzuny.com
 +.lqcaznzllnrfh.com
++.lqci0znorsgau3.ziktv.pl
 +.lqcngjecijy.rocks
 +.lqfsnws.cc
 +.lqgenuq-j.life
@@ -92763,7 +92743,6 @@
 +.mafiaemptyknitting.com
 +.mafiaillegal.com
 +.mafiapics.com
-+.mafivaz.biz
 +.mafon.xyz
 +.mafrarc3e9h.com
 +.mafroad.com
@@ -100298,7 +100277,6 @@
 +.my-material.zone1.meitudata.com
 +.my-meta.app
 +.my-netflixssl1.com
-+.my-nexecss.com
 +.my-odin.com
 +.my-olx.acron-net.shop
 +.my-olx.create-cloud.shop
@@ -100853,7 +100831,6 @@
 +.mysearchengineup.com
 +.mysecurify.com
 +.mysecuritycenter.com
-+.myselfkneelsmoulder.com
 +.myseniorlifehousingpageok.live
 +.myseniorlifehousingpagesok.live
 +.myseocourse.com
@@ -103272,7 +103249,6 @@
 +.neyliwc.sbs
 +.neywem.sbs
 +.neyx.cfd
-+.neyx.sbs
 +.neznaybrodu.online
 +.neznlink.store
 +.nezomedia.com
@@ -107193,7 +107169,6 @@
 +.olx.pl35704oferta.pl
 +.olx.pl58204oferta-iphone.pl
 +.olx.pl62985oferta-iphone.pl
-+.olx.pl63892oferta.pl
 +.olx.pl79891oferta.pl
 +.olx.pl83529oferta.pl
 +.olx.platform-net.shop
@@ -111099,7 +111074,6 @@
 +.particulier-cic.fr
 +.particuliers-bnpparibas.webspace.rocks
 +.particuliers-sgprotectpass.fr
-+.particuliers-socgenerale.fr
 +.particuliers.gouv.bossezv9.beget.tech
 +.particuliersedf.fr
 +.particuliersinfosg.fr
@@ -113128,7 +113102,6 @@
 +.photographymentor.com
 +.photographyprovincelivestock.com
 +.photonlabs.app
-+.photorealistik.com
 +.photoroutes.com
 +.photorshanmugam.com
 +.photos.daily-deals.analoganalytics.com
@@ -115589,7 +115562,6 @@
 +.polska-lnpost.734481.xyz
 +.polska-na-drodze.eu5.net
 +.polska-nasze-info24.x9.eu
-+.polska-olx-girqz.550mm.com
 +.polska-olx-girqz.manoid.live
 +.polska-olx.111455.xyz
 +.polska-olx.734481.xyz
@@ -116745,7 +116717,6 @@
 +.pple.com.cn
 +.ppleood.com
 +.pplgwic.com
-+.pplhfhuwyv.com
 +.pplkrh.xyz
 +.pplonet.wixsite.com
 +.pplprom.fr
@@ -120185,7 +120156,6 @@
 +.pziaix.xyz
 +.pzmeblamivop.world
 +.pznlpp.xyz
-+.pzol.bosd.online
 +.pzphmkf.xyz
 +.pzpivx.xyz
 +.pzqfmhy.com
@@ -120473,7 +120443,6 @@
 +.qfiofvovgapc.com
 +.qfjherc.com
 +.qfnzyhwtyarskp.com
-+.qfoodskfubk.com
 +.qfoxgi.com
 +.qfsglobalz.com
 +.qfsl.net
@@ -123379,7 +123348,6 @@
 +.relay2.kuimvd.ru
 +.relayblog.com
 +.relayimmo.com
-+.relaymondial.net
 +.release.baidu.com
 +.releaseavailandproc.org
 +.releasedfinish.com
@@ -125826,7 +125794,6 @@
 +.royaltransportersj.top
 +.royaltyfree.cfd
 +.royaltyfree.click
-+.royaltyfree.fun
 +.royaltyfree.online
 +.royaltyfree.pics
 +.royaltyfree.quest
@@ -142118,7 +142085,6 @@
 +.taka20.com
 +.taka90.com
 +.takano-sekai.blogspot.com
-+.take-grandincome.life
 +.take-prize-now.com
 +.take.oncapeservices.com
 +.take.the.n-chapter.jp
@@ -143344,7 +143310,6 @@
 +.telestarinc.com
 +.telet.me
 +.teletrade.eu
-+.telety.ru
 +.teletypegoodnesses.pro
 +.teletypeintervales.pro
 +.teletypestandingas.pro
@@ -145227,7 +145192,6 @@
 +.ticketaunt.com
 +.ticketcorner.fr
 +.ticketdoctor.net
-+.ticketinger.com
 +.ticketjolly.com
 +.ticketlegend.fr
 +.ticketlegende.fr
@@ -152575,6 +152539,7 @@
 +.utarget.pro
 +.utartyszlak.click
 +.utas.spectare.top
++.utazom.org
 +.utbyte.io
 +.utcfhh.s3.us-east-005.backblazeb2.com
 +.utdifguizdidizfo.ru
@@ -158990,7 +158955,6 @@
 +.wiado-mosci8.netlify.app
 +.wiado.akrisenergy.com
 +.wiado.emhtenergy.com
-+.wiadom.artikproject.com
 +.wiadomo.regionalintel.com
 +.wiadomoscdnia.rest
 +.wiadomosci-24.dkonto.pl
@@ -159308,7 +159272,6 @@
 +.wilyam30.ddns.net
 +.wimblenik.shop
 +.wimblesmurgavi.top
-+.wimbybuildnbros.com
 +.wimpthirtyarrears.com
 +.wimsa.top
 +.wimu.opinionjet.com
@@ -160856,7 +160819,6 @@
 +.wthan.de
 +.wthbjrj.com
 +.wthelpdesk.com
-+.wthroughhi.xyz
 +.wthth.tf
 +.wtik7va49vilc9u03vv3bh4q.gadgetservee.com
 +.wtkntesbi13ooqati0782i4k.cluebeautys.com
