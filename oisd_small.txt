@@ -1,9 +1,9 @@
-# Version: 202501160008
+# Version: 202501160108
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44553
-# Last modified: 2025-01-16T00:08:27+0000
+# Entries: 44546
+# Last modified: 2025-01-16T01:08:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9207,7 +9207,6 @@
 +.bugs2022.com
 +.bugsattended.com
 +.bugsenemies.com
-+.bugstractorbring.com
 +.bugzmn.icu
 +.buicks.xyz
 +.buikolered.com
@@ -18997,7 +18996,6 @@
 +.ghsheukwasana.info
 +.ghtry.amateurswild.com
 +.ghxadv.com
-+.ghyhwiscizax.com
 +.ghyktyahsb.com
 +.ghyxmovcyj.com
 +.gi-client-tracking.goodgamestudios.com
@@ -23092,7 +23090,6 @@
 +.kdjdpyrt.xyz
 +.kdlktswsqhpd.com
 +.kdmjvnk.com
-+.kdomsid.top
 +.kdopag.xyz
 +.kdpic.pchome.com.tw
 +.kdxhsaaealyadm.com
@@ -24293,7 +24290,6 @@
 +.livvbkx-vejj.xyz
 +.livxlilsq.click
 +.lixir.wargers.org
-+.lixnirokjqp.com
 +.lixonj.xyz
 +.lizard.juststeveking.uk
 +.lizard.priorart.dev
@@ -28854,7 +28850,6 @@
 +.ossgogoaton.com
 +.osshydreigonan.com
 +.osskanger.com
-+.osskugvirs.com
 +.ossmightyenar.net
 +.ossnidorinoom.com
 +.osspalkiaom.com
@@ -41681,7 +41676,6 @@
 +.visitedquarrelsomemeant.com
 +.visithaunting.com
 +.visitingheedlessexamine.com
-+.visitingpurrplight.com
 +.visitor-microservice.ext.p-a.im
 +.visitor.sokuja.net
 +.visitormarcoliver.com
@@ -43639,7 +43633,6 @@
 +.xmlwiz.com
 +.xmm.wxc.cc
 +.xmsflzmygw.com
-+.xmvxo.xyz
 +.xn--2ss830adjbqy7h.xn--fiqs8s
 +.xn--u1aaw.xn--p1ai
 +.xn--w9q675dm1p7em.net
