@@ -1,9 +1,9 @@
-# Version: 202501161910
+# Version: 202501162010
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44465
-# Last modified: 2025-01-16T19:10:23+0000
+# Entries: 44464
+# Last modified: 2025-01-16T20:10:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -29944,7 +29944,6 @@
 +.piazzetasses.shop
 +.pic.0597kk.com
 +.pic50.pingguolv.com
-+.picadmedia.com
 +.picarasgalax.com
 +.picbitok.com
 +.piccash.net

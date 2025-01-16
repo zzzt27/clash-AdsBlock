@@ -1,9 +1,9 @@
-# Version: 202501161910
+# Version: 202501162010
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 167001
-# Last modified: 2025-01-16T19:10:08+0000
+# Entries: 166980
+# Last modified: 2025-01-16T20:10:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6877,6 +6877,7 @@
 +.a2put.chinaz.com
 +.a2sex.com
 +.a2tw6yoodsag.com
++.a2xjur.lol
 +.a2zbuysell.com
 +.a2zcomputer.co.in
 +.a2zfortextile.com
@@ -7231,7 +7232,6 @@
 +.ab.cumhot.org
 +.ab.fapnado.xxx
 +.ab.fastighetsvarlden.se
-+.ab.lnxprog.site
 +.ab.pincai.com
 +.ab.servogram.io
 +.ab.teenx.free.fr
@@ -14855,6 +14855,7 @@
 +.alebilet.id885.com
 +.alebilet.kup-teraz247.pl
 +.alebilet.pl-2841.cfd
++.alebilet.pl-4299.cfd
 +.alebilet.pl-654323.icu
 +.alebilet.pl-76541.icu
 +.alebilet.pl-oferta50134.shop
@@ -14862,7 +14863,6 @@
 +.alebilet.pl17041oferta-iphone.pl
 +.alebilet.pl27131.icu
 +.alebilet.pl54921item.pl
-+.alebilet.pl58204oferta-iphone.pl
 +.alebilet.pl63892oferta.pl
 +.alebilet.pl79891oferta.pl
 +.alebilet.pl83529oferta.pl
@@ -15376,6 +15376,7 @@
 +.allegro.p24-6983457345.shop
 +.allegro.pi-ogloszenie-57634.shop
 +.allegro.pl-4014.shop
++.allegro.pl-4299.cfd
 +.allegro.pl-oferta9738631.com
 +.allegro.pl.showitems.it
 +.allegro.pl17041oferta-iphone.pl
@@ -15551,6 +15552,7 @@
 +.allegrolokalnie.pl-38848.shop
 +.allegrolokalnie.pl-4014.shop
 +.allegrolokalnie.pl-41294.shop
++.allegrolokalnie.pl-4299.cfd
 +.allegrolokalnie.pl-46457645478.shop
 +.allegrolokalnie.pl-48197410u.shop
 +.allegrolokalnie.pl-511231223452.shop
@@ -15566,6 +15568,7 @@
 +.allegrolokalnie.pl-76541.icu
 +.allegrolokalnie.pl-7812351.icu
 +.allegrolokalnie.pl-812794124.shop
++.allegrolokalnie.pl-8134142.cfd
 +.allegrolokalnie.pl-823748234.shop
 +.allegrolokalnie.pl-87427.icu
 +.allegrolokalnie.pl-8749.cfd
@@ -15955,7 +15958,6 @@
 +.almeli.fr
 +.almendraslitral.cl
 +.almetanga.com
-+.almfullcycle.com
 +.almightyexploitjumpy.com
 +.almightypush.com
 +.almightyroomsimmaculate.com
@@ -20290,7 +20292,6 @@
 +.arlento.pl
 +.arleta.maximilianjerzy.pl
 +.arletti.fr
-+.arliest.com
 +.arlime.com
 +.arlonix.com
 +.arlynpreneur.com
@@ -22975,7 +22976,6 @@
 +.ayfp.org
 +.aygpavimentos.cl
 +.aykqyjzbkkkra.top
-+.aylarl.com
 +.aylaspa.com
 +.ayler-records.com
 +.aylowdetward.org
@@ -25416,7 +25416,6 @@
 +.baylen-code-server.com
 +.baylnk.com
 +.baymack.com
-+.bayno.cn
 +.bayonetbaptism.com
 +.bayonetukiyoe.top
 +.baypops.com
@@ -31898,7 +31897,6 @@
 +.buy-viagra.aca.ru
 +.buy-vicodin-online.supersite.fr
 +.buy-vicodin.iscool.nl
-+.buy2dress.com
 +.buy2in1magneticheathandwarmer.com
 +.buyadvupfor24.com
 +.buyahomeincalifornia.com
@@ -33733,7 +33731,6 @@
 +.carplayprofrance.fr
 +.carportscapetown.co.za
 +.carpuslarrups.com
-+.carpyar.com
 +.carr.maciejbruno.pl
 +.carracbqwd.beauty
 +.carrcanalll.cam
@@ -37071,7 +37068,6 @@
 +.cipustar.com
 +.ciqitea.pro
 +.ciqzagzwao.com
-+.circadianliving.com
 +.circle-ci.com
 +.circle.innovativecsportal.com
 +.circle7-bd.com
@@ -41331,7 +41327,6 @@
 +.covidsolution.org
 +.covidvcfund.com
 +.covisiononeness.org
-+.covisitorhcmer.life
 +.covivado.club
 +.covoruloltenesc.ro
 +.cowardsagrias.com
@@ -45507,7 +45502,6 @@
 +.dangtienluc.com
 +.danialadib.com
 +.danialrazali.com
-+.danialteb.com
 +.danie.us
 +.danielaandradecomunicacao.com.br
 +.danielbastos.com
@@ -45808,7 +45802,6 @@
 +.datacares.com
 +.datacollection.beymen.com
 +.datacollector-dra.dt.hicloud.com
-+.dataconnectix.com
 +.datacygnal.io
 +.datadbs.com
 +.datadoc.eu
@@ -46842,7 +46835,6 @@
 +.delfiadlt.hit.gemius.pl
 +.delfiadlv.hit.gemius.pl
 +.delfilv.hit.gemius.pl
-+.delfinamaria.com
 +.delfsrld.click
 +.delhack.net
 +.delhichambersofcommerce.com
@@ -54087,7 +54079,6 @@
 +.eiteribesshaints.com
 +.eitfromtheothe.org
 +.eithadgroup.com
-+.eiti8sr.top
 +.eiun.top
 +.eiuoom.xyz
 +.eiv.baidu.com
@@ -55999,7 +55990,6 @@
 +.esmet.top
 +.esmystem.com
 +.esmystemgthro.org
-+.esnafbank.com
 +.esnlynotquiteso.com
 +.esnrn.steamingmugcafe.com
 +.esocialpro.com
@@ -56455,6 +56445,7 @@
 +.euadsapi.manhuaren.com
 +.euamonudes.com
 +.euand.yt
++.euarena.vip
 +.euauosx.xyz
 +.euaverydennison.com
 +.eubc.truproggs.top
@@ -59359,7 +59350,6 @@
 +.fcoxzinc.nn.r.appspot.com
 +.fcproyectos.com
 +.fcqztan.cn
-+.fcrnbf.postal.gameplansession.com
 +.fcs.ovh
 +.fcsass.org.cn
 +.fcsfinland.org
@@ -66033,7 +66023,6 @@
 +.gfuagfy.rest
 +.gfufutakba.com
 +.gfunwoakvgwo.com
-+.gfwsts.investcoins.top
 +.gfx.infomine.com
 +.gfxdn.pics
 +.gfxhjk.s3.us-east-005.backblazeb2.com
@@ -66574,7 +66563,6 @@
 +.giu.spectare.top
 +.giuasd.com
 +.giuliana-rancic-pregnant.appspot.com
-+.giulio68.beget.tech
 +.giuliodrei.it
 +.giuuijhjhujhk.rf.gd
 +.givaphofklu.com
@@ -67481,7 +67469,6 @@
 +.gocolonial.local-user.com
 +.gocooltruckgoatvcsok.live
 +.gocrazy.gg
-+.gocurable.com
 +.gocustomizedchristmascardsok.live
 +.gocut.com
 +.gocvawe.cn
@@ -71209,7 +71196,6 @@
 +.hashpipe.net
 +.hashpreside.com
 +.hashrail.com
-+.hashratemedia.com
 +.hashtagegypt.net
 +.hashtagkolkata.com
 +.hashtagmedia.co.in
@@ -79945,7 +79931,6 @@
 +.irshad-ul-islam.org
 +.irss.de
 +.irstrategies.net
-+.irt-73.cfd
 +.irtupxzoaso.appspot.com
 +.irtyc.com
 +.irulws.xyz
@@ -87297,7 +87282,6 @@
 +.laserdandelionhelp.com
 +.laserdrivepreview.com
 +.lasereyesurgerystore.com
-+.laserflyers.com
 +.laserforeyes.com
 +.laserhairremovalpurch.com
 +.laserharasslined.com
@@ -87612,7 +87596,6 @@
 +.lazter.com
 +.lazulu.com.global.prod.fastly.net
 +.lazy-turkey-wofkmuqa.sandboxcms.com
-+.lazylink.us
 +.lazylose.com
 +.lazymillionairesleague.com
 +.lazyrelentless.com
@@ -90821,6 +90804,7 @@
 +.loginlockssignal.com
 +.loginmicrosoft-online.fr
 +.loginmicrosoft.fr
++.loginmlcrosoftonlineauth-directory.pages.dev
 +.loginnawza-pl.bamboologic.eu
 +.loginonetpl.wixsite.com
 +.loginonline-com.firebaseapp.com
@@ -91215,7 +91199,6 @@
 +.longmusic.com
 +.lonj.sacors.top
 +.lonkeb.com
-+.lonn.korto.xyz
 +.lonner.name
 +.loobilysubdebs.com
 +.loodauni.com
@@ -92007,7 +91990,6 @@
 +.luckyz.xyz
 +.luckyzombie.com
 +.lucrativetechnology.com
-+.lucrecomconforto.com.br
 +.lucreneluxe.com
 +.lucrinearraign.com
 +.lucro.importsbr.com
@@ -98828,7 +98810,6 @@
 +.momotudong.net
 +.momovayi.com
 +.momovip.me
-+.momovira.com
 +.momovouchers.weebly.com
 +.momowa.momoshop.com.tw
 +.momoxxio.com
@@ -101086,7 +101067,6 @@
 +.mynewblogspot070.blogspot.com
 +.mynewdigital.com
 +.mynewwindows.com
-+.mynexecss.com
 +.mynexty.fr
 +.myniceposts.com
 +.mynkai.com
@@ -102919,7 +102899,6 @@
 +.neuheitencenter.com
 +.neuheitencenter.de
 +.neuheitencenter.eu
-+.neul.sbs
 +.neumap.com
 +.neumashop.cl
 +.neupane.com.np
@@ -105889,7 +105868,6 @@
 +.o4nofsh6.de
 +.o4svlxhjun.xyz
 +.o4uxrk33.com
-+.o55rqz.postal.gameplansession.com
 +.o626b32etkg6.com
 +.o74k3j5jb3fi.live
 +.o7labs.top
@@ -107534,6 +107512,7 @@
 +.olx.perfomance-demo.shop
 +.olx.pl-0563454534.top
 +.olx.pl-2841.cfd
++.olx.pl-4299.cfd
 +.olx.pl-477693.site
 +.olx.pl-71982.icu
 +.olx.pl-8941.cfd
@@ -110157,6 +110136,7 @@
 +.ow.s1.shuhuangge.org
 +.ow.s2.shuhuangge.org
 +.ow0espzoas.appspot.com
++.ow0vdjhmk2byiz.disneyplus0.pl
 +.ow5a.net
 +.owa-password-expiry.web.app
 +.owa-serverdata-101.duckdns.org
@@ -112439,6 +112419,7 @@
 +.pedestalturner.com
 +.pedestrianpath.xyz
 +.pedeticinnet.com
++.pedi32fq9lryn0.disneyplus0.pl
 +.pediatrics.or.kr
 +.pedief.com
 +.pedo.ws
@@ -114266,14 +114247,17 @@
 +.pl-12kg.web.app
 +.pl-1507240.com
 +.pl-160724.com
++.pl-2140.cfd
 +.pl-2141.cfd
 +.pl-234235623.shop
 +.pl-234324532.shop
 +.pl-23536453.shop
 +.pl-3294.cfd
++.pl-4281.cfd
 +.pl-5185.cfd
 +.pl-56yh34f343f4.shop
 +.pl-574378923.shop
++.pl-8271.cfd
 +.pl-829.cfd
 +.pl-87654.cfd
 +.pl-9082945b2ff9392490429090450349043.com
@@ -120870,6 +120854,7 @@
 +.qhwyoat.com
 +.qian-lai.com
 +.qianclick.baidu.com
++.qiancuochun.shop
 +.qianghankeji.com
 +.qiangsentiyu.cn
 +.qianxiannb.click
@@ -121508,7 +121493,6 @@
 +.quixoticnebula.com
 +.quiyao.com
 +.quiz.bloomingkids.com
-+.quiz.cabinetacmniger.com
 +.quiz.greenicti.com
 +.quiz.marquiz.ru
 +.quizfi.net
@@ -124712,7 +124696,6 @@
 +.reviewmee.com
 +.reviewmyshaver.com
 +.reviewphim.pro
-+.reviewrecap.co
 +.reviews-row.gl.at.ply.gg
 +.reviews-shop.com
 +.reviewscave.com
@@ -126184,7 +126167,6 @@
 +.royalmail-redirect.com
 +.royalmart.pk
 +.royalmigrationsolutions.com
-+.royalmineralwater.com
 +.royalnails.info
 +.royalplusinvest.com
 +.royalqueennyc.com
@@ -126360,7 +126342,6 @@
 +.rss.solty.biz
 +.rssblgb.cn
 +.rssfetcher.blogsys.jp
-+.rssportscars.com
 +.rst-velbert.de
 +.rst.pornyhd.com
 +.rstelektrika.mk
@@ -127445,7 +127426,6 @@
 +.s3-directional-w.geo.amazonaws.com
 +.s3-dk.cloud
 +.s3-microsoft.com
-+.s3-nato.cloud
 +.s3-nsa.cloud
 +.s3-stig.cloud
 +.s3-ucia.cloud
@@ -132428,7 +132408,6 @@
 +.shlyakh.com
 +.shlyapapodplesk.site
 +.shlyunko.zyr.su
-+.shmbol.com
 +.shmdigitalllc.com
 +.shmetall.com.ua
 +.shnis.com
@@ -155397,11 +155376,11 @@
 +.vinted.confirm17428.info
 +.vinted.confirm1789324.info
 +.vinted.confirmation-order.pro
-+.vinted.enth3.top
 +.vinted.fee347.shop
 +.vinted.fetching586.info
 +.vinted.gain162.shop
 +.vinted.gain714.live
++.vinted.gain983.run
 +.vinted.get210.club
 +.vinted.id765019834.com
 +.vinted.loade-t.site
@@ -155518,6 +155497,7 @@
 +.vipgogo123.site
 +.viphermes.com
 +.vipicmou.net
++.vipide.basspulse22.com
 +.vipjobsglobal.com
 +.vipluxurycar.com
 +.vipmysterybox.eu
@@ -164839,7 +164819,6 @@
 +.yourluxuryvoyagezone.sale
 +.yourmailamazon99.redirectme.net
 +.yourmark.eu
-+.yourmusclepainguide.com
 +.yournetflix.com
 +.yournewcarnow.live
 +.yournewincome.info
