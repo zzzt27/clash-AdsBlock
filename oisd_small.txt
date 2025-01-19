@@ -1,9 +1,9 @@
-# Version: 202501191612
+# Version: 202501191712
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44149
-# Last modified: 2025-01-19T16:12:27+0000
+# Entries: 44143
+# Last modified: 2025-01-19T17:12:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18745,7 +18745,6 @@
 +.gettrf.org
 +.gettripiron.live
 +.getxmlisi.com
-+.getyourbitco.in
 +.getyoursoft.ru
 +.geuba.xyz
 +.geumhuzzy.com
@@ -23712,7 +23711,6 @@
 +.lehrer-finden.de
 +.leisurebrain.com
 +.leisurehazearcher.com
-+.leisurelyeaglepestilent.com
 +.leisurelypizzascarlet.com
 +.lekaleregoldfor.com
 +.lelesidesukbeing.info
@@ -28799,7 +28797,6 @@
 +.overwhelmingoblige.com
 +.overwhelmpeacock.com
 +.overzoruaon.com
-+.overzubatan.com
 +.ovethecityonatal.info
 +.ovfmeawrciuajgb.com
 +.ovibospeseta.com
@@ -31501,7 +31498,6 @@
 +.pwbuhb.xyz
 +.pwcgditcy.com
 +.pwddhc.xyz
-+.pweabzcatoh.com
 +.pwfqjp.xyz
 +.pwhkfd.xyz
 +.pwkrakanmet.met.gov.my
@@ -37721,7 +37717,6 @@
 +.targetnet.com
 +.targetpoint.com
 +.targetspot.com
-+.targhe.info
 +.tarinstinctivewee.com
 +.tarjetarojaonline.tv
 +.tarotaffirm.com
@@ -43533,7 +43528,6 @@
 +.yin1.zgpingshu.com
 +.yinhana.com
 +.yinteukrestina.xyz
-+.yinthesprin.xyz
 +.yinyouapp.com
 +.yirringamnesic.click
 +.yiucfif.icu
