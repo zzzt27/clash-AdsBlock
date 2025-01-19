@@ -1,9 +1,9 @@
-# Version: 202501190652
+# Version: 202501190844
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44216
-# Last modified: 2025-01-19T06:52:29+0000
+# Entries: 44197
+# Last modified: 2025-01-19T08:44:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -199,7 +199,6 @@
 +.108shot.com
 +.1090pjopm.de
 +.10945-2.s.cdn15.com
-+.10945-5.s.cdn15.com
 +.10b00e9529.ce3ff5f2d4.com
 +.10c26a1dd6.com
 +.10d01c2460.3dba238763.com
@@ -1163,7 +1162,6 @@
 +.60739ebc42.com
 +.609999.xyz
 +.60ce55878b.62c013248b.com
-+.6158854a09.com
 +.61598081d6.com
 +.6170b1649f.25f5d4f39c.com
 +.6179b859b8.com
@@ -5453,7 +5451,6 @@
 +.analytics.growthphysics.com
 +.analytics.gtechgroup.it
 +.analytics.gvim.mobi
-+.analytics.hapo.vn
 +.analytics.hardlightgames.com
 +.analytics.hashnode.com
 +.analytics.hebela.vn
@@ -6164,7 +6161,6 @@
 +.appodeal.com
 +.appoineditardwide.com
 +.appointedbaseslogan.com
-+.appointedchildorchestra.com
 +.appointeeivyspongy.com
 +.appollo-plus.com
 +.appraisalaffable.com
@@ -6670,7 +6666,6 @@
 +.atcoordinate.com
 +.atctpqgota.com
 +.atdeerlinga.com
-+.atdhobsb.com
 +.atdmaincode.com
 +.atdnetwork.com
 +.atdrilburr.com
@@ -15791,7 +15786,6 @@
 +.edgeio.com
 +.edgevertise.com
 +.edghkc.xyz
-+.edgychancymisuse.com
 +.ediatesuperviso.com
 +.edibleinvite.com
 +.edingrigoguter.com
@@ -16216,7 +16210,6 @@
 +.enoratraffic.com
 +.enormous-society.pro
 +.enormouslynotary.com
-+.enormouslysubsequentlypolitics.com
 +.enot.fyi
 +.enoughts.info
 +.enoughturtlecontrol.com
@@ -19989,7 +19982,6 @@
 +.happeningflutter.com
 +.happy-davinci-53144f.netlify.com
 +.happydate.today
-+.happydatte.net
 +.happypavilion.com
 +.haqafzlur.com
 +.harassinganticipation.com
@@ -20773,7 +20765,6 @@
 +.hoxdotye.icu
 +.hoyaga.xyz
 +.hp1mufjhk.com
-+.hp7.fun
 +.hpacdn.pornpics.com
 +.hpacdn.pornpics.de
 +.hpast.pornpics.com
@@ -23075,7 +23066,6 @@
 +.kixestalsie.net
 +.kiynew.com
 +.kizohilsoa.net
-+.kizxixktimur.com
 +.kjdsfjisdfjr23.azurewebsites.net
 +.kjipko.xyz
 +.kjjjusb.xyz
@@ -25226,7 +25216,6 @@
 +.marapcana.online
 +.marasgumpus.com
 +.marazma.com
-+.marbleapplicationsblushing.com
 +.marbleborrowedours.com
 +.marcherfilippo.com
 +.marchex.com
@@ -33194,7 +33183,6 @@
 +.rollserver.xyz
 +.rolzqwm.com
 +.romance-net.com
-+.romanceaffair.net
 +.romancedale.com
 +.romancepotsexists.com
 +.romanticaffaiir.com
@@ -33274,7 +33262,6 @@
 +.rouinfernapean.com
 +.roujonoa.net
 +.roulediana.com
-+.roumachopa.com
 +.rounddescribe.com
 +.roundspaniardindefinitely.com
 +.rounidorana.com
@@ -34464,7 +34451,6 @@
 +.sellerignateignate.com
 +.sellersfloush.com
 +.sellingmombookstore.com
-+.sellisteatin.com
 +.selornews.com
 +.selwrite.com
 +.semblanceindulgebellamy.com
@@ -38342,7 +38328,6 @@
 +.thrillstwinges.top
 +.thrivebubble.com
 +.throatchanged.com
-+.throatpoll.com
 +.thronestartle.com
 +.throngwhirlpool.com
 +.thronosgeneura.com
@@ -40389,7 +40374,6 @@
 +.unevenregime.com
 +.unfairgenelullaby.com
 +.unfamiiiiardate.com
-+.unfamiiiiardate.net
 +.unfiledbunkum.shop
 +.unfinisheddolphin.com
 +.unfolded-economics.com
@@ -42120,7 +42104,6 @@
 +.whampamp.com
 +.whandpolista.com
 +.wharployn.com
-+.wharrownecia.com
 +.whatabouthotbabies.com
 +.whataboutnews.com
 +.whateyesight.com
@@ -42949,7 +42932,6 @@
 +.xhlkvx.xyz
 +.xhm.pub
 +.xhnvgdkw.xyz
-+.xholinqbbicfk.com
 +.xhsdwjes.xyz
 +.xhubsxmg.xyz
 +.xhulafpup.com
@@ -43555,7 +43537,6 @@
 +.ygblpbvojzq.com
 +.ygdhmgjly.xyz
 +.ygeqiky.com
-+.ygfytomneijjj.com
 +.yggtorrent.com
 +.ygmkcuj3v.com
 +.ygoibya.icu
