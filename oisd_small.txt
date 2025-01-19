@@ -1,9 +1,9 @@
-# Version: 202501190509
+# Version: 202501190652
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44227
-# Last modified: 2025-01-19T05:09:35+0000
+# Entries: 44216
+# Last modified: 2025-01-19T06:52:29+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4640,6 +4640,7 @@
 +.airtightcounty.com
 +.airtightfaithful.com
 +.airyeject.com
++.aiservice.vn
 +.aisleovershoe.com
 +.aisletransientinvasion.com
 +.aisorussooxacm.net
@@ -4872,7 +4873,6 @@
 +.aljurqbdsxhcgh.com
 +.alkentinedaugha.com
 +.alklinker.com
-+.alkqryamjo.com
 +.all-audio.pro
 +.all4spy.com
 +.all4wap.ru
@@ -7029,7 +7029,6 @@
 +.aweyqalyljbj.top
 +.aweyqalylqqr.top
 +.awfulresolvedraised.com
-+.awgbrojzdpesxx.com
 +.awhauchoa.net
 +.awhausaifoog.com
 +.awheecethe.net
@@ -8815,7 +8814,6 @@
 +.boxlikepavers.com
 +.boxofficehelping.com
 +.boxofwhisper.com
-+.boxpr.aiservice.vn
 +.boycottcandle.com
 +.boyfriendtrimregistered.com
 +.boyishdetrimental.com
@@ -16987,7 +16985,6 @@
 +.f7ds.liberation.fr
 +.f8260adbf8558d6.com
 +.f8260e364f.9a08103287.com
-+.f83d8a9867.com
 +.f84add7c62.com
 +.f860ddd061.6bc1f4d014.com
 +.f866.troyrecord.com
@@ -19754,7 +19751,6 @@
 +.guineapig.magnatkaffehus.no
 +.guineapig.themenaffin.de
 +.guineashock.top
-+.guitarfelicityraw.com
 +.guitarjavgg124.fun
 +.gukmodukuleqasfo.com
 +.gulfimply.com
@@ -22081,7 +22077,6 @@
 +.itponytaa.com
 +.itpqdzs.com
 +.itrigra.ru
-+.itrks.com
 +.itroggenrolaa.com
 +.itrustzone.site
 +.its-that-easy.com
@@ -22601,7 +22596,6 @@
 +.jrzrqi0au.com
 +.js.263y.com
 +.js.92aliyun.com
-+.js.aiservice.vn
 +.js.allporncomic.com
 +.js.bigcomics.win
 +.js.bulkhentai.com
@@ -23999,7 +23993,6 @@
 +.linsaicki.net
 +.lintgallondissipate.com
 +.lintyahimsas.com
-+.lio.aiservice.vn
 +.lion.lastfrontiermagazine.com
 +.liondolularhene.com
 +.liondolularhene.info
@@ -27572,7 +27565,6 @@
 +.nsmartad.com
 +.nsmpydfe.net
 +.nsomedidm.xyz
-+.nspapi.aiservice.vn
 +.nspmotion.com
 +.nspot.co
 +.nst.trex.media
@@ -30881,7 +30873,6 @@
 +.proll.shemrec.cc
 +.prologuerussialavender.com
 +.prologuetwinsmolecule.com
-+.promiseyuri.com
 +.promo-bc.com
 +.promo.adult-torrent.com
 +.promo.badoink.com
@@ -32205,7 +32196,6 @@
 +.rbfour.bid
 +.rbhunp.xyz
 +.rbone.link
-+.rbpark1.site
 +.rbqcg6g.de
 +.rbrightscarletcl.info
 +.rbrmhz.xyz
@@ -32317,7 +32307,6 @@
 +.rebootsormers.com
 +.rebosoyodle.com
 +.rebsoapo.com
-+.rec.aiservice.vn
 +.rec.banggood.com
 +.rec.deezer.com
 +.rec.detik.com
