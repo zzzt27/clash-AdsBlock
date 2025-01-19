@@ -1,9 +1,9 @@
-# Version: 202501190652
+# Version: 202501190710
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 165362
-# Last modified: 2025-01-19T06:52:12+0000
+# Entries: 165360
+# Last modified: 2025-01-19T07:10:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14980,7 +14980,6 @@
 +.alienlol.com
 +.alienmade.com
 +.aliensold.com
-+.alierobot.com
 +.aliexpess.fr
 +.aliexpress-ue.shop
 +.aliexpress2.ru
@@ -120772,7 +120771,6 @@
 +.rainrent.com
 +.rains.pl
 +.rainstone-path.com
-+.rainstorm.cyou
 +.raintwig.com
 +.rainwealth.com
 +.rainyhand.com
