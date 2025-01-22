@@ -1,9 +1,9 @@
-# Version: 202501220610
+# Version: 202501220615
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 168611
-# Last modified: 2025-01-22T06:10:02+0000
+# Entries: 168609
+# Last modified: 2025-01-22T06:15:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -35033,7 +35033,6 @@
 +.cdn3.kidoz.net
 +.cdn3.r34comix.com
 +.cdn314.com
-+.cdn38871181.ahacdn.me
 +.cdn3reference.com
 +.cdn4.cumshots.ws
 +.cdn4.sparkporn.com
@@ -147414,7 +147413,6 @@
 +.tn-outlet.fr
 +.tn-storeoutlet.fr
 +.tn.porngo.tube
-+.tn.porngo.xxx
 +.tn2018hommepascher.fr
 +.tn2019noirpascher.fr
 +.tn3-jr.cfd

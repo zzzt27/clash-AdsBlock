@@ -1,9 +1,9 @@
-# Version: 202501220610
+# Version: 202501220615
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44382
-# Last modified: 2025-01-22T06:10:12+0000
+# Entries: 44381
+# Last modified: 2025-01-22T06:15:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -38693,7 +38693,6 @@
 +.tmulppw.com
 +.tmztcfp.com
 +.tn.porngo.tube
-+.tn.porngo.xxx
 +.tnaczwecikco.online
 +.tnc16-alisg.isnssdk.com
 +.tnc16-useast1a.isnssdk.com
