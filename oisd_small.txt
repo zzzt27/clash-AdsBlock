@@ -1,9 +1,9 @@
-# Version: 202501221010
+# Version: 202501221211
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44361
-# Last modified: 2025-01-22T10:10:33+0000
+# Entries: 44357
+# Last modified: 2025-01-22T12:11:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17389,7 +17389,6 @@
 +.fer2oxheou4nd.com
 +.feralopponentplum.com
 +.ferdarius.com
-+.ferelatedmothes.com
 +.feriassaimiri.com
 +.fermolo.info
 +.feroffer.com
@@ -19282,7 +19281,6 @@
 +.godspeaks.net
 +.goesintakehaunt.com
 +.gofenews.com
-+.goferinlaik.com
 +.goforexvps.com
 +.gofun.info
 +.gogglebox26.fun
@@ -29420,7 +29418,6 @@
 +.pbbqzqi.com
 +.pbcde.com
 +.pbcs.realtor.com
-+.pbdo.net
 +.pbjs-stream.bydata.com
 +.pbkdf.com
 +.pblcpush.com
@@ -41730,7 +41727,6 @@
 +.vv.7vid.net
 +.vv8h9vyjgnst.com
 +.vvadz.cc
-+.vvehvch.com
 +.vvfgjzwa.icu
 +.vvprcztaw.com
 +.vvttpn.xyz
