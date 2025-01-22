@@ -1,9 +1,9 @@
-# Version: 202501222011
+# Version: 202501222110
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 168270
-# Last modified: 2025-01-22T20:11:25+0000
+# Entries: 168240
+# Last modified: 2025-01-22T21:10:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -34760,7 +34760,6 @@
 +.cdn.dep-x.com
 +.cdn.devlooped.com
 +.cdn.doyouad.com
-+.cdn.dragon.cere.network
 +.cdn.dragonstatic.com
 +.cdn.dsmstats.com
 +.cdn.eksiup.com
@@ -46283,7 +46282,6 @@
 +.dbmcmhh.cn
 +.dbnxlpbtoqec.com
 +.dbprofiler.org
-+.dbpxivi.xyz
 +.dbr9gtaf8.com
 +.dbrpevozgux5y.cloudfront.net
 +.dbs.autolatest.ro
@@ -50547,7 +50545,6 @@
 +.donmayne.com
 +.donmega.net
 +.donneuropa.it
-+.donniemaggoos.com
 +.donniereese.com
 +.donnon.fr
 +.donnygilliland.com
@@ -54268,7 +54265,6 @@
 +.eisasbeautifula.info
 +.eisasbeautifulas.com
 +.eisbergfreistadt.com
-+.eitb8vs.top
 +.eiteribesshaints.com
 +.eitfromtheothe.org
 +.eithadgroup.com
@@ -54895,7 +54891,6 @@
 +.emailonlinechase.com
 +.emailredirect.fr
 +.emailredisante.info
-+.emailright.securegate.top
 +.emailringcentral.com
 +.emails.departsment.click
 +.emailsbusiness.com
@@ -60269,7 +60264,6 @@
 +.fidelitybarge.com
 +.fidelius.cn
 +.fidesconstantia.com
-+.fidespace.com
 +.fidgames.com
 +.fidiprest.com
 +.fido.ca.invoice992817.com
@@ -63478,7 +63472,6 @@
 +.frog.editorx.com
 +.frog.yuanfudao.com
 +.frogaming.com
-+.frogscositeyrv.cyou
 +.frogtray.com
 +.frolicking-brigadeiros-df014ecollater.netlify.app
 +.frolicking-cannoli-b2c810.netlify.app
@@ -78758,7 +78751,6 @@
 +.inpost.pictures
 +.inpost.portalinicial.shop
 +.inpost.qianjin.shop
-+.inpost.qpon
 +.inpost.run
 +.inpost.sabeeb.shop
 +.inpost.safecheck.shop
@@ -82663,7 +82655,6 @@
 +.joyfulbody.blogspot.com
 +.joyfulchocobite249.sbs
 +.joyfulelderyears.com
-+.joyfulexperiences.pro
 +.joyfuljourney.pro
 +.joyfulkeen.com
 +.joyfulplayzone738.sbs
@@ -85005,7 +84996,6 @@
 +.kitchendecor.shop
 +.kitchenetco.com
 +.kitchenlabs.store
-+.kitchenman.net
 +.kitchenmech.com
 +.kitchenrecipeshub.com
 +.kitchenremodel.live
@@ -105019,7 +105009,6 @@
 +.nofotballstore.com
 +.nogalesazbeeremoval.com
 +.nogautssvjlh.com
-+.nogginfile.com
 +.nognoongut.com
 +.nohezu.xyz
 +.nohides.com
@@ -105249,7 +105238,6 @@
 +.north49realty.com
 +.northale.com
 +.northamericanmaids.com
-+.northcarolinahomerates.com
 +.northcountryarts.org
 +.northcountrysocial.com
 +.northdakotahsfootball.altervista.org
@@ -109296,7 +109284,6 @@
 +.openx2.kytary.cz
 +.openxcdn.net
 +.openxt.cn
-+.openxxx.viragemedia.com
 +.operaadfilter.com
 +.operaaxis.com
 +.operacionesdeprostatacdmx.com
@@ -109944,7 +109931,6 @@
 +.orriere.it
 +.orrisbirth.com
 +.orrnissandeals.com
-+.orromania.games
 +.orrwavakgqr.com
 +.orsay-musee.fr
 +.orsayparis.fr
@@ -117159,7 +117145,6 @@
 +.positivelyassertappreciation.com
 +.positivelysunday.com
 +.positivesomoy.com
-+.positiveur.com
 +.positivewillingsubqueries.com
 +.positivlernen.de
 +.posje.com
@@ -118392,7 +118377,6 @@
 +.princess77slot.com
 +.princessdazzlepeacefully.com
 +.princesseperfume.com
-+.princessmodern.com
 +.princetontw.com
 +.principaldingdecadence.com
 +.principlede.info
@@ -119474,6 +119458,7 @@
 +.proxy.bonch.dev
 +.proxy.dzeio.com
 +.proxy.inidgo.site
++.proxy.optoutadserving.com
 +.proxy.sec.miui.com
 +.proxy.springgameabc.com
 +.proxy.trysavvy.com
@@ -121179,7 +121164,6 @@
 +.q770.whittierdailynews.com
 +.q777.sfchronicle.com
 +.q7dfpyyhe08.life
-+.q7nui1p9zvalfw.0plusdisney.pl
 +.q81291c.top
 +.q88z1s3.com
 +.q8jfy.com
@@ -124370,7 +124354,6 @@
 +.reliable-daffodil-cbd36a.netlify.app
 +.reliable-track.com
 +.reliableceaseswat.com
-+.reliablecheats.com
 +.reliabledownloads.org
 +.reliablefast.com
 +.reliablefiles.com
@@ -131576,7 +131559,6 @@
 +.sersh.com
 +.sertemasesores.es
 +.sertencee.xyz
-+.sertte56gzxes.cn
 +.sertyuurs.xyz
 +.seruah.com
 +.serv-authveriline.com.es
@@ -132775,7 +132757,6 @@
 +.sharesharemail.net
 +.sharestudio.net
 +.sharetally.co
-+.sharethewebs.shop
 +.sharethrough.adnxs.com
 +.sharethrough.com
 +.shareusads.com
@@ -133045,7 +133026,6 @@
 +.shinilchurch.net
 +.shining-uneven-salmonberry.glitch.me
 +.shinkei-jime.com
-+.shinnedsoughed.com
 +.shinoavto.com
 +.shinqueen.com
 +.shiny-mousse-17797b.netlify.app
@@ -134176,7 +134156,6 @@
 +.sine.2wordsgame.com
 +.sinera.org
 +.sinfoniaglobalexchange.com
-+.sinfonicavenezuela.org
 +.sinfulsecretproductions.com
 +.sing-tracker.com
 +.singaporecalendarguys.com
@@ -136620,7 +136599,6 @@
 +.sonarappliances.com
 +.sonare.jp
 +.sonautomatic.com
-+.sondakikahab-erler.com
 +.sondeca.com
 +.sonderaktion-aktuell.de
 +.sonderwerkzeuge.de
@@ -140191,7 +140169,6 @@
 +.storagelassitudeblend.com
 +.storageprotector.com
 +.storagestory.com
-+.storageunitdeal.com
 +.storagewitnessotherwise.com
 +.storamore.pl
 +.store-aleteia.org
@@ -142645,7 +142622,6 @@
 +.systems-bjoska.web.app
 +.systemsenragdll23.in
 +.systemserverrootmapforfiletrn.duckdns.org
-+.systemsminer.com
 +.systemspmk.org
 +.systemspoleczny.click
 +.systemsupport.pages.dev
@@ -142925,7 +142901,6 @@
 +.t.wayfair.de
 +.t.webjavaskript.net
 +.t.wizards.com
-+.t.wvjjnb.cn
 +.t.xoom.com
 +.t.xtubetv.net
 +.t.zg71.com
@@ -145280,7 +145255,6 @@
 +.the-latest-version.com
 +.the-match.jp
 +.the-millionaires-blueprintapp.financialmarketsworld.com
-+.the-neo-code.financialmarketsworld.com
 +.the-newsspy.app
 +.the-newsspy.org
 +.the-nft-profit.financialmarketsworld.com
@@ -152638,7 +152612,6 @@
 +.unikurier.cloud
 +.unilever-sourcing.com
 +.unilevereuropesourcing.com
-+.unilevver.com
 +.unilife.co.th
 +.unimedicus.com
 +.unimeduberlandia.duckdns.org
@@ -153400,7 +153373,6 @@
 +.upsups.click
 +.upsurge-capital.org
 +.upswings.net
-+.upsworldtracker.com
 +.upsystem.linkpc.net
 +.upt4poboxnow.com
 +.uptafashib.com
@@ -156131,7 +156103,6 @@
 +.vinted-pl-gj32d.netnet.shop
 +.vinted-pl-gj32d.newsr.top
 +.vinted-pl-gj32d.nwz1.xyz
-+.vinted-pl-gj32d.olxin.xyz
 +.vinted-pl-gj32d.onapps.xyz
 +.vinted-pl-gj32d.plest.xyz
 +.vinted-pl-gj32d.polygraph.live
@@ -160627,7 +160598,6 @@
 +.whrwlxg.icu
 +.whs-s.izite.top
 +.whsbpw.cn
-+.whsc2q9l9ge98m37j6dc6lp0.tripstray.com
 +.whservidor.com
 +.whsjg.cn
 +.whsjsj1717-d36bb1.ingress-florina.ewp.live
