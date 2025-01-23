@@ -1,9 +1,9 @@
-# Version: 202501231214
+# Version: 202501231310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44303
-# Last modified: 2025-01-23T12:14:07+0000
+# Entries: 44298
+# Last modified: 2025-01-23T13:10:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1121,7 +1121,6 @@
 +.5b3fbababb.com
 +.5b7cb7236e.com
 +.5bdd71381c.com
-+.5be7319a8b.com
 +.5bf177fbac.938b97e5ba.com
 +.5bf6d94b92.com
 +.5btekl14.de
@@ -17338,7 +17337,6 @@
 +.feemaujapsig.com
 +.feethach.com
 +.feetheho.com
-+.feevaihudofu.net
 +.feevolaphie.net
 +.feewostoo.com
 +.fefgvh.xyz
@@ -27243,7 +27241,6 @@
 +.ng3.ads.warnerbros.com
 +.ngbcrg3b.xn--ngbcrg3b.com
 +.ngc1.nsm-corp.com
-+.ngcouncern.xyz
 +.ngegas.files.im
 +.ngfruitiesmatc.info
 +.ngfycrwwd.com
@@ -30911,7 +30908,6 @@
 +.proftrafficcounter.com
 +.progenyoverhear.com
 +.progenyproduced.com
-+.programinsightplastic.com
 +.programmeframeworkpractically.com
 +.progressmaturityseat.com
 +.progressproceeding.com
@@ -33028,7 +33024,6 @@
 +.ric-ric-rum.com
 +.ricalsbuildfordg.info
 +.ricead.com
-+.ricettadellanonna.com
 +.ricewaterhou.xyz
 +.rich1x.xyz
 +.richestplacid.com
