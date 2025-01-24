@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 24 Jan 2025
 # LatestVersion 24.01
-# Domain Count: 15897
+# Domain Count: 15887
 #===============================================================
 
 +.0i0i0i0.com
@@ -387,7 +387,6 @@
 +.advertserve.com
 +.advisor.api.2gis.ru
 +.adviva.net
-+.advolution.de
 +.adworldmedia.com
 +.adx-id-ads.realmemobile.com
 +.adx.promo
@@ -430,17 +429,14 @@
 +.aimtell.com
 +.aireport.shalltry.com
 +.airpr.com
-+.aj1010.online
 +.aj1047.online
 +.aj1070.online
-+.aj1549.online
 +.aj1559.online
 +.aj1907.online
 +.aj1985.online
 +.aj2031.online
 +.aj2178.online
 +.aj2204.online
-+.aj2295.online
 +.aj2393.online
 +.aj2550.bid
 +.ak-is.net
@@ -513,10 +509,8 @@
 +.analytics.faw.sky.com
 +.analytics.feeder.co
 +.analytics.ff.avast.com
-+.analytics.flipperdevices.com
 +.analytics.formstack.com
 +.analytics.freemake.com
-+.analytics.gandi.net
 +.analytics.getpostman.com
 +.analytics.getshogun.com
 +.analytics.global.sky.com
@@ -611,7 +605,6 @@
 +.analytics.yinxiang.com
 +.analytics.yiyouliao.com
 +.analytics.yolacdn.net
-+.analytics.yongjinbao.com.cn
 +.analytics64.techsmith.com
 +.analyticsmsp.com
 +.analyticspixel.microsoft.com
@@ -834,7 +827,6 @@
 +.bidtheatre.com
 +.bidvol.com
 +.bigdata.adups.com
-+.bilateralgodmother.com
 +.bildirt.com
 +.bilgin.pro
 +.bilsyndication.com
@@ -1083,12 +1075,10 @@
 +.comscoreresearch.com
 +.concertads-configs.vox-cdn.com
 +.condenastdigital.com
-+.conductmassage.com
 +.config.claspws.tv
 +.config.sdk.scopely.io
 +.config.toto.zipoapps.com
 +.config.uca.cloud.unity3d.com
-+.confinementpleabotany.com
 +.confirmsubscription.com
 +.conjunctionrepresentativepowerless.com
 +.connatedresspint.com
