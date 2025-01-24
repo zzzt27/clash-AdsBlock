@@ -5,14 +5,13 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jan 2025 03:18 UTC
-# Version: 2025.0122.0318.00
+# Last modified: 24 Jan 2025 03:19 UTC
+# Version: 2025.0124.0319.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1481
+# Number of entries: 1479
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
-DOMAIN-SUFFIX,052419.xyz
 DOMAIN-SUFFIX,0ms.dev
 DOMAIN-SUFFIX,dns.0ooo.icu
 DOMAIN-SUFFIX,dns.0x55.net
@@ -132,6 +131,7 @@ DOMAIN-SUFFIX,dns.asysec.com
 DOMAIN-SUFFIX,adguardhome.atakorah.com
 DOMAIN-SUFFIX,atris.cyou
 DOMAIN-SUFFIX,dohtrial.att.net
+DOMAIN-SUFFIX,dns.auapi.fun
 DOMAIN-SUFFIX,africa.avastdns.com
 DOMAIN-SUFFIX,secure.avastdns.com
 DOMAIN-SUFFIX,adguard.avdkishore.dev
@@ -943,7 +943,6 @@ DOMAIN-SUFFIX,au-syd-w-f-1.nashkan.net
 DOMAIN-SUFFIX,de-fra-w-p-1.nashkan.net
 DOMAIN-SUFFIX,de-fsn-w-p-1.nashkan.net
 DOMAIN-SUFFIX,fi-hel-w-f-2.nashkan.net
-DOMAIN-SUFFIX,fr-gra-w-f-1.nashkan.net
 DOMAIN-SUFFIX,fr-gra-w-p-1.nashkan.net
 DOMAIN-SUFFIX,gb-cov-w-f-1.nashkan.net
 DOMAIN-SUFFIX,gb-cov-w-p-1.nashkan.net
@@ -1489,7 +1488,6 @@ DOMAIN-SUFFIX,adguard-kartoffel.zernico.de
 DOMAIN-SUFFIX,dns.zfsystem.tech
 DOMAIN-SUFFIX,doh.zknt.org
 DOMAIN-SUFFIX,zougloub.eu
-DOMAIN-SUFFIX,a.zpn.me
 DOMAIN-SUFFIX,dns.zzuhacker.cn
 IP-CIDR,1.0.0.1/32
 IP-CIDR,10.0.10.246/32
