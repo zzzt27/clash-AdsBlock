@@ -1,9 +1,9 @@
-# Version: 202501241610
+# Version: 202501241810
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 167465
-# Last modified: 2025-01-24T16:10:12+0000
+# Entries: 167475
+# Last modified: 2025-01-24T18:10:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4959,6 +4959,7 @@
 +.673c689d954b3d0c29202627c0cb1d8c.serveo.net
 +.675068potwierdz-weryfikacja.jdhs.pl
 +.675886logowanie-dalej.jdhs.pl
++.67659805.xyz
 +.677372aktualizacja.jdhs.pl
 +.677952kodem-potwierdz.jdhs.pl
 +.6786555.weebly.com
@@ -77358,6 +77359,7 @@
 +.inamiaaglow.life
 +.inaneamenvote.com
 +.inapagedeforfaitmobileok.live
++.inapeosrt.top
 +.inapostpl.top
 +.inappi.co
 +.inappi.me
@@ -78601,6 +78603,7 @@
 +.inpost.transcom.site
 +.inpost.us
 +.inpost.verify-check722.shop
++.inpost.viibycuccu.org
 +.inpost.wiki
 +.inpost.xyz
 +.inpost.yahpet.org
@@ -82880,6 +82883,7 @@
 +.jugshots.com
 +.jugu.market4fronts.com
 +.juguskelt.lat
++.juhake.com
 +.juheavy.weebly.com
 +.juhlkuu.com
 +.juhuiguoji.wang
@@ -83577,6 +83581,7 @@
 +.kaplanindex.com
 +.kaplanlawpractice.com
 +.kapman.com
++.kapogaa.com
 +.kapoorphotostore.com
 +.kaporalclothing.fr
 +.kappafr.fr
@@ -102521,6 +102526,7 @@
 +.ndlesexwrecko.org
 +.ndlm.fr
 +.ndlwtl.icu
++.ndmsils.net
 +.ndparking.com
 +.ndpugkr.com
 +.ndqkxjo.com
@@ -110588,6 +110594,7 @@
 +.p2poolmining.com
 +.p2r.eu
 +.p2sdmkj6t.bkt.clouddn.com
++.p2v.fun
 +.p2x7.com
 +.p3-tt.byteimg.com
 +.p3.dnvod.tv
@@ -115681,6 +115688,7 @@
 +.pocztpol927282.wpenginepowered.com
 +.pocztpoland.bubbleapps.io
 +.pocztuniwersytepl.weebly.com
++.pod-zamcheckin.shop
 +.pod.kurtgallant.com
 +.pod.mykiddi.com
 +.pod.xpress.com
@@ -117814,6 +117822,7 @@
 +.prevenzioneformazionelavoro.it
 +.preview-collector.scopely.io
 +.preview-domain.com
++.preview.federalcloudfiles.com
 +.preview.msn.com
 +.previewcopy365php.weebly.com
 +.previousplayground.com
@@ -164016,6 +164025,7 @@
 +.xukesa.tune2u.com
 +.xukpqemfs.com
 +.xulizui6.com
++.xulkervf.com
 +.xun.mobi
 +.xunchn.com
 +.xunlei.it
