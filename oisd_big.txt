@@ -1,9 +1,9 @@
-# Version: 202501251540
+# Version: 202501251810
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 167681
-# Last modified: 2025-01-25T15:40:36+0000
+# Entries: 167653
+# Last modified: 2025-01-25T18:10:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -128,10 +128,10 @@
 +.01x.09851736.xyz
 +.01x.59184872.xyz
 +.01x.69184872.xyz
++.01x.79184872.xyz
 +.021jf.com
 +.022aifang.com
 +.0234408.cn
-+.023a247dea.smart-cso.sbs
 +.023e6510cc.com
 +.023hysj.com
 +.024fpv.com
@@ -4026,7 +4026,6 @@
 +.51zgjs.mobi
 +.52-10.dedicado.com.uy
 +.52.red-88-23-128.staticip.rima-tde.net
-+.5221.net
 +.522450877525508-dot-charming-sky-2700.appspot.com
 +.523.cht-tslx.top
 +.523566745.on.fleek.co
@@ -5534,7 +5533,6 @@
 +.7me0ssd6.de
 +.7mhh5gky493r.live
 +.7minuteworkout.com
-+.7mk.fun
 +.7n1hfolmrnbl.live
 +.7nt9p4d4.de
 +.7o0rcdi7.forms.app
@@ -6027,7 +6025,6 @@
 +.919df2f4a5598031b47cce527e84a69a.com
 +.919gdzdsh875.live
 +.919yi.com
-+.91a8a068d5.com
 +.91adv.com
 +.91adv.com.cn
 +.91b83d56.sibforms.com
@@ -6853,6 +6850,7 @@
 +.a111.paidtomoney.com
 +.a11d3c1b4d.com
 +.a11egro1okalnie.73805847.xyz
++.a11eqr011okalnie.36591874.xyz
 +.a11k.com
 +.a11post.com
 +.a11xxx1.oss-cn-hongkong.aliyuncs.com
@@ -9356,7 +9354,6 @@
 +.adaptkenya.com
 +.adaptlipclamour.com
 +.adaptunemployed.com
-+.adaranth.com
 +.adarmor.com
 +.adaround.net
 +.adarutoad.com
@@ -9549,7 +9546,6 @@
 +.adcolony.com
 +.adcome.cn
 +.adcomplete.com
-+.adcomplete.ru
 +.adconfig.infolife.mobi
 +.adconfigproxy.azurewebsites.net
 +.adconion.com
@@ -10486,7 +10482,6 @@
 +.adorableattention.com
 +.adorableold.com
 +.adoracionnocturnamexicana.com
-+.adoredstation.pro
 +.adoric.com
 +.adorigin.com
 +.adoring-albattani.185-189-151-85.plesk.page
@@ -13646,7 +13641,6 @@
 +.agioss.info
 +.agipasesores.com
 +.agira-assurance.fr
-+.agirevolution.org
 +.agisdayra.com
 +.agitatechampionship.com
 +.agitategluttony.com
@@ -15379,7 +15373,6 @@
 +.allegro.pl-ofertaid891822100392.top
 +.allegro.pl.showitems.it
 +.allegro.pl7492390213.shop
-+.allegro.proponowane-kategorie-874124.icu
 +.allegro.su
 +.allegro.ttsl.pl
 +.allegro.y0c9a81.shop
@@ -15436,6 +15429,7 @@
 +.allegrolokalnie.3758392.com
 +.allegrolokalnie.465837-felgi.online
 +.allegrolokalnie.58735463454495.shop
++.allegrolokalnie.67302421.site
 +.allegrolokalnie.712900-412984y.shop
 +.allegrolokalnie.723661.cfd
 +.allegrolokalnie.765127.xyz
@@ -15509,11 +15503,9 @@
 +.allegrolokalnie.oferta33214.com
 +.allegrolokalnie.oferta46128.sbs
 +.allegrolokalnie.oferta463729.com
-+.allegrolokalnie.oferta5019.top
 +.allegrolokalnie.oferta648572.shop
 +.allegrolokalnie.oferta74.pl
 +.allegrolokalnie.oferta7800.shop
-+.allegrolokalnie.oferta86423.icu
 +.allegrolokalnie.oferta874535.world
 +.allegrolokalnie.oferta88231.com
 +.allegrolokalnie.oferta8882139.com
@@ -15624,6 +15616,7 @@
 +.allegrolokalnie.pl-p-4172.icu
 +.allegrolokalnie.pl-payu051.com
 +.allegrolokalnie.pl-polecane-ogloszenia.icu
++.allegrolokalnie.pl-promowane-87125.click
 +.allegrolokalnie.pl-propozycje-8715.buzz
 +.allegrolokalnie.pl-smartaukcje24h.shop
 +.allegrolokalnie.pl-smartzakupy24-h.shop
@@ -20207,7 +20200,6 @@
 +.ardovv.com
 +.ardri-lubrication.com
 +.ardruddigonan.com
-+.ardschatota.com
 +.ardsigorta.com
 +.ardsklangr.com
 +.ardslediana.com
@@ -21646,7 +21638,6 @@
 +.athusa.ceo
 +.athyimemediat.com
 +.athyimemediates.info
-+.atias-pump.com
 +.aticalfelixstownrus.info
 +.atiendyyy.s3.us-west-004.backblazeb2.com
 +.atik.co.il
@@ -27178,7 +27169,6 @@
 +.betjoltiktor.com
 +.betklefkior.com
 +.betleaders.com
-+.betlic.fr
 +.betmasquerainchan.com
 +.betmintn.com
 +.betnickpublications.com
@@ -28067,7 +28057,6 @@
 +.bird.webitizevoice.com
 +.birdbrotherroot.vercel.app
 +.birddogerc.com
-+.birdeangioid.com
 +.birdekor.com
 +.birdeye.online
 +.birdinquirer.com
@@ -28242,7 +28231,6 @@
 +.bitcoin-revolution.software
 +.bitcoin-revolutionsoftwareapp.financialmarketsworld.com
 +.bitcoin-rush.org
-+.bitcoin-santiago.financialmarketsworld.com
 +.bitcoin-smarter.app
 +.bitcoin-smarter.com
 +.bitcoin-sprint.info
@@ -31712,7 +31700,6 @@
 +.buildingsandpools.com
 +.buildingservicessolutions.com
 +.buildingsystems.gr
-+.buildingteardrops.com
 +.buildlives.com
 +.buildmassvids.com
 +.buildnaq91.site
@@ -33867,7 +33854,6 @@
 +.careers.canwestad.net
 +.careers.hotjar.com
 +.careers.ua
-+.careersaudisp.com
 +.careersletbacks.com
 +.careertransformation.us
 +.careertransitionworkshop.org
@@ -37361,7 +37347,6 @@
 +.circlelevel.com
 +.circlemill.com
 +.circleofengineers.com
-+.circlepass.com
 +.circlespan.com
 +.circlsocial.com
 +.circuit-one.com
@@ -40910,7 +40895,6 @@
 +.copieraback.com
 +.copieranewcaller.com
 +.copiercarriage.com
-+.copilot-proxy.aiu.im
 +.coplerni.click
 +.copo.info
 +.coporossa.com
@@ -52430,7 +52414,6 @@
 +.dvden.de
 +.dvdgayonline.com
 +.dvdienmayxanh.com
-+.dvdvendas.com.br
 +.dvdxs.trdeone.top
 +.dveatsdbjvv2g9bviioe6je0.motorcycleown.com
 +.dveri-pmr.com
@@ -65816,7 +65799,6 @@
 +.geocs.mx
 +.geodaljoyless.com
 +.geodator.com
-+.geodrive.net
 +.geoedge.be
 +.geofence.sys.miui.com
 +.geoffoglemusic.com
@@ -68902,6 +68884,7 @@
 +.grandlakedesigns.com
 +.grandmasanders.com
 +.grandmods.com
++.grandmonarch.lk
 +.grandmotherunit.com
 +.grandpagrandmotherhumility.com
 +.grandpashortestmislead.com
@@ -71021,7 +71004,6 @@
 +.halliwellcementrendering.com.au
 +.hallmarkedsilvered.pro
 +.hallmarkibmcom.112.2o7.net
-+.hallobakker.com
 +.hallofdevelopment.com
 +.hallohaus.co
 +.hallohaus.com
@@ -80863,7 +80845,6 @@
 +.jabe.kz
 +.jabooma.com
 +.jabraneproperties.com
-+.jacckie.com
 +.jaccs.122.2o7.net
 +.jacekpawlowski.aleksytymon.com.pl
 +.jack4jobs.com
@@ -82350,7 +82331,6 @@
 +.jonahsminecraft.com
 +.jonahsrecovery.org
 +.jonak-outlet-paris.fr
-+.jonasbeckman.com
 +.jonasmarkel.com
 +.jonaspair.com
 +.jonaswhiskeyheartbeat.com
@@ -82848,6 +82828,7 @@
 +.jsiygcyzrhg.club
 +.jsjinnuo.com
 +.jsjsjsjddd.top
++.jskdjsjdw.buzz
 +.jskrnekewe.mofans.net
 +.jsksolutions.co.za
 +.jslog.coupang.com
@@ -87298,7 +87279,6 @@
 +.lan2.100second.com
 +.lanaalkhabar.com
 +.lanaciondelislam.org
-+.lanadlite.com
 +.lanahinds.com
 +.lanalangels.com
 +.lananquepostale.fr
@@ -97122,6 +97102,7 @@
 +.mhmoni.com
 +.mhmsoftware.com
 +.mhnrw.com
++.mhost.simple-url.com
 +.mhplassociats.com
 +.mhsalum.isinqa.com
 +.mhtrt.com
@@ -99460,7 +99441,6 @@
 +.montelena-rcv.gmarket.co.kr
 +.montelena.auction.co.kr
 +.montelena.gmarket.co.kr
-+.montenegro-canada.com
 +.montenegro-macedonia.mk
 +.montenegro-today.com
 +.montessorihomestead.com
@@ -107215,6 +107195,7 @@
 +.ohtctjiuow.com
 +.ohtpigod.com
 +.ohtulehtadee.hit.gemius.pl
++.ohx.36594580.xyz
 +.ohx.68457822.xyz
 +.oi-ppao.web.app
 +.oi.429men.com
@@ -108279,7 +108260,6 @@
 +.onepounds.com
 +.onepp1vs.top
 +.onepstr.com
-+.onepx.kr
 +.oner-activefrance.fr
 +.onerousgreeted.com
 +.onerts.glitch.me
@@ -115743,6 +115723,7 @@
 +.poczta-pols.com
 +.poczta-polska-botabba330279.codeanyapp.com
 +.poczta-polska-ed677.web.app
++.poczta-polska-pl-oplaty.customsie.com
 +.poczta-polska-pl-zaplata.customsie.com
 +.poczta-polska-pl.com
 +.poczta-polska-pl.customsie.com
@@ -116016,7 +115997,6 @@
 +.pol-gazeta.mediacrss.com
 +.pol-inpost-pakiet.club
 +.pol-inpost-pakiet.info
-+.pol-inpost.top
 +.pol-inpostea.life
 +.pol-inposteurto.top
 +.pol-inpostonsy.club
@@ -127905,7 +127885,6 @@
 +.sa.scorpion.co
 +.sa.sina.cn
 +.sa.sv
-+.sa168bet.com
 +.sa44.net
 +.saabfrance.fr
 +.saad.ms.zhangyue.net
@@ -131949,7 +131928,6 @@
 +.setupdeliveredteapot.com
 +.setupgrade.com
 +.setupmortgage.com
-+.setupstoreuy.com
 +.seualcance.com.br
 +.seudepartamentofiscal.com.de
 +.seuinformativo.com.br
@@ -139260,7 +139238,6 @@
 +.steamcommunillty.com
 +.steamcommunillty.ru
 +.steamcommunilty.com
-+.steamcommuniltys.com
 +.steamcommuninty.com
 +.steamcommunitey.com
 +.steamcommunitey.ru
@@ -140577,6 +140554,7 @@
 +.subskryp.gotdns.com
 +.subskryp.space-to-rent.com
 +.subskrypcji.dnsalias.com
++.subskrypcji.gotdns.com
 +.subskrypcji.on-the-web.tv
 +.subsonictradings.com
 +.subsoorgaus.com
@@ -141638,7 +141616,6 @@
 +.svc.kartinka.com.ua
 +.svc2.sc.com
 +.svca-txnoticeinfo.com
-+.svch0st.ru
 +.svcm.troove.top
 +.svcoding.com
 +.svcpharna.com
@@ -154285,7 +154262,6 @@
 +.vay9.com
 +.vaybimo.com
 +.vaycaptoc-vn.com
-+.vayde247.net
 +.vaykamo.com
 +.vaylien88.com
 +.vaymbbank.com
@@ -155389,7 +155365,6 @@
 +.view.binlayer.com
 +.view.fujitv.co.jp
 +.view.jamba.de
-+.view.kcc-okta.org
 +.view.streamingnetfl.com
 +.view4cash.de
 +.view52.com
@@ -159381,7 +159356,6 @@
 +.wettransfer13.gsxx.org
 +.wettransfer13.zghf.org
 +.wettransfer14.qujh.org
-+.wettransfer14.rmcz.org
 +.wettransfer14.xoqu.org
 +.wettransfer15.gsxx.org
 +.wettransfer16.husf.org
@@ -159442,7 +159416,6 @@
 +.wettransfer33.wojq.net
 +.wettransfer35.fkfy.org
 +.wettransfer35.husf.org
-+.wettransfer35.lxtf.org
 +.wettransfer35.qezn.org
 +.wettransfer35.teqg.net
 +.wettransfer36.wojq.net
@@ -159466,7 +159439,6 @@
 +.wettransfer44.rmcz.org
 +.wettransfer45.gsxx.org
 +.wettransfer45.husf.org
-+.wettransfer45.lxtf.org
 +.wettransfer45.qaru.org
 +.wettransfer45.zjvm.org
 +.wettransfer46.gsxx.org
@@ -159474,7 +159446,6 @@
 +.wettransfer46.tynd.org
 +.wettransfer46.zjvm.org
 +.wettransfer47.qujh.org
-+.wettransfer47.rrxk.org
 +.wettransfer48.husf.org
 +.wettransfer48.lxtf.org
 +.wettransfer48.teqg.net
@@ -160676,7 +160647,6 @@
 +.winnicotttrust.org
 +.winnies-bikeservice.de
 +.winnifredcharisse.net
-+.winningbet.org
 +.winningorphan.com
 +.winnota.com
 +.winnowapp.click
@@ -162094,6 +162064,7 @@
 +.wubbaboost.blogspot.com
 +.wuber.fr
 +.wubingdu.cn
++.wucgisd9dd9d2o97j0ss3jh4.petbolte.com
 +.wuchaurteed.com
 +.wuckaity.com
 +.wuczmaorkqaz.com
@@ -164394,6 +164365,7 @@
 +.xyk.txshi.com
 +.xyl.lat
 +.xylas.us
++.xylemgyroplane.com
 +.xylmdm.top
 +.xyloxaks.com
 +.xyly2016.com
