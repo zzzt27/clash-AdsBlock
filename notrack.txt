@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 25 Jan 2025
 # LatestVersion 24.01
-# Domain Count: 15887
+# Domain Count: 15877
 #===============================================================
 
 +.0i0i0i0.com
@@ -1280,7 +1280,6 @@
 +.dovetale.com
 +.dowjoneson.com
 +.dpmsrv.com
-+.drawingwheels.com
 +.dressipi.com
 +.drift.com
 +.driftt.com
@@ -1312,7 +1311,6 @@
 +.easycounter.com
 +.easygoingasperitydisconnect.com
 +.ebayadvertising.com
-+.ebaypartnernetwork.com
 +.ebuckler.com
 +.ebz.io
 +.ecustomeropinions.com
@@ -1348,7 +1346,6 @@
 +.elabs6.com
 +.elabs7.com
 +.elasticad.net
-+.elevationadvertising.com
 +.elitechnology.com
 +.elitrack.com
 +.eloqua-trackings.unity.com
@@ -1455,7 +1452,6 @@
 +.f-log.grammarly.io
 +.facesnotebook.com
 +.failover-telemetry-eu.tradingview.com
-+.falsifylilac.com
 +.fastly-insights.com
 +.fatmedia.io
 +.fbcdn2.com
@@ -1526,7 +1522,6 @@
 +.friendshipmale.com
 +.frosmo.com
 +.frostscanty.com
-+.frscosr.com
 +.frtyg.com
 +.ftads.net
 +.ftd.agency
@@ -1612,7 +1607,6 @@
 +.grantedpigsunborn.com
 +.grapeshot.co.uk
 +.graph.accountkit.com
-+.graphiq.com
 +.gravity.com
 +.greengrowth.space
 +.greystripe.com
@@ -1684,10 +1678,8 @@
 +.horizontallypolluteembroider.com
 +.hotjar.com
 +.hotlog.ru
-+.howoverlapsuspicious.com
 +.hprofits.com
 +.hpyrdr.com
-+.hrb1tng0.com
 +.hs-analytics.com
 +.hs-analytics.net
 +.hs-banner.com
@@ -1866,13 +1858,11 @@
 +.jwpltx.com
 +.k-analytix.com
 +.kaggle.io
-+.kalooga.com
 +.kameleoon.com
 +.kameleoon.eu
 +.kampane.virtualstudio.sk
 +.kampyle.com
 +.kargo.com
-+.kastatic.com
 +.katecrochetvanity.com
 +.kau.li
 +.kawunimy.com
