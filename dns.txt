@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jan 2025 00:30 UTC
-# Version: 2025.0125.0030.13
+# Last modified: 24 Jan 2025 03:19 UTC
+# Version: 2025.0124.0319.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1478
+# Number of entries: 1479
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,dns.asysec.com
 DOMAIN-SUFFIX,adguardhome.atakorah.com
 DOMAIN-SUFFIX,atris.cyou
 DOMAIN-SUFFIX,dohtrial.att.net
+DOMAIN-SUFFIX,dns.auapi.fun
 DOMAIN-SUFFIX,africa.avastdns.com
 DOMAIN-SUFFIX,secure.avastdns.com
 DOMAIN-SUFFIX,adguard.avdkishore.dev
