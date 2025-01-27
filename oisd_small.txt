@@ -1,9 +1,9 @@
-# Version: 202501262210
+# Version: 202501270009
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44239
-# Last modified: 2025-01-26T22:10:43+0000
+# Entries: 44229
+# Last modified: 2025-01-27T00:09:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -769,7 +769,6 @@
 +.34.gs
 +.3435388557.com
 +.34475780.xyz
-+.3467b7d02e.com
 +.34c828d354.9013e61823.com
 +.34d5566a50.com
 +.34gwl8v1a.com
@@ -1193,6 +1192,7 @@
 +.62zd0.icu
 +.6306c7a8c8.cde90a5fb0.com
 +.633c66f0dc.com
++.63801782.xyz
 +.638236rpn.com
 +.63912b9175.com
 +.639c909d45.com
@@ -2179,7 +2179,6 @@
 +.absentmissingaccept.com
 +.abservinean.com
 +.abskursin.com
-+.abslroan.com
 +.absolutebarbarafashioned.com
 +.absoluteclickscom.com
 +.absolutecouplediffer.com
@@ -2549,7 +2548,6 @@
 +.ad.games.ch
 +.ad.genybet.fr
 +.ad.gmw.cn
-+.ad.graciamediaweb.com
 +.ad.grafika.cz
 +.ad.groupon.fr
 +.ad.gt
@@ -4964,7 +4962,6 @@
 +.alloysteel.ru
 +.allpdfmags.net
 +.allpornovids.com
-+.allprofitsurvey.top
 +.allrightpaint.com
 +.allskillon.com
 +.allsports4free.live
@@ -6943,7 +6940,6 @@
 +.avemariaas.vmrcommunications.com
 +.avenaryconcent.com
 +.aveneverseeno.info
-+.avengeburglar.com
 +.avengeghosts.com
 +.avenuea.com
 +.avenueinvoke.com
@@ -20630,7 +20626,6 @@
 +.honknl.xyz
 +.honkoutsing.com
 +.honksbiform.com
-+.honorable-customer.pro
 +.honorablehalt.com
 +.honorbustlepersist.com
 +.honourprecisionsuited.com
@@ -30131,7 +30126,6 @@
 +.ployingcurship.com
 +.plqbxvnjxq92.com
 +.plrst.com
-+.plsrcmp.com
 +.pltamaxr.com
 +.pluckyhit.com
 +.pluckymausoleum.com
@@ -31578,7 +31572,6 @@
 +.pxls4gm.space
 +.pxltrck.com
 +.pxpfnbe1t1.com
-+.pxrbl.megafilms.me
 +.pxyepmwex.com
 +.pxzrlf.xyz
 +.pycnictouchup.click
@@ -33667,7 +33660,6 @@
 +.runwaff.com
 +.runwayrenewal.com
 +.ruohmghwpzzp.com
-+.ruozukk.xyz
 +.rural-report.pro
 +.ruralnobounce.com
 +.rusenov.com
@@ -42597,7 +42589,6 @@
 +.wonnedmorling.click
 +.wonnerdirging.com
 +.wooballast.com
-+.woodbeesdainty.com
 +.woodejou.net
 +.wooden-comfort.com
 +.woodenguardsheartburn.com
@@ -42655,7 +42646,6 @@
 +.worldwide-cash.net
 +.worlowedonhi.info
 +.worm.communitytrustproject.org
-+.wormdehydratedaeroplane.com
 +.wornshoppingenvironment.com
 +.worritsmahra.com
 +.worryingonto.com
