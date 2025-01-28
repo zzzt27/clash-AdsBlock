@@ -1,9 +1,9 @@
-# Version: 202501281310
+# Version: 202501281610
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44205
-# Last modified: 2025-01-28T13:10:16+0000
+# Entries: 44194
+# Last modified: 2025-01-28T16:10:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6440,8 +6440,6 @@
 +.as.lenkino.adult
 +.as.pomcdn.com
 +.as.webmd.com
-+.as01271kkp.xyz
-+.as01280kkp.xyz
 +.as1.m.hao123.com
 +.as1.maturexxx.vip
 +.as1.wenku.baidu.com
@@ -7028,7 +7026,6 @@
 +.awesome-blocker.com
 +.awesomeprizedrive.co
 +.awestatic.com
-+.awexjtozogod.com
 +.aweyqalyljbj.top
 +.aweyqalylqqr.top
 +.awfulresolvedraised.com
@@ -14904,7 +14901,6 @@
 +.dolils.click
 +.dollarade.com
 +.dollinwurleys.com
-+.dollkaltydytu.cf
 +.dolohen.com
 +.dolphin.brandname.tech
 +.dolphin.mayansmithgobat.de
@@ -16081,7 +16077,6 @@
 +.emeryexcel.click
 +.emigrantbeasts.com
 +.emigrantmovements.com
-+.eminent-hang.pro
 +.emitmagnitude.com
 +.emjpbua.com
 +.emjrwypl.xyz
@@ -37984,7 +37979,6 @@
 +.tenthgiven.com
 +.tenthsfrumpy.com
 +.tentioniaukmla.info
-+.tentmess.com
 +.tentubu.xyz
 +.tepirhdbauahk.com
 +.terabigyellowmotha.info
@@ -40168,7 +40162,6 @@
 +.ufiidvv.icu
 +.ufiledsit.com
 +.ufiler-pro2.ru
-+.ufindsoul.com
 +.ufinkln.com
 +.ufiuhnyydllpaed.com
 +.ufpcdn.com
@@ -40181,7 +40174,6 @@
 +.ughtanothin.info
 +.ughzfjx.com
 +.ugloopie.com
-+.ugly-routine.pro
 +.ugolue.xyz
 +.ugopkl.com
 +.ugrarvy.com
@@ -40892,7 +40884,6 @@
 +.vampirebat.git-tower.com
 +.vampirebat.tinamrak.com
 +.vamsoupowoa.com
-+.vandalismblackboard.com
 +.vandalismundermineshock.com
 +.vanderebony.pro
 +.vanderlisten.pro
@@ -42514,7 +42505,6 @@
 +.woaneezy.com
 +.woaniphud.com
 +.woapheer.com
-+.woapimaugu.net
 +.woareejoaley.net
 +.wobbly-birth.com
 +.wocwibkfutrj.com
@@ -43366,7 +43356,6 @@
 +.xu2.com
 +.xuakn.icu
 +.xubcnzfex.com
-+.xudaiklj.com
 +.xudarl.xyz
 +.xue.zbyw.cn
 +.xueaaaw.cn
