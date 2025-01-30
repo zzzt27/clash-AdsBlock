@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 30 Jan 2025
 # LatestVersion 24.01
-# Domain Count: 15859
+# Domain Count: 15856
 #===============================================================
 
 +.0i0i0i0.com
@@ -14551,7 +14551,6 @@
 +.smetrics.ceratizit.com
 +.smetrics.cfainstitute.org
 +.smetrics.cfox.com
-+.smetrics.chemistanddruggist.co.uk
 +.smetrics.chicagobusiness.com
 +.smetrics.christianscience.com
 +.smetrics.christies.com
@@ -14568,7 +14567,6 @@
 +.smetrics.coca-cola.com
 +.smetrics.coca-colaentuhogar.com
 +.smetrics.codan.dk
-+.smetrics.columbia.com
 +.smetrics.comenity.net
 +.smetrics.comparethemarket.com
 +.smetrics.consumerreports.org
@@ -15837,7 +15835,6 @@
 +.yieldmo.com
 +.yieldoptimizer.com
 +.yieldrealistic.com
-+.yim3eyv5.top
 +.yjtag.jp
 +.ykvlen.com
 +.yldbt.com
