@@ -1,9 +1,9 @@
-# Version: 202501310109
+# Version: 202501310309
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 169981
-# Last modified: 2025-01-31T01:09:00+0000
+# Entries: 169984
+# Last modified: 2025-01-31T03:09:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15724,6 +15724,7 @@
 +.allegrolokalniepl.p24-8764653627823.icu
 +.allegrolokalniepl.p24-908746357.cfd
 +.allegrolokalniepl.pl-654352637.sbs
++.allegrolokolnie.pl
 +.allegromall.co
 +.allegrome.com
 +.allegromx.com
@@ -22648,7 +22649,6 @@
 +.avast-downloads.com
 +.avast-investment.web.app
 +.avast.services
-+.avastcsm.com
 +.avastcxp.com
 +.avastcxt.com
 +.avasters.com
@@ -26369,6 +26369,7 @@
 +.beginoppressivegreet.com
 +.begknock.com
 +.beglobalinc.com
++.begoihuh.com
 +.begracetindery.com
 +.beguessbents.com
 +.begumazing.com
@@ -43744,7 +43745,6 @@
 +.cyberdaniel.com
 +.cyberdefender.122.2o7.net
 +.cyberdefense.rocks
-+.cyberden.ng
 +.cyberdomains.net
 +.cyberduck.de
 +.cyberduck.es
@@ -122312,6 +122312,7 @@
 +.pw.gigazine.net
 +.pw.tikqus.top
 +.pw.zpetna.top
++.pw2.fun
 +.pw2ct1.asia
 +.pw321.com
 +.pw32n6xs44kz.live
@@ -127467,6 +127468,7 @@
 +.rmtag.com
 +.rmtcityfr.com
 +.rmtckjzct.com
++.rmtxdn.icu
 +.rmu0.dgelarente.com
 +.rmuuspy.com
 +.rmw.jdburl.com
@@ -157328,6 +157330,7 @@
 +.vh1com.112.2o7.net
 +.vhanu.com
 +.vhatch.com
++.vhbeyeqaukjui.xyz
 +.vhdbohe.com
 +.vhducnso.com
 +.vhgunzr.cn
