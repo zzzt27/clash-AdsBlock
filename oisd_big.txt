@@ -1,9 +1,9 @@
-# Version: 202502010409
+# Version: 202502010609
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 171016
-# Last modified: 2025-02-01T04:09:40+0000
+# Entries: 170973
+# Last modified: 2025-02-01T06:09:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4206,7 +4206,6 @@
 +.54036cb1.catv.pool.telekom.hu
 +.54037206.catv.pool.telekom.hu
 +.54037260.catv.pool.telekom.hu
-+.54037325.catv.pool.telekom.hu
 +.540376f7.catv.pool.telekom.hu
 +.54037a0b.catv.pool.telekom.hu
 +.54037b29.catv.pool.telekom.hu
@@ -5281,6 +5280,7 @@
 +.746578-8.web.fhgr.education
 +.747832aktualizacja.jdhs.pl
 +.747dc46a4d.8428db03e3.com
++.748369521.xyz
 +.74b6c9bebf541c17a229d921556d14a4ffd4.com.tr
 +.74f0283889.com
 +.74fed133.kortfilmfestivalen.no
@@ -5439,7 +5439,6 @@
 +.7aut-budda.pro
 +.7aut-loteria.info
 +.7aut-loteria.live
-+.7aut.info
 +.7aut.net
 +.7aut.pro
 +.7aut.shop
@@ -15552,7 +15551,6 @@
 +.allegrolokalnie.com.de
 +.allegrolokalnie.d6k361lf91c47yfjb.pl
 +.allegrolokalnie.elektronika-iphone.pl
-+.allegrolokalnie.eplatnosci-24h.pl
 +.allegrolokalnie.euweb.cz
 +.allegrolokalnie.i-aukcja24h-7.pl
 +.allegrolokalnie.id-2874.pl
@@ -15745,7 +15743,6 @@
 +.allegrolokalnie.proponowane-ogloszenia-9d9.shop
 +.allegrolokalnie.proponowane-ogloszenia31.shop
 +.allegrolokalnie.propozycja-id876.shop
-+.allegrolokalnie.propozycje-kategorie-9318.shop
 +.allegrolokalnie.prywatnaoferta-24-h.pl
 +.allegrolokalnie.search-1031.shop
 +.allegrolokalnie.shop
@@ -15861,7 +15858,6 @@
 +.allhacksforgames.com
 +.allhugeblog.com
 +.allhugenews.com
-+.allhugenewz.com
 +.allhypefeed.com
 +.allhyperlinks.com
 +.allhyve.com
@@ -18449,7 +18445,6 @@
 +.antfa.link
 +.antfarmspecialty.com
 +.anthemazbeeremoval.com
-+.anthemmutevenison.com
 +.anthemportalcommence.com
 +.anthill.vn
 +.anthony760.com
@@ -23306,7 +23301,6 @@
 +.azoka.thecrazyblonde.com
 +.azomoney.ddns.net
 +.azomzaozm.szrxgzs.com
-+.azoneus-docs.com
 +.azonmoney.com
 +.azoogleads.com
 +.azoos.csheaven.com
@@ -30421,7 +30415,6 @@
 +.bot.dstat.ovh
 +.bot.fmovies.sk
 +.bot.haluodq.cc
-+.bot.iamdelta.xyz
 +.bot.lingfengfs.com
 +.bot.lukos-trade.ro
 +.bot.maximizator.xyz
@@ -30455,7 +30448,6 @@
 +.botmail.fr
 +.botnet.hopto.org
 +.botnet.lexro.com
-+.botnet.nsohunter.com
 +.botnet.pagekite.me
 +.botnet.sharkcdn.net
 +.botnet.tfmobile.store
@@ -31815,7 +31807,6 @@
 +.budgethardware.net
 +.budgetheating.info
 +.budgetportrait.com
-+.budgettraveltips.biz
 +.budgetttysnzm.shop
 +.budgetwizard.io
 +.budgidjskwj.b-cdn.net
@@ -35851,7 +35842,6 @@
 +.certified-apps.com
 +.certified-hacks.com
 +.certified-toolbar.com
-+.certifixappliancerepair.com
 +.certifixwashingmachinerepair.com
 +.certify-compte.fr
 +.certify-connect.fr
@@ -42534,7 +42524,6 @@
 +.creating-spectacular.com
 +.creating.studio
 +.creatingablog.co.cc
-+.creatingaiads.com
 +.creation-referencement-sites.com
 +.creationindustry.com
 +.creationstoucom.com
@@ -50848,6 +50837,7 @@
 +.doctoryoungster.com
 +.doctossimo.fr
 +.document-c.infinityfreeapp.com
++.document-cloud-online.latosbono.workers.dev
 +.document-file-extension-56353.square.site
 +.document-via-google-doc.bottlerockethq.com
 +.document.wordsmithindia.in
@@ -51164,7 +51154,6 @@
 +.dominionenterprises.112.2o7.net
 +.dominioseternosgraciasadios20230230230.duckdns.org
 +.dominoduck2020.duckdns.org
-+.dominoduck2030.duckdns.org
 +.dominoduck20401.duckdns.org
 +.dominoduck2067.duckdns.org
 +.dominoduck2103.duckdns.org
@@ -51333,7 +51322,6 @@
 +.dopansearor.com
 +.dopassiveincome.com
 +.dopaydayloan.com
-+.dope-snow-france.fr
 +.dope-ufen.web.app
 +.dope.autos
 +.dope88.com
@@ -52388,6 +52376,7 @@
 +.drop-ph.com
 +.drop99.com.de
 +.dropbbase.com
++.dropbox-document-online.tiiny.site
 +.dropbox.lilyskitchen.skyfencenet.com
 +.dropbox54.com
 +.dropboxsecuredocumentsuploaded.com.donrapi.com
@@ -55024,7 +55013,6 @@
 +.einkaufen-ohne-rezepte.com.de
 +.einkaufsallianz.de
 +.einkommensrevolution.de
-+.einpost.life
 +.einpsopl.vip
 +.einsteinspub.com
 +.eio-medicals.com
@@ -55591,7 +55579,6 @@
 +.eltontry.com
 +.eltorobets.com
 +.eltrafiko.com
-+.elugnoasargo.com
 +.elumisys.com
 +.eluocs.xyz
 +.eluoyi.xbiquge6.com
@@ -59515,7 +59502,6 @@
 +.faggotstagily.shop
 +.faggrim.com
 +.fagnopackh.com
-+.fagywalu.pro
 +.fahad26smsm.duckdns.org
 +.fahd2010.ddns.net
 +.fahd2011.ddns.net
@@ -60503,7 +60489,6 @@
 +.fdiirjong.com
 +.fdijx.yt
 +.fdiscord.com
-+.fdizle.com
 +.fdjcasino.fr
 +.fdlc.eu
 +.fdlsnwbritrpkw.com
@@ -61443,7 +61428,6 @@
 +.filmowyswiat.pl
 +.films.com.pl
 +.films.ws
-+.filmsbyswami.com
 +.filmscollection.com
 +.filmserialeonlineee.blogspot.com
 +.filmshngjbzix.blogspot.com
@@ -65492,7 +65476,6 @@
 +.gaipochipsefoud.net
 +.gaipuzui.com
 +.gaireegroahy.net
-+.gaishaisteth.com
 +.gaitcubicle.com
 +.gaitoath.com
 +.gaitswhew.shop
@@ -70665,7 +70648,6 @@
 +.growthbaba.com
 +.growthbuddy.app
 +.growthcourse.com
-+.growthdrivenerst.pro
 +.growthimpetus.com
 +.growthinvestingpros.com
 +.growthjetfinancial.com
@@ -73494,7 +73476,6 @@
 +.hemcpjyhwqu.com
 +.hemenindir.to
 +.hemeratenses.com
-+.hemhiveoccasion.com
 +.hemicircular.com
 +.hemineedunks.com
 +.hemmedspair.com
@@ -74599,7 +74580,6 @@
 +.hogi.mailpulseprso.com
 +.hoglfrance.fr
 +.hoglinsu.com
-+.hognaivee.com
 +.hohamsie.net
 +.hohe-berg-bayern.de
 +.hohmann-weberei.com
@@ -75527,7 +75507,6 @@
 +.houdodoo.net
 +.houhost.hopto.org
 +.houhoumooh.net
-+.houlaijy.com
 +.houloul.org
 +.hour.757realestatesearch.com
 +.hourglasssealedstraightforward.com
@@ -77111,7 +77090,6 @@
 +.id-80769.com
 +.id-80816.com
 +.id-81043.com
-+.id-81190.com
 +.id-82377.com
 +.id-84956.com
 +.id-87577.com
@@ -80570,7 +80548,6 @@
 +.interia-10515333s.weeblysite.com
 +.interia-24-pl.livejournal.com
 +.interia-euhelp.icu
-+.interia-help-eu.biz
 +.interia-help.world
 +.interia-info.livejournal.com
 +.interia-support.eu
@@ -97612,7 +97589,6 @@
 +.medicals4.com
 +.medicalservices.live
 +.medicambio.com
-+.medicareenrollmentace.com
 +.medicarehelps.com
 +.medicareoptions.me
 +.medicareplans.me
@@ -103771,7 +103747,6 @@
 +.nahabv2.godaddysites.com
 +.nahjzx.xyz
 +.nahnoji.cz
-+.nahotseetsoo.com
 +.nahyanassetmgt.com
 +.naiantcapling.com
 +.naichootikie.com
@@ -104608,7 +104583,6 @@
 +.neatwebs.com
 +.neawaytogyptsix.info
 +.neb.vamza.top
-+.nebatio.com
 +.nebbowmen.top
 +.neber.112.2o7.net
 +.nebnr.112.2o7.net
@@ -115510,7 +115484,6 @@
 +.pflq.duowan.com
 +.pflzergroup.com
 +.pfmmzmdba.com
-+.pfn.twpinfm.com
 +.pfp.sina.com.cn
 +.pfp.sina.net
 +.pfpip.sina.com
@@ -127664,7 +127637,6 @@
 +.ri.appme.ru
 +.ri.dehatop.com
 +.ri11que-za.com
-+.riadasdore.com
 +.riaincallahan.com
 +.riamiavid.com
 +.riaoz.xyz
@@ -133561,7 +133533,6 @@
 +.seniorwish.com
 +.seniorx.no-ip.biz
 +.sennora.com
-+.sennos.com.br
 +.senonsiatinus.com
 +.senoreplyfailpaypa1.sytes.net
 +.senpush.com
@@ -133983,7 +133954,6 @@
 +.server109526.nazwa.pl
 +.server109963.nazwa.pl
 +.server120650.nazwa.pl
-+.server123175.nazwa.pl
 +.server123454.nazwa.pl
 +.server123481.nazwa.pl
 +.server132024.nazwa.pl
@@ -134051,7 +134021,6 @@
 +.server364714.nazwa.pl
 +.server365449.nazwa.pl
 +.server372121.nazwa.pl
-+.server375674.nazwa.pl
 +.server379672.nazwa.pl
 +.server385882.nazwa.pl
 +.server387376.nazwa.pl
@@ -134071,7 +134040,6 @@
 +.server439651.nazwa.pl
 +.server440086.nazwa.pl
 +.server441485.nazwa.pl
-+.server443353.nazwa.pl
 +.server454171.nazwa.pl
 +.server455405.nazwa.pl
 +.server457302.nazwa.pl
@@ -134170,7 +134138,6 @@
 +.server938944.nazwa.pl
 +.server939608.nazwa.pl
 +.server944006.nazwa.pl
-+.server945341.nazwa.pl
 +.server946404.nazwa.pl
 +.server952250.nazwa.pl
 +.server954031.nazwa.pl
@@ -138126,7 +138093,6 @@
 +.smwww.112.2o7.net
 +.smx.nu
 +.smxflvz.cn
-+.smxgmup.com
 +.sn-gzzx.com
 +.sna2zzalation.shop
 +.snabbbudget.com
@@ -143866,7 +143832,6 @@
 +.suntau.com
 +.suntecktts.com
 +.suntreebearing.com
-+.suntrunf.beget.tech
 +.sunucutara.org
 +.sunukoomthies.com
 +.sunusa.in
@@ -150573,7 +150538,6 @@
 +.topstats.com
 +.topstats.net
 +.topstrathfield.com
-+.topsummerapps.net
 +.topsupdate.com
 +.topsurfer.com
 +.topswp.com
@@ -157704,7 +157668,6 @@
 +.vealedincite.com
 +.vealsithe.com
 +.vebadu.com
-+.vebinmy.pro
 +.vebowuigu.xyz
 +.vebuli.opinionblitz.com
 +.vebv8me7q.com
@@ -158596,6 +158559,7 @@
 +.vidigital.ru
 +.vidkimob.quest
 +.vidkit.io
++.vidlithub.com
 +.vidomusic.org
 +.vidoomy.com
 +.vidora.com
@@ -159061,7 +159025,6 @@
 +.vinted.gain983.run
 +.vinted.id765019834.com
 +.vinted.loade-t.site
-+.vinted.mguard.shop
 +.vinted.offer-4301.shop
 +.vinted.offer2584.shop
 +.vinted.offer2872.bid
@@ -159135,7 +159098,6 @@
 +.violetvibes.cam
 +.violinboot.com
 +.violinmode.com
-+.vionicshoesfrance.fr
 +.vionito.com
 +.vionservices.com
 +.viovbarefootspolska.com
@@ -162616,7 +162578,6 @@
 +.west.statisticplatform.com
 +.west001.com
 +.westakronivtherapy.com
-+.westartart.com
 +.westblvdrealestategroup.com
 +.westcoa.com
 +.westcroftmotorhomes.com
@@ -162814,7 +162775,6 @@
 +.wetwo.yt
 +.wetypk.xyz
 +.weu0cqqmv1r3c2mvi4d8m1dm.gardenkilo.com
-+.weufq.sbs
 +.weuw.fxxmaxtrade.top
 +.wevpgjjpoft2fulvio7fcbje.lifestyleexact.com
 +.wevv.prodepl.top
@@ -164901,7 +164861,6 @@
 +.wpbp06g8lqkv9dqvi2djpnbk.cookingmodes.com
 +.wpcdn1.herokuapp.com
 +.wpclick.cc
-+.wpcnzz.com
 +.wpcodes.org
 +.wpd83hnc3nrk4ip539dadd7j.gameignighter.com
 +.wpdigis.com
@@ -168042,7 +168001,6 @@
 +.ydsdisuses.shop
 +.ydttxdqe.xyz
 +.yduap.trstt.site
-+.ydwlkj.com
 +.ydworld.com
 +.ye.dun.163yun.com
 +.ye185hcamw.com
@@ -168838,7 +168796,6 @@
 +.yourspeakingpower.com
 +.yoursportmanager.com
 +.yoursuccessfulbrand.com
-+.yourtahoe.com
 +.yourtemplatefinder.com
 +.yourtopicgroup.com.de
 +.yourtopnews.com
