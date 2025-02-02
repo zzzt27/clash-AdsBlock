@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 02 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15855
+# Domain Count: 15853
 #===============================================================
 
 +.0i0i0i0.com
@@ -15173,7 +15173,6 @@
 +.stat.dealtime.com
 +.stat.domainrecover.com
 +.stat.media
-+.stat.mixi.media
 +.stat.okko.tv
 +.stat.tiara.daum.net
 +.stat.tiara.melon.com
@@ -15448,7 +15447,6 @@
 +.tracker.nitropay.com
 +.tracker.tutotoons.com
 +.trackerhqu.com
-+.trackerrysrv.com
 +.tracking.aegpresents.com
 +.tracking.atreemo.com
 +.tracking.bloomberg.com
