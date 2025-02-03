@@ -1,9 +1,9 @@
-# Version: 202502031010
+# Version: 202502031210
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43845
-# Last modified: 2025-02-03T10:10:38+0000
+# Entries: 43836
+# Last modified: 2025-02-03T12:10:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4671,7 +4671,6 @@
 +.aj2142.online
 +.aj2178.online
 +.aj2218.online
-+.aj2393.online
 +.aj2396.online
 +.aj2397.online
 +.aj2517.bid
@@ -6052,6 +6051,7 @@
 +.apnpr.com
 +.apocalypsegulliblemood.com
 +.apogee.spacenews.com
++.apollo.miniclip.com
 +.apologiesneedleworkrising.com
 +.apologizepitfall.com
 +.apologizingrigorousmorally.com
@@ -8438,7 +8438,6 @@
 +.blueberryastronomy.com
 +.blueberrydanelarger.com
 +.blueberrywaistcoat.com
-+.bluedawning.com
 +.bluejay.edgesoftware.cloud
 +.bluejay.fivefold.vc
 +.bluejay.postmediagroup.com
@@ -9068,7 +9067,6 @@
 +.bulky-battle.com
 +.bulkyfriend.com
 +.bull3t.co
-+.bullads.net
 +.bulletinmoonoral.com
 +.bulletinwarmingtattoo.com
 +.bullfeeding.com
@@ -16359,7 +16357,6 @@
 +.ethnic1266.fun
 +.ethnicking.com
 +.ethoamee.xyz
-+.ethophipek.com
 +.ethylicestops.top
 +.etingplansfo.buzz
 +.etiquettegrapesdoleful.com
@@ -16556,7 +16553,6 @@
 +.everalmefarketin.com
 +.everdreamsofc.info
 +.everestclick.com
-+.evergreentroutpitiful.com
 +.everlastinghighlight.com
 +.evermoto.xyz
 +.every-day.net
@@ -19677,6 +19673,7 @@
 +.gvfkzyq.com
 +.gvkzvgm.com
 +.gvzsrqp.com
++.gw.conversionsapigateway.com
 +.gw2cddpt2hao.asia
 +.gw2cddpt2hao.cloud
 +.gwallet.com
@@ -22871,7 +22868,6 @@
 +.kiolpia.icu
 +.kiosked.com
 +.kipchakshoat.shop
-+.kiphairg.com
 +.kiretafly.com
 +.kirteexe.tv
 +.kirujh.com
@@ -24049,6 +24045,7 @@
 +.log-stats.weathercn.com
 +.log-tb.isnssdk.com
 +.log-upload-eur.mihoyo.com
++.log-upload-os.hoyolab.com
 +.log-upload.mihoyo.com
 +.log-v4-insight.kaizenplatform.net
 +.log-va-us-looki.capcutapi.com
@@ -25173,7 +25170,6 @@
 +.mauphupooca.com
 +.mautic-learn.teky.edu.vn
 +.mautic.200lab.io
-+.mautic.hubs.vn
 +.mautic.teky.edu.vn
 +.mauzna.xyz
 +.mavq.net
@@ -25389,6 +25385,7 @@
 +.meewiwechoopty.net
 +.meezauch.net
 +.mefestivalbout.com
++.mega.mydealz.de
 +.megaad.nz
 +.megabookline.com
 +.megacash.de
@@ -28475,7 +28472,6 @@
 +.ouqyid.com
 +.ourcommonnews.com
 +.ourcommonstories.com
-+.ourcoolspot.com
 +.ourdreamsanswer.info
 +.ourhobby.com
 +.ourlittlenews.com
@@ -35049,7 +35045,6 @@
 +.smartadserver.com
 +.smartcj.com
 +.smartclickz.com
-+.smartconvert.co
 +.smartcpatrack.com
 +.smartdating.top
 +.smartlnk.com
@@ -36811,7 +36806,6 @@
 +.sumedadelempan.com
 +.summaryjustlybouquet.com
 +.summer-notifications.com
-+.summerbestapp.com
 +.summerboycottrot.com
 +.summertracethou.com
 +.summitinfantry.com
@@ -38106,7 +38100,6 @@
 +.tiglon.beyondco.de
 +.tiglon.davidroessli.com
 +.tignuget.net
-+.tigroulseedsipt.net
 +.tihdjd.xyz
 +.tiksoopta.net
 +.tiktakz.xyz
@@ -40408,6 +40401,7 @@
 +.utiq.24auto.de
 +.utiq.24hamburg.de
 +.utiq.24rhein.de
++.utiq.actu.fr
 +.utiq.buzzfeed.de
 +.utiq.come-on.de
 +.utiq.einfach-tasty.de
@@ -41288,7 +41282,6 @@
 +.vw.onlinia.net
 +.vw1.gestimnogo.net
 +.vwagkipi.com
-+.vwegihahkos.com
 +.vwinagptucpa.com
 +.vwioxxra.com
 +.vwmjkl.icu
@@ -41720,7 +41713,6 @@
 +.wensonk.com
 +.wenxue.weimeifan.net
 +.wenxue.youzhicn.com
-+.wepainsoaken.com
 +.werbemanager.w24.at
 +.werbung.meteoxpress.com
 +.werdolsolt.com
@@ -43717,7 +43709,6 @@
 +.zodiacdinner.com
 +.zoeaegyral.com
 +.zofassou.com
-+.zofitsou.com
 +.zog.link
 +.zograughoa.net
 +.zogrepsili.com
