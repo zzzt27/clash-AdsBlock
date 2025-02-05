@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 15:33 UTC
-# Version: 2025.0203.1533.26
+# Last modified: 05 Feb 2025 03:33 UTC
+# Version: 2025.0205.0333.33
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1472
+# Number of entries: 1471
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -261,7 +261,6 @@ DOMAIN-SUFFIX,dns.cmrg.net
 DOMAIN-SUFFIX,pope.cnblw.me
 DOMAIN-SUFFIX,doh.cnetwork.cloud
 DOMAIN-SUFFIX,pihole.datamatter.co.za
-DOMAIN-SUFFIX,www.dnsadguard.co.uk
 DOMAIN-SUFFIX,dns.gayanalysing.co.uk
 DOMAIN-SUFFIX,dns.gi.co.id
 DOMAIN-SUFFIX,ag.hostme.co.il
