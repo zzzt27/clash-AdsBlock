@@ -1,9 +1,9 @@
-# Version: 202502061611
+# Version: 202502061811
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43981
-# Last modified: 2025-02-06T16:11:21+0000
+# Entries: 43952
+# Last modified: 2025-02-06T18:11:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2767,7 +2767,6 @@
 +.adcrax.com
 +.adcron.com
 +.adcs.myappsget.com
-+.adcy.net
 +.adcycle.com
 +.add.newmedia.cz
 +.addapptr.com
@@ -7915,7 +7914,6 @@
 +.bemobtrk.com
 +.bemocksmunched.com
 +.bemolintrans.shop
-+.bemoultmodder.com
 +.bemsongy.com
 +.ben.crxmouse.com
 +.benced.com
@@ -7985,7 +7983,6 @@
 +.best-video-app.com
 +.best-vpn-app.com
 +.best0ne.com
-+.bestadbid.com
 +.bestadload.com
 +.bestadsforyou.com
 +.bestadsrv.com
@@ -8987,7 +8984,6 @@
 +.buckeyekantars.com
 +.buckumoore.com
 +.buckwheatchipwrinkle.com
-+.bucojjqcica.com
 +.buddyassetstupid.com
 +.buddyguests.com
 +.budgedsnavvle.com
@@ -9836,7 +9832,6 @@
 +.cdn-cf.postitial.com
 +.cdn-channels-pixel.ex.co
 +.cdn-dynamic.optimonk.com
-+.cdn-gw-dv.vip
 +.cdn-image.com
 +.cdn-ketchapp.akamaized.net
 +.cdn-media.brightline.tv
@@ -10317,7 +10312,6 @@
 +.cheetah.songrender.com
 +.cheetah.stolenboats.info
 +.cheetah.zeh.co.il
-+.cheethilaubo.com
 +.cheetieaha.com
 +.cheezwhiz.z9.web.core.windows.net
 +.chefattend.com
@@ -16570,7 +16564,6 @@
 +.events.bsky.app
 +.events.btw.so
 +.events.busuu.com
-+.events.caffeine.tv
 +.events.cardsmobile.ru
 +.events.chaordicsystems.com
 +.events.character.ai
@@ -17147,7 +17140,6 @@
 +.fauphoaglu.net
 +.fausamoawhisi.net
 +.fauseepetoozuk.xyz
-+.fausothaur.com
 +.favorbort.guru
 +.favoredkuwait.top
 +.favorite-option.pro
@@ -21404,7 +21396,6 @@
 +.inconsistencygasdifficult.com
 +.incontro-veloce.com
 +.inconveniencemimic.com
-+.incorddrag.com
 +.incorphishor.com
 +.increaseplanneddoubtful.com
 +.increaseprincipal.com
@@ -21543,7 +21534,6 @@
 +.inleadership.co.nz
 +.inlog01.hket.com
 +.inlugiar.com
-+.inmespritr.com
 +.inmhh.com
 +.inminuner.com
 +.inmobi.cn
@@ -22742,7 +22732,6 @@
 +.katukaunamiss.com
 +.kaubapsy.com
 +.kaucatap.net
-+.kaujouphosta.com
 +.kaulaijeepul.top
 +.kauleeci.com
 +.kauraishojy.com
@@ -22994,7 +22983,6 @@
 +.kmisln.com
 +.kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 +.kmodukuleqasfo.info
-+.kmp.twbymc.cn
 +.kms-full.com
 +.kms-pc.com
 +.kms-tool.com
@@ -24617,7 +24605,6 @@
 +.lqgenuq-j.life
 +.lqlwjr.icu
 +.lqtiwevsan.com
-+.lr-intake.com
 +.lreprx-server.anyclip.com
 +.lrkfuheobm.one
 +.lryofjrfogp.com
@@ -25869,7 +25856,6 @@
 +.mitself.net
 +.mittyswidden.top
 +.miwfkm.xyz
-+.miwllmo.com
 +.miwpkk.xyz
 +.mixadvert.com
 +.mixbestboost.club
@@ -27223,7 +27209,6 @@
 +.nofashot.com
 +.noflake-aggregator-http.narvar.com
 +.nogautssvjlh.com
-+.nognoongut.com
 +.nohezu.xyz
 +.nohowsankhya.com
 +.noiselessvegetables.com
@@ -28245,7 +28230,6 @@
 +.oosoojainy.xyz
 +.oostotsu.com
 +.ootchaig.xyz
-+.ootchobuptoo.com
 +.ootchoft.com
 +.oowkzpjo-o.click
 +.op00.biz
@@ -28647,7 +28631,6 @@
 +.overdates.com
 +.overdrowzeeon.com
 +.overestimateoption.com
-+.overgalladean.com
 +.overgotsnecker.com
 +.overheadnell.com
 +.overheadplough.com
@@ -29460,7 +29443,6 @@
 +.phabycebe.com
 +.phadsophoogh.net
 +.phahifoobsie.net
-+.phaigleers.com
 +.phaikroo.net
 +.phaiksul.net
 +.phaimsebsils.net
@@ -31828,7 +31810,6 @@
 +.rafflisle.com
 +.rafvertizing.crazygames.com
 +.ragapa.com
-+.rageryscarfer.com
 +.raggedbijou.com
 +.raggerdough.com
 +.raglassofrum.cc
@@ -34064,7 +34045,6 @@
 +.scribe.wongnai.com
 +.script-ad.mobadme.jp
 +.script-bd.baixing.net
-+.script-sh.d2cdm.jp
 +.script.anura.io
 +.script.hotjar.com
 +.script302.top
@@ -34350,7 +34330,6 @@
 +.serosaharlem.com
 +.serpentreplica.com
 +.sersh.com
-+.sertingglucid.com
 +.serv-selectmedia.com
 +.serv.bvsrv.com
 +.serv0.com
@@ -34644,7 +34623,6 @@
 +.sheesimo.net
 +.sheetsoom.top
 +.sheetvibe.com
-+.sheewaulro.com
 +.sheisnotateacher.com
 +.shelfcandler.shop
 +.shelfoka.com
@@ -36900,7 +36878,6 @@
 +.sufferinguniversalbitter.com
 +.suffertreasureapproval.com
 +.suffixinstitution.com
-+.suftoajachi.com
 +.sugar.zhihu.com
 +.sugardistanttrunk.com
 +.suggestedasstrategic.com
@@ -38830,7 +38807,6 @@
 +.track.mailerlite.com
 +.track.mdsmatch.com
 +.track.midway.run
-+.track.migattenogokui.com
 +.track.miro.com
 +.track.mituo.cn
 +.track.mopo.de
@@ -39553,7 +39529,6 @@
 +.trollsvide.com
 +.trombocrack.com
 +.tron.bbw-porn-video.com
-+.tronascodrus.com
 +.troopsassistedstupidity.com
 +.troopseruptionfootage.com
 +.tropbikewall.art
@@ -39670,7 +39645,6 @@
 +.tttppp.oss-cn-guangzhou.aliyuncs.com
 +.ttus.tructiepbongda.me
 +.ttwmed.com
-+.ttwwzqdx.xyz
 +.ttzmedia.com
 +.tuaoza.xyz
 +.tubadthy.live
@@ -40765,7 +40739,6 @@
 +.varyingsnarl.com
 +.vasebehaved.com
 +.vasfmbody.com
-+.vasgenerete.site
 +.vashoot.com
 +.vasia.bluentated.racing
 +.vasstycom.com
@@ -40916,7 +40889,6 @@
 +.vexolinu.com
 +.vezizey.xyz
 +.vf.startpage.com
-+.vfeeopywioabi.xyz
 +.vfghd.com
 +.vfl81ea28aztw7y3.pro
 +.vflorp.xyz
@@ -42023,7 +41995,6 @@
 +.whoawhoug.com
 +.whoawoansoo.com
 +.whoisonline.net
-+.wholeactualjournal.com
 +.wholesaletraffic.info
 +.whollmagged.com
 +.whollyneedy.com
