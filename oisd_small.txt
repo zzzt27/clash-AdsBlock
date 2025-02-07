@@ -1,9 +1,9 @@
-# Version: 202502070110
+# Version: 202502070310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43901
-# Last modified: 2025-02-07T01:10:08+0000
+# Entries: 43886
+# Last modified: 2025-02-07T03:10:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -291,7 +291,6 @@
 +.181m2fscr.de
 +.182e8ffa40.5b9c4c545d.com
 +.184c4i95p.de
-+.1852210865.rsc.cdn77.org
 +.1873083787.rsc.cdn77.org
 +.18744.com
 +.189zx.com
@@ -5564,7 +5563,6 @@
 +.analytics.tn.kz
 +.analytics.topseotoolkit.com
 +.analytics.totalprosports.com
-+.analytics.touchnote.io
 +.analytics.tout.com
 +.analytics.tripoto.com
 +.analytics.trovit.com
@@ -7219,7 +7217,6 @@
 +.badger.pager.app
 +.badgerjeff.com
 +.badjocks.com
-+.badrookrafta.com
 +.badsecs.com
 +.badslopes.com
 +.badspads.com
@@ -9530,7 +9527,6 @@
 +.capitalhasterussian.com
 +.capitalistblotbits.com
 +.capndr.com
-+.capounsou.com
 +.capping.sirius.press
 +.cappuccinoeliza.com
 +.capricetheme.com
@@ -13697,7 +13693,6 @@
 +.data.sec.intl.miui.com
 +.data.sec.miui.com
 +.data.streamtape.com
-+.data.tm-awx.com
 +.data.waptime.cn
 +.data.woosmap.com
 +.data2.doodlemobile.com
@@ -22257,7 +22252,6 @@
 +.jgqaainj.buzz
 +.jgrjldc.com
 +.jgvkxp.xyz
-+.jgygtv.cn
 +.jhkfd.com
 +.jhlnlt.xyz
 +.jhnnnb.xyz
@@ -25416,7 +25410,6 @@
 +.meet4youu.com
 +.meet4youu.net
 +.meetaffiliate.com
-+.meetic-partners.com
 +.meetingcoffeenostrils.com
 +.meetingrailroad.com
 +.meetmagsuit.live
@@ -27508,7 +27501,6 @@
 +.nwwrtbbit.com
 +.nwxaxx.xyz
 +.nx7.hdxxxclips.com
-+.nxbchpotxr.xyz
 +.nxdefd.icu
 +.nxexydg.com
 +.nxgzeejhs.com
@@ -29609,7 +29601,6 @@
 +.pillthingy.com
 +.piloteegazy.com
 +.pilotnourishmentlifetime.com
-+.pilpulbagmen.com
 +.pilsarde.net
 +.pimproll.com
 +.pinaffectionatelyaborigines.com
@@ -39376,7 +39367,6 @@
 +.trekkww.fun
 +.trekkww.space
 +.trellian.com
-+.trellq.com
 +.trembleday.com
 +.tremblingbunchtechnique.com
 +.tremorhub.com
@@ -40598,7 +40588,6 @@
 +.vads.vn
 +.vaebard.com
 +.vaguishtrepak.com
-+.vahoupomp.com
 +.vaibooja.net
 +.vaicheemoa.net
 +.vaicore.store
@@ -41068,7 +41057,6 @@
 +.viral481.com
 +.viral782.com
 +.viralmediatech.com
-+.viralnewsobserver.com
 +.viralnewssystems.com
 +.viralstrangers.com
 +.vireshrill.top
@@ -43436,7 +43424,6 @@
 +.yourservice.live
 +.yoursitestatstube.ru
 +.yoursmut.com
-+.yourtopnews.com
 +.youruntie.com
 +.yourwebbars.com
 +.youservit.com
@@ -43547,7 +43534,6 @@
 +.z.grfyw.com
 +.z.nowscore.com
 +.z.opmnstr.com
-+.z.webengage.com
 +.z00yy6tg2.com
 +.z0il3m3u2o.pro
 +.z1.chezhuzhinan.com
@@ -43656,7 +43642,6 @@
 +.zemydreamsauk.com
 +.zenal.xyz
 +.zenam.xyz
-+.zenaot.xyz
 +.zencudo.co.uk
 +.zendplace.pro
 +.zengoongoanu.com
