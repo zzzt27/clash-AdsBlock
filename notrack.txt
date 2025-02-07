@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 07 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15853
+# Domain Count: 15850
 #===============================================================
 
 +.0i0i0i0.com
@@ -77,7 +77,6 @@
 +.ac24horas.com
 +.acacdn.com
 +.academyblocked.com
-+.accompanycollapse.com
 +.accountantpacketassail.com
 +.accscdn.m.taobao.com
 +.accuracyswede.com
@@ -221,7 +220,6 @@
 +.adometry.com
 +.adomik.com
 +.adoric-om.com
-+.adornenveloperecognize.com
 +.adotmob.com
 +.adp13a.com
 +.adpartner.pro
@@ -1015,7 +1013,6 @@
 +.clickio.com
 +.clickiocdn.com
 +.clickmeter.com
-+.clickshift.com
 +.clicktale.net
 +.clicktracks.com
 +.clicktripz.com
