@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 08 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15850
+# Domain Count: 15848
 #===============================================================
 
 +.0i0i0i0.com
@@ -724,7 +724,6 @@
 +.avantisvideo.com
 +.avazunativeads.com
 +.avct.cloud
-+.avhtaapxml.com
 +.avocet.io
 +.aweber.com
 +.awin.com
@@ -13926,7 +13925,6 @@
 +.pixel-static.spotify.com
 +.pixel.ad
 +.pixel.archive.today
-+.pixel.cfspx.digitalriver.com
 +.pixel.cornercart.io
 +.pixel.facebook.com
 +.pixel.getshogun.com
