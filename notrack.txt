@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 09 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15848
+# Domain Count: 15845
 #===============================================================
 
 +.0i0i0i0.com
@@ -1413,7 +1413,6 @@
 +.exmarketplace.com
 +.exoclick.com
 +.exosrv.com
-+.experimentalconcerningsuck.com
 +.explorerpurity.com
 +.exponential.com
 +.extole.com
@@ -1458,7 +1457,6 @@
 +.feed.ff.avast.com
 +.feedbackify.com
 +.feelsjet.com
-+.feignthat.com
 +.femetrics.grammarly.io
 +.fenacheaverage.com
 +.fidelity-media.com
@@ -15563,7 +15561,6 @@
 +.uid.mavencoalition.io
 +.uimetadata.samsungiotcloud.com
 +.ultimedia.com
-+.umbel.com
 +.umeng.co
 +.umeng.com
 +.umengcloud.com
