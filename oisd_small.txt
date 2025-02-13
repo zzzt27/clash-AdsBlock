@@ -1,9 +1,9 @@
-# Version: 202502131009
+# Version: 202502131211
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44020
-# Last modified: 2025-02-13T10:09:59+0000
+# Entries: 44007
+# Last modified: 2025-02-13T12:11:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6715,7 +6715,6 @@
 +.aulingimpora.club
 +.aulrains.com
 +.aulrertogo.xyz
-+.aulteeby.net
 +.aultesou.net
 +.aumaupoy.net
 +.aumsarso.com
@@ -7173,7 +7172,6 @@
 +.baggvon.icu
 +.baghoglitu.net
 +.baghoorg.xyz
-+.bagiijdjejjcficbaag.world
 +.bagjuxtapose.com
 +.baglanbize.net
 +.bagsonsale.online
@@ -9315,6 +9313,7 @@
 +.cabnnr.com
 +.cabombaskopets.life
 +.cac6042d62.21d9d2f09e.com
++.cache.betweendigital.com
 +.cache.picxxxhub.com
 +.cache2.delvenetworks.com
 +.cachegorilla.com
@@ -10213,7 +10212,6 @@
 +.cheecmou.com
 +.cheeksognoura.net
 +.cheekysleepyreproof.com
-+.cheepurs.xyz
 +.cheeradvise.com
 +.cheerfullyassortment.com
 +.cheerfullybakery.com
@@ -12176,7 +12174,6 @@
 +.cuevastrck.com
 +.cufultahaur.com
 +.cugaksoogleptix.xyz
-+.cugeeksy.net
 +.cuisineenvoyadvertise.com
 +.cuisineomnipresentinfinite.com
 +.cullemple-motline.com
@@ -20418,7 +20415,6 @@
 +.hoazathoaps.com
 +.hobbiesshame.online
 +.hobbleobey.com
-+.hoceekoashouts.net
 +.hockeycomposure.com
 +.hockeyhavoc.com
 +.hockeysacredbond.com
@@ -25631,7 +25627,6 @@
 +.mfadsrvr.com
 +.mfg8.space
 +.mflsbcasbpx.com
-+.mfthkdj.com
 +.mg.32r.com
 +.mg.glwxw.net
 +.mgage.com
@@ -27378,7 +27373,6 @@
 +.npetropicalnorma.com
 +.npetropicalnormati.org
 +.nplahh.xyz
-+.npnpxoz.xyz
 +.npprvby.com
 +.npracticalwhic.buzz
 +.nptauiw.com
@@ -27708,7 +27702,6 @@
 +.obnoxiouspatrolassault.com
 +.obosnovano.su
 +.obouckie.com
-+.obovatecharmer.com
 +.obqaxzon.com
 +.obr3.space
 +.obrom.xyz
@@ -31802,7 +31795,6 @@
 +.ra1.xyz
 +.rabbit.radicalxchange.org
 +.rabbit.upwardhomes.net
-+.rabbitsfreedom.com
 +.rabbitsshortwaggoner.com
 +.rabbitsverification.com
 +.rabblevalenone.com
@@ -32449,7 +32441,6 @@
 +.rentalrebuild.com
 +.rentingimmoderatereflecting.com
 +.rentlysearchingf.com
-+.reoilednursing.click
 +.reopensnews.com
 +.reople.co.kr
 +.reorganizeache.com
@@ -32494,7 +32485,6 @@
 +.reports.tunein.com
 +.reportwest-midas.codmwest.com
 +.reposefearful.com
-+.reposemarshknot.com
 +.reprak.com
 +.reprenebritical.org
 +.representhostilemedia.com
@@ -35477,7 +35467,6 @@
 +.sourcecode.pro
 +.sourcecodeif.com
 +.sourceconvey.com
-+.sourcefatcake.com
 +.sourcetobin.com
 +.sourishpuler.com
 +.sourne.com
@@ -37560,7 +37549,6 @@
 +.talkstewmisjudge.com
 +.talktomeplease.biz
 +.tallergestion.com
-+.talouktaboutrice.info
 +.talsauve.com
 +.talsindustrateb.info
 +.talyrt.xyz
@@ -39835,7 +39823,6 @@
 +.twinboutjuly.com
 +.twinfill.com
 +.twinkle-fun.net
-+.twinklecourseinvade.com
 +.twinpinenetwork.com
 +.twinrdack.com
 +.twinrdengine.com
@@ -40908,7 +40895,6 @@
 +.verifiablevolume.com
 +.verify-human.b-cdn.net
 +.veristouh.net
-+.veritabiedate.net
 +.veritrol.com
 +.vermisrequite.click
 +.vernementsec.info
@@ -41787,6 +41773,7 @@
 +.webp2p.letv.com
 +.webpinp.com
 +.webpixel.smartmeapp.com
++.webpsts.com
 +.webpush.reachyield.com
 +.webpush.resultsmedia.com
 +.webpush.vn
