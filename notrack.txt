@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 15 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15841
+# Domain Count: 15840
 #===============================================================
 
 +.0i0i0i0.com
@@ -15841,7 +15841,6 @@
 +.zedo.com
 +.zemanta.com
 +.zeotap.com
-+.zeusclicks.com
 +.zkcdn.net
 +.znctrack.net
 +.zoomanalytics.co
