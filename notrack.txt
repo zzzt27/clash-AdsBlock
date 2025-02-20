@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 20 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15840
+# Domain Count: 15839
 #===============================================================
 
 +.0i0i0i0.com
@@ -582,7 +582,6 @@
 +.analytics.ssense.com
 +.analytics.starz.com
 +.analytics.svt.se
-+.analytics.theta360.com
 +.analytics.thewhiskyexchange.com
 +.analytics.ticketmaster.co.uk
 +.analytics.tiktok.com
