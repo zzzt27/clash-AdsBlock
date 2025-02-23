@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 23 Feb 2025
 # LatestVersion 24.01
-# Domain Count: 15837
+# Domain Count: 15835
 #===============================================================
 
 +.0i0i0i0.com
@@ -14513,7 +14513,6 @@
 +.smetrics.buffalotracedistillery.com
 +.smetrics.bupa.com.au
 +.smetrics.buyagift.co.uk
-+.smetrics.bzees.com
 +.smetrics.caesars.com
 +.smetrics.cahealthwellness.com
 +.smetrics.caleres.com
@@ -14570,7 +14569,6 @@
 +.smetrics.costacruise.com
 +.smetrics.costadelmar.com
 +.smetrics.costco.com
-+.smetrics.costcobusinesscentre.ca
 +.smetrics.costcobusinessdelivery.com
 +.smetrics.couponcabin.com
 +.smetrics.cox.com
