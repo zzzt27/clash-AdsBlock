@@ -1,9 +1,9 @@
-# Version: 202503011608
+# Version: 202503011808
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44406
-# Last modified: 2025-03-01T16:08:26+0000
+# Entries: 44400
+# Last modified: 2025-03-01T18:08:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -340,7 +340,6 @@
 +.1be76e820d.com
 +.1bet.com
 +.1betandgonow.com
-+.1bf00b950c.com
 +.1bm3n8sld.de
 +.1buo.icu
 +.1c0c3fde9d.com
@@ -5883,7 +5882,6 @@
 +.anymoreappeardiscourteous.com
 +.anymorearmsindeed.com
 +.anymorecapability.com
-+.anymorehopper.com
 +.anymoresentencevirgin.com
 +.anymorestaying.com
 +.anyonemost.com
@@ -8958,7 +8956,6 @@
 +.brucelead.com
 +.bruceleadx.com
 +.bruceleadx1.com
-+.bruisedlungmisuse.com
 +.bruisedpaperworkmetre.com
 +.bruiseslumpy.com
 +.bruisesromancelanding.com
@@ -16339,7 +16336,6 @@
 +.enrichyummy.com
 +.ensignpancreasrun.com
 +.ensoattractedby.info
-+.ensuebusinessman.com
 +.ent1.12584.cn
 +.entailgossipwrap.com
 +.entangledivisionbeagle.com
@@ -22567,7 +22563,6 @@
 +.jillsclickcorner.com
 +.jimtighoafoorg.net
 +.jingalbundles.com
-+.jinglehalfbakedparticle.com
 +.jinkads.de
 +.jinripkk.com
 +.jinxpn.xyz
@@ -35129,7 +35124,6 @@
 +.shinyspiesyou.com
 +.shinystat.com
 +.shinystat.it
-+.shippingswimsuitflog.com
 +.shipseaimpish.com
 +.shipsmotorw.xyz
 +.shipwreckclassmate.com
