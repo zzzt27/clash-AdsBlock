@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 01 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15834
+# Domain Count: 15832
 #===============================================================
 
 +.0i0i0i0.com
@@ -14022,7 +14022,6 @@
 +.promo.tutotoons.com
 +.propeller-tracking.com
 +.propellerads.com
-+.propellerclick.com
 +.proper.io
 +.prototypewailrubber.com
 +.proxyclick.com
@@ -14568,7 +14567,6 @@
 +.smetrics.costacruise.com
 +.smetrics.costadelmar.com
 +.smetrics.costco.com
-+.smetrics.costcobusinessdelivery.com
 +.smetrics.couponcabin.com
 +.smetrics.cox.com
 +.smetrics.crainsdetroit.com
