@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 02 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15832
+# Domain Count: 15833
 #===============================================================
 
 +.0i0i0i0.com
@@ -14357,6 +14357,7 @@
 +.siliconanalytics.com
 +.silktide.com
 +.silverpop.com
++.simpleanalytics.com
 +.simpleanalytics.io
 +.simpleanalyticscdn.com
 +.simplereach.com
