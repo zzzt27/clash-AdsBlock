@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Mar 2025 03:49 UTC
-# Version: 2025.0303.0349.37
+# Last modified: 28 Feb 2025 23:38 UTC
+# Version: 2025.0228.2338.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1488
+# Number of entries: 1492
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -215,7 +215,9 @@ DOMAIN-SUFFIX,dns.cahlen.com
 DOMAIN-SUFFIX,callies-online.site
 DOMAIN-SUFFIX,2.dnscrypt-cert.captnemo.in
 DOMAIN-SUFFIX,doh.captnemo.in
+DOMAIN-SUFFIX,console.carestyle.org
 DOMAIN-SUFFIX,dns.carson-family.com
+DOMAIN-SUFFIX,dns.carter.me
 DOMAIN-SUFFIX,dns.caspervk.net
 DOMAIN-SUFFIX,catchen121299.top
 DOMAIN-SUFFIX,catdns.org
@@ -365,6 +367,7 @@ DOMAIN-SUFFIX,dns.dns-53.uk
 DOMAIN-SUFFIX,dns.dns-53.us
 DOMAIN-SUFFIX,dns1.dns-ga.de
 DOMAIN-SUFFIX,dns2.dns-ga.de
+DOMAIN-SUFFIX,dns3.dns-ga.de
 DOMAIN-SUFFIX,doh.dns-ga.de
 DOMAIN-SUFFIX,secure-dns.dns-ga.de
 DOMAIN-SUFFIX,dns.dns-over-https.com
@@ -891,6 +894,7 @@ DOMAIN-SUFFIX,minilla.store
 DOMAIN-SUFFIX,netcup.mismat.ch
 DOMAIN-SUFFIX,doh.mmmalia.com
 DOMAIN-SUFFIX,dns.mnet-online.de
+DOMAIN-SUFFIX,mnrv.trade
 DOMAIN-SUFFIX,dns.mo0on15.com
 DOMAIN-SUFFIX,moamao.shop
 DOMAIN-SUFFIX,dnstls.mobik.com
