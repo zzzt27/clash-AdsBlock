@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 03:44 UTC
-# Version: 2025.0307.0344.31
+# Last modified: 07 Mar 2025 15:58 UTC
+# Version: 2025.0307.1558.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1487
+# Number of entries: 1488
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -794,6 +794,7 @@ DOMAIN-SUFFIX,kx-97795-tr.xyz
 DOMAIN-SUFFIX,dns.kxy.ink
 DOMAIN-SUFFIX,agh.kyusang.win
 DOMAIN-SUFFIX,dns.l337.site
+DOMAIN-SUFFIX,dns.labnekotest.site
 DOMAIN-SUFFIX,doh.lacontrevoie.fr
 DOMAIN-SUFFIX,dns.lars-lehmann.net
 DOMAIN-SUFFIX,dns.lashes-brow.ru
