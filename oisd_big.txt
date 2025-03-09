@@ -1,9 +1,9 @@
-# Version: 202503091309
+# Version: 202503091633
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 168479
-# Last modified: 2025-03-09T13:09:10+0000
+# Entries: 168475
+# Last modified: 2025-03-09T16:33:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -99048,7 +99048,6 @@
 +.mmacustica.com
 +.mmadsgadget.com
 +.mmafightgears.com
-+.mmaglobal.com
 +.mmai4lu3in.weebly.com
 +.mmandjconsulting.com
 +.mmapphub.pages.dev
@@ -112557,7 +112556,6 @@
 +.pastas.hervesta.lt
 +.pastcompany.com
 +.pastdsaped.com
-+.paste.rs
 +.pastebin.linkpc.net
 +.pastebin.lol
 +.pastelcromes.com
@@ -141285,7 +141283,6 @@
 +.streambeam.io
 +.streamco.top
 +.streamcommunity.ru
-+.streamcommunltiy.com
 +.streamcomnunity.ru
 +.streamcomunitly.com
 +.streameventzone.com
@@ -150953,7 +150950,6 @@
 +.trophylab.com
 +.tropicalos.com
 +.tropicalrideshawaii.com
-+.trorqaeao.com
 +.trotechzone.com
 +.troto.ru
 +.trou-fion.com
