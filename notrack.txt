@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 09 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15827
+# Domain Count: 15822
 #===============================================================
 
 +.0i0i0i0.com
@@ -1854,7 +1854,6 @@
 +.kampyle.com
 +.kargo.com
 +.katecrochetvanity.com
-+.kau.li
 +.kawunimy.com
 +.kayzen.io
 +.keen.io
@@ -1903,7 +1902,6 @@
 +.leaveundo.com
 +.lectureolympics.com
 +.legacy-telemetry.malwarebytes.com
-+.legolas-media.com
 +.lemonpi.io
 +.letmeads.com
 +.levexis.com
@@ -2058,7 +2056,6 @@
 +.mcstats.org
 +.mczbf.com
 +.mdhv.io
-+.mdotlabs.com
 +.mdp-appconf-id.heytapdl.com
 +.mdp-appconf-kh.heytapdl.com
 +.mdp-appconf-mm.heytapdl.com
@@ -13653,7 +13650,6 @@
 +.muvmobile.com
 +.mxapis.com
 +.mxase.clmbtech.com
-+.mxcdn.net
 +.mxlogic.com
 +.mxpnl.com
 +.mxptint.net
@@ -13745,7 +13741,6 @@
 +.nyltx.com
 +.nzme-ads.co.nz
 +.o333o.com
-+.oclaserver.com
 +.oclasrv.com
 +.octotracker-clients.net
 +.odourcowspeculation.com
