@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 10 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15822
+# Domain Count: 15821
 #===============================================================
 
 +.0i0i0i0.com
@@ -318,7 +318,6 @@
 +.adsgainer.com
 +.adskeeper.co.uk
 +.adskeeper.com
-+.adsloboclick.com
 +.adsmediabox.com
 +.adsmoloco.com
 +.adsninja.ca
