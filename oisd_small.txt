@@ -1,9 +1,9 @@
-# Version: 202503111609
+# Version: 202503111809
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44695
-# Last modified: 2025-03-11T16:09:38+0000
+# Entries: 44688
+# Last modified: 2025-03-11T18:09:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7516,7 +7516,6 @@
 +.bannerzone.agroinform.hu
 +.bannet.fryazino.net
 +.bans.bride.ru
-+.banselaunswear.casa
 +.bansheecabful.shop
 +.banshop.gruntovik.ru
 +.banstat.nadavi.net
@@ -11764,7 +11763,6 @@
 +.costranchill.com
 +.coststunningconjure.com
 +.costumefilmimport.com
-+.cosysuppressed.com
 +.cotchaug.com
 +.coticoffee.com
 +.cotomucaro.com
@@ -25121,7 +25119,6 @@
 +.lunggrandfatherhedge.com
 +.lungicko.net
 +.lungingunified.com
-+.lunie25.gimmeporn.xyz
 +.lunio.net
 +.luofinality.com
 +.lupon.media
@@ -33554,7 +33551,6 @@
 +.roasooph.net
 +.roastoup.com
 +.roastwearwritten.com
-+.robazi.xyz
 +.robberyinscription.com
 +.robberynominal.com
 +.robberysordid.com
@@ -35972,7 +35968,6 @@
 +.snoobi.com
 +.snoopundesirable.com
 +.snoopy-incident.com
-+.snoopytown.pro
 +.snorefamiliarsiege.com
 +.snortedbingo.com
 +.snortedhearth.com
@@ -38219,7 +38214,6 @@
 +.tahwox.com
 +.taigasdoeskin.guru
 +.taigrooh.net
-+.tailalwaysunauthorized.com
 +.tailorendorsementtranslation.com
 +.tailstories.biz
 +.tailsweep.com
@@ -41559,7 +41553,6 @@
 +.veneeringextremely.com
 +.veneeringperfect.com
 +.vengeancehurriedly.com
-+.vengeancerepulseclassified.com
 +.vengeancewaterproof.com
 +.vengeful-egg.com
 +.veningspondingco.org
