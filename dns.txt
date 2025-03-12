@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Mar 2025 16:07 UTC
-# Version: 2025.0311.1607.36
+# Last modified: 12 Mar 2025 04:02 UTC
+# Version: 2025.0312.0402.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1483
+# Number of entries: 1473
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -514,8 +514,12 @@ DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
+DOMAIN-SUFFIX,jurre-home.duckdns.org
+DOMAIN-SUFFIX,krtekvpn.duckdns.org
 DOMAIN-SUFFIX,osefcorp.duckdns.org
+DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
+DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
@@ -737,7 +741,6 @@ DOMAIN-SUFFIX,adg.jnorton.us
 DOMAIN-SUFFIX,green2.jnraptor.net
 DOMAIN-SUFFIX,dns.joey01245.nl
 DOMAIN-SUFFIX,adguard.johanliebert.top
-DOMAIN-SUFFIX,johneldenring.lol
 DOMAIN-SUFFIX,opencdn.jomodns.com
 DOMAIN-SUFFIX,adguard1.jsanagustin.net
 DOMAIN-SUFFIX,dns.jstockley.com
@@ -1354,7 +1357,6 @@ DOMAIN-SUFFIX,dns.tesem.dog
 DOMAIN-SUFFIX,cloud.tezoi.com
 DOMAIN-SUFFIX,dns.thebuckners.org
 DOMAIN-SUFFIX,dns.thegoodsource.net
-DOMAIN-SUFFIX,dns.theres.one
 DOMAIN-SUFFIX,dns.therifleman.name
 DOMAIN-SUFFIX,blocker.thethorsens.org
 DOMAIN-SUFFIX,dns.thiz.top
@@ -1405,18 +1407,6 @@ DOMAIN-SUFFIX,dns.unx.io
 DOMAIN-SUFFIX,dns.uplenk.com
 DOMAIN-SUFFIX,urology.wiki
 DOMAIN-SUFFIX,dns.koala.us.to
-DOMAIN-SUFFIX,nightlymoon.us.kg
-DOMAIN-SUFFIX,luna-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,mecca-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,mita-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,myrra-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nana-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nindy-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nora-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,nova-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,sitha-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,tetty-is.so-gorgeo.us.kg
-DOMAIN-SUFFIX,yussy-is.so-gorgeo.us.kg
 DOMAIN-SUFFIX,adfree.usableprivacy.net
 DOMAIN-SUFFIX,dns.vaioswolke.xyz
 DOMAIN-SUFFIX,doh.valscosmos.com
