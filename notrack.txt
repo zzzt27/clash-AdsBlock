@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 12 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15821
+# Domain Count: 15817
 #===============================================================
 
 +.0i0i0i0.com
@@ -1246,7 +1246,6 @@
 +.displayvertising.com
 +.disqusads.com
 +.disrespectpreceding.com
-+.distributionrealmoth.com
 +.dl-rms.com
 +.dlfvgndsdfsn.com
 +.dm.bytedance.com
@@ -1436,7 +1435,6 @@
 +.f-log-mobile.grammarly.io
 +.f-log-officeaddin.grammarly.io
 +.f-log-officeaddinjs.grammarly.io
-+.f-log-support.grammarly.io
 +.f-log-test.grammarly.io
 +.f-log-win-extension.grammarly.io
 +.f-log.grammarly.io
@@ -14354,7 +14352,6 @@
 +.simpleanalytics.com
 +.simpleanalytics.io
 +.simpleanalyticscdn.com
-+.simplereach.com
 +.simplewebanalysis.com
 +.simpli.fi
 +.singular.net
@@ -14477,7 +14474,6 @@
 +.smetrics.bbvaseguros.mx
 +.smetrics.bcbsm.com
 +.smetrics.bcbsnc.com
-+.smetrics.beachbody.com
 +.smetrics.beatsbydre.com
 +.smetrics.belairdirect.com
 +.smetrics.belk.com
