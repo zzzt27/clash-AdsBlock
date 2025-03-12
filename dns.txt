@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Mar 2025 04:02 UTC
-# Version: 2025.0312.0402.04
+# Last modified: 12 Mar 2025 16:06 UTC
+# Version: 2025.0312.1606.22
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1473
 #
@@ -552,7 +552,6 @@ DOMAIN-SUFFIX,eth.link
 DOMAIN-SUFFIX,opennic1.eth-services.de
 DOMAIN-SUFFIX,arashi.eu.org
 DOMAIN-SUFFIX,armorrush.eu.org
-DOMAIN-SUFFIX,doh.excdn.eu.org
 DOMAIN-SUFFIX,dns.de.futuredns.eu.org
 DOMAIN-SUFFIX,dns.us.futuredns.eu.org
 DOMAIN-SUFFIX,dns.fullaccesstointernet.jp.eu.org
@@ -741,6 +740,7 @@ DOMAIN-SUFFIX,adg.jnorton.us
 DOMAIN-SUFFIX,green2.jnraptor.net
 DOMAIN-SUFFIX,dns.joey01245.nl
 DOMAIN-SUFFIX,adguard.johanliebert.top
+DOMAIN-SUFFIX,johneldenring.lol
 DOMAIN-SUFFIX,opencdn.jomodns.com
 DOMAIN-SUFFIX,adguard1.jsanagustin.net
 DOMAIN-SUFFIX,dns.jstockley.com
