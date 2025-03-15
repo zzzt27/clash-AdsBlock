@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 15 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15817
+# Domain Count: 15816
 #===============================================================
 
 +.0i0i0i0.com
@@ -1401,7 +1401,6 @@
 +.ex.co
 +.exacttarget.com
 +.excfgfile-vivofs-asia.vivo.com.cn
-+.excretekings.com
 +.exdynsrv.com
 +.exe.bid
 +.exi8ef83z9.com
