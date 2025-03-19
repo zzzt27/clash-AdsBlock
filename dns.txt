@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Mar 2025 04:45 UTC
-# Version: 2025.0319.0445.27
+# Last modified: 18 Mar 2025 04:28 UTC
+# Version: 2025.0318.0428.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1467
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -1218,7 +1218,6 @@ DOMAIN-SUFFIX,newd.rezyro.com
 DOMAIN-SUFFIX,resolver.rferee.dev
 DOMAIN-SUFFIX,ricko.is
 DOMAIN-SUFFIX,dns.rin.sh
-DOMAIN-SUFFIX,rockwell.website
 DOMAIN-SUFFIX,dns.roedel.cloud
 DOMAIN-SUFFIX,dns.ronc.ru
 DOMAIN-SUFFIX,dns.rootlab.top
