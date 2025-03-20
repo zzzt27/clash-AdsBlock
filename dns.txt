@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Mar 2025 04:45 UTC
-# Version: 2025.0319.0445.27
+# Last modified: 20 Mar 2025 04:44 UTC
+# Version: 2025.0320.0444.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1469
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -191,7 +191,6 @@ DOMAIN-SUFFIX,dns.bmwhocking.com
 DOMAIN-SUFFIX,dns.bobstrecansky.com
 DOMAIN-SUFFIX,d.bod.lol
 DOMAIN-SUFFIX,dns.bofh.in
-DOMAIN-SUFFIX,doh.boje8.me
 DOMAIN-SUFFIX,adguard.bonis.de
 DOMAIN-SUFFIX,adguard.bonsirven.eu
 DOMAIN-SUFFIX,doh.bortzmeyer.fr
@@ -728,6 +727,7 @@ DOMAIN-SUFFIX,dns.janl.eu
 DOMAIN-SUFFIX,doh.jeroenhd.nl
 DOMAIN-SUFFIX,adguard.jfchenier.ca
 DOMAIN-SUFFIX,dns.jhangy.us
+DOMAIN-SUFFIX,dns.jichi.io
 DOMAIN-SUFFIX,dns.jinwoo.dev
 DOMAIN-SUFFIX,dns.jiyi.eu
 DOMAIN-SUFFIX,jkdns.me
@@ -1180,6 +1180,7 @@ DOMAIN-SUFFIX,dns12.quad9.net
 DOMAIN-SUFFIX,dns13.quad9.net
 DOMAIN-SUFFIX,dns9.quad9.net
 DOMAIN-SUFFIX,2.dnscrypt-cert.quad9.net
+DOMAIN-SUFFIX,quic.lol
 DOMAIN-SUFFIX,doh.quickline.ch
 DOMAIN-SUFFIX,dot.quickline.ch
 DOMAIN-SUFFIX,dns.quiet.rocks
