@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 23 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15806
+# Domain Count: 15805
 #===============================================================
 
 +.0i0i0i0.com
@@ -1695,7 +1695,6 @@
 +.ib-ibi.com
 +.ibclick.stream
 +.ibillboard.com
-+.ic-live.com
 +.iclickcdn.com
 +.iconcardinal.com
 +.id.aftenbladet.no
