@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 24 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15805
+# Domain Count: 15804
 #===============================================================
 
 +.0i0i0i0.com
@@ -228,7 +228,6 @@
 +.adprimemedia.net
 +.adpushup.com
 +.adready.com
-+.adreadytractions.com
 +.adrecover.com
 +.adreq.vivo.com.cn
 +.adrequest.net
