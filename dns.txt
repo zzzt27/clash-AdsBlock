@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Mar 2025 04:48 UTC
-# Version: 2025.0327.0448.08
+# Last modified: 27 Mar 2025 16:58 UTC
+# Version: 2025.0327.1658.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1464
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -87,9 +87,6 @@ DOMAIN-SUFFIX,blitz-setup.ahadns.com
 DOMAIN-SUFFIX,ahoj.email
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,dns.albony.xyz
-DOMAIN-SUFFIX,dns.alekberg.net
-DOMAIN-SUFFIX,dns2.alekberg.net
-DOMAIN-SUFFIX,dnses.alekberg.net
 DOMAIN-SUFFIX,dnsnl.alekberg.net
 DOMAIN-SUFFIX,dnsse.alekberg.net
 DOMAIN-SUFFIX,alidns.com
@@ -512,7 +509,6 @@ DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
 DOMAIN-SUFFIX,jurre-home.duckdns.org
 DOMAIN-SUFFIX,krtekvpn.duckdns.org
-DOMAIN-SUFFIX,osefcorp.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
