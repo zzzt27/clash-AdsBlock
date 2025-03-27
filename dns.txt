@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Mar 2025 04:48 UTC
-# Version: 2025.0327.0448.08
+# Last modified: 25 Mar 2025 04:43 UTC
+# Version: 2025.0325.0443.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1467
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -615,6 +615,7 @@ DOMAIN-SUFFIX,adguard.maison.gifino.fr
 DOMAIN-SUFFIX,dns.ginovs.nl
 DOMAIN-SUFFIX,dns.girino.org
 DOMAIN-SUFFIX,h.gjrick.tw
+DOMAIN-SUFFIX,sdns22.gkonuralp.com
 DOMAIN-SUFFIX,glacius.top
 DOMAIN-SUFFIX,dns.glf.wtf
 DOMAIN-SUFFIX,dns.api.globus.org
@@ -674,7 +675,6 @@ DOMAIN-SUFFIX,doh.hottis.de
 DOMAIN-SUFFIX,hshh.org
 DOMAIN-SUFFIX,dns.hshoe.cn
 DOMAIN-SUFFIX,dns.hujiayucc.cn
-DOMAIN-SUFFIX,ads.hunga1k47.com
 DOMAIN-SUFFIX,doth.huque.com
 DOMAIN-SUFFIX,dns.huseynov.work
 DOMAIN-SUFFIX,ad.huyct.net
@@ -859,7 +859,6 @@ DOMAIN-SUFFIX,adguard.marto.si
 DOMAIN-SUFFIX,doh.maskab.com
 DOMAIN-SUFFIX,masters-of-cloud.de
 DOMAIN-SUFFIX,dns.mateo.ovh
-DOMAIN-SUFFIX,dns.mathewakhil.online
 DOMAIN-SUFFIX,maxfong.cc
 DOMAIN-SUFFIX,dns.maybe.icu
 DOMAIN-SUFFIX,dns.mbrjun.cn
