@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 07:29 UTC
-# Version: 2025.0328.0729.53
+# Last modified: 27 Mar 2025 16:58 UTC
+# Version: 2025.0327.1658.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1465
+# Number of entries: 1464
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -507,6 +507,7 @@ DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
+DOMAIN-SUFFIX,jurre-home.duckdns.org
 DOMAIN-SUFFIX,krtekvpn.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
@@ -610,7 +611,6 @@ DOMAIN-SUFFIX,adguard.maison.gifino.fr
 DOMAIN-SUFFIX,dns.ginovs.nl
 DOMAIN-SUFFIX,dns.girino.org
 DOMAIN-SUFFIX,h.gjrick.tw
-DOMAIN-SUFFIX,sdns22.gkonuralp.com
 DOMAIN-SUFFIX,glacius.top
 DOMAIN-SUFFIX,dns.glf.wtf
 DOMAIN-SUFFIX,dns.api.globus.org
@@ -743,7 +743,6 @@ DOMAIN-SUFFIX,dns.justinnetworkingsolutions.com
 DOMAIN-SUFFIX,dns.k3nny.fr
 DOMAIN-SUFFIX,kaiwu.xyz
 DOMAIN-SUFFIX,dns.kamilszczepanski.com
-DOMAIN-SUFFIX,adguard.kantinyoyok.xyz
 DOMAIN-SUFFIX,dns.kapite.in
 DOMAIN-SUFFIX,dns.karadag.me
 DOMAIN-SUFFIX,dns.karfamily.net
