@@ -1,9 +1,9 @@
-# Version: 202503280709
+# Version: 202503280910
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43984
-# Last modified: 2025-03-28T07:09:13+0000
+# Entries: 43977
+# Last modified: 2025-03-28T09:10:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -989,6 +989,7 @@
 +.5001.url25fatm.com
 +.501ce8b381.100066694a.com
 +.50368ce0a6.com
++.50873vmk3263-7sk.xyz
 +.50f0ac5daf.com
 +.50hardcore.galleryprogram.com
 +.50m.gkcyc.com
@@ -5734,7 +5735,6 @@
 +.antananarbdivu.com
 +.antarcticoffended.com
 +.antcompany.com
-+.antdomeneuch.click
 +.anteater.audioadventuregame.com
 +.anteater.benborgers.com
 +.anteater.slyvon.com
@@ -9903,6 +9903,7 @@
 +.cdn54405831.ahacdn.me
 +.cdn7.network
 +.cdn7.rocks
++.cdn83753766.ahacdn.me
 +.cdnads.com
 +.cdnads.geeksforgeeks.org
 +.cdnako.com
@@ -13917,7 +13918,6 @@
 +.decateromulus.com
 +.decatyldecane.com
 +.decaytreacherous.com
-+.deceittoured.com
 +.decemberaccordingly.com
 +.decencysoothe.com
 +.decenthat.com
@@ -16104,7 +16104,6 @@
 +.encyclopediacriminalleads.com
 +.endangersquarereducing.com
 +.endationforea.com
-+.endingmedication.com
 +.endlessloveonline.online
 +.endlesslyalwaysbeset.com
 +.endocrineweb.com
@@ -21201,7 +21200,6 @@
 +.illuminateinconveniencenutrient.com
 +.illuminatelocks.com
 +.illusiondramaexploration.com
-+.illustrious-challenge.pro
 +.illustriousoatmeal.com
 +.ilo134ulih.com
 +.iloptrex.com
@@ -26197,7 +26195,6 @@
 +.mongoose.thechocolatelife.com
 +.mongrelonsetstray.com
 +.monhax.com
-+.monieraldim.click
 +.monitor-api.blackcrow.ai
 +.monitor-frontend-collector.a.bybit-aws.com
 +.monitor-targeting-failures.sqrt-5041.de
@@ -27733,7 +27730,6 @@
 +.oagnalsaftob.net
 +.oagnatch.com
 +.oagnolti.net
-+.oagoalee.xyz
 +.oagreess.net
 +.oagroucestou.net
 +.oahxvgssaxrg.com
@@ -30584,7 +30580,6 @@
 +.prefecturecagesgraphic.com
 +.prefecturesolelysadness.com
 +.preferablycarbon.com
-+.preferablyducks.com
 +.preferencedrank.com
 +.preferenceforfeit.com
 +.preferouter.com
@@ -31093,7 +31088,6 @@
 +.ptistyvymi.com
 +.ptlwm.com
 +.ptoafauz.net
-+.ptoagnin.xyz
 +.ptoahaistais.com
 +.ptoaheelaishard.net
 +.ptoakooph.net
@@ -40246,7 +40240,6 @@
 +.ungothoritator.com
 +.ungoutylensmen.website
 +.ungroudonchan.com
-+.unguyedoutgnaw.top
 +.unhatedkrubi.shop
 +.unhatedprotei.com
 +.unhealthybravelyemployee.com
