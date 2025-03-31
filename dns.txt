@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Mar 2025 03:48 UTC
-# Version: 2025.0331.0348.29
+# Last modified: 31 Mar 2025 15:58 UTC
+# Version: 2025.0331.1558.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1466
+# Number of entries: 1464
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,shield.afixer.app
 DOMAIN-SUFFIX,ahadns.net
 DOMAIN-SUFFIX,blitz.ahadns.com
 DOMAIN-SUFFIX,blitz-setup.ahadns.com
-DOMAIN-SUFFIX,ahoj.email
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,dns.albony.xyz
 DOMAIN-SUFFIX,dnsnl.alekberg.net
@@ -1418,7 +1417,6 @@ DOMAIN-SUFFIX,darkness.is.my.waifu.cz
 DOMAIN-SUFFIX,megumin.is.my.waifu.cz
 DOMAIN-SUFFIX,yunyun.is.my.waifu.cz
 DOMAIN-SUFFIX,dns.wang.art
-DOMAIN-SUFFIX,wantaquddin.com
 DOMAIN-SUFFIX,dns.wargan.io
 DOMAIN-SUFFIX,abel.waringer-atg.de
 DOMAIN-SUFFIX,dns.warma.me

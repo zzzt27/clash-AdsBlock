@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 31 Mar 2025
 # LatestVersion 24.01
-# Domain Count: 15803
+# Domain Count: 15802
 #===============================================================
 
 +.0i0i0i0.com
@@ -2064,7 +2064,6 @@
 +.mediaforge.com
 +.mediago.io
 +.mediaiqdigital.com
-+.medialytics.com
 +.mediamond.it
 +.mediaplex.com
 +.mediarithmics.com
