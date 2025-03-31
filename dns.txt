@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Mar 2025 04:45 UTC
-# Version: 2025.0330.0445.53
+# Last modified: 31 Mar 2025 03:48 UTC
+# Version: 2025.0331.0348.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1463
+# Number of entries: 1466
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,shield.afixer.app
 DOMAIN-SUFFIX,ahadns.net
 DOMAIN-SUFFIX,blitz.ahadns.com
 DOMAIN-SUFFIX,blitz-setup.ahadns.com
+DOMAIN-SUFFIX,ahoj.email
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,dns.albony.xyz
 DOMAIN-SUFFIX,dnsnl.alekberg.net
@@ -776,6 +777,7 @@ DOMAIN-SUFFIX,dns.kosan.moe
 DOMAIN-SUFFIX,dart.kpsn.org
 DOMAIN-SUFFIX,adblock.krctech.dev
 DOMAIN-SUFFIX,xray.krnl.eu
+DOMAIN-SUFFIX,dns.kugoapps.com
 DOMAIN-SUFFIX,dns.kukal.cz
 DOMAIN-SUFFIX,dns.kusoneko.moe
 DOMAIN-SUFFIX,dns.kuuhaku.moe
@@ -1447,6 +1449,7 @@ DOMAIN-SUFFIX,dns.xlion.tw
 DOMAIN-SUFFIX,xn--durhre-yxa.de
 DOMAIN-SUFFIX,dns.xuming.studio
 DOMAIN-SUFFIX,dns.xusqui.com
+DOMAIN-SUFFIX,dns.xwdmw.xyz
 DOMAIN-SUFFIX,v2.xx3210766.live
 DOMAIN-SUFFIX,dns.yameenassotally.com
 DOMAIN-SUFFIX,2.dnscrypt-cert.browser.yandex.net
