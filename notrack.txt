@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 02 Apr 2025
 # LatestVersion 24.01
-# Domain Count: 15802
+# Domain Count: 15801
 #===============================================================
 
 +.0i0i0i0.com
@@ -13654,7 +13654,6 @@
 +.mypush.io
 +.myswitchads.com
 +.myvisualiq.net
-+.nan46ysangt28eec.com
 +.nanigans.com
 +.nanogardens.tech
 +.nanorep.com
