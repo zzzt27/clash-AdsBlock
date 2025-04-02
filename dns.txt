@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 16:16 UTC
-# Version: 2025.0401.1616.24
+# Last modified: 02 Apr 2025 07:46 UTC
+# Version: 2025.0402.0746.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1465
+# Number of entries: 1454
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -85,10 +85,7 @@ DOMAIN-SUFFIX,ahadns.net
 DOMAIN-SUFFIX,blitz.ahadns.com
 DOMAIN-SUFFIX,blitz-setup.ahadns.com
 DOMAIN-SUFFIX,ahoj.email
-DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,dns.albony.xyz
-DOMAIN-SUFFIX,dnsnl.alekberg.net
-DOMAIN-SUFFIX,dnsse.alekberg.net
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
 DOMAIN-SUFFIX,alleesph.online
@@ -105,10 +102,7 @@ DOMAIN-SUFFIX,secure.anudeep.me
 DOMAIN-SUFFIX,ad.anym0re.ru
 DOMAIN-SUFFIX,doh.apad.pro
 DOMAIN-SUFFIX,ag.apollohct.com
-DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,doh.dns.apple.com
-DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
-DOMAIN-SUFFIX,mask.apple-dns.net
 DOMAIN-SUFFIX,dns.applewebkit.dev
 DOMAIN-SUFFIX,doh.applied-privacy.net
 DOMAIN-SUFFIX,dot1.applied-privacy.net
@@ -241,9 +235,7 @@ DOMAIN-SUFFIX,dns.clanless.ovh
 DOMAIN-SUFFIX,dns.clanto.cloud
 DOMAIN-SUFFIX,cleanbrowsing.org
 DOMAIN-SUFFIX,cloudbenders.fun
-DOMAIN-SUFFIX,apple-relay.cloudfare.com
 DOMAIN-SUFFIX,dns.cloudfiction.eu
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,dns.233py.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
@@ -561,7 +553,6 @@ DOMAIN-SUFFIX,dnsvps.familiamv.net
 DOMAIN-SUFFIX,dns.fancyorg.at
 DOMAIN-SUFFIX,farewellkou.click
 DOMAIN-SUFFIX,dns.farshidhakimy.de
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,ns0.fdn.fr
 DOMAIN-SUFFIX,ns1.fdn.fr
 DOMAIN-SUFFIX,dns.fehlsprache.de
@@ -682,8 +673,6 @@ DOMAIN-SUFFIX,dns.iamanuragh.in
 DOMAIN-SUFFIX,dns.iamninja.ru
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-api.icloud.com
-DOMAIN-SUFFIX,mask-boot.icloud.com
-DOMAIN-SUFFIX,mask-canary.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,tienpham.id.vn
 DOMAIN-SUFFIX,adguard.shuting.idv.tw
