@@ -1,9 +1,9 @@
-# Version: 202504030010
+# Version: 202504030209
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44110
-# Last modified: 2025-04-03T00:10:11+0000
+# Entries: 44096
+# Last modified: 2025-04-03T02:09:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13797,7 +13797,6 @@
 +.dazzlinggain.com
 +.db.aomg5bzv7.com
 +.db033pq6bj64g.cloudfront.net
-+.db0a4b4eb7.com
 +.db4zl9wffwnmb.cloudfront.net
 +.db72c26349.com
 +.db770a49df.com
@@ -15194,7 +15193,6 @@
 +.dsh7ky7308k4b.cloudfront.net
 +.dshjbn.xyz
 +.dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
-+.dsjqbkwlofqnie.xyz
 +.dsnextgen.com
 +.dsnymrk0k4p3v.cloudfront.net
 +.dsoftzfile.click
@@ -20185,7 +20183,6 @@
 +.hemtatch.net
 +.hemyn.site
 +.hencefusionbuiltin.com
-+.hencemakesheavy.com
 +.hencesharply.com
 +.hendehy.com
 +.hengradualtroops.com
@@ -25618,7 +25615,6 @@
 +.membersattenuatejelly.com
 +.memberscrisis.com
 +.memia.xyz
-+.memorableanticruel.com
 +.memorablecutletbet.com
 +.memorableeditor.com
 +.mempoonsoftoow.net
@@ -28574,7 +28570,6 @@
 +.orgaxngxhvdp.rocks
 +.orgueapropos.top
 +.orhavingartisticta.com
-+.orhenngnxe.xyz
 +.orientaldumbest.com
 +.orientalrazor.com
 +.orientationphotographicmanslaughter.com
@@ -28914,7 +28909,6 @@
 +.oxygenblobsglass.com
 +.oxzuwixbqdakn.space
 +.oyagncfnrlmij.club
-+.oybcobkru.xyz
 +.oybvygphl.com
 +.oyen3zmvd.com
 +.oyi9f1kbaj.com
@@ -29821,7 +29815,6 @@
 +.pilotnourishmentlifetime.com
 +.pilsarde.net
 +.pimentoutas.click
-+.pimplyhauling.com
 +.pimproll.com
 +.pinaffectionatelyaborigines.com
 +.pincersnap.com
@@ -35471,7 +35464,6 @@
 +.soalonie.com
 +.soalouve.com
 +.soaneefooy.net
-+.soaperdeils.com
 +.soapsudkerfed.com
 +.soathoth.com
 +.soatuloaglou.net
@@ -35827,7 +35819,6 @@
 +.specifiedinspector.com
 +.specimensgrimly.com
 +.specimensraidragged.com
-+.spectacularlovely.com
 +.spectkuchean.com
 +.spediumege.com
 +.speeb.com
@@ -38254,7 +38245,6 @@
 +.thoroughlypantry.com
 +.thorperepresentation.com
 +.thorpeseriouslybabysitting.com
-+.thoudroa.net
 +.thoughtgraphicshoarfrost.com
 +.thoughtleadr.com
 +.thouphouwhad.net
@@ -41922,7 +41912,6 @@
 +.wedgierbirsit.com
 +.wednesdaynaked.com
 +.wednesdaywestern.com
-+.wedpwycjxdjthq.xyz
 +.wee-intention.com
 +.weedazou.net
 +.weednewspro.com
@@ -42409,7 +42398,6 @@
 +.wmrdplrves.com
 +.wmtten.com
 +.wmwwmbjkqomr.top
-+.wmzlbovlwrrok.top
 +.wnalzle.top
 +.wneia.iaskhot.com
 +.wnifdlae.top
@@ -43816,7 +43804,6 @@
 +.zaphakesleigh.com
 +.zaphararidged.com
 +.zapunited.com
-+.zargonsoogloars.xyz
 +.zarnecfetors.top
 +.zarosnap.com
 +.zarpop.com
@@ -44049,7 +44036,6 @@
 +.zrqsmcx.top
 +.zrtfsoz.com
 +.zs.dhl.de
-+.zsfbumz.com
 +.zsjvzsm-s.fun
 +.zsjxwj.com
 +.zslhmw.com
