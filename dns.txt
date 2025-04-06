@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 15:53 UTC
-# Version: 2025.0404.1553.48
+# Last modified: 06 Apr 2025 04:16 UTC
+# Version: 2025.0406.0416.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1449
+# Number of entries: 1448
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,dns.auapi.fun
 DOMAIN-SUFFIX,africa.avastdns.com
 DOMAIN-SUFFIX,secure.avastdns.com
 DOMAIN-SUFFIX,adguard.avdkishore.dev
+DOMAIN-SUFFIX,axaxa.fun
 DOMAIN-SUFFIX,doh.azoris.ovh
 DOMAIN-SUFFIX,dns.azsopro.net
 DOMAIN-SUFFIX,doh1.b-cdn.net
@@ -189,6 +190,7 @@ DOMAIN-SUFFIX,dns.braene.com
 DOMAIN-SUFFIX,dns.brahma.world
 DOMAIN-SUFFIX,bravedns.com
 DOMAIN-SUFFIX,dns.brembeck.cloud
+DOMAIN-SUFFIX,ag.brianlee.fun
 DOMAIN-SUFFIX,dns.brono.cloud
 DOMAIN-SUFFIX,doh.bt.com
 DOMAIN-SUFFIX,goose.buckyfan.net
@@ -285,7 +287,6 @@ DOMAIN-SUFFIX,doh.cornes.me
 DOMAIN-SUFFIX,doh.cox.net
 DOMAIN-SUFFIX,dot.cox.net
 DOMAIN-SUFFIX,dohdot.coxlab.net
-DOMAIN-SUFFIX,dns.criena.net
 DOMAIN-SUFFIX,crypto.sx
 DOMAIN-SUFFIX,dns.cryptomize.com
 DOMAIN-SUFFIX,dotdns.cryptroute.com
@@ -309,7 +310,6 @@ DOMAIN-SUFFIX,dns.home.daniil.it
 DOMAIN-SUFFIX,adguard.dantynes.cyou
 DOMAIN-SUFFIX,mail.data.haus
 DOMAIN-SUFFIX,ns.data.haus
-DOMAIN-SUFFIX,doh.datacore.ch
 DOMAIN-SUFFIX,doh.datahata.by
 DOMAIN-SUFFIX,dns.datenquark.de
 DOMAIN-SUFFIX,dns.david888.com
@@ -589,7 +589,6 @@ DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
 DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
-DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
 DOMAIN-SUFFIX,geshido.vpn.geshido.ru
 DOMAIN-SUFFIX,getdnsapi.net
@@ -951,7 +950,6 @@ DOMAIN-SUFFIX,us-nyc-w-p-1.nashkan.net
 DOMAIN-SUFFIX,us-saj-w-f-1.nashkan.net
 DOMAIN-SUFFIX,us-saj-w-p-1.nashkan.net
 DOMAIN-SUFFIX,dns.neeb.it
-DOMAIN-SUFFIX,nenam.eu
 DOMAIN-SUFFIX,adguard.neon0404.space
 DOMAIN-SUFFIX,dns.neowutran.ovh
 DOMAIN-SUFFIX,dns.aa.net.uk
@@ -1448,6 +1446,7 @@ DOMAIN-SUFFIX,your-dns.run
 DOMAIN-SUFFIX,yovbak.com
 DOMAIN-SUFFIX,dns.yuu-g.net
 DOMAIN-SUFFIX,yuvelirtut.website
+DOMAIN-SUFFIX,adg.yybyy.wiki
 DOMAIN-SUFFIX,dns.daemon.za.net
 DOMAIN-SUFFIX,adguard.zachitect.com
 DOMAIN-SUFFIX,zakaria.website
