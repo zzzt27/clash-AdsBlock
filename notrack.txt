@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 06 Apr 2025
 # LatestVersion 24.01
-# Domain Count: 15800
+# Domain Count: 15798
 #===============================================================
 
 +.0i0i0i0.com
@@ -13586,7 +13586,6 @@
 +.mobclix.com
 +.mobfox.com
 +.mobidia.com
-+.mobile-tracking.bloomberg.com
 +.mobileadexchange.net
 +.mobileads.msn.com
 +.mobileadstrk.com
@@ -13619,7 +13618,6 @@
 +.mouseflow.com
 +.movcpm.com
 +.movesickly.com
-+.movingos.com
 +.mox.tv
 +.mparticle.com
 +.mpianalytics.com
