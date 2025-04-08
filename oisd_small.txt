@@ -1,9 +1,9 @@
-# Version: 202504080108
+# Version: 202504080408
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44052
-# Last modified: 2025-04-08T01:08:43+0000
+# Entries: 44061
+# Last modified: 2025-04-08T04:08:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -59,6 +59,7 @@
 +.04424170.xyz
 +.044da016b3.com
 +.045fef1509.com
++.04b9055b2a.com
 +.04c8b396bf.com
 +.04e0d8fb0f.com
 +.05420795.xyz
@@ -1042,7 +1043,6 @@
 +.590578zugbr8.com
 +.59202140.xyz
 +.592fd0d4b9.70be76b98c.com
-+.5947bd8bc0.04b9055b2a.com
 +.595image.com
 +.59644010.xyz
 +.59768910.xyz
@@ -9958,6 +9958,7 @@
 +.ceezepegleze.xyz
 +.cef7cb85aa.com
 +.cegloockoar.com
++.ceibawhirled.top
 +.ceilingbruiseslegend.com
 +.cekgsyc.com
 +.ceklcxte.com
@@ -23690,6 +23691,7 @@
 +.lessonworkman.com
 +.lestaigames.com
 +.letaikay.net
++.letaimparou.net
 +.letinclusionbone.com
 +.letitnews.com
 +.letmewatchthis.pl
@@ -24034,6 +24036,7 @@
 +.lmj8i.pro
 +.lmlmvip.com
 +.lmn-pou-win.com
++.lmoozvlklrorj.top
 +.lmorabfuj.com
 +.lmp3.org
 +.lmwchtcwluvkba.xyz
@@ -26154,6 +26157,7 @@
 +.moilizoi.com
 +.moistcargo.com
 +.moistenmanoc.com
++.moitcoigns.shop
 +.mojoaffiliates.com
 +.mojwprb.ru
 +.moksoxos.com
@@ -28850,6 +28854,7 @@
 +.oxtsale1.com
 +.oxtzgomhodrz.top
 +.oxvbfpwwewu.com
++.oxwafbjf.com
 +.oxybe.com
 +.oxygenblobsglass.com
 +.oxzuwixbqdakn.space
@@ -33104,6 +33109,7 @@
 +.roughindoor.com
 +.roughsvick.top
 +.roughviolentlounge.com
++.rougloujouwoate.com
 +.rouinfernapean.com
 +.roujonoa.net
 +.roulediana.com
@@ -40695,6 +40701,7 @@
 +.vaccinationwear.com
 +.vaccineconvictedseafood.com
 +.vachoumpuh.net
++.vacmomtoudu.net
 +.vacpukna.com
 +.vacqfuaggah.com
 +.vacuomedogeys.com
@@ -41293,6 +41300,7 @@
 +.volleyballachiever.site
 +.vologda.aomg5bzv7.com
 +.voltads.com
++.voltoishime.top
 +.volts.shopping.naver.com
 +.volumedpageboy.com
 +.volumesundue.com
@@ -41443,6 +41451,7 @@
 +.vvdrhe.win
 +.vvfgjzwa.icu
 +.vvprcztaw.com
++.vvrgyaoymtf.com
 +.vvttpn.xyz
 +.vvv.ieduw.com
 +.vvvvdbrrt.com
