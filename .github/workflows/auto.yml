@@ -58,6 +58,21 @@ jobs:
         echo "entries_nsfw=$entries_nsfw" >> $GITHUB_ENV
         echo "last_modified_nsfw=$last_modified_nsfw" >> $GITHUB_ENV
 
+    # Update oisd_nsfw_small.txt
+    - name: Download the oisd_nsfw_small.txt file
+      run: wget https://nsfw-small.oisd.nl/domainswild -O oisd_nsfw_small.txt
+
+    - name: Modify the oisd_nsfw_small.txt file
+      run: sed -i 's/\*\./+./g' oisd_nsfw_small.txt
+
+    - name: Extract oisd_nsfw_small Info
+      id: extract_info_nsfw_small
+      run: |
+        entries_nsfw_small=$(grep -oP '(?<=^# Entries: ).*' oisd_nsfw_small.txt)
+        last_modified_nsfw_small=$(grep -oP '(?<=^# Last modified: ).*' oisd_nsfw_small.txt)
+        echo "entries_nsfw_small=$entries_nsfw_small" >> $GITHUB_ENV
+        echo "last_modified_nsfw_small=$last_modified_nsfw_small" >> $GITHUB_ENV
+
     # Download and count ABPindo rules
     - name: Download the ABPindo.txt file
       run: wget https://fastly.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/domain.txt -O ABPindo.txt
@@ -110,6 +125,7 @@ jobs:
         sed -i "s|\[oisd_big\](#big) \| \*\*.*\*\* \| .*|\[oisd_big\](#big) \| **$last_update** \| ${{ env.entries_big }}|" README.md
         sed -i "s|\[oisd_small\](#small) \| \*\*.*\*\* \| .*|\[oisd_small\](#small) \| **$last_update** \| ${{ env.entries_small }}|" README.md
         sed -i "s|\[oisd_nsfw🔞\](#nsfw) \| \*\*.*\*\* \| .*|\[oisd_nsfw🔞\](#nsfw) \| **$last_update** \| ${{ env.entries_nsfw }}|" README.md
+        sed -i "s|\[oisd_nsfw_small🔞\](#nsfw-small) \| \*\*.*\*\* \| .*|\[oisd_nsfw_small🔞\](#nsfw-small) \| **$last_update** \| ${{ env.entries_nsfw_small }}|" README.md
         sed -i "s|\[ABPindo\](#indo) \| \*\*.*\*\* \| .*|\[ABPindo\](#indo) \| **${{ env.last_commit_date }}** \| ${{ env.rules_count_abpindo }}|" README.md
         git add README.md
 
@@ -122,6 +138,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt README.md notrack.txt dns.txt
+        git add oisd_big.txt ABPindo.txt oisd_small.txt oisd_nsfw.txt oisd_nsfw_small.txt README.md notrack.txt dns.txt
         git commit -F commit_message.txt || echo "No changes to commit"
         git push
