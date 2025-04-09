@@ -8,6 +8,7 @@ NAME | UPDATE | RULES COUNT |
 [oisd_small](#small) | **09-04-25** | 44130
 [oisd_big](#big) | **09-04-25** | 197124
 [oisd_nsfw🔞](#nsfw) | **09-04-25** | 383336
+[oisd_nsfw_small🔞](#nsfw-small) | **09-04-25** | 383336
 
 
 ### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
@@ -75,6 +76,26 @@ rule-providers:
 ```yaml
 rules:
   - RULE-SET,oisd_nsfw🔞,REJECT
+```
+
+### oisd_nsfw_small🔞 <a name="nsfw-small"></a>
+
+* rule provider
+```yaml
+rule-providers:
+  oisd_nsfw_small🔞:
+    type: http
+    behavior: domain
+    format: text
+    path: "./rule_provider/oisd_nsfw_small.txt"
+    url: https://raw.githubusercontent.com/zzzt27/clash-AdsBlock/main/oisd_nsfw_small.txt
+    interval: 86400
+```
+
+* rules
+```yaml
+rules:
+  - RULE-SET,oisd_nsfw_small🔞,REJECT
 ```
 
 ### ABPindo <a name="indo"></a>
