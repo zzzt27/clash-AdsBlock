@@ -23,7 +23,7 @@ NAME | UPDATE | RULES COUNT |
 * rule provider
 ```yaml
 rule-providers:
-  oisd_light:
+  oisd_small:
     type: http
     behavior: domain
     format: text
