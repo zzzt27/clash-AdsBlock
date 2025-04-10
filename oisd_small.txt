@@ -1,9 +1,9 @@
-# Version: 202504101009
+# Version: 202504101210
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43889
-# Last modified: 2025-04-10T10:09:10+0000
+# Entries: 43883
+# Last modified: 2025-04-10T12:10:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -81,7 +81,6 @@
 +.07dy.cc
 +.08031fef00.com
 +.08256602.xyz
-+.0865a125ce.com
 +.08f8f073.xyz
 +.08fdca8d30.fc5701c3b2.com
 +.0926a687679d337e9d.com
@@ -17289,7 +17288,6 @@
 +.ffjevt.icu
 +.ffofcetgurwrd.com
 +.fft.delovoemesto.ru
-+.fftgasxe.xyz
 +.fgbnnholonge.info
 +.fgdkfr.xyz
 +.fgeivosgjk.com
@@ -30579,7 +30577,6 @@
 +.princesinistervirus.com
 +.princessdazzlepeacefully.com
 +.principlede.info
-+.principlessilas.com
 +.pringed.space
 +.prinksoncotic.com
 +.printaugment.com
@@ -30670,7 +30667,6 @@
 +.production-tracking.riviu.co
 +.products.gobankingrates.com
 +.proeroclips.pro
-+.proetusbramble.com
 +.proext.com
 +.profero.com
 +.professdeteriorate.com
@@ -31573,7 +31569,6 @@
 +.qskxpvncyjly.com
 +.qsmnt.online
 +.qsvbi.space
-+.qtoeofqazggu.com
 +.qtoxhaamntfi.com
 +.quackedchevage.top
 +.quacktypist.com
@@ -38362,7 +38357,6 @@
 +.togothitaa.com
 +.toiletpaper.life
 +.toitoidotkin.shop
-+.tojinr.com
 +.tokenads.com
 +.toksoudsoab.net
 +.toldyouso.lol
