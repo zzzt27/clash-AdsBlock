@@ -1,9 +1,9 @@
-# Version: 202504101848
+# Version: 202504102040
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43939
-# Last modified: 2025-04-10T18:48:05+0000
+# Entries: 43936
+# Last modified: 2025-04-10T20:40:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11313,7 +11313,6 @@
 +.consideration3x.fun
 +.consideringscallion.com
 +.consistedlovedstimulate.com
-+.consmo.net
 +.consolationgratitudeunwise.com
 +.console.ad.logic.viasat.io
 +.console.adbility-media.com
@@ -32576,7 +32575,6 @@
 +.results.clickverifier.online
 +.results.uservalidate.co.uk
 +.resultsz.com
-+.resultulterior.com
 +.resumeconcurrence.com
 +.retagro.com
 +.retail-client-events-service.internal.salsify.com
@@ -38761,7 +38759,6 @@
 +.track.bcvc.mobi
 +.track.berliner-kurier.de
 +.track.bizjournals.com
-+.track.brafiliados.com.br
 +.track.briskfile.com
 +.track.btdmp.com
 +.track.buybox.click
