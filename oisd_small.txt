@@ -1,9 +1,9 @@
-# Version: 202504092110
+# Version: 202504100010
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43897
-# Last modified: 2025-04-09T21:10:11+0000
+# Entries: 43896
+# Last modified: 2025-04-10T00:10:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -22559,7 +22559,6 @@
 +.jurisdiction423.fun
 +.jursp.com
 +.juryolympicsspookily.com
-+.juska.site
 +.juslsp.info
 +.just-news.pro
 +.justad.mobi
