@@ -1,9 +1,9 @@
-# Version: 202504110010
+# Version: 202504110108
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43907
-# Last modified: 2025-04-11T00:10:17+0000
+# Entries: 43906
+# Last modified: 2025-04-11T01:08:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -23521,7 +23521,6 @@
 +.leetaipt.net
 +.leeteehigloothu.net
 +.leetmedia.com
-+.leetmenllew.com
 +.leezeept.com
 +.leezoama.net
 +.leforgotteddisg.info
