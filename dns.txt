@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 15:09 UTC
-# Version: 2025.0411.1509.15
+# Last modified: 11 Apr 2025 22:14 UTC
+# Version: 2025.0411.2214.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1453
+# Number of entries: 1452
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -740,7 +740,6 @@ DOMAIN-SUFFIX,kavkaz.monster
 DOMAIN-SUFFIX,dns.kawa.tf
 DOMAIN-SUFFIX,dns.kebree.fr
 DOMAIN-SUFFIX,dns.keke125.com
-DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
