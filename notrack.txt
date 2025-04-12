@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 12 Apr 2025
 # LatestVersion 24.01
-# Domain Count: 15799
+# Domain Count: 15798
 #===============================================================
 
 +.0i0i0i0.com
@@ -1271,7 +1271,6 @@
 +.dressipi.com
 +.drift.com
 +.driftt.com
-+.driv-analytics.com
 +.dropkickmedia.com
 +.ds.shalltry.com
 +.dstillery.com
