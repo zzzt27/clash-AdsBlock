@@ -1,9 +1,9 @@
-# Version: 202504121309
+# Version: 202504121409
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43927
-# Last modified: 2025-04-12T13:09:16+0000
+# Entries: 43922
+# Last modified: 2025-04-12T14:09:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1129,7 +1129,6 @@
 +.6657e4f5c2.com
 +.666579.xyz
 +.666777888abc.com
-+.6669667.com
 +.666aa777bb.com
 +.666bb777ww.com
 +.666bbb222www.com
@@ -7447,7 +7446,6 @@
 +.barefootedleisurelypizza.com
 +.barelydonkeysteed.com
 +.barelytwinkledelegate.com
-+.baresi.xyz
 +.bargainintake.com
 +.bargeagency.com
 +.bargedale.com
@@ -11311,7 +11309,6 @@
 +.config.appjolt.com
 +.config.emb-api.com
 +.config.jpush.cn
-+.config.safedk.com
 +.configurationluxuriantinclination.com
 +.confinemutual.com
 +.confiningdrawshimmy.com
@@ -13584,7 +13581,6 @@
 +.dabajd.xyz
 +.dabbingassyria.shop
 +.dable.io
-+.daboovip.xyz
 +.daboshique.net
 +.daccompanied.org
 +.daccroi.com
@@ -23992,7 +23988,6 @@
 +.lkg6g644.de
 +.lkhfkjp.com
 +.lkixinoql.com
-+.lkkemywlsyxsq.xyz
 +.lkpmprksau.com
 +.lkqaq.icu
 +.lkqd.net
