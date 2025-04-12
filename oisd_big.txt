@@ -1,9 +1,9 @@
-# Version: 202504112307
+# Version: 202504120009
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 150134
-# Last modified: 2025-04-11T23:07:48+0000
+# Entries: 150055
+# Last modified: 2025-04-12T00:09:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4475,7 +4475,6 @@
 +.7dd392cbcb.4edcc6cc27.com
 +.7ddce2d9.7fc087fbd273b757485ac4d5.workers.dev
 +.7dgw.com
-+.7dlm.cn
 +.7dot.cn
 +.7e4bb44dd2.b1158965a8.com
 +.7e52bb0df7.c5ab629aba.com
@@ -4676,7 +4675,6 @@
 +.862areacode.com
 +.86357021.xyz
 +.864756590714102-dot-charming-sky-2700.appspot.com
-+.86487154.xyz
 +.864feb57ruary.com
 +.865124-coinbase.com
 +.866appliance.com
@@ -7198,7 +7196,6 @@
 +.actforvictoryorg.112.2o7.net
 +.actglimpse.com
 +.actiagroup.com
-+.actif-prime.fr
 +.actiflex.org
 +.actingwoodland.com
 +.actio.systems
@@ -13405,10 +13402,8 @@
 +.allegro.pl-7871244.icu
 +.allegro.pl-79391802.rest
 +.allegro.pl-80834493.shop
-+.allegro.pl-83424.cfd
 +.allegro.pl-84382019.rest
 +.allegro.pl-8838388.shop
-+.allegro.pl-8930492.icu
 +.allegro.pl-8930492.rest
 +.allegro.pl-92032932.rest
 +.allegro.pl-92049021.rest
@@ -13531,7 +13526,6 @@
 +.allegrolokainie.pl-kategorie-inne-1023.icu
 +.allegrolokainie.pl-kategorie-inne-7155.cfd
 +.allegrolokainie.pl-kategorie-inne-9135.sbs
-+.allegrolokainie.pl-kategorie-pozostale-15.sbs
 +.allegrolokainie.pl-kategorie-pozostale-24.icu
 +.allegrolokainie.pl-kategorie-pozostale-491.sbs
 +.allegrolokainie.pl-okazja-13.icu
@@ -13926,7 +13920,6 @@
 +.allegrolokalnie.v0a8-2198-va91.top
 +.allegrolokalnie.v9a10v.shop
 +.allegrolokalnie.x0y19p13.shop
-+.allegrolokalnie.y072.sbs
 +.allegrolokalnie.y0b0a.shop
 +.allegrolokalnie.y0c9a81.shop
 +.allegrolokalnie.y2019v0a.shop
@@ -13936,7 +13929,6 @@
 +.allegrolokalnie.zakup-online-24h.pl
 +.allegrolokalniepl.67478388487573994885.icu
 +.allegrolokalniepl.7564536784922939384.icu
-+.allegrolokalnle.pl12035.cfd
 +.allegrolokalnle.pl32890.cfd
 +.allegrolokalnle.pl41103.cfd
 +.allegrolokalnle.pl48493.cfd
@@ -23485,7 +23477,6 @@
 +.beam.remp.nv.ua
 +.beam.telex.hu
 +.beamanalytics.b-cdn.net
-+.beamincrease.com
 +.beaminduggl.top
 +.beamlikes.6te.net
 +.beamobserver.com
@@ -23585,7 +23576,6 @@
 +.bebseegn.com
 +.bebusyforgot.shop
 +.becamedevelopfailure.com
-+.becamesprinkle.com
 +.becanium.com
 +.becasmexico.info
 +.because-deleted.gl.at.ply.gg
@@ -32255,7 +32245,6 @@
 +.check.auaaa.icu
 +.check.ayaiu.online
 +.check.bajys.icu
-+.check.bibyn.icu
 +.check.bipyl.icu
 +.check.boruq.icu
 +.check.budu.site
@@ -35189,7 +35178,6 @@
 +.com-bspe.top
 +.com-btip.top
 +.com-bwrl.top
-+.com-cauo.top
 +.com-cazqk.vip
 +.com-cgkj.top
 +.com-che-3200165298.wikyzone.com
@@ -35210,7 +35198,6 @@
 +.com-emzwnhresw.xin
 +.com-emzwnxzcp.xin
 +.com-emzwsefybd.xin
-+.com-emzwsefybe.xin
 +.com-emzwsefybf.xin
 +.com-emzwsefybl.xin
 +.com-etcama.vip
@@ -35258,7 +35245,6 @@
 +.com-etcpwb.vip
 +.com-etcpwg.vip
 +.com-etcpwh.vip
-+.com-etcpwj.vip
 +.com-etcpwn.vip
 +.com-etcpwq.vip
 +.com-etcpwz.vip
@@ -35384,7 +35370,6 @@
 +.com-hjfycd.vip
 +.com-hjfycj.vip
 +.com-hjfyky.vip
-+.com-hlrz.top
 +.com-ho.me
 +.com-hosq.top
 +.com-host.info
@@ -35546,7 +35531,6 @@
 +.com-xchk.top
 +.com-xiibv.vip
 +.com-xpcl.top
-+.com-xpgx.top
 +.com-xqpe.top
 +.com-xrka.top
 +.com-xxmix.cc
@@ -45103,7 +45087,6 @@
 +.distributionlivraison.com
 +.distributionpocket.com
 +.distributionrelayfr.help
-+.distributionrelayfr.top
 +.distributions-prime.fr
 +.distributiontomatoes.com
 +.districtchronicles.com
@@ -47581,7 +47564,6 @@
 +.dy2xcjk8s1dbz.cloudfront.net
 +.dy5t1b0a29j1v.cloudfront.net
 +.dyaconiconelino.com
-+.dybroff.ru
 +.dybxezbel1g44.cloudfront.net
 +.dyd.es
 +.dydynight.org
@@ -47766,8 +47748,6 @@
 +.e-wei.com.cn
 +.e-zeitung.de
 +.e-zpass.com-douaxm.top
-+.e-zpass.com-emgwe.top
-+.e-zpass.com-emgww.top
 +.e-zpass.com-emllose.top
 +.e-zpass.com-emnaw.xin
 +.e-zpass.com-emnxb.xin
@@ -47835,8 +47815,6 @@
 +.e-zpass.com-etclxx.world
 +.e-zpass.com-etcmlb.xin
 +.e-zpass.com-etcmld.xin
-+.e-zpass.com-etcmle.xin
-+.e-zpass.com-etcplc.xin
 +.e-zpass.com-etcpld.xin
 +.e-zpass.com-etcqedo.vip
 +.e-zpass.com-etcqedq.vip
@@ -47881,7 +47859,6 @@
 +.e-zpass.com-qwe.world
 +.e-zpass.com-qwi.world
 +.e-zpass.com-qwr.world
-+.e-zpass.com-qwt.world
 +.e-zpass.com-qwy.world
 +.e-zpass.com-roadetcavn.xin
 +.e-zpass.com-roadetcazc.xin
@@ -47966,7 +47943,6 @@
 +.e-zpassny.com-csd.vip
 +.e-zpassny.com-cui.vip
 +.e-zpassny.com-dfsja.top
-+.e-zpassny.com-dfsje.top
 +.e-zpassny.com-dfsji.top
 +.e-zpassny.com-dfsjo.top
 +.e-zpassny.com-dfsjr.top
@@ -48101,7 +48077,6 @@
 +.e-zpassny.com-tiznastd.world
 +.e-zpassny.com-tiznastm.world
 +.e-zpassny.com-tiznasts.world
-+.e-zpassny.com-tiznastx.world
 +.e-zpassny.com-tiznastz.world
 +.e-zpassny.com-tiznaz.xin
 +.e-zpassny.com-tiznea.world
@@ -48110,7 +48085,6 @@
 +.e-zpassny.com-tiznqmab.world
 +.e-zpassny.com-tiznqmac.world
 +.e-zpassny.com-tiznqmag.world
-+.e-zpassny.com-tiznqmah.world
 +.e-zpassny.com-tiznqmaj.world
 +.e-zpassny.com-tiznqmak.world
 +.e-zpassny.com-tiznqmal.world
@@ -48130,7 +48104,6 @@
 +.e-zpassny.com-tiznqmp.world
 +.e-zpassny.com-tiznqmpa.world
 +.e-zpassny.com-tiznqmpe.world
-+.e-zpassny.com-tiznqmpf.world
 +.e-zpassny.com-tiznqmpg.world
 +.e-zpassny.com-tiznqmpq.world
 +.e-zpassny.com-tiznqmpr.world
@@ -48223,7 +48196,6 @@
 +.e-zpassny.com-ybdiq.xin
 +.e-zpassny.com-ybiiq.xin
 +.e-zpassny.com-ybkiq.xin
-+.e-zpassny.com-yir.vip
 +.e-zpassny.com-yvw.vip
 +.e-zpassny.com-zaf.vip
 +.e-zpassny.com-zmhsya.cc
@@ -49368,7 +49340,6 @@
 +.ee3d8d5c76.com
 +.ee694ce73a.c11e6856d0.com
 +.ee768d2e27.0f9be2e1ef.com
-+.ee986.com
 +.eeaczcf.icu
 +.eebilling.com
 +.eeboazurg.net
@@ -51281,7 +51252,6 @@
 +.escgjyxnxbktf.one
 +.esco-ee.com.ua
 +.escolabarretodejiujitsu.com.br
-+.escorter.info
 +.escortlarbul.com
 +.escortlist.pro
 +.escribaniaquinterno.com.ar
@@ -51587,7 +51557,6 @@
 +.etcagz.xin
 +.etcahc.xin
 +.etcahg.xyz
-+.etcahl.world
 +.etcahu.xin
 +.etcaib.xin
 +.etcaig.blog
@@ -51609,7 +51578,6 @@
 +.etcaje.top
 +.etcajg.top
 +.etcajh.xin
-+.etcakk.top
 +.etcakm.blog
 +.etcakm.cc
 +.etcakm.shop
@@ -51659,7 +51627,6 @@
 +.etcaqw.xin
 +.etcaqx.world
 +.etcaqy.world
-+.etcarf.xin
 +.etcasa.top
 +.etcasf.top
 +.etcasx.top
@@ -51668,7 +51635,6 @@
 +.etcata.xin
 +.etcats.top
 +.etcats.world
-+.etcaud.top
 +.etcaue.top
 +.etcaut.xin
 +.etcauy.xin
@@ -51881,9 +51847,7 @@
 +.etconj.xin
 +.etcooi.world
 +.etcoop.world
-+.etcopl.win
 +.etcorf.world
-+.etcpay.world
 +.etcpayi.world
 +.etcpoi.world
 +.etcpoo.world
@@ -51929,7 +51893,6 @@
 +.etcvip.world
 +.etcvipc.world
 +.etcvipcc.world
-+.etcvipf.world
 +.etcvipii.world
 +.etcvipkk.world
 +.etcvipkui.world
@@ -52648,7 +52611,6 @@
 +.evrimail.servicecenterojzc.xin
 +.evrimail.servicecenteropka.xin
 +.evrimail.servicecenterosv.xin
-+.evrimail.servicecentervaa.xin
 +.evrimail.servicecentervac.xin
 +.evrimail.servicecentervc.xin
 +.evrimail.servicecenterve.xin
@@ -52657,7 +52619,6 @@
 +.evrimail.servicecenteryc.xin
 +.evrimail.servifefenterfbch.xin
 +.evrimail.servifefenterfhi.xin
-+.evrimail.servifefenterflab.xin
 +.evrimail.servifefenterfog.xin
 +.evrimail.servifefentergf.xin
 +.evrimail.servifefentergg.xin
@@ -53265,7 +53226,6 @@
 +.ezpass.com-dups.vip
 +.ezpass.com-duvq.vip
 +.ezpass.com-dylg.xin
-+.ezpass.com-eboj.vip
 +.ezpass.com-eiop.vip
 +.ezpass.com-emjw.win
 +.ezpass.com-eogt.win
@@ -53289,7 +53249,6 @@
 +.ezpass.com-etcebx.xin
 +.ezpass.com-etceq.win
 +.ezpass.com-etcikt.vip
-+.ezpass.com-etclgb.xin
 +.ezpass.com-etclge.xin
 +.ezpass.com-etclgh.xin
 +.ezpass.com-etcms.xin
@@ -53463,7 +53422,6 @@
 +.ezpass.com-psgl.win
 +.ezpass.com-pvwm.vip
 +.ezpass.com-qbgaf.xin
-+.ezpass.com-qbgah.xin
 +.ezpass.com-qbgar.xin
 +.ezpass.com-qbgaw.xin
 +.ezpass.com-qbgax.xin
@@ -53475,7 +53433,6 @@
 +.ezpass.com-sbgs.win
 +.ezpass.com-sbyyg.xin
 +.ezpass.com-scwc.win
-+.ezpass.com-servr.xin
 +.ezpass.com-servt.xin
 +.ezpass.com-serxd.top
 +.ezpass.com-serxf.top
@@ -53497,7 +53454,6 @@
 +.ezpass.com-tels.xin
 +.ezpass.com-telu.xin
 +.ezpass.com-telv.xin
-+.ezpass.com-telw.xin
 +.ezpass.com-telx.xin
 +.ezpass.com-tfbk.vip
 +.ezpass.com-tigq.vip
@@ -58196,7 +58152,6 @@
 +.fsjxc.com
 +.fsk1es.shet.eveshamairporttransfers.co.uk
 +.fsktv1990.com
-+.fslhtk.com
 +.fsltwwmfxqh.fun
 +.fsm2.spiegel.de
 +.fsmial.net
@@ -60870,7 +60825,6 @@
 +.gixeedsute.net
 +.gixiluros.com
 +.giximiofing.godaddysites.com
-+.gixtgaieap.xyz
 +.gizmodoc.ru
 +.gizokraijaw.net
 +.gj.mmstat.com
@@ -61722,7 +61676,6 @@
 +.golddisco.top
 +.golden-bet-casino.fr
 +.golden-gateway.com
-+.golden-gooses.fr
 +.golden-panda1.fr
 +.golden-pandas.fr
 +.golden-pass.fr
@@ -72584,7 +72537,6 @@
 +.jawiqrzaactj.live
 +.jaworski-komornik.pl
 +.jawpcowpeas.top
-+.jax4v0n.duckdns.org
 +.jaxx.site
 +.jaxx.ws
 +.jay.brauerei-egg.at
@@ -73191,7 +73143,6 @@
 +.jjzhang.com
 +.jk4lmrf2.de
 +.jkanjaru.beget.tech
-+.jkbewmebyqbob.top
 +.jkbrtyinv.name
 +.jkbtinternet.weebly.com
 +.jkdds.weebly.com
@@ -77205,7 +77156,6 @@
 +.la-nuova-app.cc
 +.la-rivieracasino.fr
 +.la.appme.ru
-+.la.aulturametio.ru
 +.la.land
 +.la.morgane.free.fr
 +.la.vietid.net
@@ -79853,7 +79803,6 @@
 +.litengzuche.com
 +.literally-analytics.appspot.com
 +.literalseduction.net
-+.literaturerehearsesteal.com
 +.literpeore.com
 +.litetopfindworld.cn
 +.lithiumcheats.xyz
@@ -81859,7 +81808,6 @@
 +.louboutinhommechaussures.fr
 +.louboutinoutletus.us.com
 +.louboutinpaschersoldes.fr
-+.louboutinsoldes.fr
 +.louchaug.com
 +.louchees.net
 +.loud-plausible-skunk.glitch.me
@@ -92650,7 +92598,6 @@
 +.newcarhub.com
 +.newcarspanaid.com
 +.newcarssolutions.com
-+.newcastle-rating-artificial-commissioners.trycloudflare.com
 +.newcategories.com
 +.newcentradeusa.com
 +.newchallenges-dsp.com
@@ -96854,7 +96801,6 @@
 +.opclumbcuqze.com
 +.opcnflku.com
 +.opdfzek.cn
-+.opdh.cn
 +.opdomains.space
 +.opdoploipty.weebly.com
 +.opdxpycrizuq.com
@@ -97841,7 +97787,6 @@
 +.outhulem.net
 +.outils.worldoo.info
 +.outils2.worldoo.info
-+.outkisslahuli.com
 +.outl00k.netlify.app
 +.outl00k.netlify.com
 +.outl00koffice.netlify.app
@@ -97857,7 +97802,6 @@
 +.outlet-stoneisland.fr
 +.outlet-uggstore.fr
 +.outlet888.com
-+.outletasics.fr
 +.outletconverse.uk.com
 +.outletdeals.fr
 +.outletfishingrestoration.com
@@ -98440,7 +98384,6 @@
 +.pa.ezpasski.top
 +.pa.ezpassko.top
 +.pa.ezpasskp.top
-+.pa.ezpassks.top
 +.pa.ezpasskt.top
 +.pa.ezpassmh.xin
 +.pa.pinpoll.com
@@ -99086,7 +99029,6 @@
 +.paradisusmedicalcenter.com
 +.paradizeconstruction.com
 +.paradou-ac.com
-+.paradoxfactor.com
 +.parafinadomicilio.cl
 +.paragon-americas.com
 +.paragoninvestmentgroup.co.uk
@@ -103902,7 +103844,6 @@
 +.prime-livraisonexpress.fr
 +.prime-livraisonrapide.fr
 +.prime-login.fr
-+.prime-manage.fr
 +.prime-management.fr
 +.prime-modif.fr
 +.prime-modification.fr
@@ -103912,7 +103853,6 @@
 +.prime-ok.fr
 +.prime-operation.fr
 +.prime-parametres.fr
-+.prime-pass.fr
 +.prime-payment.fr
 +.prime-payments.fr
 +.prime-plus.fr
@@ -107859,7 +107799,6 @@
 +.puds.test.uae.uc.cn
 +.puds.ucweb.com
 +.puenteaereo.info
-+.puerrogfh.live
 +.puertojambs.com
 +.puerty.com
 +.puesc-kas.firebaseapp.com
@@ -108179,7 +108118,6 @@
 +.pushtorm.net
 +.pushtrust.com
 +.pushub.net
-+.pushup.wtf
 +.pushwhy.com
 +.pushyconsequence.com
 +.pushydialoguenoisy.com
@@ -108485,7 +108423,6 @@
 +.qchannel04.cn
 +.qchmlmtkpbswf.buzz
 +.qcjslm.com
-+.qckeumrwft.xyz
 +.qckjmp.com
 +.qcl777.com
 +.qclruwltqxojpo.com
@@ -111599,7 +111536,6 @@
 +.representations-acknowledge-removed-rocks.trycloudflare.com
 +.represented.cn
 +.representhostilemedia.com
-+.repression-fraude.fr
 +.repressionfraudes.fr
 +.reprimandheel.com
 +.reproachfeistypassing.com
@@ -112804,7 +112740,6 @@
 +.roamapheejub.com
 +.roambedroom.com
 +.roamer.social
-+.roamers.today
 +.roamrline.top
 +.roamthrivecaviar.com
 +.roange.fr
@@ -117458,7 +117393,6 @@
 +.selectedunrealsatire.com
 +.selectfreshproduce.co.ke
 +.selectingxfinity.weebly.com
-+.selection-prime.fr
 +.selection-privileges.fr
 +.selectivesummer.com
 +.selectlaboratoriesltd.co.uk
@@ -122321,7 +122255,6 @@
 +.son-in-lawmorbid.com
 +.son37.club
 +.sonaliaansh.net
-+.sonarappliances.com
 +.sonare.jp
 +.sonatahouse.school
 +.sondeca.com
@@ -125361,7 +125294,6 @@
 +.steamcomnunity.ru
 +.steamcomnunlity.com
 +.steamcomnunmity.com
-+.steamcomrmunity.cam
 +.steamcomrmunlty.com
 +.steamcomrnunity.ru
 +.steamcomrrnunity.com
@@ -125993,7 +125925,6 @@
 +.streamfullmoviehd.com
 +.streamfy.net
 +.streamhd24.com
-+.streaming-prime.fr
 +.streamingace.com
 +.streamingerror.rtl.de
 +.streamingshowguide.com
@@ -128583,7 +128514,6 @@
 +.tamarischaussures.fr
 +.tamberkabbala.top
 +.tame-discount.pro
-+.tamedicq.digital
 +.tamedilks.com
 +.tameo.ru
 +.tamesurf.com
@@ -134205,7 +134135,6 @@
 +.trezor-wallet-the-next.webflow.io
 +.trezor-wallet.fr
 +.trezor-walletpage.webflow.io
-+.trezor.device-diagnostic.com
 +.trezor.io.in
 +.trezoraiostasrtd.webflow.io
 +.trezorawale.webflow.io
@@ -135568,7 +135497,6 @@
 +.txtag.org-xysq.vip
 +.txtag.org-xzi.vip
 +.txtag.org-ykyi.vip
-+.txtag.org-ytkz.vip
 +.txtag.org-zato.vip
 +.txtag.org-zezd.vip
 +.txtag.org-zezt.vip
@@ -136237,7 +136165,6 @@
 +.ukmlastitytyeastf.com
 +.ukoffzeh.com
 +.ukokjxfbdqwffmuvsd.jp
-+.ukpersonalloanspro.com
 +.ukr-apteka.pp.ua
 +.ukr-gov-idua.com
 +.ukrainebadcountry.org
@@ -137723,7 +137650,6 @@
 +.usfgezpasscom.vip
 +.usfjezpasscom.vip
 +.usfpezpasscom.vip
-+.usfqeezpasscom.cc
 +.usfrezpasscom.vip
 +.usftezpasscom.vip
 +.usfuezpasscom.vip
@@ -138017,7 +137943,6 @@
 +.utarequestcancellationform.weebly.com
 +.utarget.co.uk
 +.utarget.ru
-+.utasv.com
 +.utbxvmsgpcznb.fun
 +.utbyte.io
 +.utecsfi.com
@@ -138708,7 +138633,6 @@
 +.vaticmons.digital
 +.vatizon.com
 +.vatoc.com
-+.vatrack.hinet.net
 +.vatzxd.xyz
 +.vaudeville.eu
 +.vaughn-trentcommunityservices.godaddysites.com
@@ -145670,7 +145594,6 @@
 +.wwwparticulierssocietegenerale.fr
 +.wwwpixckets-faceb0ok.emochila.com
 +.wwwpokemon.fr
-+.wwwpokerplayers.com
 +.wwwpromoter.com
 +.wwwrsi.fr
 +.wwwsante.fr
@@ -146351,7 +146274,6 @@
 +.xjpakmdcfuqe.in
 +.xjpmlf.xyz
 +.xjrwxfdphc.com
-+.xjsjd.com
 +.xjsqhlfscjxo.com
 +.xjtosdof.icu
 +.xjupiter.com
@@ -148049,7 +147971,6 @@
 +.yicang8.com
 +.yicha.cn
 +.yicha.jp
-+.yicixvmgmhpvbcl.xyz
 +.yidaweb.com
 +.yiddiquitejuk.com
 +.yidop.com
