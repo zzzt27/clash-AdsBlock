@@ -1,9 +1,9 @@
-# Version: 202504131609
+# Version: 202504131709
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43782
-# Last modified: 2025-04-13T16:09:34+0000
+# Entries: 43780
+# Last modified: 2025-04-13T17:09:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -22500,7 +22500,6 @@
 +.jtdltu.top
 +.jtegqwmjfxu.site
 +.jthotb.icu
-+.jtiasfkkg.xyz
 +.jtoozbadsxm.com
 +.jtp.expressen.se
 +.jtracking-gate.lulusoft.com
@@ -30112,7 +30111,6 @@
 +.polarbear.conermurphy.com
 +.polarcdn-terrax.com
 +.polaris.zijieapi.com
-+.polarisleptera.com
 +.polarmobile.com
 +.polaronveldt.guru
 +.police.aomg5bzv7.com
