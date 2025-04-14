@@ -1,9 +1,9 @@
-# Version: 202504141108
+# Version: 202504141208
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43869
-# Last modified: 2025-04-14T11:08:01+0000
+# Entries: 43912
+# Last modified: 2025-04-14T12:08:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -295,6 +295,7 @@
 +.1704598c25.com
 +.17180d187e.com
 +.17199874.xyz
++.171c856581.com
 +.1736253261.rsc.cdn77.org
 +.173726e958.com
 +.177o.com
@@ -504,6 +505,7 @@
 +.2481april2024.com
 +.24837724.xyz
 +.2483may2024.com
++.2485may2024.com
 +.2491may2024.com
 +.2495may2024.com
 +.2497may2024.com
@@ -520,6 +522,7 @@
 +.25073bb296.com
 +.250f0ma86.de
 +.250f851761.com
++.2514june2024.com
 +.2520june2024.com
 +.2522june2024.com
 +.254a.com
@@ -862,6 +865,7 @@
 +.43ors1osh.com
 +.43sjmq3hg.com
 +.43t53c9e.de
++.44216f3fdf.com
 +.444.bussyclub.com
 +.444.bussyhunter.com
 +.444.thebussybandit.com
@@ -1419,6 +1423,7 @@
 +.8de5d7e235.com
 +.8digits.com
 +.8e403e6714.com
++.8ecc2aee4f.com
 +.8eef59a5.live
 +.8f2db82a4b.e8b7e4bfbc.com
 +.8f30b5f042.58c526d99b.com
@@ -4407,6 +4412,7 @@
 +.agriculturepenthouse.com
 +.agricultureprowesscardinal.com
 +.agrmufot.com
++.agrntewawxi.com
 +.agrophip.net
 +.agrvt.com
 +.agscirowwsr.com
@@ -7085,6 +7091,7 @@
 +.b21379380e.com
 +.b233765bb4.a480c95b8f.com
 +.b235be2c38.a38fb9d969.com
++.b29b70e3ca.com
 +.b347.pottsmerc.com
 +.b395bfcd.xyz
 +.b3c733588e.36dc612c23.com
@@ -8424,6 +8431,7 @@
 +.boagleetsurvey.space
 +.boahnoy.com
 +.boannre.com
++.boannred.com
 +.boar.hopehollow.com
 +.boar.indieweb.org
 +.boar.kostholdsveilederen.no
@@ -8565,6 +8573,7 @@
 +.borotango.com
 +.boroup.com
 +.borrowedtransition.com
++.borrowhourglass.com
 +.borrowingbalm.com
 +.borrowjavgg124.fun
 +.borrowpreviewcardinal.com
@@ -9063,6 +9072,7 @@
 +.bustlefungus.com
 +.bustlemiszone.com
 +.bustslicerstrongbox.com
++.busy-man.com
 +.busyingcambogecarib.shop
 +.butcherhashexistence.com
 +.buthawk.com
@@ -9314,6 +9324,7 @@
 +.ca9246.xyz
 +.caahwq.com
 +.caapuxmi.com
++.cabbagereporterpayroll.com
 +.cabbagesemestergeoffrey.com
 +.cabbiepamhy.shop
 +.cabhwq.com
@@ -10404,6 +10415,7 @@
 +.ciizxsdr.com
 +.cijoorsairgusa.com
 +.ciksolre.net
++.cilsammwcblcv.com
 +.cima-club.club
 +.cimage.adobe.com
 +.cimeterbren.top
@@ -11136,6 +11148,7 @@
 +.colourevening.com
 +.coltagainst.pro
 +.columnisteverything.com
++.columnstoodth.com
 +.com.econa.com
 +.com.serveo.net
 +.comafilingverse.com
@@ -11467,6 +11480,7 @@
 +.continentalaileendepict.com
 +.continentalfinishdislike.com
 +.continentcoaximprovement.com
++.contineyuedi.org
 +.continuallycomplaints.com
 +.continuation423.fun
 +.continuousselfevidentinestimable.com
@@ -11709,6 +11723,7 @@
 +.courilcryptscuittle.cfd
 +.coursebonfire.com
 +.coursejavgg124.fun
++.coursestiffenjealous.com
 +.coursewimplongitude.com
 +.courthouselaterfunctions.com
 +.courtshipanditla.com
@@ -12214,6 +12229,7 @@
 +.currepush.com
 +.curriculture.com
 +.curriculumastronautpreview.com
++.curriculumoutcry.com
 +.cursecrap.com
 +.cursedspytitanic.com
 +.cursorsympathyprime.com
@@ -13997,6 +14013,7 @@
 +.deemconpier.com
 +.deenoacepok.com
 +.deepdive.zum.com
++.deeperregardingcontend.com
 +.deephicy.net
 +.deepirresistible.com
 +.deeplygumssandwich.com
@@ -15144,6 +15161,7 @@
 +.drimquop.com
 +.drinksbookcaseconsensus.com
 +.dripe.site
++.driverhugoverblown.com
 +.drivewayilluminatedconstitute.com
 +.drivewayperrydrought.com
 +.drizzlepose.com
@@ -15738,6 +15756,7 @@
 +.ecoupons.com
 +.ecpms.net
 +.ecrasepetre.shop
++.ecretaboutt.org
 +.ecrwqu.com
 +.ectsofcukorpor.com
 +.ectypalnonbank.shop
@@ -16186,6 +16205,7 @@
 +.enhclxug.xyz
 +.enherappedo.cc
 +.enigmahazesalt.com
++.enigmamedicine.com
 +.enigmaswhereas.com
 +.enjaaiwix.com
 +.enjoyedsexualpromising.com
@@ -16718,6 +16738,7 @@
 +.exasperationplotincarnate.com
 +.exasrv.com
 +.exbknhkk.com
++.excavatenearbywand.com
 +.excavatorglide.com
 +.exceedinglydiscovered.com
 +.exceedinglytells.com
@@ -17161,6 +17182,7 @@
 +.fbcdn2.com
 +.fbd077ad20.fee2ceeee7.com
 +.fbgdc.com
++.fbhelyqzqbnft.global
 +.fbhkxt.icu
 +.fbkzqnyyga.com
 +.fbmedia-bls.com
@@ -19392,6 +19414,7 @@
 +.graveljav128.fun
 +.gravelyoverthrow.com
 +.gravenesswomanlesszestfully.com
++.gravepteru.com
 +.graveshakyscoot.com
 +.graveuniversalapologies.com
 +.gravmucins.shop
@@ -20824,6 +20847,7 @@
 +.huntershoemaker.com
 +.huntmad.com
 +.huohuo.huamuwo.com
++.hupot.site
 +.huppontic.com
 +.huqbeiy.com
 +.hurdlesomehowpause.com
@@ -22453,6 +22477,7 @@
 +.jqueryserve.org
 +.jqueryserver.com
 +.jrblfv.icu
++.jremnjpr.com
 +.jrfngdrodrdop.icu
 +.jriortnf.com
 +.jrpkizae.com
@@ -23659,6 +23684,7 @@
 +.lethargyplatingsatin.com
 +.letinclusionbone.com
 +.letitnews.com
++.letmenowme.biz
 +.letmetralala.com
 +.letmewatchthis.pl
 +.letopdusexe.net
@@ -25064,6 +25090,7 @@
 +.mamluksburion.com
 +.mammaclassesofficer.com
 +.mammal.autoidle.com
++.mammasdamps.shop
 +.mammocksambos.com
 +.mamruoa.club
 +.man2ch5836dester.com
@@ -25100,6 +25127,7 @@
 +.maniconfiscal.top
 +.manipulativegraphic.com
 +.mankssnug.shop
++.mannerthiscommissioner.com
 +.manoeuvrestretchingpeer.com
 +.manoirshrine.com
 +.manomincasaque.com
@@ -26198,6 +26226,7 @@
 +.montelena-rcv.gmarket.co.kr
 +.montelena.auction.co.kr
 +.montelena.gmarket.co.kr
++.monthfour0225.xyz
 +.monthlypatient.com
 +.monu.delivery
 +.monumentsmaterialeasel.com
@@ -27926,6 +27955,7 @@
 +.ofkrabbyr.com
 +.ofleafeona.com
 +.ofninjasktor.com
++.ofnuxnwaxhmxsv.com
 +.ofphanpytor.com
 +.ofqcjonrcusvpok.com
 +.ofrapidashr.com
@@ -27957,6 +27987,7 @@
 +.ogicatius.com
 +.ogle-0740lb.com
 +.oglrrokbbxoyw.today
++.ognggibtebi.com
 +.ogniicbnb.ru
 +.ogqanrasl.com
 +.ogqophjilar.com
@@ -31155,6 +31186,7 @@
 +.puma.islingtonmecc.org.uk
 +.pumpbead.com
 +.pumpkin.abine.com
++.punchpantherwhip.com
 +.punctual-window.com
 +.pundr.esexa.online
 +.pundr.shemrec.cc
@@ -31306,6 +31338,7 @@
 +.putbid.net
 +.putchumt.com
 +.putfullfor.live
++.putimperturbable.com
 +.putrefyeither.com
 +.putrescentheadstoneyoungest.com
 +.putrescentpremonitionspoon.com
@@ -31564,7 +31597,6 @@
 +.qprskl.com
 +.qpwvhsxxzwgft.global
 +.qpyrqg.xyz
-+.qq2025.monthfour0225.xyz
 +.qqbqy.com
 +.qqganna.icu
 +.qqgiopiwwuv.com
@@ -32659,6 +32691,7 @@
 +.revsharecash.com
 +.revstats.com
 +.revupads.com
++.rewaawokwmjba.top
 +.rewaawoyamvky.top
 +.rewakenreaware.top
 +.rewardjav128.fun
@@ -33418,6 +33451,7 @@
 +.rufadses.net
 +.rufortouthee.com
 +.ruftodru.net
++.rugalnylon.com
 +.rugcrucial.com
 +.ruggownpolacca.com
 +.ruggyscallop.top
@@ -33906,6 +33940,7 @@
 +.satlockspa.live
 +.satmon.neekstore.com
 +.satorisccoya.top
++.sattiostiounper.com
 +.saturatedrake.com
 +.saturatemadman.com
 +.saturdaygrownupneglect.com
@@ -33977,6 +34012,7 @@
 +.scaffoldconcentration.com
 +.scagkecky.shop
 +.scakuvap.com
++.scalenizambian.shop
 +.scalesreductionkilometre.com
 +.scallop.esolia.pro
 +.scallop.productionrails.com
@@ -37591,6 +37627,7 @@
 +.taugookoaw.net
 +.tauphaub.net
 +.taurus.aomg5bzv7.com
++.taut-nature.com
 +.tauvineebisigi.net
 +.tauvoojo.net
 +.tauzo.xyz
@@ -37815,6 +37852,7 @@
 +.terribledeliberate.com
 +.terrificdark.com
 +.terrifyingcovert.com
++.tertiidamsite.com
 +.tertracks.site
 +.teslaamg.obs.cn-east-3.myhuaweicloud.com
 +.teslcorp.xyz
@@ -41775,6 +41813,7 @@
 +.whalems.com
 +.whalepeacockwailing.com
 +.whaleplayful.com
++.whaleslightestimposter.com
 +.whammedknavess.top
 +.whampamp.com
 +.whandpolista.com
@@ -41875,6 +41914,7 @@
 +.whoansodroas.net
 +.whoarguwaghu.net
 +.whoawhoax.com
++.whoisezh.com
 +.whoisonline.net
 +.whoksoadousto.net
 +.wholesaletraffic.info
@@ -41922,6 +41962,7 @@
 +.wicopymastery.com
 +.wideaplentyinsurance.com
 +.wideeyed-painting.com
++.widenaccident.com
 +.widerdaydream.com
 +.widerperspire.com
 +.widerrose.com
@@ -43339,6 +43380,7 @@
 +.ynklendr.online
 +.ynlfpyeifc.com
 +.ynrije.com
++.ynurfigldblbt.online
 +.ynzhby.com
 +.yoads.net
 +.yoc-adserver.com
@@ -43714,6 +43756,7 @@
 +.zlinkd.com
 +.zlinkm.com
 +.zlinkp.com
++.zlkmmpslmbwui.com
 +.zltndp.xyz
 +.zlviiaom.space
 +.zlx.com.br
