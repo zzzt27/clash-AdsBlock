@@ -1,9 +1,9 @@
-# Version: 202504140508
+# Version: 202504140608
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147611
-# Last modified: 2025-04-14T05:08:11+0000
+# Entries: 147593
+# Last modified: 2025-04-14T06:08:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16367,7 +16367,6 @@
 +.apenologia.pt
 +.apeobservedoverlook.com
 +.apepix.com
-+.aperasolarlightltd.com
 +.apercusdimly.com
 +.apesarcellad.firebaseapp.com
 +.apesarluna.firebaseapp.com
@@ -32226,7 +32225,6 @@
 +.chexdomiki.ru
 +.chez-davia.fr
 +.chezoams.com
-+.chfee.org
 +.chghowardjohnson.112.2o7.net
 +.chgsupereight.112.2o7.net
 +.chgwyndham.112.2o7.net
@@ -35615,7 +35613,6 @@
 +.confirmation-appeal.start.page
 +.confirmation-carte.fr
 +.confirmation-informations.fr
-+.confirmation-prime.fr
 +.confirmation-reserv.com
 +.confirmation-service.fr
 +.confirmation-your-account-2023.start.page
@@ -42823,7 +42820,6 @@
 +.deonlinedrogist-sale.shop
 +.deoppilant.monster
 +.deostr.com
-+.deousemet.com
 +.dep.hmgroup.com
 +.depannage-reparateur-lave-linge.com
 +.depannage-vehicule-maroc.com
@@ -50242,7 +50238,6 @@
 +.eshopads2.com
 +.eshopoman.com
 +.eshouloo.net
-+.eshraqa.co
 +.esigninfo.com
 +.esihighlyrecomemu.com
 +.esim-assistance-sfr.fr
@@ -51952,7 +51947,6 @@
 +.ezpass.com-ezpo.vip
 +.ezpass.com-ezvr.vip
 +.ezpass.com-flbyx.top
-+.ezpass.com-fofd.win
 +.ezpass.com-gjfu.win
 +.ezpass.com-hjfyci.vip
 +.ezpass.com-jlgb.win
@@ -51975,7 +51969,6 @@
 +.ezpass.com-telu.xin
 +.ezpass.com-telv.xin
 +.ezpass.com-telx.xin
-+.ezpass.com-tlif.top
 +.ezpass.com-tolls.vip
 +.ezpass.com-tras.win
 +.ezpass.com-webc.win
@@ -53389,7 +53382,6 @@
 +.feed.clickmenia.com
 +.feed.jungleheart.com
 +.feedads.feedblitz.com
-+.feedax.net
 +.feedback-both.gl.at.ply.gg
 +.feedback-c.zijieapi.com
 +.feedback-dow.gl.at.ply.gg
@@ -57037,7 +57029,6 @@
 +.fxstyle.net
 +.fxtducb.cn
 +.fxtkbnal.top
-+.fxtkbudo.top
 +.fxtradeoption.com
 +.fxtradesmart.com
 +.fxucecy.in
@@ -62292,7 +62283,6 @@
 +.h0pe1759.ddns.net
 +.h0s1pa.blogspot.jp
 +.h0w-t0-watch.net
-+.h1.catnipreggae.shop
 +.h1.kukuw.com
 +.h1.mockupeastcoast.shop
 +.h1.msn.com
@@ -68026,7 +68016,6 @@
 +.imperialgrup.es
 +.imperialmedia.co.tz
 +.imperiaskygarden.net
-+.imperiocreativo.com.mx
 +.imperiodemariamulambo.com.br
 +.imperiumfiles.com
 +.impermanence.jp
@@ -74617,7 +74606,6 @@
 +.kronoseletronicos.online
 +.kronosoolites.top
 +.kropka.onet.pl
-+.kros7.top
 +.kroxa.net
 +.krpano.org
 +.krqmfmh.com
@@ -80955,7 +80943,6 @@
 +.m-fmfadcfm.icu
 +.m-ghanaweb.com
 +.m-gs.at
-+.m-handcraft.lk
 +.m-k-r-5.com
 +.m-ledger-com-start.webflow.io
 +.m-logon-sso-trezzor.webflow.io
@@ -84062,7 +84049,6 @@
 +.megaplayz.com
 +.megapopads.com
 +.megapornix.com
-+.megapremios-show.com
 +.megapromos.com.br
 +.megartb.com
 +.megaslimbmp.com
@@ -86397,7 +86383,6 @@
 +.mnbvjhg.com
 +.mnciscoi.com
 +.mncvjhg.com
-+.mndot-etzzmx.xin
 +.mndot.us-etcam.vip
 +.mndot.us-etcdl.xin
 +.mndot.us-etcdy.xin
@@ -101312,7 +101297,6 @@
 +.pox23.io
 +.poxdpj.xyz
 +.poxypicine.com
-+.poxyrevise.com
 +.poyang.com
 +.poyday.com
 +.pozitifyazilim.com.tr
@@ -129179,7 +129163,6 @@
 +.tioflaninat1974.blogspot.com
 +.tionforeathyoug.info
 +.tioreboubo1987.blogspot.be
-+.tiortans.com
 +.tipchambers.com
 +.tipforcefulmeow.com
 +.tipfun.com
@@ -134446,7 +134429,6 @@
 +.universallimit.weebly.com
 +.universalplanners.com
 +.universalpowerful.weebly.com
-+.universalsantiveri.com
 +.universalsrc.com
 +.universalstudioshollywood.fr
 +.universaltrout.com
