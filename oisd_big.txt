@@ -1,9 +1,9 @@
-# Version: 202504151207
+# Version: 202504151308
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 149235
-# Last modified: 2025-04-15T12:07:52+0000
+# Entries: 149239
+# Last modified: 2025-04-15T13:08:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1069,6 +1069,7 @@
 +.161.red-88-30-17.staticip.rima-tde.net
 +.161.sub-70-208-63.myvzw.com
 +.161.sub-75-222-238.myvzw.com
++.162-33-178-135.cprapid.com
 +.162.red-88-25-156.staticip.rima-tde.net
 +.162.sub-75-201-193.myvzw.com
 +.162.sub-75-215-192.myvzw.com
@@ -5201,6 +5202,7 @@
 +.9dreams.net
 +.9dtiny.cn
 +.9dvn.com
++.9e11ec3a56.com
 +.9e14a85177.8433f52821.com
 +.9eb10b7a3d04a.com
 +.9eeb47afec.678aea51c0.com
@@ -13629,7 +13631,6 @@
 +.allegrolokainie.pl-kategorie-pozostale-7912.sbs
 +.allegrolokainie.pl-okazje-weekendowe-9313.rest
 +.allegrolokainie.pl-propozycje-inne-72726.sbs
-+.allegrolokainie.pl-wyprzedaz-rozne-15.icu
 +.allegrolokalne-soon.bet
 +.allegrolokalne.pl-718244.rest
 +.allegrolokalne.pl-kategorie-inne-814.sbs
@@ -16582,6 +16583,7 @@
 +.apd-pcdnwxlogin.teg.tencent-cloud.net
 +.apd-pcdnwxnat.teg.tencent-cloud.net
 +.apd-pcdnwxstat.teg.tencent-cloud.net
++.apdcekrulrpjd.online
 +.apdigitalorg.112.2o7.net
 +.apdigitalorgovn.112.2o7.net
 +.ape-tagit.timeinc.net
@@ -24039,6 +24041,7 @@
 +.beqbox.com
 +.beqcoabc.com
 +.beqol.com
++.berapt-medii.com
 +.berate-expressive.com
 +.berb.fitnessclub-filmfanatics.com
 +.berchchisel.com
@@ -24811,6 +24814,7 @@
 +.biezkolnjkla.web.app
 +.bifangting.com
 +.bifrufhci.com
++.bifszaojpkuq.com
 +.big-agreeable-crowberry.glitch.me
 +.big-loads.com
 +.big-sale.co
@@ -25039,6 +25043,7 @@
 +.binderyvisage.shop
 +.bindfast.com
 +.bindingtimetablejosie.com
++.bindirect.click
 +.bindpro.fr
 +.binerexis.servebeer.com
 +.bineukdwithme.com
@@ -26125,7 +26130,6 @@
 +.bobodoumentsoigne.firebaseapp.com
 +.bobodoumentsoigne.web.app
 +.bobpiety.com
-+.bobqucc.com
 +.bobsleddomesticglandular.com
 +.bobx.fr
 +.boc-update.firebaseapp.com
@@ -30726,6 +30730,7 @@
 +.ccc.sys.intl.xiaomi.com
 +.ccc.sys.miui.com
 +.ccc.ufoxing.com
++.ccc9c93083.com
 +.ccccc66kkkkk.com
 +.ccccc67kkkkk.com
 +.ccccc78kkkkk.com
@@ -31806,6 +31811,7 @@
 +.cgicounter.puretec.de
 +.cgirm.greatfallstribune.com
 +.cgispy.com
++.cgjowhzaneoli.love
 +.cgoogle.fr
 +.cgphqnflgee.com
 +.cgpnhjatakwqnjd.xyz
@@ -42062,7 +42068,6 @@
 +.dat5-omega.vercel.app
 +.data-backup.online
 +.data-cash.net
-+.data-center.gotdns.ch
 +.data-collector.wefi.com
 +.data-data-vac.com
 +.data-failover.eroadvertising.com
@@ -46685,6 +46690,7 @@
 +.dreamycanyon.com
 +.dreamyviolet.com
 +.dreamzonekochi.com
++.dreary-hunt.com
 +.drectsearch.com
 +.dreddy.com
 +.dredi.com.br
@@ -47180,6 +47186,7 @@
 +.dugong.ydns.eu
 +.dugothitachan.com
 +.dugraukeeck.net
++.dugrozufo.com
 +.duh0b8nl8uhfn.cloudfront.net
 +.duhboga.ru
 +.duhochvc.com
@@ -51026,7 +51033,6 @@
 +.etc-us-ezdrive.top
 +.etc.onl
 +.etcaa.win
-+.etcaam.xin
 +.etcaaq.xin
 +.etcabr.cfd
 +.etcabr.xin
@@ -51147,7 +51153,6 @@
 +.etckgi.win
 +.etckk.win
 +.etckt.win
-+.etckuy.win
 +.etckw.win
 +.etclc.win
 +.etclem.win
@@ -51337,7 +51342,6 @@
 +.ethpolice.com
 +.ethrdelta.github.io
 +.ethscan.io
-+.ethunder.ddns.cam
 +.ethupdate.com
 +.ethvalue.com
 +.ethventure.com
@@ -51924,7 +51928,6 @@
 +.evrimail.online-servicesip.xin
 +.evrimail.online-servicesiq.xin
 +.evrimail.online-servicesis.xin
-+.evrimail.online-servicesit.xin
 +.evrimail.online-servicesiu.xin
 +.evrimail.online-servicesiw.xin
 +.evrimail.online-servicessc.xin
@@ -52547,7 +52550,6 @@
 +.ezpass.com-etcap.win
 +.ezpass.com-etcaq.win
 +.ezpass.com-etcat.win
-+.ezpass.com-etcau.win
 +.ezpass.com-etceq.win
 +.ezpass.com-etcikt.vip
 +.ezpass.com-etcskb.win
@@ -52583,7 +52585,6 @@
 +.ezpass.com-gjfu.win
 +.ezpass.com-gtmcza.top
 +.ezpass.com-gtmcze.top
-+.ezpass.com-gtmczr.top
 +.ezpass.com-gtmczw.top
 +.ezpass.com-gtmczz.top
 +.ezpass.com-hjfycd.vip
@@ -54313,6 +54314,7 @@
 +.fevertalkkywkwm.shop
 +.fevhviqave.xyz
 +.few-peppermint-dungeon.glitch.me
++.few-politics.com
 +.fewergkit.com
 +.fewjuice.com
 +.fewkittens.com
@@ -58765,6 +58767,7 @@
 +.gdhygiene-market.com
 +.gdhzpmh.com
 +.gdicoou.com
++.gdihvgebdej.com
 +.gdiscord.com
 +.gdkhjdl.godaddysites.com
 +.gdl.i9dhjx.ru
@@ -63739,6 +63742,7 @@
 +.hauforip.net
 +.haughtydistinct.com
 +.haughtysafety.com
++.haugloosigliwha.net
 +.hauledforewordsentimental.com
 +.hauledresurrectiongosh.com
 +.hauledskirmish.com
@@ -71577,6 +71581,7 @@
 +.jakker-udsalg.top
 +.jaknet.my.id
 +.jakoilinikako.xyz
++.jakseegrutso.net
 +.jalaobrsdrgssdrgrs.com
 +.jalapicundelve.top
 +.jaletemetia.com
@@ -74311,6 +74316,7 @@
 +.kevinleeart.com
 +.kevinpharmachem.com
 +.kevinzhangadmin.jintsume.net
++.kewbnmbettrd.xyz
 +.kexarvamr.com
 +.kexojito.com
 +.kexubgz.com
@@ -75551,7 +75557,6 @@
 +.kropka.onet.pl
 +.kroxa.net
 +.krpano.org
-+.krqmfmh.com
 +.krrakenloginni.webflow.io
 +.krrakkeninlogin.webflow.io
 +.krrhdysdxoz.firebaseapp.com
@@ -82767,7 +82772,6 @@
 +.mail.103-152-255-69.cprapid.com
 +.mail.104-168-101-27.cprapid.com
 +.mail.111-90-140-34.cprapid.com
-+.mail.162-33-178-135.cprapid.com
 +.mail.165-22-250-3.cprapid.com
 +.mail.172-208-106-5.cprapid.com
 +.mail.185-38-142-181.cprapid.com
@@ -82826,7 +82830,6 @@
 +.mail.jaguarline.com
 +.mail.jbrf.com.br
 +.mail.jegast.com
-+.mail.kapilapiii.com
 +.mail.kingcableate.com
 +.mail.klaaimm-sekarangg.d9mswq.my.id
 +.mail.lamperll.com
@@ -86192,6 +86195,7 @@
 +.mfleader.com.ar
 +.mflsbcasbpx.com
 +.mfndsbjvashk.wpenginepowered.com
++.mfoizeiwlbijkn.com
 +.mfonwar.duckdns.org
 +.mfsr.lenovomm.com
 +.mfw-federn.de
@@ -88311,6 +88315,7 @@
 +.monxserver.com
 +.monycam.freeddns.org
 +.mooawlqwrkhxlt.com
++.moobuphaloachu.net
 +.moodirresolute.com
 +.moodjav12.fun
 +.moodoo.com.cn
@@ -92548,7 +92553,6 @@
 +.nikehome.112.2o7.net
 +.nikejordan.fr
 +.nikelebron33.com
-+.nikepegasus.fr
 +.nikeplus.112.2o7.net
 +.nikepro.fr
 +.nikerosherunpascher.fr
@@ -93012,7 +93016,6 @@
 +.noitons.net
 +.nojazz.eu
 +.nojesresorsundsvall.se
-+.nojoppeeanal.xyz
 +.nokeensalupsoo.com
 +.nokia-leading.gl.at.ply.gg
 +.nokia-lifestyle.ru
@@ -93921,7 +93924,6 @@
 +.nuwealthmedia.com
 +.nuwerk.monsterboard.nl
 +.nuxtrade.com
-+.nuxzin.cloud
 +.nuyqsshmxgukny.com
 +.nv-ad.24hstatic.com
 +.nv-distribution.com
@@ -94187,6 +94189,7 @@
 +.oa-stc.zdn.vn
 +.oa.pelagicmall.com.cn
 +.oaajylbosyndpjl.com
++.oaapfztunpmky.vip
 +.oabaubsutha.com
 +.oacaighy.com
 +.oackoubs.com
@@ -95629,7 +95632,6 @@
 +.ongoing.website
 +.ongoingverdictparalyzed.com
 +.oni17.duckdns.org
-+.oni22.duckdns.org
 +.oniflhctfubuql.com
 +.onion.business
 +.onion.capital
@@ -96775,7 +96777,6 @@
 +.oscarmariani.it
 +.oscarspin-fr.fr
 +.oscarspincasinos.fr
-+.oscarspins.fr
 +.oscohkajcjz.com
 +.oscottmanorbhamsch.myportfolio.com
 +.osd.oxygem.it
@@ -98917,7 +98918,6 @@
 +.pay-pal-acc.fr
 +.pay-pal.email
 +.pay-pal.fr
-+.pay-prime.fr
 +.pay-ticket2024.com
 +.pay-to-promote.com
 +.pay.aspwmgroup.com
@@ -100009,6 +100009,7 @@
 +.pgssjxz.com
 +.pgssl.com
 +.pgt1.voyage-prive.es
++.pguzquckxbb.com
 +.pgv.m.xunlei.com
 +.pgv2.m.xunlei.com
 +.pgvip.net
@@ -100521,6 +100522,7 @@
 +.picup.fr
 +.pid.fly160.com
 +.pidoras123131-62949.portmap.host
++.pidsnbtigntdi.vip
 +.pieceresponsepamphlet.com
 +.pieclayton.com
 +.piedsmontlaw.com
@@ -109949,7 +109951,6 @@
 +.redri.net
 +.redroselandscape.com
 +.redrotou.net
-+.redrr.duckdns.org
 +.redshell.io
 +.redstartechnology.com
 +.redtail-b.firebaseapp.com
@@ -122794,7 +122795,6 @@
 +.srv230953.hoster-test.ru
 +.srv230990.hoster-test.ru
 +.srv231043.hoster-test.ru
-+.srv4.g1novelas.top
 +.srv479834.weebly.com
 +.srv602.ddns.net
 +.srv9-mivocloud.500apps.net
@@ -129457,6 +129457,7 @@
 +.th7.cn
 +.th80p45y4gdhrtjtyjrtrteygtgretgffdgtr67grttggtrget5tfgfgf.weebly.com
 +.th8q3wj9w.localto.net
++.thabiphuto.pro
 +.thachangmu.go.th
 +.thackoofti.net
 +.thacovapte.pro
@@ -129740,6 +129741,7 @@
 +.thelocaltribe.com
 +.thelotrustcapita.webflow.io
 +.theloungenet.com
++.theltemtirg.net
 +.thelulusband.com
 +.thelum.com
 +.theluxestudio.co.uk
@@ -138506,6 +138508,7 @@
 +.vh1com.112.2o7.net
 +.vh8sxx.gv.govtax.net
 +.vhatch.com
++.vhbhundyietwwc.com
 +.vhducnso.com
 +.vhills.net
 +.vhinyvcsxcga.com
@@ -138903,7 +138906,6 @@
 +.viewyentreat.guru
 +.vigilant-gagarin.193-239-86-216.plesk.page
 +.vigilant-minsky-e40293.netlify.com
-+.vigilant-shamir.193-239-86-216.plesk.page
 +.vigilantsurround.com
 +.vigmrxpersonalblog.com
 +.vignette-critair-certificat.fr
@@ -139950,6 +139952,7 @@
 +.vpverhhos-vfyd.weebly.com
 +.vpxxolmxyaludyr.com
 +.vpxzunvaldxcp.world
++.vq4b0q.fun
 +.vqaliantheart.live
 +.vqbzpv.xyz
 +.vqdcpmlj.vip
@@ -144510,6 +144513,7 @@
 +.ww6.payal.me
 +.wwads.cn
 +.wwaeljajwvlrw.top
++.wwaeljamkvayk.top
 +.wwameli.fr
 +.wwamelie.fr
 +.wwaowwonthco.com
