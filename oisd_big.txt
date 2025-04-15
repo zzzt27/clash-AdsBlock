@@ -1,9 +1,9 @@
-# Version: 202504150707
+# Version: 202504150808
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 149349
-# Last modified: 2025-04-15T07:07:50+0000
+# Entries: 149332
+# Last modified: 2025-04-15T08:08:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1306,7 +1306,6 @@
 +.19d7fd2ed2.com
 +.19eirqhj1ptr.live
 +.19gmail.com
-+.19nov2024.duckdns.org
 +.19tv.top
 +.1a-7294.antagus.de
 +.1a-consultants.com
@@ -6051,7 +6050,6 @@
 +.aagor.com
 +.aagzz.com
 +.aahsolutions.net
-+.aai0.com
 +.aaimac.com
 +.aaisoudfsdrs.cc
 +.aaisoudfsdrs.me
@@ -27322,7 +27320,6 @@
 +.brodownloads.site
 +.broemme-racing.de
 +.broesel.de
-+.brogetcode1s.com
 +.brogetcode4s.cc
 +.broghpiquet.com
 +.broidensordini.com
@@ -35304,7 +35301,6 @@
 +.com-etcqeo.vip
 +.com-etcqha.vip
 +.com-etcqhe.vip
-+.com-etcqho.vip
 +.com-etcqhz.vip
 +.com-etcqkz.vip
 +.com-etcqma.vip
@@ -47678,7 +47674,6 @@
 +.e-zpass.com-etcch.win
 +.e-zpass.com-etccp.win
 +.e-zpass.com-etccq.win
-+.e-zpass.com-etccr.win
 +.e-zpass.com-etccs.win
 +.e-zpass.com-etcct.win
 +.e-zpass.com-etccu.win
@@ -51212,7 +51207,6 @@
 +.etcni.win
 +.etcnn.win
 +.etcno.win
-+.etcnp.win
 +.etcnqbq.top
 +.etcnqch.win
 +.etcnqcha.win
@@ -52618,7 +52612,6 @@
 +.ezpass.com-ezfb.vip
 +.ezpass.com-ezgh.vip
 +.ezpass.com-ezlh.vip
-+.ezpass.com-ezli.vip
 +.ezpass.com-ezlt.vip
 +.ezpass.com-ezly.vip
 +.ezpass.com-ezmk.vip
@@ -52644,7 +52637,6 @@
 +.ezpass.com-nmzf.win
 +.ezpass.com-nydxr.top
 +.ezpass.com-nydxw.top
-+.ezpass.com-odpn.win
 +.ezpass.com-passwf.vip
 +.ezpass.com-passwq.vip
 +.ezpass.com-qggz.win
@@ -56043,7 +56035,6 @@
 +.for.ddns.mobi
 +.for.ideaman-usa.com
 +.for.life-thrones.com
-+.for.nailwraps.co
 +.for20-coco.com
 +.forabomasnowan.com
 +.foranetter.com
@@ -71555,7 +71546,6 @@
 +.jackywoor07943581.activehosted.com
 +.jaclottens.live
 +.jacmolta.com
-+.jacob-saudi-proxy-installed.trycloudflare.com
 +.jacobhaung001.wixstudio.com
 +.jacobrhubbard.github.io
 +.jacobs-dach.com
@@ -87289,7 +87279,6 @@
 +.mkn2014.no-ip.org
 +.mknew.com
 +.mksavnders.wixstudio.io
-+.mkspecials.com
 +.mksub.com
 +.mkt.bectero.com
 +.mkt.hoanghamobile.com
@@ -90686,7 +90675,6 @@
 +.nahreu-40d0.elkmeamnocr.workers.dev
 +.nahyanassetmgt.com
 +.naichootikie.com
-+.naiglipu.xyz
 +.naiharn-carrent.com
 +.naijaextra.com
 +.naildoctor.ru
@@ -97782,7 +97770,6 @@
 +.pa.ezpassneh.top
 +.pa.ezpassner.top
 +.pa.ezpassnes.top
-+.pa.ezpassnet.top
 +.pa.ezpassnev.top
 +.pa.ezpassxc.top
 +.pa.ezpassxf.top
@@ -103196,7 +103183,6 @@
 +.prime-privileges.fr
 +.prime-promo.fr
 +.prime-promotion.fr
-+.prime-promotions.fr
 +.prime-reclamation.fr
 +.prime-reglages.fr
 +.prime-sav.fr
@@ -108478,7 +108464,6 @@
 +.qwqnvhnqepymjaduaxih.com
 +.qwqoo.com
 +.qwrwhosailedbe.info
-+.qwsanan.top
 +.qwsd3-f1b59.web.app
 +.qwst.e-scurefiles.net
 +.qwsua.yt
@@ -116143,7 +116128,6 @@
 +.secure.etcsgc.win
 +.secure.etcslx.win
 +.secure.etcsmr.win
-+.secure.etcsms.win
 +.secure.etcstr.win
 +.secure.etcsuv.win
 +.secure.etcudj.win
@@ -144655,7 +144639,6 @@
 +.wwqssmg.com
 +.wwsfr.fr
 +.wwtwdswjuwrpwcjbuxodwfitgrmciv.breprentive.ru
-+.wwuolifsqz.duckdns.org
 +.wwvv-roblcx.com
 +.www-banner.chat.ru
 +.www-bot-th.com
