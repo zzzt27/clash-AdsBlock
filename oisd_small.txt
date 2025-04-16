@@ -1,9 +1,9 @@
-# Version: 202504161609
+# Version: 202504161808
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43993
-# Last modified: 2025-04-16T16:09:17+0000
+# Entries: 43989
+# Last modified: 2025-04-16T18:08:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -23928,7 +23928,6 @@
 +.lists.ccmbg.com
 +.lit.connatix.com
 +.litarnrajol.com
-+.litdeetar.live
 +.literally-analytics.appspot.com
 +.literpeore.com
 +.lithoidclosky.top
@@ -27535,7 +27534,6 @@
 +.nrged.com
 +.nrlupu.top
 +.nrnma.com
-+.nroyretdhxa.com
 +.nrqrbwi.top
 +.nrs6ffl9w.com
 +.nrtaimyrk.com
@@ -29779,7 +29777,6 @@
 +.pilgrimarduouscorruption.com
 +.pillsofecho.com
 +.pillspaciousgive.com
-+.pillthingy.com
 +.piloteegazy.com
 +.pilotnourishmentlifetime.com
 +.pilsarde.net
@@ -30975,7 +30972,6 @@
 +.psaushoas.com
 +.psausoay.net
 +.psaussasta.net
-+.psausuck.net
 +.psauwaun.com
 +.psebineno.pro
 +.psedwm.com
