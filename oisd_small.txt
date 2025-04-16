@@ -1,9 +1,9 @@
-# Version: 202504160208
+# Version: 202504160307
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43952
-# Last modified: 2025-04-16T02:08:06+0000
+# Entries: 43950
+# Last modified: 2025-04-16T03:07:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3957,7 +3957,6 @@
 +.advancinginfinitely.com
 +.advancingprobationhealthy.com
 +.advancingtheirs.com
-+.advang.com
 +.advangelists.com
 +.advantage.digitalsunray.com
 +.advantageglobalmarketing.com
@@ -9986,7 +9985,6 @@
 +.ceemoptu.xyz
 +.ceesauchoodaph.net
 +.ceethipt.com
-+.ceezepegleze.xyz
 +.cef7cb85aa.com
 +.cegloockoar.com
 +.ceibawhirled.top
