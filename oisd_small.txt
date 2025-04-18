@@ -1,9 +1,9 @@
-# Version: 202504180023
+# Version: 202504180108
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44522
-# Last modified: 2025-04-18T00:23:03+0000
+# Entries: 44515
+# Last modified: 2025-04-18T01:08:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12321,7 +12321,6 @@
 +.cuesingle.com
 +.cuevastrck.com
 +.cufultahaur.com
-+.cuhlsl.info
 +.cuisineenvoyadvertise.com
 +.cujruloq.com
 +.cullemple-motline.com
@@ -27157,7 +27156,6 @@
 +.nattepush.com
 +.naturebunk.com
 +.naturewhatmotor.com
-+.naubme.info
 +.naucaish.net
 +.naufauzo.net
 +.naugaugair.com
@@ -27956,7 +27954,6 @@
 +.nv-ad.24hstatic.com
 +.nv3tosjqd.com
 +.nvidiacenter.com
-+.nvjgmugfqmffbgk.xyz
 +.nvjqm.com
 +.nvpokyko.icu
 +.nvtvssczb.com
@@ -40289,7 +40286,6 @@
 +.tuvkfuzih.com
 +.tuxbpnne.com
 +.tuxqcyqrybhi.com
-+.tvc.biphim.club
 +.tver-metrics.streaks.jp
 +.tvfeel.cc
 +.tvoiioftvfzzc.buzz
@@ -42877,7 +42873,6 @@
 +.world-2012.info
 +.world-claim.org
 +.world.aomg5bzv7.com
-+.worldlyyouth.com
 +.worldswanmixed.com
 +.worldtimes2.xyz
 +.worldtrades.top
@@ -42950,7 +42945,6 @@
 +.wretched-confusion.com
 +.wretchedbomb.com
 +.wrevenuewasadi.com
-+.wrichtungill.com
 +.wringdecorate.com
 +.wrinkleinworn.shop
 +.wrinkleirritateoverrated.com
@@ -44234,7 +44228,6 @@
 +.zbldxf.icu
 +.zbmzkxmensplm.club
 +.zcfhi.cn.com
-+.zchtpzu.com
 +.zcnmjb.icu
 +.zcode11.me
 +.zcoptry.com
