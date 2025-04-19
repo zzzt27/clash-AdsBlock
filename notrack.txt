@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 19 Apr 2025
 # LatestVersion 24.01
-# Domain Count: 15790
+# Domain Count: 15788
 #===============================================================
 
 +.0i0i0i0.com
@@ -1440,7 +1440,6 @@
 +.februarybogus.com
 +.februaryinjectionproudly.com
 +.federatedml-pa.googleapis.com
-+.feed.ff.avast.com
 +.feedbackify.com
 +.feelsjet.com
 +.femetrics.grammarly.io
@@ -1448,7 +1447,6 @@
 +.fidelity-media.com
 +.fieldtest.cc
 +.fiftyt.com
-+.fightmallowfiasco.com
 +.fimserve.com
 +.finisheddaysflamboyant.com
 +.firebaselogging-pa.googleapis.com
