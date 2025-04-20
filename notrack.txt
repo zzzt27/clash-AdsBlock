@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 20 Apr 2025
 # LatestVersion 24.01
-# Domain Count: 15788
+# Domain Count: 15787
 #===============================================================
 
 +.0i0i0i0.com
@@ -13659,7 +13659,6 @@
 +.neodatagroup.com
 +.nessainy.net
 +.net.ar
-+.netcommunities.com
 +.netline.com
 +.netmera-web.com
 +.netmera.com
