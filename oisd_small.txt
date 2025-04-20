@@ -1,9 +1,9 @@
-# Version: 202504202108
+# Version: 202504202308
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44517
-# Last modified: 2025-04-20T21:08:51+0000
+# Entries: 44509
+# Last modified: 2025-04-20T23:08:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3808,7 +3808,6 @@
 +.adstats.tencentmusic.com
 +.adstean.com
 +.adstest.weather.com
-+.adstico.io
 +.adstik.click
 +.adstook.com
 +.adstracking.apps.zing.vn
@@ -5129,7 +5128,6 @@
 +.amylo.site
 +.amylonbenne.shop
 +.amylsturkdom.com
-+.amzrjywmzllvm.top
 +.amzrjyzjolzlv.top
 +.an.facebook.com
 +.an.mail.ru
@@ -10637,7 +10635,6 @@
 +.claspdressmakerburka.com
 +.claspeddeceiveposter.com
 +.claspedtwelve.com
-+.claspsnuff.com
 +.classesfolksprofession.com
 +.classessavagely.com
 +.classic-bonus.com
@@ -14576,7 +14573,6 @@
 +.dilutesnoopzap.com
 +.dilvyi2h98h1q.cloudfront.net
 +.dimao.site
-+.dimeearnestness.com
 +.dimeftluck.live
 +.dimensionvegana.com
 +.dimessing-parker.com
@@ -17491,7 +17487,6 @@
 +.festtube.com
 +.festyy.com
 +.fetchergumdrop.com
-+.fetidbelow.com
 +.fetidgossipleaflets.com
 +.feturequalms.shop
 +.feuageepitoke.com
@@ -22919,7 +22914,6 @@
 +.jypvzd.xyz
 +.jyusesoionsglear.info
 +.jyuskb.cn
-+.jyvkwqjremabw.top
 +.jyxzrb.xyz
 +.jyzkut.com
 +.jz4u1.icu
@@ -39886,7 +39880,6 @@
 +.trasupr.com
 +.traumavirus.com
 +.traveladvertising.com
-+.travelingshake.com
 +.travelscream.com
 +.travelsplayboy.com
 +.traveltop.org
@@ -40989,7 +40982,6 @@
 +.usdtaz.xyz
 +.use-application-dns.net
 +.use-cr.svr-algorix.com
-+.useaptrecoil.com
 +.used-efficiency.pro
 +.usefulcontentsites.com
 +.usefullybruiseddrunken.com
