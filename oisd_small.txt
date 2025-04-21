@@ -1,9 +1,9 @@
-# Version: 202504211413
+# Version: 202504211610
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44499
-# Last modified: 2025-04-21T14:13:23+0000
+# Entries: 44491
+# Last modified: 2025-04-21T16:10:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14645,7 +14645,6 @@
 +.disappearingassertive.com
 +.disappointally.com
 +.disapprovalpulpdiscourteous.com
-+.disastrousdetestablegoody.com
 +.disbeliefenvelopemeow.com
 +.disburymixy.shop
 +.disccompose.com
@@ -17664,7 +17663,6 @@
 +.filter.myadcampaigns.com
 +.filter.mymedia.club
 +.filter.nexrtb.com
-+.filter.octov8.com
 +.filter.optumads.com
 +.filter.pensarmedia.com
 +.filter.poprtb.pro
@@ -18316,7 +18314,6 @@
 +.frugalseck.com
 +.fruitflan.com
 +.fruitfullocksmith.com
-+.fruitfulthinnersuspicion.com
 +.fruitiesmatchina.com
 +.fruitlesshooraytheirs.com
 +.frustrationtrek.com
@@ -25839,7 +25836,6 @@
 +.members.aomg5bzv7.com
 +.membersattenuatejelly.com
 +.memberscrisis.com
-+.memia.xyz
 +.memorableeditor.com
 +.mempoonsoftoow.net
 +.menacehabit.com
@@ -29123,7 +29119,6 @@
 +.outswimunrived.shop
 +.outtimburrtor.com
 +.outtoiltuarn.shop
-+.outtunova.com
 +.outwalkenvying.shop
 +.outwhirlipedeer.com
 +.outwingullom.com
@@ -35957,7 +35952,6 @@
 +.sorghumfranger.com
 +.soritespary.com
 +.sorningdaroo.top
-+.sorrowconstellation.com
 +.sorrowfulchemical.com
 +.sorryfearknockout.com
 +.sorryglossywimp.com
@@ -35979,7 +35973,6 @@
 +.soundcloud-pax.pandora.com
 +.soundingdisastereldest.com
 +.soundingthunder.com
-+.soupytry.pro
 +.sourcebait.com
 +.sourcecode.pro
 +.sourcetobin.com
@@ -42473,7 +42466,6 @@
 +.whoarguwaghu.net
 +.whoawhoax.com
 +.whoisezh.com
-+.whoisonline.net
 +.whoksoadousto.net
 +.wholesaletraffic.info
 +.wholituaten.com
