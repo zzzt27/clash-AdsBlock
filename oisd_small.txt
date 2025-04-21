@@ -1,9 +1,9 @@
-# Version: 202504210808
+# Version: 202504210909
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44530
-# Last modified: 2025-04-21T08:08:51+0000
+# Entries: 44528
+# Last modified: 2025-04-21T09:09:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4515,7 +4515,6 @@
 +.airdilute.com
 +.airlessquotationtroubled.com
 +.airlinervegetarian.com
-+.airlingdungas.top
 +.airlytics.airlock.twcmobile.weather.com
 +.airpb.com
 +.airportsys.com
@@ -30057,7 +30056,6 @@
 +.philosophicalurgegreece.com
 +.phimordap.net
 +.phiphepsome.pro
-+.phiriaxi.com
 +.phirussacmush.net
 +.phithoophuly.net
 +.phjtxx.xyz
