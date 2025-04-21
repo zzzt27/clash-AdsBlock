@@ -1,9 +1,9 @@
-# Version: 202504211209
+# Version: 202504211310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44504
-# Last modified: 2025-04-21T12:09:45+0000
+# Entries: 44501
+# Last modified: 2025-04-21T13:10:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4372,7 +4372,6 @@
 +.aggregatedcompetitivefrock.com
 +.aggregatedcorky.com
 +.aggregateknowledge.com
-+.aggressivedifficulty.com
 +.aggressivefrequentneckquirky.com
 +.agi-static.indiatimes.com
 +.agilaujoa.net
@@ -28450,7 +28449,6 @@
 +.okznasjax.com
 +.olaplog.smartmediarep.com
 +.olayomad.com
-+.old-go.pro
 +.oldership.com
 +.oldeststrickenambulance.com
 +.oldfashionedcity.pro
@@ -40977,7 +40975,6 @@
 +.usejj.makepolo.cn
 +.usejj.wangkl.com
 +.usekahuna.com
-+.useless-speaker.pro
 +.usenet.world
 +.user-analysis.7moor.com
 +.user-red.com
