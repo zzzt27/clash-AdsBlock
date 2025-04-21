@@ -1,9 +1,9 @@
-# Version: 202504212023
+# Version: 202504212209
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 16372
-# Last modified: 2025-04-21T20:23:13+0000
+# Entries: 16369
+# Last modified: 2025-04-21T22:09:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4439,7 +4439,6 @@
 +.cdn.wuyou.ca
 +.cdn1.decide.dev
 +.cdn1.lp.saboom.com
-+.cdn1.pebx.pl
 +.cdn22904910.ahacdn.me
 +.cdn54405831.ahacdn.me
 +.cdn7.network
@@ -8679,7 +8678,6 @@
 +.hunterers.com
 +.huntmad.com
 +.huohuo.huamuwo.com
-+.huppontic.com
 +.hurricanedigitalmedia.com
 +.hurriedcomae.com
 +.hustlervip.net
@@ -12913,7 +12911,6 @@
 +.sexystat.com
 +.sezonlukdizi.com
 +.sf16-telemetry-proxy-oci.tiktokcdn-us.com
-+.sfkldbkldgdgh.com
 +.sfp.safe.baidu.com
 +.sftrack.searchforce.net
 +.sg-public-data-api.hoyoverse.com
