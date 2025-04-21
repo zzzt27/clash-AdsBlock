@@ -1,9 +1,9 @@
-# Version: 202504202308
+# Version: 202504210009
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44509
-# Last modified: 2025-04-20T23:08:38+0000
+# Entries: 44507
+# Last modified: 2025-04-21T00:09:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -29448,7 +29448,6 @@
 +.palliwaklgz.com
 +.pallorirony.com
 +.pallorsdomini.top
-+.palmcodliverblown.com
 +.palmfulcultivateemergency.com
 +.palmfulvisitsbalk.com
 +.palmkindnesspee.com
@@ -43637,7 +43636,6 @@
 +.xn--u1aaw.xn--p1ai
 +.xn--w9q675dm1p7em.net
 +.xnoztzcdyawlx.love
-+.xnrowzw.com
 +.xoarmpftxu.com
 +.xoilactv123.gdn
 +.xolen.xyz
