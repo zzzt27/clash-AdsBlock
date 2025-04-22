@@ -1,9 +1,9 @@
-# Version: 202504212308
+# Version: 202504220008
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147882
-# Last modified: 2025-04-21T23:08:30+0000
+# Entries: 147851
+# Last modified: 2025-04-22T00:08:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -420,7 +420,6 @@
 +.0x01n2ptpuz3.com
 +.0x1531.info
 +.0x2394world.com
-+.0x503.3738.org
 +.0x80.online-software.org
 +.0xmicrosoft.duckdns.org
 +.0xtoken.com
@@ -11368,7 +11367,6 @@
 +.adventcredit.com
 +.adventori.com
 +.adventory.com
-+.adventukre.shop
 +.adventurerarmory.com
 +.adventurers.info
 +.adventurousamount.com
@@ -24352,7 +24350,6 @@
 +.beta.applo.com
 +.beta.buildersdroneview.com
 +.beta.generator.smarthost.pl
-+.beta.oneclick-beauty.com
 +.beta.simpel.nl
 +.beta.spb0.ru
 +.beta.stats.logalty.com
@@ -31817,7 +31814,6 @@
 +.chamberstimber.com
 +.chameln.firebaseapp.com
 +.chameln.web.app
-+.chamelweon.digital
 +.chamieparis.fr
 +.champagne.futurecdn.net
 +.championads.midtc.com
@@ -32328,7 +32324,6 @@
 +.check.pivum.icu
 +.check.popp.ink
 +.check.pvhqg.icu
-+.check.qevub.icu
 +.check.qicon.icu
 +.check.qukex.icu
 +.check.qvdch.icu
@@ -36917,7 +36912,6 @@
 +.count5.pconline.com.cn
 +.count6.pconline.com.cn
 +.countabledawdlerunaudited.com
-+.countdownlogic.com
 +.counted.com
 +.counter.1gb.ru
 +.counter.1i.kz
@@ -38870,7 +38864,6 @@
 +.cterpsofcjzcf.life
 +.cterri.firebaseapp.com
 +.cterri.web.app
-+.ctgov.com-vipva.win
 +.ctgov.com-vipzy.win
 +.ctinets.com
 +.ctivo.com
@@ -41386,7 +41379,6 @@
 +.dailydesktop.eu
 +.dailydews.com
 +.dailydiff.co.cc
-+.dailydivision.com
 +.dailydreams.epizy.com
 +.dailyfasterauto.info
 +.dailyfeature.net
@@ -41524,7 +41516,6 @@
 +.dan.indianmedicalsupplies.in
 +.dana-b7r.com
 +.dana123.com
-+.danaa-indoneesiiaaa.j3osa.my.id
 +.danalaman.com
 +.danamente.duckdns.org
 +.danangluxury.com
@@ -43172,7 +43163,6 @@
 +.deslatiosan.com
 +.desmalogistica.com
 +.desotohelpdeskpage.weebly.com
-+.despairrim.com
 +.desquer.ens.uabc.mx
 +.desribessquwd.today
 +.dessaly.com
@@ -44004,7 +43994,6 @@
 +.dimpy.narod.ru
 +.dimsnetwork.com
 +.dimufywhy.com
-+.dimwittedball.pro
 +.dinact.com
 +.dinadiplencia.com.de
 +.dinakural.com
@@ -44031,7 +44020,6 @@
 +.dingyik.com
 +.dingytiredfollowing.com
 +.dinim.info
-+.diningconsonanthope.com
 +.diningprefixmyself.com
 +.diningsovereign.com
 +.dinkelbrezel.de
@@ -46870,7 +46858,6 @@
 +.dumbduck.com
 +.dumbpop.com
 +.dumedia.ru
-+.dumingas.com
 +.dumkcuakrlka.com
 +.dummieseardrum.com
 +.dummy.112.2o7.net
@@ -48183,7 +48170,6 @@
 +.edentwithought.org
 +.edenykiraly.hu
 +.ederrassi.com
-+.edevgirisikis.xyz
 +.edf-contact.fr
 +.edf-info.fr
 +.edfastmedrxfor.com
@@ -50372,7 +50358,6 @@
 +.esimsfr.fr
 +.esishystecrsth.qcrh4z.com
 +.esjuneli.firebaseapp.com
-+.esjvrfq.com
 +.eskilhavena.info
 +.eskimi.com
 +.eskuvoiszalon.hu
@@ -53050,7 +53035,6 @@
 +.faxqaaawyb.com
 +.fayanscimustafa.com
 +.faydd.com
-+.fayiadd.com
 +.faylinn.net
 +.fazalengineering.com
 +.fazanaharahe10.top
@@ -54687,7 +54671,6 @@
 +.flairads.com
 +.flairadscpc.com
 +.flakefanwort.shop
-+.flakeschopped.com
 +.flakierdzeren.shop
 +.flakyfeast.com
 +.flamboyant-brattain-68628f.netlify.com
@@ -56989,7 +56972,6 @@
 +.futuristicfifth.com
 +.futuristicfold.com
 +.futuristicframe.com
-+.futuristx.live
 +.fuurxchnologies.top
 +.fuviseni.angelfire.com
 +.fuvvgziqxmsrg.rocks
@@ -59174,7 +59156,6 @@
 +.gihehazfdm.com
 +.gihmex.com
 +.giimonlogen.webflow.io
-+.giish.com
 +.gijnohl.cc
 +.gikgf43.weebly.com
 +.gilarditus.com
@@ -73709,7 +73690,6 @@
 +.kihudevo.pro
 +.kiiuytfer.firebaseapp.com
 +.kiiuytfer.web.app
-+.kiiuyymsciagkioo.xyz
 +.kikastudio.pl
 +.kikbox-particuliers.fr
 +.kikeeuukamiyimqc.xyz
@@ -84471,7 +84451,6 @@
 +.merchant-businesses.com
 +.merchant-center-analytics.goog
 +.merchantcapitalpartner.com
-+.merchantcityoasis.com
 +.merchantclubusa.com
 +.merchantservices.intuit.ca
 +.merchenta.com
@@ -93212,7 +93191,6 @@
 +.o.socalmediazone.com
 +.o.xn--y7aa.cc
 +.o.xofilmes.com
-+.o.xoporn.com
 +.o0.winfuture.de
 +.o000.xyz
 +.o000oo.com
@@ -97795,7 +97773,6 @@
 +.partner-id729.com
 +.partner-id7292.world
 +.partner-id742.world
-+.partner-id755421.com
 +.partner-id891489.com
 +.partner-id985.world
 +.partner-source.com
@@ -99759,7 +99736,6 @@
 +.pillartypejibcrane.com
 +.pillaz.com
 +.pillen-kaufen.com.de
-+.pillen-rezeptfrei.de
 +.pillendoktor.de
 +.pillowthefrapy.top
 +.pillowtouzch.shop
@@ -109377,7 +109353,6 @@
 +.reliablestats.com
 +.reliancevalve.com
 +.relic-crafter-1028.typedream.app
-+.relicstoned.digital
 +.reliefintorud.life
 +.reliefjawflank.com
 +.reliefmdlabs.com
@@ -110249,7 +110224,6 @@
 +.reviveads.com
 +.revivestar.com
 +.revivestore.com
-+.revivety.digital
 +.revlt.be
 +.revmob-creatives.s3.amazonaws.com
 +.revmob.com
@@ -121418,7 +121392,6 @@
 +.sprinlof.com
 +.sprintglobal.112.2o7.net
 +.sprintjogsi.hu
-+.sprintsavingsblk.online
 +.spritzerin.de
 +.spritzmichan.de
 +.sprkingawakening.icu
@@ -122130,7 +122103,6 @@
 +.standart-uk.ru
 +.standartbud.net
 +.standeraccountants.co.za
-+.standgruff.com
 +.standpointdriveway.com
 +.standrewsfoundation.co.nr
 +.standrewsgolfclub.com
@@ -124832,7 +124804,6 @@
 +.sunpass.com-flms.win
 +.sunpass.com-fsfm.win
 +.sunpass.com-fvqs.win
-+.sunpass.com-fyaz.win
 +.sunpass.com-fyzs.win
 +.sunpass.com-ggps.win
 +.sunpass.com-gpet.win
@@ -124858,7 +124829,6 @@
 +.sunpass.com-jkqs.win
 +.sunpass.com-jtah.win
 +.sunpass.com-ksfx.win
-+.sunpass.com-kyts.win
 +.sunpass.com-lugs.win
 +.sunpass.com-lvaf.win
 +.sunpass.com-mlpy.win
@@ -128515,7 +128485,6 @@
 +.the-lastship.com
 +.the-latest-version.com
 +.the-match.jp
-+.the-myscontactonlines.com
 +.the-north-face.fr
 +.the-north-face.gr
 +.the-ozone-project.com
