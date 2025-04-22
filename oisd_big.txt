@@ -1,9 +1,9 @@
-# Version: 202504221009
+# Version: 202504221028
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147606
-# Last modified: 2025-04-22T10:09:05+0000
+# Entries: 147605
+# Last modified: 2025-04-22T10:28:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -82626,7 +82626,6 @@
 +.marjanschonenberg.nl
 +.mark-explain.gl.at.ply.gg
 +.mark-very.gl.at.ply.gg
-+.mark0.net
 +.mark009.kozow.com
 +.markadmesteamworkspace.myclickfunnels.com
 +.markallenconstruction.com
