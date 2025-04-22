@@ -1,9 +1,9 @@
-# Version: 202504221609
+# Version: 202504221809
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147397
-# Last modified: 2025-04-22T16:09:17+0000
+# Entries: 147333
+# Last modified: 2025-04-22T18:09:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -129,7 +129,6 @@
 +.01domain.com
 +.01kevinj.duckdns.org
 +.01qy.top
-+.01x.2328157.xyz
 +.01x.6328157.xyz
 +.0202irs92ios092ya1h0092maild83df0ios.github.io
 +.02085170.xyz
@@ -274,7 +273,6 @@
 +.091.sh
 +.0926a687679d337e9d.com
 +.09284291.xyz
-+.0928fax.home-webserver.de
 +.093093.jp
 +.0937jyg.com
 +.0941.org
@@ -292,7 +290,6 @@
 +.09cd.co.kr
 +.09city.com
 +.0a0d-d3l1vr.b-cdn.net
-+.0a2e44b749881903b45856.ham-radio-op.net
 +.0a58b45e.b-cdn.net
 +.0a5uo.com
 +.0a74314cd1.com
@@ -4973,7 +4970,6 @@
 +.91ef3b7fta0d58n851.jwespeex.co.in
 +.91fbab6d.b-cdn.net
 +.91hui.com
-+.91ivr.com
 +.91mh.co
 +.91mh.me
 +.91mobiles.site
@@ -6933,7 +6929,6 @@
 +.account.valide.checker.automatique.payverif.com
 +.accountablitypartner.com
 +.accountadmin27.boxmode.io
-+.accountantamsterdam.net
 +.accountantflowerrespiration.com
 +.accountantpacketassail.com
 +.accountappleicloud-sign-in.applerr.com
@@ -13850,7 +13845,6 @@
 +.allegrolokalnie.pl-934535342.shop
 +.allegrolokalnie.pl-938596.rest
 +.allegrolokalnie.pl-9402394.shop
-+.allegrolokalnie.pl-948592.cfd
 +.allegrolokalnie.pl-971935.cfd
 +.allegrolokalnie.pl-981.cfd
 +.allegrolokalnie.pl-984892.cfd
@@ -17154,7 +17148,6 @@
 +.app-uusert88acept.start.page
 +.app-web-app.webflow.io
 +.app.112.2o7.net
-+.app.1inh.io-n3.icu
 +.app.5211game.com
 +.app.agent.yunfancdn.com
 +.app.antifraudportal.eu
@@ -17358,7 +17351,6 @@
 +.appdesigner.info
 +.appdev.addthis.com
 +.appdevelopment.click
-+.appdevweb.com
 +.appdropbox.fr
 +.appe.fr
 +.appe.nocrits.com
@@ -22792,7 +22784,6 @@
 +.baptismdesired.com
 +.baptismfortune.com
 +.baptizespadeaccompanying.com
-+.baqgq.cn
 +.bar-customer.com
 +.bar-emotion.com
 +.bar-lemon.gl.at.ply.gg
@@ -26222,7 +26213,6 @@
 +.bonneville.112.2o7.net
 +.bonniercorp.122.2o7.net
 +.bonniewindersattorney.com
-+.bonnyprint.com
 +.bonobo.nola.today
 +.bonosbevvy.com
 +.bons-uphf.firebaseapp.com
@@ -26535,7 +26525,6 @@
 +.bottlestrivingtarget.com
 +.bottlinghouse.com
 +.bottomthoughtvow.com
-+.bottrue.com
 +.botvectors.mineheaven.org
 +.botverifity.com
 +.bou.nxz.temporary.site
@@ -27012,7 +27001,6 @@
 +.bremerhaven-mail.de
 +.breminantores.shop
 +.brendaaerodeisgnservices.com
-+.brendsela.online
 +.brenthamhouse.com
 +.brest-universite.fr
 +.bretagne-materaiux.fr
@@ -35083,8 +35071,6 @@
 +.com-host.info
 +.com-id39199.com
 +.com-itrustcapital-com-auth.webflow.io
-+.com-jiyt.win
-+.com-jkgf.win
 +.com-knfh.win
 +.com-laxb.win
 +.com-lbc.fr
@@ -39352,7 +39338,6 @@
 +.cushiondrum.com
 +.cushionpig.com
 +.cushoussie.net
-+.cuslsl.info
 +.cussixia.de
 +.custodycraveretard.com
 +.custom-click.com
@@ -45961,7 +45946,6 @@
 +.downnora.me
 +.downparanoia.com
 +.downright-administration.pro
-+.downstairsnegotiatebarren.com
 +.downupfiles.com
 +.downwardstreakchar.com
 +.dowseservices.com
@@ -45982,7 +45966,6 @@
 +.dp45nhyltt487.cloudfront.net
 +.dp94m8xzwqsjk.cloudfront.net
 +.dpagcoagcoglobal.112.2o7.net
-+.dpahlsm.com
 +.dpb3g4kqr8xz.cloudfront.net
 +.dpbh.info
 +.dpd-france.fr
@@ -46825,7 +46808,6 @@
 +.dv663fc06d35i.cloudfront.net
 +.dv7t7qyvgyrt5.cloudfront.net
 +.dv8v1cvc98vkm.cloudfront.net
-+.dvaminusodin.net
 +.dvattbwxiofrk.site
 +.dvb.pandora.xiaomi.com
 +.dvballegrolokalnie.pl-564534.shop
@@ -47152,7 +47134,6 @@
 +.e-zpass.com-etcqwc.vip
 +.e-zpass.com-etctye.vip
 +.e-zpass.com-etcxof.vip
-+.e-zpass.com-etcytk.vip
 +.e-zpass.com-ez557.xin
 +.e-zpass.com-tyyux.win
 +.e-zpass.com-xxlix.cc
@@ -51106,7 +51087,6 @@
 +.evrimail.officialemailaio.xin
 +.evrimail.officialemailaiq.xin
 +.evrimail.officialemailair.xin
-+.evrimail.officialemailais.xin
 +.evrimail.officialemailaw.xin
 +.evrimail.officialemailg.xin
 +.evrimail.officialemaillg.xin
@@ -51151,7 +51131,6 @@
 +.ewaysendit.com
 +.ewbakerr.activehosted.com
 +.ewblapjfknviwm.com
-+.ewcnmtw.top
 +.ewdq.top
 +.ewdxisdrc.com
 +.ewebsearch.net
@@ -51627,7 +51606,6 @@
 +.exypnes-idees.gr
 +.exyzz.pl
 +.ey5nws5hnpcrk.cfc-execute.bj.baidubce.com
-+.eyamyemmgoqeuwuq.xyz
 +.eyarffmarxwm.com
 +.eyauknalyticafra.info
 +.eycnlprod.112.2o7.net
@@ -52011,7 +51989,6 @@
 +.fabricacaodesite.com.br
 +.fabricsdirect4you.com
 +.fabricwaffleswomb.com
-+.fabriczigzagpercentage.com
 +.fabrik-verkauf.de
 +.fabriken.de
 +.fabrikverkauf.com
@@ -53382,7 +53359,6 @@
 +.fetchacopd.com
 +.fetchadentalimplantsuse.com
 +.fetchcarinsurance.com
-+.fetchcryptocurrency.com
 +.fetchergumdrop.com
 +.fetchhealthcare.com
 +.fetchlink.net
@@ -55973,7 +55949,6 @@
 +.freeitunesgiftcards.net
 +.freekarmakoins.com
 +.freelanced.fr
-+.freelancepicketpeople.com
 +.freelancer.lk
 +.freelancerarity.com
 +.freelancercorner.com
@@ -58889,7 +58864,6 @@
 +.gibthub.com
 +.gicazsfuho.com
 +.gicinmxxaoling.godaddysites.com
-+.gickoqeqquuscqiq.xyz
 +.gicoxmha.com
 +.giddy-tartan-feverfew.glitch.me
 +.giddycoat.com
@@ -61576,7 +61550,6 @@
 +.gtyjpiobza.com
 +.gu7socdn.txxx.com
 +.guaaug.com
-+.guacimorhymer.top
 +.guadeloupeparticuliers9.firebaseapp.com
 +.guadeloupeparticuliers9.web.app
 +.guagg.com
@@ -61747,7 +61720,6 @@
 +.gullyending.com
 +.gulsyangtao.guru
 +.gumanews.com
-+.gumcongest.com
 +.gumgum.com
 +.guminska.pl
 +.gumlahdeprint.com
@@ -65557,7 +65529,6 @@
 +.hox.hopto.org
 +.hoxdotye.icu
 +.hoyaga.xyz
-+.hoyoverse.blog
 +.hozour-clinic.ir
 +.hozphilip67251.activehosted.com
 +.hp-aggressive.gl.at.ply.gg
@@ -66434,7 +66405,6 @@
 +.i.zt-dq.com
 +.i0001.clarodrive.com
 +.i0nsd.blogspot.ae
-+.i0unymq8nqf8e.life
 +.i1.go2yd.com
 +.i1.services.social.microsoft.com
 +.i1218.photobucket.com
@@ -67319,7 +67289,6 @@
 +.ikmoon.com
 +.ikmtrust.com
 +.ikoi-kochi.jp
-+.ikoikeakkeqksqoa.xyz
 +.ikooqmunrveuve.com
 +.ikoz.ddns.net
 +.ikppduisfudho.online
@@ -73796,7 +73765,6 @@
 +.kkujkajkeiobts.com
 +.kkvesjzn.com
 +.kkwsf.icu
-+.kkywgyssyicewoqe.xyz
 +.kl-219.040-241.qualityplusbuilders.com
 +.kl.67it.com
 +.klanglabel.de
@@ -74632,7 +74600,6 @@
 +.kuckineloginus.webflow.io
 +.kuckinlogixnive.webflow.io
 +.kuckoinkilogin.webflow.io
-+.kucnwtd.top
 +.kucoeanlogein.webflow.io
 +.kucoeinlloginn.webflow.io
 +.kucoeinloginus.webflow.io
@@ -75400,7 +75367,6 @@
 +.labtfeavcan.com
 +.labtop.pe
 +.labudanka2.com
-+.labupfdates.world
 +.labyrinthconversions.com
 +.lacadeau.in
 +.lacafavotreecoute.fr
@@ -75566,7 +75532,6 @@
 +.lakikishop.duckdns.org
 +.lakita.com
 +.lakotorra.com
-+.laktevit.ru
 +.lala2025.duckdns.org
 +.lalabaos1020.top
 +.lalabaos1021.top
@@ -80616,7 +80581,6 @@
 +.lvodomo.info
 +.lvojjayaaoqym.top
 +.lvosg.com
-+.lvqo.cn
 +.lvqzracb-74725-hjge-dot-sso-secure-servr.appspot.com
 +.lvtransportadora.com
 +.lvw7k4d3j.com
@@ -85723,7 +85687,6 @@
 +.minutelight-1.online
 +.minutes.757realestatesearch.com
 +.minutesdevise.com
-+.minutessongportly.com
 +.mio-love2.wixsite.com
 +.miohide.in
 +.miokoo.com
@@ -91848,7 +91811,6 @@
 +.norcantec.com.ar
 +.nord-ingredients.com
 +.nordavind.syzran.ru
-+.nordax.top
 +.nordbanquepopulaire.fr
 +.nordeninterior.weebly.com
 +.nordesterep.com.br
@@ -96213,7 +96175,6 @@
 +.ovibospeseta.com
 +.ovjagtxasv.com
 +.ovjgithud.com
-+.ovologysnoops.com
 +.ovomexido.com
 +.ovowkbtrrrsaawe.com
 +.ovp.iris.tv
@@ -109490,7 +109451,6 @@
 +.reservoirvine.com
 +.resesmyinteukr.info
 +.resetetron.com
-+.resetnb.run
 +.resgatemobilebb.com
 +.resgatepontosnr.com
 +.reshnot.quest
@@ -109752,7 +109712,6 @@
 +.rev2pub.com
 +.rev4rtb.com
 +.revalidating.boxmode.io
-+.revampitn.live
 +.revaywendi.top
 +.revbigo.com
 +.revcontent.com
@@ -110882,7 +110841,6 @@
 +.roosevelt.gjbig.com
 +.rooster.cashforcolumbushouses.com
 +.rooster.ohqcloud.com
-+.roosterfirework.com
 +.roosture.com
 +.root-security-yah00-domain5854335.ronandownes.net
 +.root.jessami.co.uk
@@ -112438,7 +112396,6 @@
 +.sacceline.fr
 +.saccoachfrance.fr
 +.sacculiroofmen.shop
-+.sacdnssedge.com
 +.sacedoamte.net
 +.sacfyf.com.mx
 +.sacguess.fr
@@ -114779,7 +114736,6 @@
 +.securecomnityveri.boxmode.io
 +.secureconv-dl.com
 +.securecracked.info
-+.securecreditfr.com
 +.securecrm.co.za
 +.secured-pdf.s3.ca-central-1.amazonaws.com
 +.secured-share-server-gmfsteelgroup-1note.myportfolio.com
@@ -114968,7 +114924,6 @@
 +.sedark.com
 +.sedatingnews.com
 +.sedativebitty.com
-+.seddc.cn
 +.seder.us
 +.sedhrufg.weebly.com
 +.sedklourtyhoiu.firebaseapp.com
@@ -115428,7 +115383,6 @@
 +.seoab.io
 +.seobundlekit.com
 +.seocertification.upcart.me
-+.seodndoll.com
 +.seodollars.com
 +.seoexpertmarketing.in
 +.seoholding.com
@@ -116887,7 +116841,6 @@
 +.shikiantree.com
 +.shikroux.net
 +.shilohfarmtn.com
-+.shimmering-novel.pro
 +.shimmering-strike.pro
 +.shimmeringconcert.com
 +.shimokadolawoffice.jp.net
@@ -119461,7 +119414,6 @@
 +.snoringmaster.com
 +.snoringpro.com
 +.snortedbingo.com
-+.snortedhearth.com
 +.snos24.ru
 +.snotabilit.live
 +.snoutcaffeinecrowded.com
@@ -122534,7 +122486,6 @@
 +.statistics.vov.vn
 +.statistics.vov2.vn
 +.statistics.wibiya.com
-+.statisticscensordilate.com
 +.statistiek.rijksoverheid.nl
 +.statistik-gallup.dk
 +.statistik-gallup.net
@@ -123286,7 +123237,6 @@
 +.stereotypeswig.com
 +.steretichfderics.qcwaf8.com
 +.sterilityintentionnag.com
-+.sterilityvending.com
 +.stermindideama.com.de
 +.stern-wywiol-gruppe.com.de
 +.sterncommunity.ru
@@ -124419,15 +124369,11 @@
 +.sunpass.com-depz.win
 +.sunpass.com-dfb.win
 +.sunpass.com-dfcw.win
-+.sunpass.com-dhsw.win
 +.sunpass.com-djvw.icu
 +.sunpass.com-djvz.icu
 +.sunpass.com-fagc.win
 +.sunpass.com-faum.win
-+.sunpass.com-flms.win
 +.sunpass.com-fsfm.win
-+.sunpass.com-fyzs.win
-+.sunpass.com-ggps.win
 +.sunpass.com-gshs.win
 +.sunpass.com-hasq.win
 +.sunpass.com-iako.win
@@ -124508,7 +124454,6 @@
 +.sunpass.com-txca.win
 +.sunpass.com-uqej.win
 +.sunpass.com-uyza.win
-+.sunpass.com-vaft.win
 +.sunpass.com-vaxy.win
 +.sunpass.com-vkps.win
 +.sunpass.com-vlga.win
@@ -129318,7 +129263,6 @@
 +.tjwpn04kn.localto.net
 +.tjx.112.2o7.net
 +.tjxjpqa.com
-+.tjzkjw.com
 +.tk-gregoric.si
 +.tk-like.net
 +.tk.kaufda.de
@@ -131615,7 +131559,6 @@
 +.travelsforcheap.com
 +.travelsplayboy.com
 +.travelsureuk.com
-+.traveltipshelp.com
 +.traveltop.org
 +.traveltraffic.cc
 +.travelxindia.com
@@ -132090,7 +132033,6 @@
 +.trikerboughs.com
 +.triligenergy.com
 +.trilogysupplements.com
-+.trimacinstallations.com.au
 +.trimnitreunverstersborrtruniteyrnosent.weebly.com
 +.trimoff.com
 +.trimonsa.mx
@@ -133167,7 +133109,6 @@
 +.txnodemicermode.pages.dev
 +.txpido.com
 +.txrx.bol.com
-+.txtag.org-etcyqo.top
 +.txtag.org-tollb.cc
 +.txtag.org-tollsc.cc
 +.txtag.org-tollsf.cc
@@ -133790,7 +133731,6 @@
 +.uisteam.weebly.com
 +.uitesousefulheady.org
 +.uitjngvykqxxk.space
-+.uiwaigsqayocougc.xyz
 +.uixml.bidcampaign.com
 +.ujcaw.weblium.site
 +.ujdngv.xbiquge6.com
@@ -135006,7 +134946,6 @@
 +.urlsquid.com
 +.urlstart.com
 +.urltracker.yunfancdn.com
-+.urmavite.com
 +.urmilagome.github.io
 +.urmilan.info
 +.urnasleitoral.com.de
@@ -136338,7 +136277,6 @@
 +.veilcurtin.world
 +.veille-referencement.com
 +.veilsuccessfully.com
-+.veincartrigeforceful.com
 +.veininghesa.org
 +.veinourdreams.com
 +.veinteractive.com
@@ -141210,7 +141148,6 @@
 +.wickedwrests.com
 +.wicopymastery.com
 +.wicory.com
-+.wicqykuwseqekssg.xyz
 +.widadkamillah.github.io
 +.widdit.com
 +.wide-casting.gl.at.ply.gg
@@ -144634,7 +144571,6 @@
 +.xverseeawallet.webflow.io
 +.xverseqwalletextension.webflow.io
 +.xvfbnyumkilkiujyht.weebly.com
-+.xvfyubhqjp.xyz
 +.xvgate.com
 +.xvic8.publicvm.com
 +.xvideos.red
