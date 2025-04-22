@@ -1,9 +1,9 @@
-# Version: 202504220308
+# Version: 202504220407
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147751
-# Last modified: 2025-04-22T03:08:12+0000
+# Entries: 147714
+# Last modified: 2025-04-22T04:07:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -129,7 +129,6 @@
 +.01domain.com
 +.01kevinj.duckdns.org
 +.01qy.top
-+.01x.1328157.xyz
 +.01x.2328157.xyz
 +.01x.3328157.xyz
 +.01x.6328157.xyz
@@ -2290,7 +2289,6 @@
 +.2log.com
 +.2lqcd8s9.de
 +.2ltm627ho.com
-+.2lwlh385os.com
 +.2m2n.com
 +.2m3gdt0gc.de
 +.2m55gqleg.de
@@ -11786,7 +11784,6 @@
 +.aehistory.112.2o7.net
 +.aei.com.pe
 +.aejk0.webintwo.bid
-+.aeklw.cn
 +.aekpzxaghjyxa.global
 +.aektschen.de
 +.aelengenharia.com
@@ -14565,7 +14562,6 @@
 +.amaravaticityportal.com
 +.amarceusan.com
 +.amarfa.ir
-+.amari-ama.com
 +.amarilogroup.com
 +.amaroid.net
 +.amaron.fr
@@ -18974,7 +18970,6 @@
 +.assurances-aac.fr
 +.assurances-macif.fr
 +.assurances-maladies.fr
-+.assure-assitance.fr
 +.assure-enligne-infos-sms.fr
 +.assure-enligne-renouvellement.fr
 +.assure-gouv.com
@@ -20481,7 +20476,6 @@
 +.augnentindgri.firebaseapp.com
 +.augplqr.in
 +.augraisto.com
-+.auguiiwikwqqymiu.xyz
 +.augur.io
 +.augurersoilure.space
 +.augurrolley.top
@@ -27322,7 +27316,6 @@
 +.bronzecedarleaf.com
 +.bronzeinside.com
 +.bronzerkevil.com
-+.broochtrade.com
 +.broock.mfrconnect.com
 +.brook.brookviewadvisorsinc.com
 +.brookeburn.com
@@ -28847,7 +28840,6 @@
 +.c.wofbw.top
 +.c.wort-suche.com
 +.c.wxskqy.cn
-+.c.wyykxyp.cn
 +.c.x.oanda.com
 +.c.xjsytoy.com
 +.c.xlhwzx.cn
@@ -30646,7 +30638,6 @@
 +.ccm-mutuel.de
 +.ccm.abload.de
 +.ccm.hamburg-magazin.de
-+.ccmfr.icu
 +.ccmiocw.com
 +.ccmlongueuil.ca
 +.ccmpune.co.in
@@ -35199,7 +35190,6 @@
 +.com-share.in
 +.com-snze.win
 +.com-ssl1.ws
-+.com-tgrp.top
 +.com-top.in
 +.com-top.it
 +.com-tracking-usxc.cc
@@ -44635,7 +44625,6 @@
 +.diversityinboardrooms.com
 +.divetroubledloud.com
 +.divicash.com
-+.divide-snow-pound-clip.trycloudflare.com
 +.dividedkidblur.com
 +.dividedscientific.com
 +.divideinch.com
@@ -46013,7 +46002,6 @@
 +.downloadfreesoft.com
 +.downloadfreeway.com
 +.downloadfullcracks.com
-+.downloadfullversionpcgamesonline.com
 +.downloadhack.net
 +.downloadhacktool.com
 +.downloading.shop
@@ -46319,7 +46307,6 @@
 +.drhzesh.moneyabundance.co
 +.dribturbot.com
 +.driedanswerprotestant.com
-+.driedcollisionshrub.com
 +.drift.click
 +.driftingchef.com
 +.driftpizza.com
@@ -47261,7 +47248,6 @@
 +.e-zpass.com-etcqwc.vip
 +.e-zpass.com-etctye.vip
 +.e-zpass.com-etcxof.vip
-+.e-zpass.com-etcyjk.vip
 +.e-zpass.com-etcytk.vip
 +.e-zpass.com-eusxhkawdh.xin
 +.e-zpass.com-ez557.xin
@@ -47597,7 +47583,6 @@
 +.eastend.jp
 +.eastendtandoori.com
 +.easter-analytics.com
-+.eastergurgle.com
 +.eastern-jealous-apricot.glitch.me
 +.eastfeukufu.info
 +.eastfirstsaving.com
@@ -47652,7 +47637,6 @@
 +.easy-web-secureform.com
 +.easy-web-stats.com
 +.easy.au.ru
-+.easy2busy.com
 +.easy2cnjuh34jb.com
 +.easy300.com
 +.easyaccess.mobi
@@ -49704,7 +49688,6 @@
 +.enjoylife2001.net
 +.enjoyperfectdates.life
 +.enkeled005.com
-+.enkiy.cn
 +.enkobud.dp.ua
 +.enkrisi-enkrisis.firebaseapp.com
 +.enkrisi-enkrisis.web.app
@@ -50554,7 +50537,6 @@
 +.etcadw.cc
 +.etcaec.xin
 +.etcaeg.win
-+.etcaeq.win
 +.etcaer.xin
 +.etcafs.cc
 +.etcagg.cc
@@ -51233,7 +51215,6 @@
 +.evrae.xyz
 +.evri-hub.firebaseapp.com
 +.evri-hub.web.app
-+.evrimail.officialemail.xin
 +.evrimail.officialemaila.xin
 +.evrimail.officialemailaa.xin
 +.evrimail.officialemailac.xin
@@ -53024,7 +53005,6 @@
 +.fb.darbo.uzrasai.lt
 +.fb06e67da1.30ff4cb531.com
 +.fb26830afd2759cb76a56c57d608ff88-dot-oo0-987.appspot.com
-+.fb3unioninc.online
 +.fb64dd0163bc4b2d67a36650483bab6d.today
 +.fb7927.bget.ru
 +.fb7961un.bget.ru
@@ -57848,7 +57828,6 @@
 +.gayal.stockshouse.co
 +.gayeah.cn
 +.gaymormon.com
-+.gayqewackkyogwey.xyz
 +.gayseatmot.live
 +.gaysgodating.com
 +.gaystryst.com
@@ -70117,7 +70096,6 @@
 +.itaui.org
 +.itaui.pro
 +.itaui.top
-+.itauipy.com
 +.itauipy.top
 +.itaujq5s.cc
 +.itaupontoscard.unaux.com
@@ -73969,7 +73947,6 @@
 +.kkfkkkkhjiij.weebly.com
 +.kkgol.fr
 +.kkgscaawkmcuqaum.xyz
-+.kkguccuyykwgoqso.xyz
 +.kkieeoxcjpqah.vip
 +.kkiocuccoin.webflow.io
 +.kkjdksdklkdslel.weebly.com
@@ -78441,7 +78418,6 @@
 +.ljlgf.akgoj.cn
 +.ljnulatbntogvd.com
 +.ljo1zh.csb.app
-+.ljqq93npbr.com
 +.ljrtb.cn
 +.ljsr-ijbcxvq.online
 +.ljsyxx.cn
@@ -83772,7 +83748,6 @@
 +.media.netrefer.com
 +.media.nk-net.pl
 +.media.onlinewelten.com
-+.media.ontarionorth.com
 +.media.playamopartners.com
 +.media.snabbare.com
 +.media.sonymusic.no
@@ -94319,7 +94294,6 @@
 +.olvwnmnp.com
 +.olwkw.weebly.com
 +.olwmbhrp.122.2o7.net
-+.olx-pl.ratskoyl.cfd
 +.olx.4738833.click
 +.olx.hit.gemius.pl
 +.olxeg.com
@@ -95688,7 +95662,6 @@
 +.org-hgfe.win
 +.org-ikjh.win
 +.org-iugf.win
-+.org-jumg.win
 +.org-kjhy.win
 +.org-ledger-staartt.webflow.io
 +.org-nhg.vip
@@ -103429,7 +103402,6 @@
 +.ptstnkintllj.xyz
 +.ptsyhasifubi.buzz
 +.pttgov.cfd
-+.pttgovgoc.buzz
 +.pttraffic.online
 +.pttsite.com
 +.ptugnins.net
@@ -106498,7 +106470,6 @@
 +.qbaznhsjd.komi.io
 +.qbdgame.com
 +.qbittorrent.com
-+.qbkraweaoemer.top
 +.qbl27phekk7p.live
 +.qbreport.html5.qq.com
 +.qbrth.ezcontacts.com
@@ -106764,7 +106735,6 @@
 +.qocoll.com
 +.qoguesbu.firebaseapp.com
 +.qohelp.top
-+.qolijp.top
 +.qonbibff.icu
 +.qonto-banque.fr
 +.qontoconnexion.fr
@@ -109548,7 +109518,6 @@
 +.repka.online
 +.repl-mess.myfreesites.net
 +.replaceexplanationevasion.com
-+.replacementdispleased.com
 +.replaceroute.com
 +.replacestuntissue.com
 +.replanifier-mondialrelay.com
@@ -114509,7 +114478,6 @@
 +.searchtool.space
 +.searchtopresults.com
 +.searchv.com
-+.searchwe.com
 +.searchweb.top
 +.searchweb2.com
 +.searchwnc.com
@@ -119491,7 +119459,6 @@
 +.smith6.godaddysites.com
 +.smithcerx.firebaseapp.com
 +.smithcerx.web.app
-+.smithdrums.com
 +.smithscustombuilders.myportfolio.com
 +.smithsonianmag.top
 +.smivsugd.top
@@ -124685,7 +124652,6 @@
 +.sunpass.com-adcg.win
 +.sunpass.com-afgr.win
 +.sunpass.com-ajsf.win
-+.sunpass.com-alo.win
 +.sunpass.com-alp.win
 +.sunpass.com-amcs.win
 +.sunpass.com-amug.win
@@ -124782,7 +124748,6 @@
 +.sunpass.com-sunpassyhh.vip
 +.sunpass.com-surl.win
 +.sunpass.com-suzy.win
-+.sunpass.com-szet.win
 +.sunpass.com-szmb.win
 +.sunpass.com-szov.win
 +.sunpass.com-tafz.win
@@ -138766,7 +138731,6 @@
 +.vu7r6.cn
 +.vuabem.com
 +.vub-appsk.web.app
-+.vudkgwfk.xyz
 +.vudoutch.com
 +.vudqth.icu
 +.vudun.com
@@ -141038,7 +141002,6 @@
 +.westernbank.vn
 +.westerneunion.com
 +.westernfbk.com
-+.westernhungryadditions.com
 +.westernonionvietnam24-24.weebly.com
 +.westernscraptradinginc.com
 +.westernsecurityonline.weebly.com
