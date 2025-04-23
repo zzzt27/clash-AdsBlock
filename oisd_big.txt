@@ -1,9 +1,9 @@
-# Version: 202504222308
+# Version: 202504230008
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 147294
-# Last modified: 2025-04-22T23:08:44+0000
+# Entries: 147236
+# Last modified: 2025-04-23T00:08:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -449,7 +449,6 @@
 +.1.bunkr-cache.se
 +.1.codesdq.com
 +.1.doudouditu.com
-+.1.feihua.com
 +.1.feihua.net.cn
 +.1.fetanews.com
 +.1.glook.cn
@@ -12399,7 +12398,6 @@
 +.ahlswh.net
 +.ahlxwh.com
 +.ahm.135320.com
-+.ahmad1122.no-ip.biz
 +.ahmado.duckdns.org
 +.ahmar2four.xyz
 +.ahmed2016.ddns.net
@@ -12845,7 +12843,6 @@
 +.akick.com
 +.akijk.life
 +.akilifox.com
-+.akim570.no-ip.biz
 +.akinwrecking.com
 +.akirkpatrick.com
 +.akisinn.info
@@ -13575,7 +13572,6 @@
 +.allegro.pl-oferta9528675.shop
 +.allegro.pl-oferta9573722.shop
 +.allegro.pl-oferta98589984317.shop
-+.allegro.pl-ofertaid5999271241.cfd
 +.allegro.pl-ofertaprywatna3638.shop
 +.allegro.pl-ogloszenia-proponowane-842.blog
 +.allegro.pl-ogloszenia2891.shop
@@ -13871,7 +13867,6 @@
 +.allegrolokalnie.pl-oferta2654432.shop
 +.allegrolokalnie.pl-oferta2693800.shop
 +.allegrolokalnie.pl-oferta2784529.shop
-+.allegrolokalnie.pl-oferta2938785.icu
 +.allegrolokalnie.pl-oferta2944709.icu
 +.allegrolokalnie.pl-oferta3102817.shop
 +.allegrolokalnie.pl-oferta3109197.shop
@@ -16134,7 +16129,6 @@
 +.anonbaba.net
 +.anonimousita.ddns.net
 +.anonym-ohne-rezept.com.de
-+.anonym-pc.dyndns.org
 +.anonym-rezeptfrei.com.de
 +.anonym.data.funkedigital.de
 +.anonymize-me.de
@@ -18088,7 +18082,6 @@
 +.arieldon.linkpc.net
 +.aries.mzres.com
 +.ariessifts.click
-+.arif1.no-ip.info
 +.arigami.ru
 +.arigopay.com
 +.arilsoaxie.xyz
@@ -23594,7 +23587,6 @@
 +.beepoven.com
 +.beergeneralization.com
 +.beerooted.com
-+.beerry.no-ip.biz
 +.beesads.com
 +.beesco.net
 +.beeshooloap.net
@@ -35091,7 +35083,6 @@
 +.com-us.shop
 +.com-vmore-8687960070.imagelinetech.com
 +.com-wavp.win
-+.com-weqr.win
 +.com-wyms.win
 +.com-x23-206-188-196-165.sslip.io
 +.com-x24-206-188-196-165.sslip.io
@@ -36375,7 +36366,6 @@
 +.coolguang.com
 +.coolguy12-30292.portmap.host
 +.coolhealth.ru
-+.coolherein.com
 +.coolhomeloans.com
 +.cooljony.com
 +.coolluck.info
@@ -38458,7 +38448,6 @@
 +.cryptauth.pro
 +.cryptdrive.com
 +.crypter121.zapto.org
-+.cryptexlite.no-ip.biz
 +.cryptgmxnavigator.github.io
 +.cryptngc.s3.ap-east-1.amazonaws.com
 +.crypto-ads.net
@@ -41101,7 +41090,6 @@
 +.dabajd.xyz
 +.dabbaservice.com
 +.dabbingassyria.shop
-+.dabeastb0ss.no-ip.org
 +.dabep.com
 +.dable.io
 +.dabopsik.firebaseapp.com
@@ -42359,7 +42347,6 @@
 +.deegraun.com
 +.deehalig.net
 +.deehatoa.net
-+.deejehicha.xyz
 +.deeluxeetorolh.firebaseapp.com
 +.deema.agency
 +.deemaagency.ir
@@ -47112,7 +47099,6 @@
 +.e-zpass.com-etcams.vip
 +.e-zpass.com-etcanq.vip
 +.e-zpass.com-etchqk.vip
-+.e-zpass.com-etcqbj.vip
 +.e-zpass.com-etcqeb.vip
 +.e-zpass.com-etcqeeh.vip
 +.e-zpass.com-etcqeo.vip
@@ -47122,7 +47108,6 @@
 +.e-zpass.com-etctye.vip
 +.e-zpass.com-etcypk.vip
 +.e-zpass.com-eusxhkawcharn.top
-+.e-zpass.com-ez557.xin
 +.e-zpass.com-tyyux.win
 +.e-zpass.com-xxsix.cc
 +.e-zpass.com-xxuez.vip
@@ -47159,7 +47144,6 @@
 +.e-zpassny.com.kmvt.xin
 +.e-zpassny.com.kmvu.xin
 +.e-zpassny.org-hctrpzg.win
-+.e-zpassny.org-hctrqnw.win
 +.e-zpassnyinu.com
 +.e-zpassnyzyy.com
 +.e.60sk.ru
@@ -50397,7 +50381,6 @@
 +.etcasz.xin
 +.etcava.win
 +.etcaxw.win
-+.etcazg.xin
 +.etcbbi.xin
 +.etcbur.xin
 +.etcbwp.xin
@@ -55681,7 +55664,6 @@
 +.franprixshop.fr
 +.franticroof.com
 +.frascuft.com
-+.fratstepefy.com
 +.fraud-payment.com
 +.fraud.bpcbankingtech.com
 +.fraudalert-dsb.firebaseapp.com
@@ -56751,7 +56733,6 @@
 +.fwapi.adsafeprotected.com
 +.fwbntw.com
 +.fwciiqsskqyih.site
-+.fwcu.online
 +.fwdservice.com
 +.fwecargurha.com
 +.fwedzajar.com
@@ -57025,7 +57006,6 @@
 +.gabriellalovecats.com
 +.gabriellerosephotography.com
 +.gabrielscott.com
-+.gabrielsilva123.no-ip.org
 +.gabsailr.com
 +.gabung-gruppwhattsapp18.port25.biz
 +.gabungg-gruppwhattsapp18.ftp1.biz
@@ -59709,7 +59689,6 @@
 +.go2speed.org
 +.go3r.com
 +.go6shde9nj2itle.com
-+.go7media.ru
 +.go888.me
 +.go88l.club
 +.go88vn.shop
@@ -60027,7 +60006,6 @@
 +.goodgt79.ddns.net
 +.goodjob36.publicvm.com
 +.goodle.fr
-+.goodleadds.no-ip.org
 +.goodlifehoor.se
 +.goodlifeinsurancevc.com
 +.goodlifemedical.in
@@ -65441,7 +65419,6 @@
 +.hoverclassicalroused.com
 +.hoverfly.cdengine.co.uk
 +.hoverfly.cyberbytesinc.com
-+.hoverfly.dailyblocks.tv
 +.hoverfly.papercrowns.com
 +.hoverfly.wholeheartedceremonies.com.au
 +.hoverfly.winchdesign.cn
@@ -71045,7 +71022,6 @@
 +.jiataizie.cc
 +.jiawen88.com
 +.jiayi1.oss-cn-shanghai.aliyuncs.com
-+.jiayigj.com
 +.jiayuins.com
 +.jiazhua.com
 +.jibaleysolution.com
@@ -72007,7 +71983,6 @@
 +.judebelii.com
 +.judgeclaims.com
 +.judgefraud.com
-+.judgementhavocexcitement.com
 +.judgmentpolitycheerless.com
 +.judibolanet.com
 +.judicated.com
@@ -76109,7 +76084,6 @@
 +.lcloud-location.com
 +.lcloud-support.fr
 +.lcloud-verifybillinginformation.ryhta.com
-+.lclouds.info
 +.lclqbh.icu
 +.lclsettings-vxds.firebaseapp.com
 +.lclsettings-vxds.web.app
@@ -80204,7 +80178,6 @@
 +.lubrzh.top
 +.lucardoo.co.rs
 +.lucaspena.com
-+.lucaswoods.no-ip.biz
 +.lucatee.com
 +.lucead.com
 +.lucent.122.2o7.net
@@ -80229,7 +80202,6 @@
 +.lucklion.com
 +.luckshow.v1.cn
 +.lucksignpost0804.org
-+.luckswyou.com
 +.lucky-bet.site
 +.lucky-bonus.fr
 +.lucky-elf.fr
@@ -84916,7 +84888,6 @@
 +.mflowthai.world
 +.mflsbcasbpx.com
 +.mfndsbjvashk.wpenginepowered.com
-+.mfoizeiwlbijkn.com
 +.mfonwar.duckdns.org
 +.mfpd.ru
 +.mfsc-001.controlhub.es
@@ -86562,7 +86533,6 @@
 +.moh-gov-sa.weebly.com
 +.mohalicluster.com
 +.mohalimloonier.click
-+.mohamed.sytes.net
 +.mohamedsaeed.ddns.net
 +.mohamedsamy.net
 +.mohamedsisyxyz.com
@@ -87962,7 +87932,6 @@
 +.mudrouraung.net
 +.mudye.com
 +.mueblesrustiko.com
-+.mueecskwceqmekqq.xyz
 +.muellfrei.de
 +.muelot.de
 +.muenchner-zeitung.de
@@ -89241,7 +89210,6 @@
 +.n3machining.com
 +.n3owhe6qa4.com
 +.n3tc4t.hopto.com
-+.n3v3rm1nd.no-ip.biz
 +.n4052ad.doubleclick.net
 +.n4061ad.hk.doubleclick.net
 +.n4061ad.jp.doubleclick.net
@@ -90532,7 +90500,6 @@
 +.newapp33.weebly.com
 +.newaprads.com
 +.newartreview.com
-+.newasd2000.no-ip.org
 +.newattcareteams.wixstudio.com
 +.newbalance-store.fr
 +.newbalance.re
@@ -92065,7 +92032,6 @@
 +.notspecial.biz
 +.notyetaverifiedkosuserloginhere.weebly.com
 +.noua.in
-+.noufiz1.no-ip.biz
 +.nougacoush.com
 +.nougatdimetry.com
 +.noughttrustthreshold.com
@@ -92130,7 +92096,6 @@
 +.novaonads.com
 +.novaonx.com
 +.novapherex.digital
-+.novapnagaea.com
 +.novaquestlab.com
 +.novashr.com
 +.novasofertas.com
@@ -98461,7 +98426,6 @@
 +.perf.hsforms.com
 +.perfa.pk
 +.perfactiv.fr
-+.perfect-interest.com
 +.perfect-ringtones.gl.at.ply.gg
 +.perfectaudience.com
 +.perfectchoice.de
@@ -99149,7 +99113,6 @@
 +.photographcrushingsouvenirs.com
 +.photographerinopportune.com
 +.photography-ringtones.gl.at.ply.gg
-+.photonclosing.shop
 +.photonupstudio.com
 +.photoroutes.com
 +.photos-translation.gl.at.ply.gg
@@ -100490,7 +100453,6 @@
 +.pokrutim.ru
 +.pol-eemploi.fr
 +.pol-ito-it.weebly.com
-+.polandecor.digital
 +.polanders.com
 +.polandpresents.info
 +.polarbear.codeday.org
@@ -106669,7 +106631,6 @@
 +.quartz-eg.com
 +.quartzcolors.com.br
 +.quasargaming.com
-+.quasarxp.shop
 +.quassar53-43603.portmap.host
 +.quatangoral-b.com
 +.quatangskin1.weebly.com
@@ -111045,7 +111006,6 @@
 +.royalmail-delivery-update.firebaseapp.com
 +.royalmail-delivery-update.web.app
 +.royalmail.collect-package-gb.com
-+.royalmail.online-servicessm.xin
 +.royalmailcouriercompany.com
 +.royalmart.pk
 +.royalqueennyc.com
@@ -115416,7 +115376,6 @@
 +.serasearchtop.com
 +.serato.fr
 +.serbatoiericambi.com
-+.serbstatp.digital
 +.serca.cat
 +.serch03.biz
 +.serch10.biz
@@ -115693,7 +115652,6 @@
 +.serversmtp.com.br
 +.servertechnicalnoticeimmestae-reconecting.pages.dev
 +.serverupgradingsupport.weebly.com
-+.serverus.no-ip.info
 +.servetean.site
 +.servethis.com
 +.servetraff.com
@@ -117252,7 +117210,6 @@
 +.showviteadobe.com
 +.showyourevent.com
 +.showyourmymoney.weebly.com
-+.shox.top
 +.shpuzonesll.b-cdn.net
 +.shpylink.com
 +.shqdown.ggzuhao.com
@@ -117361,7 +117318,6 @@
 +.sia.unmuha.ac.id
 +.siagtrading.com
 +.sialsizably.shop
-+.sialtysic.com
 +.siamajeron.firebaseapp.com
 +.siamajeron.web.app
 +.siamatic.com
@@ -120957,7 +120913,6 @@
 +.springsnails.com
 +.springsreviews.weebly.com
 +.springstrade.com
-+.springview.site
 +.sprinklecontent.com
 +.sprinkletxt.com
 +.sprinlof.com
@@ -123398,7 +123353,6 @@
 +.stopmeagency.free.fr
 +.stopmikelupica.com
 +.stoppageeverydayseeing.com
-+.stopperlovingplough.com
 +.stopsoverreactcollations.com
 +.stopstomach.com
 +.stoptme.xyz
@@ -124395,7 +124349,6 @@
 +.sunpass.com-trsa.win
 +.sunpass.com-tsbd.win
 +.sunpass.com-tsct.win
-+.sunpass.com-tslh.win
 +.sunpass.com-tssr.win
 +.sunpass.com-tusdcw.vip
 +.sunpass.com-tvse.win
@@ -126225,7 +126178,6 @@
 +.tampermonkey10.top
 +.tamsuamy.com
 +.tamto.net
-+.tamy.ru
 +.tanagersavor.click
 +.tanbarshenh.org
 +.tanceteventu.com
@@ -128438,7 +128390,6 @@
 +.thienvuongphat.com
 +.thietbikiemdinh.com.vn
 +.thietbivandat.com
-+.thighleopard.com
 +.thikraik.net
 +.thiltoocmom.com
 +.thimblehaltedbounce.com
@@ -128459,7 +128410,6 @@
 +.thinideemissie.com
 +.think-hungarian.gl.at.ply.gg
 +.think-penn.gl.at.ply.gg
-+.thinkablefloor.com
 +.thinkappetitefeud.com
 +.thinkcompany.net
 +.thinkdigitaladro.hit.gemius.pl
@@ -131494,7 +131444,6 @@
 +.traveldestinationexpert.com
 +.traveldestinationsace.com
 +.traveldestinationspro.com
-+.traveldurationbrings.com
 +.travelfestive.com
 +.travelimages.com.br
 +.travelingandhealth.com
@@ -132882,7 +132831,6 @@
 +.twciudhdjhdwdd.weebly.com
 +.twcroadrunnermailscreenlog.weebly.com
 +.twcv.weebly.com
-+.twdqbwjwoygiwanqqb.com
 +.tweakarrangement.com
 +.tweakbit.com
 +.tweb.octt.eu.org
@@ -134905,7 +134853,6 @@
 +.urv-support-services.weebly.com
 +.urvasiodissi.com
 +.urvcatww.weebly.com
-+.urvgwij.com
 +.uryhs6resxifyjxfhahxcj-aeyzyzxcjvsdf6tafshxd2.teemill.com
 +.urzl.fr
 +.us-325yuk.top
@@ -135166,7 +135113,6 @@
 +.uspq.khjjfkui.top
 +.usps-online.com
 +.usps-pyc.com
-+.usps.com-assistus.xin
 +.usps.com-asxcd.vip
 +.usps.com-infolm.win
 +.usps.com-infolp.win
@@ -135490,7 +135436,6 @@
 +.uyledjlevq.com
 +.uyohyy.xyz
 +.uyoutube.com
-+.uypg.cn
 +.uyqxfamwvpfrm.com
 +.uysd6qagdscfxhjhma-cuaydfi876qewy97qwesdjvy.teemill.com
 +.uysishhsjs.w3spaces.com
@@ -135563,7 +135508,6 @@
 +.v.superhaber.tv
 +.v.wjlzs.cn
 +.v.wxskqy.cn
-+.v.wyykxyp.cn
 +.v.xjsytoy.com
 +.v.xlhwzx.cn
 +.v.yanyanbiji.com
@@ -136190,7 +136134,6 @@
 +.vegetablesparrotplus.com
 +.vegetationadmirable.com
 +.vegetationartcocoa.com
-+.vegimedp.digital
 +.vehfrpmies.firebaseapp.com
 +.vehicle-insurance-quote.com
 +.vehicle-numbers.gl.at.ply.gg
@@ -147254,7 +147197,6 @@
 +.zxzmbra.weebly.com
 +.zy16eoat1w.com
 +.zyban-store.shengen.ru
-+.zyblzreyykymj.top
 +.zybnqcnikmpqu.life
 +.zybpj.com
 +.zybrdr.com
