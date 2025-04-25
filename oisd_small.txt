@@ -1,9 +1,9 @@
-# Version: 202504251309
+# Version: 202504251409
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44859
-# Last modified: 2025-04-25T13:09:45+0000
+# Entries: 44856
+# Last modified: 2025-04-25T14:09:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17951,7 +17951,6 @@
 +.flarby.com
 +.flash.sec.intl.miui.com
 +.flashb.id
-+.flashingnicer.com
 +.flashingnumberpeephole.com
 +.flashlightstypewriterparquet.com
 +.flashnetic.com
@@ -23988,7 +23987,6 @@
 +.lbfrruxdynpunl.com
 +.lbfwxr.icu
 +.lbjekygz.icu
-+.lbmqciazrpm.com
 +.lbn.ru
 +.lbqdaua.icu
 +.lby2kd27c.com
@@ -39405,7 +39403,6 @@
 +.tossquicklypluck.com
 +.tostervar.shop
 +.totalab.xyz
-+.totallyplaiceaxis.com
 +.totalmedia2.ynet.co.il
 +.totemcash.com
 +.totenoltood.com
