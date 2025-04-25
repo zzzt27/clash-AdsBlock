@@ -1,9 +1,9 @@
-# Version: 202504250008
+# Version: 202504250107
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44932
-# Last modified: 2025-04-25T00:08:32+0000
+# Entries: 44930
+# Last modified: 2025-04-25T01:07:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6374,7 +6374,6 @@
 +.aroundpayslips.com
 +.aroundridicule.com
 +.arousedimitateplane.com
-+.arragebogland.com
 +.arrangementsfilter.com
 +.arraysurvivalcarla.com
 +.arrazmjcequp.com
@@ -28333,7 +28332,6 @@
 +.oaraiwephoursou.net
 +.oardaptaunga.net
 +.oardilin.com
-+.oaredwraith.com
 +.oarsparttimeparent.com
 +.oarswithdraw.com
 +.oartauksak.net

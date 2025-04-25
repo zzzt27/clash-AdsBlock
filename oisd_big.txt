@@ -1,9 +1,9 @@
-# Version: 202504250008
+# Version: 202504250107
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 148291
-# Last modified: 2025-04-25T00:08:24+0000
+# Entries: 148282
+# Last modified: 2025-04-25T01:07:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13912,8 +13912,6 @@
 +.allegrolokalnie.pl-oferta32242.top
 +.allegrolokalnie.pl-oferta3339534.shop
 +.allegrolokalnie.pl-oferta3658971.shop
-+.allegrolokalnie.pl-oferta3687132.cfd
-+.allegrolokalnie.pl-oferta3687132.sbs
 +.allegrolokalnie.pl-oferta3767447.shop
 +.allegrolokalnie.pl-oferta4059941.shop
 +.allegrolokalnie.pl-oferta4146705.sbs
@@ -18289,7 +18287,6 @@
 +.arputharyesutv.in
 +.arquivehacks.ddns.net
 +.arquivo.dynns.com
-+.arragebogland.com
 +.arraiaame.sslblindado.com
 +.arrangeddates.com
 +.arrangementsfilter.com
@@ -51522,7 +51519,6 @@
 +.evrimail.officialemail.top
 +.evrimail.officialemailiic.xin
 +.evrimail.officialemailiil.xin
-+.evrimail.officialemailiis.xin
 +.evrimail.officialemailiix.xin
 +.evrimail.officialemailov.xin
 +.evrimail.officialemailua.xin
@@ -52210,7 +52206,6 @@
 +.ezpass.com-tollbillraix.world
 +.ezpass.com-tollbillrenb.world
 +.ezpass.com-tollbillreng.world
-+.ezpass.com-tollbillrenz.world
 +.ezpass.com-ukj.win
 +.ezpass.com-uzb.win
 +.ezpass.com-wmq.win
@@ -52236,7 +52231,6 @@
 +.ezpassjq.win
 +.ezpassmn.com-tollbillawr.world
 +.ezpassmn.com-tollbillawt.world
-+.ezpassnh.com-tollbillnhyd.world
 +.ezpassnh.com-tollbillnhyg.world
 +.ezpassni.win
 +.ezpasspy.win
@@ -79011,7 +79005,6 @@
 +.lnstagram-bluetickvery.epizy.com
 +.lnstagram-centre.rf.gd
 +.lnstagram-copryright.epizy.com
-+.lnstagram-copyight.cf
 +.lnstagram-copyright-654565.rf.gd
 +.lnstagram-copyright-6545659567.rf.gd
 +.lnstagram-copyright-contact.rf.gd
@@ -93625,7 +93618,6 @@
 +.oaraiwephoursou.net
 +.oardaptaunga.net
 +.oardilin.com
-+.oaredwraith.com
 +.oarsparttimeparent.com
 +.oarswithdraw.com
 +.oartauksak.net
@@ -96052,7 +96044,6 @@
 +.orders-processed.com
 +.orderservice.net
 +.ordersildenafil.com
-+.orderstee.com
 +.ordersyntheticviagra.ru
 +.orderviagradsb.com
 +.orderworld.vn
