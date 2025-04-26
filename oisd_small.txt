@@ -1,9 +1,9 @@
-# Version: 202504261209
+# Version: 202504261309
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44807
-# Last modified: 2025-04-26T12:09:53+0000
+# Entries: 44797
+# Last modified: 2025-04-26T13:09:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1785,7 +1785,6 @@
 +.a49ebd.xyz
 +.a4f074a2f8.com
 +.a55a75a9fc.2bfb6da60b.com
-+.a5b80ef67b.com
 +.a5bdd2e40a.5e782aa4c4.com
 +.a5d2d040.xyz
 +.a5g.oves.biz
@@ -2467,7 +2466,6 @@
 +.ad.kisscartoon.nz
 +.ad.kisscartoon.sh
 +.ad.kisscartoon.su
-+.ad.kisstvshow.es
 +.ad.kisstvshow.ru
 +.ad.l2b.co.za
 +.ad.land.to
@@ -6326,7 +6324,6 @@
 +.arioiundated.com
 +.ariosigruis.shop
 +.ariotgribble.com
-+.arisingwinze.com
 +.aristianewr.club
 +.arithmeticrobust.com
 +.arithpouted.com
@@ -7688,7 +7685,6 @@
 +.bc.nhk.jp
 +.bc0ca74b.live
 +.bc13945167.9cf57a043f.com
-+.bc48fa9adc.com
 +.bc6dc48b743dc5d01.clicknplay.to
 +.bca10c62ca.com
 +.bcaakxxuf.com
@@ -17994,7 +17990,6 @@
 +.florinsqrs.top
 +.floroonwhun.com
 +.flossdiversebates.com
-+.flossedmoiled.com
 +.flounderpillowspooky.com
 +.flourishinghardwareinhibit.com
 +.flousecuprate.top
@@ -21837,7 +21832,6 @@
 +.industrybrains.com
 +.inedibleendless.com
 +.ineffectivenaive.com
-+.ineptsaw.com
 +.inestimableloiteringextortion.com
 +.inestimablereddencloset.com
 +.inetlog.ru
@@ -26905,7 +26899,6 @@
 +.mrrvmp.com
 +.mrskincash.com
 +.mrtnsvr.com
-+.mrvio.com
 +.mrybahnw.com
 +.mryzroahta.com
 +.ms-trackingapi.phenompeople.com
@@ -29501,7 +29494,6 @@
 +.ozxdmyluco.com
 +.ozxojpgmezzy.com
 +.ozykeor.icu
-+.ozznarazdtz.com
 +.p-analytics.life
 +.p-behacdn.ksmobile.net
 +.p-events.ivideosmart.com
@@ -33455,7 +33447,6 @@
 +.riddleloud.com
 +.ridiculousegoismaspirin.com
 +.ridikoptil.net
-+.ridingdisguisessuffix.com
 +.ridleward.info
 +.ridmilestone.com
 +.ridrahdari.shop
@@ -43437,7 +43428,6 @@
 +.xctoquhnalqgn.vip
 +.xcuffrzha.com
 +.xdfrdcuiug.com
-+.xdgelyt.com
 +.xdisplay.site
 +.xdmanage.com
 +.xdowl0adxd0wnloadx.com
