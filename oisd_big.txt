@@ -1,9 +1,9 @@
-# Version: 202504301810
+# Version: 202504301911
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180467
-# Last modified: 2025-04-30T18:10:40+0000
+# Entries: 180473
+# Last modified: 2025-04-30T19:11:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19375,6 +19375,7 @@
 +.appsshopify.fr
 +.appsto30.beget.tech
 +.appstorages.com
++.appstore-ap.ple-id-092384.com
 +.appstore.cdn.pandora.xiaomi.com
 +.appstore.pandora.xiaomi.com
 +.appstore.ptmi.gitv.tv
@@ -60941,6 +60942,7 @@
 +.exodusweb3wollet.w3spaces.com
 +.exoflux.online
 +.exofrwe.com
++.exogenous-local-main-id29000297851.vercel.app
 +.exogripper.com
 +.exoh.cn
 +.exohub.net
@@ -64375,6 +64377,7 @@
 +.findsweetladies.com
 +.findtaxreliefaid.com
 +.findthatpic.com
++.findthe-way.info
 +.findthesite.com
 +.findthewebsiteyouneed.com
 +.findthorman.shop
@@ -109708,8 +109711,10 @@
 +.nexafortum.com
 +.nexafroside.com
 +.nexage.com
++.nexageotron.com
 +.nexalight.site
 +.nexalincremento.net
++.nexapromix.com
 +.nexarise.website
 +.nexashift.site
 +.nexbit-accorda.net
@@ -121301,6 +121306,7 @@
 +.pl-32634.cfd
 +.pl-3292.cfd
 +.pl-33222.cyou
++.pl-33222.icu
 +.pl-33222.sbs
 +.pl-354544.icu
 +.pl-4281.cfd
