@@ -1,9 +1,9 @@
-# Version: 202504300308
+# Version: 202504300408
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 179599
-# Last modified: 2025-04-30T03:08:33+0000
+# Entries: 179600
+# Last modified: 2025-04-30T04:08:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -103750,6 +103750,7 @@
 +.modgameviet.com
 +.modialrelay.fr
 +.modification-prime.fr
++.modificationdesignate.com
 +.modificationdispatch.com
 +.modificationsdesappels.weebly.com
 +.modified-begun.gl.at.ply.gg
