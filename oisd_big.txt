@@ -1,9 +1,9 @@
-# Version: 202504301911
+# Version: 202504302110
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180473
-# Last modified: 2025-04-30T19:11:21+0000
+# Entries: 180527
+# Last modified: 2025-04-30T21:10:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7898,6 +7898,7 @@
 +.action-required-verify.github.io
 +.action-requise.fr
 +.action-safe-data-detected.top
++.action-safe-trusted-issue.top
 +.action.adoffice.11st.co.kr
 +.action.pkulink.com
 +.actionads.go2cloud.org
@@ -13419,6 +13420,7 @@
 +.aiai-talk.com
 +.aiaitalk.com
 +.aialogisticsltd.com
++.aiarbitrageai.com
 +.aiassetadvisors.com
 +.aiatt.meelou.top
 +.aiauditors.org
@@ -14768,6 +14770,7 @@
 +.allegrolokalnie.182.rest
 +.allegrolokalnie.1829412.shop
 +.allegrolokalnie.189723520-vsa87a-1398124.shop
++.allegrolokalnie.19230539.xyz
 +.allegrolokalnie.20646390.shop
 +.allegrolokalnie.2841-94219-48124.shop
 +.allegrolokalnie.3758392.com
@@ -14874,6 +14877,7 @@
 +.allegrolokalnie.id8764148921.shop
 +.allegrolokalnie.id8791244.shop
 +.allegrolokalnie.id87941240.shop
++.allegrolokalnie.id910322.icu
 +.allegrolokalnie.id948.pl
 +.allegrolokalnie.id9582.pl
 +.allegrolokalnie.id978.pl
@@ -14909,6 +14913,7 @@
 +.allegrolokalnie.listing-98215.rest
 +.allegrolokalnie.listing-98410.shop
 +.allegrolokalnie.listing77.shop
++.allegrolokalnie.o-961126y-356.xyz
 +.allegrolokalnie.oferta-4181461.com
 +.allegrolokalnie.oferta-8593402.icu
 +.allegrolokalnie.oferta-prywatna-24h.pl
@@ -14962,6 +14967,7 @@
 +.allegrolokalnie.pl-23432534.shop
 +.allegrolokalnie.pl-238.cfd
 +.allegrolokalnie.pl-248194.shop
++.allegrolokalnie.pl-279104.icu
 +.allegrolokalnie.pl-2841.cfd
 +.allegrolokalnie.pl-2929.shop
 +.allegrolokalnie.pl-31289.cfd
@@ -18546,6 +18552,7 @@
 +.apktablets.com
 +.apkusa.com
 +.apkzzz.com
++.apl-garden.xyz
 +.apl.headlines.pw
 +.aplaneparts.com
 +.aple.grapur.se
@@ -26211,6 +26218,7 @@
 +.beaconautoelectric.com
 +.beaconcdn.qq.com
 +.beaconebell.weebly.com
++.beaconfyldra.com
 +.beaconin2.notinote.me
 +.beaconplanning.net
 +.beacons.digital.disneyadvertising.com
@@ -29174,6 +29182,7 @@
 +.blubroid.de
 +.bludgeentraps.com
 +.bludomain7.net
++.blue-altflow.net
 +.blue-could.com
 +.blue-elefant.com
 +.blue-export.shop
@@ -33013,6 +33022,7 @@
 +.bytesbazar.com
 +.bytesdictatescoop.com
 +.byteveil.online
++.bytevoramax30.net
 +.bythewoy.fr
 +.bytlo.com
 +.bytmfj.xyz
@@ -36709,6 +36719,7 @@
 +.chaingptweb3.org
 +.chainlink.tech
 +.chainlinksmartcontract.com
++.chainlinkvisionex.com
 +.chainsforchange.com
 +.chainsprotocol.pages.dev
 +.chaintimor.pro
@@ -45597,6 +45608,7 @@
 +.culturaltracking.ru
 +.culturasaudavel.com.br
 +.culture-collect.gl.at.ply.gg
++.culture-decentrix.net
 +.cultureandnews.com
 +.culturedcamera.com
 +.culturedfeather.com
@@ -58949,6 +58961,7 @@
 +.envoi-mondiairelay.com
 +.envoi-mondialrelay.fr
 +.envoimondial.com
++.envoxbit-app.net
 +.envoystormy.com
 +.envyera.online
 +.enwhehypop.pro
@@ -59855,6 +59868,7 @@
 +.eth-electrum.com
 +.eth-x91831-exodus.firebaseapp.com
 +.eth-x91831-exodus.web.app
++.eth50olux.com
 +.ethaddress.neocities.org
 +.ethaistoothi.com
 +.ethan.wang
@@ -59892,6 +59906,7 @@
 +.etherealspire.online
 +.etherealstorm.site
 +.etherealthunderflare.pro
++.etherealux-ledger.com
 +.etheream.com
 +.ethereum-cashcard.com
 +.ethereum-code.com
@@ -59956,6 +59971,7 @@
 +.ethnogsuints.click
 +.ethnos.org.br
 +.etholux90ai.com
++.etholuxai.com
 +.ethoshospital.com
 +.ethpolice.com
 +.ethrdelta.github.io
@@ -60116,7 +60132,6 @@
 +.eupornstar.info
 +.euprates.com
 +.eur-agriculture.gl.at.ply.gg
-+.eur.stanleys1913.com
 +.eur78ef90iony3ui94h3r7689uioj3bty37849ruijngybuiokmuyg33.pages.dev
 +.eura-cell.com
 +.eurastratse.live
@@ -62510,6 +62525,7 @@
 +.fantazior-nazivela.com
 +.fantecio.com
 +.fanto--piobio.codeanyapp.com
++.fantomsombrix.net
 +.fanxmfllqbyoy.top
 +.fanyi100.com.cn
 +.fanyiegg.youdao.com
@@ -65797,6 +65813,7 @@
 +.forestbooks.cn
 +.forestchime.shop
 +.forestclrinls.pro
++.forestcoinora.net
 +.forestcountymunnar.com
 +.foresthillpta.com
 +.forestwinteres.com
@@ -67715,6 +67732,7 @@
 +.furykms.com
 +.furyprosecutionkitchen.com
 +.furzetshi.com
++.fusao-ingressos.com
 +.fuse-cloud.com
 +.fuse.forbes.com
 +.fuseblaze.com
@@ -68584,6 +68602,7 @@
 +.gammamkt.com
 +.gammaplatform.com
 +.gammassp.com
++.gammatrendex.com
 +.gammi-ltd.ru
 +.gamocorp.com
 +.gamojinsegesegeas.com
@@ -69492,6 +69511,7 @@
 +.gentlledream.net
 +.gentllitho.pro
 +.gentor.django.su
++.gentoriozappai.com
 +.genussfasten.de
 +.genxphones.com
 +.genxsoftware.com
@@ -70837,6 +70857,7 @@
 +.glittercases.net
 +.glitteringbrook.com
 +.glitteringunavoidable.com
++.glitterixcoin.com
 +.glitterwisp.pro
 +.glitterworldcorporationltd.com
 +.glivogluksaug.com
@@ -71034,6 +71055,7 @@
 +.glow-deeply-divan.glitch.me
 +.glow8.help
 +.glowcoins.com
++.glowdecentrix.com
 +.glowdot.com
 +.glowedhyalins.com
 +.glowfusion.pro
@@ -72424,6 +72446,7 @@
 +.gpstrader.co
 +.gpt-500-app.com
 +.gpt-90-lisproai.com
++.gpt-coinora-pulses.net
 +.gpt-cointra-labs.net
 +.gpt-nexo-tradenex.com
 +.gpt-pro-lispro.com
@@ -72440,9 +72463,11 @@
 +.gpt9000adipexapp.com
 +.gpt90eurax.com
 +.gptadipex9000.com
++.gptaetherflow100.com
 +.gptalentfinder.com
 +.gptaloraai.com
 +.gptamlwerif.com
++.gptappifexai.com
 +.gptcoinovaaiapp.com
 +.gptcryptifyflujos.com
 +.gptdefinity20.net
@@ -72460,6 +72485,7 @@
 +.gptsegalinfosfera.net
 +.gptsenalestradis.net
 +.gptsociety.com
++.gptsolarexcoin.com
 +.gptx9eurax.com
 +.gptx9eurax.net
 +.gpufps.com
@@ -77632,6 +77658,7 @@
 +.home-velodrmfinance-web.webflow.io
 +.home-warranty.live
 +.home-word-106558.weeblysite.com
++.home.adelbertos.com
 +.home.auwerssos.com
 +.home.beyondsurveys.com
 +.home.bicofrnis.com
@@ -78511,6 +78538,7 @@
 +.hr-systemmet.dk
 +.hr.adocean.pl
 +.hr.hit.gemius.pl
++.hr2mpq.lat
 +.hr3aqz.gay.tathamservice.com
 +.hr41.cn
 +.hr44.com
@@ -81588,6 +81616,8 @@
 +.inauginter.pro
 +.inavco.com
 +.inavpoust.top
++.inaxtorium.com
++.inaxtorium.org
 +.inbbredraxing.com
 +.inbeksium-peulreokseu.net
 +.inbeksiumpeulreokseu.net
@@ -82977,6 +83007,7 @@
 +.instant100avelox.com
 +.instant11sanorex.com
 +.instant20lasix.com
++.instant30chenix.net
 +.instant40chenix.com
 +.instant4acormax.net
 +.instant9000renova.net
@@ -83570,6 +83601,7 @@
 +.investoverseasinfo.info
 +.investradar-mx.click
 +.investtogopl.info
++.investtolvix.com
 +.inveunturepog.firebaseapp.com
 +.inveunturepog.web.app
 +.invexium-luxe.net
@@ -93288,6 +93320,7 @@
 +.librero.it
 +.libring.com
 +.libro-solethium.com
++.libroetherifable.net
 +.libs.tvmao.cn
 +.libsjamdani.shop
 +.libtechresource.com
@@ -96836,6 +96869,7 @@
 +.lumevori.net
 +.lumexarv.com
 +.lumfokim.shop
++.lumi-accord.net
 +.lumibaer.de
 +.lumichain.pro
 +.lumichilltoken.com
@@ -103054,6 +103088,7 @@
 +.mindseti.com
 +.mindslaver.com
 +.mindsmug.com
++.mindspan.site
 +.mindsparkdigital.com
 +.mindspeak.co
 +.mindvim.com
@@ -109249,6 +109284,7 @@
 +.newbalanceretail.fr
 +.newbalancesoldes.fr
 +.newbalancez.com
++.newbaltic3.vicchk.com
 +.newbeach.fr
 +.newbellluxury.com
 +.newberryfencingun.firebaseapp.com
@@ -111313,6 +111349,7 @@
 +.novaglow.icu
 +.novagroupfrance.fr
 +.novahacks.com
++.novainterpretz.com
 +.novajackpotenligne.fr
 +.novajolt.pro
 +.novalouv.com
@@ -111402,6 +111439,7 @@
 +.now-leak-data-realtime.top
 +.now-service-blue-verified-badge-from.vercel.app
 +.now-service-detected-improper.top
++.now-software-high-data.top
 +.now-start-ledgercom-cdn.webflow.io
 +.now.ge
 +.now.laurita.org
@@ -113894,6 +113932,7 @@
 +.olx.pl-4299.cfd
 +.olx.pl-6493.cfd
 +.olx.pl-cnt8g2ny9353noycg35.icu
++.olx.pl-oferta57856785.shop
 +.olx.pl-oferta8349.cfd
 +.olx.pl05692oferta-iphone.cfd
 +.olx.pl21407oferta-iphone.cfd
@@ -119296,6 +119335,7 @@
 +.pecchavert.pro
 +.peccheptaf.pro
 +.pechkin.in.ua
++.pechyonaya-gorchitsa.com
 +.pecialukizeias.info
 +.pecifyspacing.com
 +.peck4grakjq3.live
@@ -121401,6 +121441,7 @@
 +.pl-kategorie-pozostale-01083.sbs
 +.pl-kategorie-pozostale-8713.cfd
 +.pl-kategorie-promowane-34534.icu
++.pl-kategorie5172573.icu
 +.pl-n7x25lgc8vram1oz65qbe4.com
 +.pl-netflix2083.cfolks.pl
 +.pl-of.com
@@ -121499,6 +121540,7 @@
 +.pl-oferta7069474.shop
 +.pl-oferta7133118.icu
 +.pl-oferta7412457.icu
++.pl-oferta7444108.com
 +.pl-oferta746478.com
 +.pl-oferta746598.com
 +.pl-oferta7491.cfd
@@ -121522,6 +121564,7 @@
 +.pl-oferta8429737.icu
 +.pl-oferta8459680.icu
 +.pl-oferta847532.com
++.pl-oferta8520522.icu
 +.pl-oferta8544510.shop
 +.pl-oferta863549.com
 +.pl-oferta8648154.shop
@@ -125506,6 +125549,7 @@
 +.protorseo.pro
 +.protothema.live
 +.prototypeboats.com
++.protradecapeapp.com
 +.protraffic.com
 +.protrafv2.com
 +.protrckit.com
@@ -140671,6 +140715,7 @@
 +.sell.hot-complete.shop
 +.sell1.etlong.com
 +.sella.fargrafica.it
++.sellbestproducts.com
 +.sellcentralamazonsupport-de.publittec.com.br
 +.seller-bali.gl.at.ply.gg
 +.sellerad.interpark.com
@@ -143503,6 +143548,7 @@
 +.sigma-commerce.com
 +.sigma-fantom.net
 +.sigma-seicho.com
++.sigma-valuify.com
 +.sigmaad.com
 +.sigmaboi22-33711.portmap.host
 +.sigmaboy12.duckdns.org
@@ -148800,6 +148846,7 @@
 +.stanleycupspolska.shop
 +.stanleyfrance.fr
 +.stanleypark125.ca
++.stanleys1913.com
 +.stanngangr.pro
 +.stannincas.pro
 +.stansarecord.com
@@ -150795,6 +150842,7 @@
 +.store-steampowered.store
 +.store-trust.gl.at.ply.gg
 +.store-ugg.fr
++.store.communitydesignwork.com
 +.store.communitydevbuild.com
 +.store.communityshopgame.com
 +.store.communityshopsource.com
@@ -153144,6 +153192,7 @@
 +.switch.pt
 +.switch1266.fun
 +.switch2gtv.com
++.switch41hiprex.net
 +.switchadhub.com
 +.switchads.com
 +.switchamrix20360.com
@@ -161397,6 +161446,7 @@
 +.trezion-core-gpt.net
 +.trezioriewallet.webflow.io
 +.treziorwalletus.webflow.io
++.treziron-gear-gpt.com
 +.trezocdntrezorlogin.webflow.io
 +.trezoerrwalletth.webflow.io
 +.trezoherdware.webflow.io
@@ -167153,6 +167203,7 @@
 +.ventrequmus.com
 +.venturagrp.net
 +.venture-morvexis.net
++.venture-zandoryx.com
 +.venturead.com
 +.ventureclamourtotally.com
 +.venturehack.org
@@ -167609,6 +167660,7 @@
 +.vextora.top
 +.vextron.top
 +.veyltron-pulse-app.com
++.veyltron-pulse-app.net
 +.veyso.com
 +.veytjpxr.elementor.cloud
 +.vezetmne.ru
@@ -168862,6 +168914,7 @@
 +.vividechochers.pro
 +.vividenci.com
 +.vividexpress.pro
++.vividfuture.info
 +.vividharmony.pro
 +.vividjourney.pro
 +.vividmeadow.com
@@ -179349,6 +179402,7 @@
 +.zeotrergop.pro
 +.zep3hra.top
 +.zepe.io
++.zephiron-glow-app.net
 +.zephyr.b-cdn.net
 +.zephyr.info
 +.zephyrbop.pro
