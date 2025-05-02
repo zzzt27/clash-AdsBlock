@@ -1,9 +1,9 @@
-# Version: 202505012309
+# Version: 202505020008
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44664
-# Last modified: 2025-05-01T23:09:42+0000
+# Entries: 44658
+# Last modified: 2025-05-02T00:08:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6194,7 +6194,6 @@
 +.appsdt.com
 +.appserver-ap.com
 +.appsha1.cointraffic.io
-+.appspeed.monster
 +.appsrv.display.io
 +.appstorages.com
 +.appsyoga.com
@@ -8820,7 +8819,6 @@
 +.bpoiscqmwxej.buzz
 +.bpt.webedia-group.com
 +.bptnzp.top
-+.bptracking.com
 +.bpxbzps.xyz
 +.bpxxgkoj.icu
 +.bqnxff.xyz
@@ -10495,7 +10493,6 @@
 +.choachim.com
 +.choakekeltap.net
 +.choamikr.com
-+.choapeek.com
 +.choargobsadsa.net
 +.choathaugla.net
 +.chockspunts.shop
@@ -27434,7 +27431,6 @@
 +.neocounter.neoworx-blog-tools.net
 +.neoffic.com
 +.neoftheownouncillo.info
-+.neogallery.xyz
 +.neousaunce.com
 +.nepitasianic.shop
 +.nepoamoo.com
@@ -29363,7 +29359,6 @@
 +.ovwgcyahfot.com
 +.ovyyszfod.fun
 +.ow5a.net
-+.owbroinothiermol.xyz
 +.owen.prolitteris.ch
 +.owenexposure.com
 +.oweriok.top
@@ -32362,7 +32357,6 @@
 +.qwerfdx.com
 +.qwerioy.top
 +.qwfh39851jtfvkurf21hf.com
-+.qwiarjayuffn.xyz
 +.qwikln.com
 +.qwivhkmuksjodtt.com
 +.qwjxcvdzrafum.club
