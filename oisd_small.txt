@@ -1,9 +1,9 @@
-# Version: 202505021811
+# Version: 202505022010
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44401
-# Last modified: 2025-05-02T18:11:17+0000
+# Entries: 44391
+# Last modified: 2025-05-02T20:10:30+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6271,7 +6271,6 @@
 +.arabs.xn--ngbs7dg.net
 +.arabsewing.com
 +.arabss.arabxn.org
-+.aracarimucago.com
 +.arakcdn.com
 +.araklet.mediagene.co.jp
 +.aralego.com
@@ -10542,7 +10541,6 @@
 +.cineface.com
 +.cinema1266.fun
 +.cinemabio.com
-+.cinemagarbagegrain.com
 +.cinepro.com
 +.cinuraarrives.com
 +.cipledecline.buzz
@@ -14998,7 +14996,6 @@
 +.doblonsurare.shop
 +.doc830ytc7pyp.cloudfront.net
 +.dochmiiresidue.com
-+.dockdeity.com
 +.dockdigestion.com
 +.dockoolser.net
 +.docomo-analytics.com
@@ -18079,7 +18076,6 @@
 +.forflygonom.com
 +.forfrogadiertor.com
 +.forgivenessdaresuck.com
-+.forhavingartistic.info
 +.forlumineoner.com
 +.formalhood.com
 +.formalitydetached.com
@@ -21361,7 +21357,6 @@
 +.igainareputaon.info
 +.igbfwa.com
 +.iggbky.xyz
-+.ightsapph.info
 +.iglegoarous.net
 +.igloogloub.net
 +.iglooprin.com
@@ -23376,7 +23371,6 @@
 +.korbthejethii.org
 +.korexo.com
 +.korgiejoinyou.com
-+.koscheilushed.shop
 +.kosininia.com
 +.kossog.xyz
 +.kostprice.com
@@ -25831,7 +25825,6 @@
 +.megastats.com
 +.megawerbung.de
 +.megdexchange.com
-+.meghllzs.com
 +.megmhokluck.shop
 +.megroarsoy.net
 +.mehnthakutyfore.org
@@ -28769,7 +28762,6 @@
 +.opienetwork.com
 +.opkmio.xyz
 +.opleshouldthink.com
-+.oplpectation.xyz
 +.oply.hearstapps.com
 +.opmxizgcacc.com
 +.opnachhihhp.com
@@ -32205,7 +32197,6 @@
 +.qzaoltruzfus.com
 +.qzetnversitym.com
 +.qzorwe.xyz
-+.qzybrmzevbro.top
 +.qzyxavtiltko.com
 +.qzzzzzzzzzqq.com
 +.r-ad.linkshare.jp
@@ -34906,7 +34897,6 @@
 +.servedby.walaplusadserver.com
 +.servedbyadbutler.com
 +.servedbysmart.com
-+.servehub.info
 +.server.ad.logic-prod.viasat.io
 +.server.ad.logic.viasat.io
 +.server.megabrain.co
