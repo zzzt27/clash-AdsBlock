@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 22:05 UTC
-# Version: 2025.0502.2205.56
+# Last modified: 03 May 2025 15:02 UTC
+# Version: 2025.0503.1502.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1445
+# Number of entries: 1443
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -500,6 +500,7 @@ DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
+DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -622,7 +623,6 @@ DOMAIN-SUFFIX,dns.hakim.one
 DOMAIN-SUFFIX,dns.hanahira.dev
 DOMAIN-SUFFIX,adguard.haneulo.com
 DOMAIN-SUFFIX,dns.hanmey.de
-DOMAIN-SUFFIX,hanniel.tech
 DOMAIN-SUFFIX,dns.hannielzhang.com
 DOMAIN-SUFFIX,resolver-eu.haringstad.com
 DOMAIN-SUFFIX,adguard.hartley.cloud
@@ -896,7 +896,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1345,7 +1344,6 @@ DOMAIN-SUFFIX,d.toairs.com
 DOMAIN-SUFFIX,dot.tooli.ca
 DOMAIN-SUFFIX,nsc.torgues.net
 DOMAIN-SUFFIX,doh.totoro.pub
-DOMAIN-SUFFIX,dns.tracker.ink
 DOMAIN-SUFFIX,resolv1.trash.net
 DOMAIN-SUFFIX,resolv2.trash.net
 DOMAIN-SUFFIX,resolv3.trash.net
