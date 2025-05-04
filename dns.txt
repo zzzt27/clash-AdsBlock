@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 15:18 UTC
-# Version: 2025.0504.1518.50
+# Last modified: 04 May 2025 02:55 UTC
+# Version: 2025.0504.0255.16
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1442
 #
@@ -499,6 +499,7 @@ DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
+DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -729,7 +730,6 @@ DOMAIN-SUFFIX,kavkaz.monster
 DOMAIN-SUFFIX,dns.kawa.tf
 DOMAIN-SUFFIX,dns.kebree.fr
 DOMAIN-SUFFIX,dns.keke125.com
-DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
@@ -1207,6 +1207,7 @@ DOMAIN-SUFFIX,adguard.ruby.ci
 DOMAIN-SUFFIX,dns.rubyfish.cn
 DOMAIN-SUFFIX,ea-dns.rubyfish.cn
 DOMAIN-SUFFIX,uw-dns.rubyfish.cn
+DOMAIN-SUFFIX,adg.rueiliu.space
 DOMAIN-SUFFIX,rumpelsepp.org
 DOMAIN-SUFFIX,doh.runsel.id
 DOMAIN-SUFFIX,agh-yz.russel053.com
@@ -1342,7 +1343,6 @@ DOMAIN-SUFFIX,d.toairs.com
 DOMAIN-SUFFIX,dot.tooli.ca
 DOMAIN-SUFFIX,nsc.torgues.net
 DOMAIN-SUFFIX,doh.totoro.pub
-DOMAIN-SUFFIX,dns.tracker.ink
 DOMAIN-SUFFIX,resolv1.trash.net
 DOMAIN-SUFFIX,resolv2.trash.net
 DOMAIN-SUFFIX,resolv3.trash.net
