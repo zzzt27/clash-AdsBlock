@@ -1,9 +1,9 @@
-# Version: 202505041912
+# Version: 202505042011
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44341
-# Last modified: 2025-05-04T19:12:11+0000
+# Entries: 44335
+# Last modified: 2025-05-04T20:11:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6166,7 +6166,6 @@
 +.apromoweb.com
 +.apronstrongly.com
 +.apsmediaagency.com
-+.apsoacou.xyz
 +.apsrgeo.amap.com
 +.apstrfanba.com
 +.apt-ice.pro
@@ -12120,7 +12119,6 @@
 +.cropenjoymentstellar.com
 +.crophysi.ru
 +.croplake.com
-+.croqoltdp.com
 +.crossadsapi.ecomobileapp.com
 +.crosspromo.voodoo.io
 +.crosspromotion-us.avosapps.us
@@ -16563,7 +16561,6 @@
 +.ethan.wang
 +.ethecityonata.com
 +.ethelvampirecasket.com
-+.etherart.online
 +.ethereum-cashcard.com
 +.ethereum-pocket.com
 +.ethfw0370q.com
@@ -24879,7 +24876,6 @@
 +.lpuafmkidvm.com
 +.lpyyzoetztnmv.one
 +.lqbvjmkoomerm.top
-+.lqbzvmmojjkk.top
 +.lqcaznzllnrfh.com
 +.lqcngjecijy.rocks
 +.lqfctb.icu
@@ -33200,7 +33196,6 @@
 +.rmtxdn.icu
 +.rmuahxbcepu.com
 +.rmuogjdip.com
-+.rmvvawqleqrov.top
 +.rmyfiwopdzf.com
 +.rmygfurfa.com
 +.rmzsglng.com
@@ -43916,7 +43911,6 @@
 +.yt-adp.ws.126.net
 +.ytdut.online
 +.yterxv.com
-+.ytgngedq.xyz
 +.ytihp.com
 +.ytqeavc.icu
 +.ytransionscorma.com
