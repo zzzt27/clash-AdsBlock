@@ -1,9 +1,9 @@
-# Version: 202505040009
+# Version: 202505040209
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44404
-# Last modified: 2025-05-04T00:09:44+0000
+# Entries: 44392
+# Last modified: 2025-05-04T02:09:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -673,7 +673,6 @@
 +.303marketplace.com
 +.305421ba72.com
 +.305791ddd9.ea1e71ef6c.com
-+.3071caa5ff.com
 +.307ea19306.com
 +.307i6i7do.de
 +.3082420b7f.eeb201e6da.com
@@ -4106,7 +4105,6 @@
 +.adxcorp.kr
 +.adxfactory.com
 +.adxfire.in
-+.adxhand.name
 +.adxhand1.name
 +.adxion.com
 +.adxlog-adnet.vivo.com.cn
@@ -10297,7 +10295,6 @@
 +.cheatinghans.com
 +.checbox.cc
 +.check-now.online
-+.check-tl-ver-12-3.com
 +.check-tl-ver-12-8.top
 +.check-tl-ver-154-1.com
 +.check-tl-ver-17-8.com
@@ -14072,7 +14069,6 @@
 +.deafmotionrick.com
 +.dealcurrent.com
 +.dealdotcom.com
-+.dealgodsafe.live
 +.dealsfor.life
 +.deapi.sooplive.co.kr
 +.dearesthydrogen.com
@@ -25727,7 +25723,6 @@
 +.mediation.mwmadnetworks.com
 +.mediation.unity3d.com
 +.mediative.ca
-+.mediative.com
 +.mediator.imgsmail.ru
 +.mediatraffic.com.ua
 +.mediatraks.com
@@ -25813,7 +25808,6 @@
 +.mentiopportal.org
 +.mentmastsa.org
 +.mentoremotionapril.com
-+.mentrandi.com
 +.mentrandingswo.com
 +.mentxviewsinte.info
 +.mentxviewsinterf.info
@@ -27339,7 +27333,6 @@
 +.news-back.org
 +.news-bbipasu.today
 +.news-bit.com
-+.news-buzz.cc
 +.news-galuzo.cc
 +.news-getogo.com
 +.news-headlines.co
@@ -27854,7 +27847,6 @@
 +.nugh2om.txxx.com
 +.nui.media
 +.nuiknnf.icu
-+.nuisancehi.com
 +.nukeluck.net
 +.nuleedsa.net
 +.nulez.xyz
@@ -27897,7 +27889,6 @@
 +.nutritionrantlullaby.com
 +.nutritionshooterinstructor.com
 +.nutritious-month.com
-+.nutshellwhipunderstood.com
 +.nutsinmid.live
 +.nuttyrope.pro
 +.nuyqsshmxgukny.com
@@ -28651,7 +28642,6 @@
 +.ooloptou.net
 +.oolsutsougri.net
 +.oomaugnaps.net
-+.oomsoapt.net
 +.oonsouque.com
 +.oopatet.com
 +.oophaiwhemt.net
@@ -38147,7 +38137,6 @@
 +.teamsmarched.com
 +.teamsoutspoken.com
 +.teamsperilous.com
-+.teanlaxzia.cyou
 +.teapotsobbing.com
 +.tearerernest.com
 +.tearfulawee.top
@@ -43086,7 +43075,6 @@
 +.xhutheasb.com
 +.xhwwcif.com
 +.xhydh39.xyz
-+.xhzz3moj1dsd.com
 +.xianliao.voto
 +.xiaopinwo.com
 +.xiaoshuotxt668.org
