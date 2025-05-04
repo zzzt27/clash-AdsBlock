@@ -1,9 +1,9 @@
-# Version: 202505040454
+# Version: 202505040609
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44401
-# Last modified: 2025-05-04T04:54:00+0000
+# Entries: 44396
+# Last modified: 2025-05-04T06:09:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9871,7 +9871,6 @@
 +.cdn-server.cc
 +.cdn-server.top
 +.cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com
-+.cdn-v3.conductrics.net
 +.cdn.007moms.com
 +.cdn.1vag.com
 +.cdn.ad-platform.jmty.jp
@@ -10293,7 +10292,6 @@
 +.cheatinghans.com
 +.checbox.cc
 +.check-now.online
-+.check-tl-ver-12-8.top
 +.check-tl-ver-154-1.com
 +.check-tl-ver-17-8.com
 +.check-tl-ver-294-2.com
@@ -30794,7 +30792,6 @@
 +.powerlinks.com
 +.powerplentyseaman.com
 +.powferads.com
-+.poxypicine.com
 +.poyang.com
 +.pp-lfekpkr.buzz
 +.ppaymnknqzvqw.tech
@@ -34305,7 +34302,6 @@
 +.santuao.xyz
 +.sapfailedfelon.com
 +.sapi.tremendous.com
-+.saplvvogahhc.xyz
 +.sapphire-api.target.com
 +.sapsobughoatch.net
 +.saptiledispatch.com
@@ -39579,7 +39575,6 @@
 +.tracking.hyros.com
 +.tracking.i2w.io
 +.tracking.immobilienscout24.de
-+.tracking.injoyalot.com
 +.tracking.intentsify.io
 +.tracking.internetstores.de
 +.tracking.iwhop.cn
