@@ -1,9 +1,9 @@
-# Version: 202505051210
+# Version: 202505051310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44378
-# Last modified: 2025-05-05T12:10:34+0000
+# Entries: 44377
+# Last modified: 2025-05-05T13:10:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -32243,7 +32243,6 @@
 +.rake.11st.co.kr
 +.rake.tmap.co.kr
 +.rakiblinger.com
-+.rallydisprove.com
 +.ralodithas.com
 +.ralphscrupulouscard.com
 +.ralt.site
