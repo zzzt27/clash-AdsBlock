@@ -1,9 +1,9 @@
-# Version: 202505051509
+# Version: 202505051610
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 178523
-# Last modified: 2025-05-05T15:09:47+0000
+# Entries: 178513
+# Last modified: 2025-05-05T16:10:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14935,6 +14935,7 @@
 +.allegrolokalnie.oferta463729.com
 +.allegrolokalnie.oferta52319.icu
 +.allegrolokalnie.oferta6806305.icu
++.allegrolokalnie.oferta774837.shop
 +.allegrolokalnie.oferta788758394.shop
 +.allegrolokalnie.oferta8362936.com
 +.allegrolokalnie.oferta857124.shop
@@ -30786,6 +30787,7 @@
 +.briesafed.com
 +.brifiols.112.2o7.net
 +.brigadedelegatesandbox.com
++.bright-concepts.info
 +.bright-pixel-studio.com
 +.bright-sdk.com
 +.bright-stack.com
@@ -47678,7 +47680,6 @@
 +.dailyblogzz.com
 +.dailybuild.mozillaupdates.com
 +.dailyburst.icu
-+.dailybuy365.com
 +.dailyc24.com
 +.dailycaloriecounter.co.cc
 +.dailychronicles2.xyz
@@ -49836,7 +49837,6 @@
 +.deqik.com
 +.dequinceallen.com
 +.deqwas.net
-+.deracieqwg.digital
 +.derangedadage91wis.files.wordpress.com
 +.derateddeerdog.click
 +.derateissuant.top
@@ -50157,6 +50157,7 @@
 +.dev-prime.fr
 +.dev-site.ovh
 +.dev-stanislava.pantheonsite.io
++.dev-urzqdskarbovvy.pantheonsite.io
 +.dev.a-t-martialarts.com
 +.dev.adforum.com
 +.dev.casaderincon.com
@@ -51212,6 +51213,7 @@
 +.directnavbt.com
 +.directoffers.go2cloud.org
 +.directone.xyz
++.director-main-ads-id10058322495.vercel.app
 +.director-safari.gl.at.ply.gg
 +.directorliabilityinsurance.com
 +.directory-sperm.gl.at.ply.gg
@@ -52611,7 +52613,6 @@
 +.docnanb.com
 +.docomo-analytics.com
 +.docooltruckgoatpurchesok.live
-+.docooltruckgoatpurchok.live
 +.docooltruckgoatvcsok.live
 +.docrelogin.weebly.com
 +.docs----learn---wallet----ledger.webflow.io
@@ -55219,7 +55220,6 @@
 +.e-zpass.com-creditzr.icu
 +.e-zpass.com-creditzs.icu
 +.e-zpass.com-etcbioer.cc
-+.e-zpass.com-etcea.win
 +.e-zpass.com-etcee.win
 +.e-zpass.com-etcef.win
 +.e-zpass.com-etceg.win
@@ -55365,7 +55365,6 @@
 +.e-zpass.com-usageve.icu
 +.e-zpass.com-usagevt.icu
 +.e-zpass.com-usagevu.icu
-+.e-zpass.com-usagevz.icu
 +.e-zpass.com-xxoix.cc
 +.e-zpass.com-xxsix.cc
 +.e-zpass.com-xxuxz.vip
@@ -60304,7 +60303,6 @@
 +.exchangeclicksonline.com
 +.excitablepass.com
 +.excitead.com
-+.exciteemce.digital
 +.excitementcolossalrelax.com
 +.excitementoppressive.com
 +.exciting-date-haven.com
@@ -71573,7 +71571,6 @@
 +.gotosgen.firebaseapp.com
 +.gotosgen.web.app
 +.gotositenow.com
-+.gototravelbazaar.com
 +.gotovimdetyam.ru
 +.gotowka-doreki.eu
 +.gotowkatutaj.pl
@@ -74855,7 +74852,6 @@
 +.healthateverysizeblog.org
 +.healthatlums.web.app
 +.healthbenefitsf.com
-+.healthcareclubdb.com
 +.healthcaredegreespot.com
 +.healthcarelife.info
 +.healthcaresavingspro.com
@@ -79789,7 +79785,6 @@
 +.ihighlyrecomemu.org
 +.ihirehelp.com
 +.ihkybtde.com
-+.ihltdjxcuevyzp.info
 +.iholdemanoucam.com
 +.iholdxrp.ru
 +.ihost.com.vn
@@ -81672,6 +81667,7 @@
 +.infosassurancemaladie.fr
 +.infosblogwar.duckdns.org
 +.infosclient-sfr.fr
++.infoservice.185-80-130-14.cprapid.com
 +.infosflix.blogspot.com
 +.infosgouv.fr
 +.infosgouve.fr
@@ -82903,7 +82899,6 @@
 +.invest-bridge.online
 +.invest-digest.com
 +.invest-eight.com
-+.invest-fury.online
 +.invest-pamm.ru
 +.invest-tolvix.net
 +.invest.geologyworld.sbs
@@ -85815,7 +85810,6 @@
 +.jooneetak.net
 +.joonian.net
 +.joopaish.com
-+.joorqfiyzti.com
 +.joothasofacauwu.net
 +.jootizud.net
 +.joox-affiliate.sanook.com
@@ -86333,7 +86327,6 @@
 +.jswebcollects.kugou.com
 +.jswfr.someantics.com
 +.jswjyb.com
-+.jswork.duckdns.org
 +.jsxqhr.com
 +.jsxwfb.xyz
 +.jsyefc.com
@@ -91484,7 +91477,6 @@
 +.leatherdepot.org
 +.leatherleafmarketing.com
 +.leatherqueen.shop
-+.leatherstockingofcny.com
 +.leatmansures.com
 +.leavealegacy2.com
 +.leaveoverwork.com
@@ -92036,7 +92028,6 @@
 +.lengerpanisk.top
 +.length-chapel.gl.at.ply.gg
 +.lengthjavgg124.fun
-+.lenguajeaudiovisual.net
 +.lenigenvlug.eu
 +.lenkmio.com
 +.lenmit.com
@@ -102377,7 +102368,6 @@
 +.minipaydayloan.com
 +.minishared.com
 +.minishop.in
-+.minisilkworm.pro
 +.minisite.letv.com
 +.minisite.vidown.cn
 +.minisite.wps.cn
@@ -102426,7 +102416,6 @@
 +.mintclick.xyz
 +.mintegral.com
 +.mintegral.net
-+.mintesana.com
 +.mintiia.com
 +.mintmanunmanly.com
 +.mintmetric.store
@@ -106363,7 +106352,6 @@
 +.myquiz.fr
 +.myquiz2win.de
 +.myr9q8.shet.eveshamairporttransfers.co.uk
-+.myrailbookings.com
 +.myrapidex.biz
 +.myrawenergy.com
 +.myraytech.com
@@ -120143,6 +120131,7 @@
 +.pl-oferta8949730.shop
 +.pl-oferta8997340.icu
 +.pl-oferta9018105.icu
++.pl-oferta9182068.sbs
 +.pl-oferta9270318.shop
 +.pl-oferta9327229.shop
 +.pl-oferta9341016.icu
@@ -120607,6 +120596,7 @@
 +.pldlz.com
 +.ple-emploi.fr
 +.ple-mail.weebly.com
++.pleasant-amber-sunstone.glitch.me
 +.pleasantinformation.com
 +.pleasantinstead.net
 +.pleasantmash.pro
@@ -122803,7 +122793,6 @@
 +.premiumservicios.net
 +.premiumsgift.com
 +.premiumstats.xyz
-+.premiumstore.org
 +.premiumtag.net
 +.premiumtools.org
 +.premiumtrackservices.com
@@ -127729,7 +127718,6 @@
 +.qdujwg.gv.govtax.net
 +.qdxpid-bxcy.today
 +.qdzyspjx.com
-+.qe1vkr.lat
 +.qeboceo.com
 +.qebpwkxjz.com
 +.qebuoxn.com
@@ -128333,7 +128321,6 @@
 +.quatet365.com
 +.quatetff2020.weebly.com
 +.quatrefeuillepolonaise.xyz
-+.quattrogiglipalace.com
 +.quavereverydayby.com
 +.quavonixtrader62flex.net
 +.quavonixtraderai.com
@@ -130156,6 +130143,7 @@
 +.reall-connect.info
 +.reallifecam.com
 +.reallifeforyouandme.com
++.reallifeinterview.com
 +.reallywelfarestun.com
 +.realm-foym.com
 +.realm.hearst3pcc.com
@@ -132751,7 +132739,6 @@
 +.ridewash.com
 +.ridgeedott.pro
 +.ridgewaykite.com
-+.ridgewellbank.com
 +.ridiclievi.pro
 +.ridiculousegoismaspirin.com
 +.ridikoptil.net
@@ -138763,6 +138750,7 @@
 +.securetrustar.weebly.com
 +.secureupdate.reefong.com
 +.secureupdatenmdc.weebly.com
++.secureverifcationsmetamask.com
 +.secureverifmyappid.servehttp.com
 +.securevirginiacommonwealthuniversityservice.wufoo.com
 +.securevisions-fcu.weebly.com
@@ -143395,6 +143383,7 @@
 +.slview.psne.jp
 +.slvruzx2.ac-page.com
 +.slwoeirrkrtjfg.weebly.com
++.sly-circular-carver.glitch.me
 +.slychicks.com
 +.slyrrksolcdsak.com
 +.slyzoologicalpending.com
@@ -144382,6 +144371,7 @@
 +.snowwarmfire.pro
 +.snowwindlie.pro
 +.snowwishdays.pro
++.snowy-angry-tiglon.glitch.me
 +.snowy.bellroy.com
 +.snowyridgechurch.com
 +.snp2m.poliupg.ac.id
@@ -146837,6 +146827,7 @@
 +.sryu01-meta.start.page
 +.ss-01.com
 +.ss-mndsrv.b-cdn.net
++.ss-rec-vntd.pro
 +.ss-so--iuw-allet.webflow.io
 +.ss.azuremagazine.com
 +.ss.cnczjy.com
@@ -150872,6 +150863,7 @@
 +.support-upr.fr
 +.support-us-ledger--cd-us.webflow.io
 +.support-v2.sweetwaternow.com
++.support-validations-business-with-git-3ff919-id1000193418-meta.vercel.app
 +.support-validations-business-with-git-66529b-id1000311487-meta.vercel.app
 +.support-validations-business-with-git-bcfdff-id1000945748-meta.vercel.app
 +.support-widget.userlocal.jp
@@ -151457,7 +151449,6 @@
 +.sweet.runsexyad.site
 +.sweetadventure.pro
 +.sweetcandytastesgood.pro
-+.sweetdeer.pro
 +.sweetdream.fun
 +.sweetebakeryandfood.godaddysites.com
 +.sweetgumridge.com
@@ -166828,7 +166819,6 @@
 +.viva-prime.ibpfprimedigital.com.ua
 +.viva.api.xiaoying.co
 +.viva.gr.com
-+.vivaciousgrouse.pro
 +.vivaciousvistas.pro
 +.vivaciousvortexey.pro
 +.vivaciousvortexop.pro
@@ -169488,7 +169478,6 @@
 +.webhostinguse.com
 +.webhusethost.dk
 +.webifhgfigkl.weebly.com
-+.webiklan.com
 +.webindicator.ru
 +.webinfotrlog.weebly.com
 +.webinstantku.com
@@ -171659,7 +171648,6 @@
 +.wingsaviationacademy.in
 +.wingsingreen.com
 +.wingstime.com.mx
-+.wingstoesassemble.com
 +.winguimpact.com
 +.winkeljasnederland.cc
 +.winkgrove.pro
@@ -174978,6 +174966,7 @@
 +.xperion.net
 +.xpertase1.firebaseapp.com
 +.xpertase1.web.app
++.xpertiseservices.com
 +.xpj08.oss-cn-beijing.aliyuncs.com
 +.xpjcg.oss-accelerate.aliyuncs.com
 +.xplbxx.icu
@@ -175474,6 +175463,7 @@
 +.yacht-refit.eu
 +.yachtcharterinuae.com
 +.yachtingmagazine.fr
++.yachtingtangier.com
 +.yachtsgalapagos.com
 +.yadf.hk
 +.yads.tech
