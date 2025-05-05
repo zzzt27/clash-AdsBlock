@@ -1,9 +1,9 @@
-# Version: 202505050709
+# Version: 202505050809
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 178597
-# Last modified: 2025-05-05T07:09:20+0000
+# Entries: 178613
+# Last modified: 2025-05-05T08:09:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -24504,7 +24504,6 @@
 +.bafybeigscncuojztn6n24u3lmv3lf5uc4mfdzaqoqtbtsx27dzlspdmnja.ipfs.dweb.link
 +.bafybeigtqwmymfynmyugozpkpn6ykbdljzscfqb6qz3fq2awdgxanudp3m.ipfs.dweb.link
 +.bafybeigu6ojg4bql62wjvn7gumorfpzfqw43erg55yla3t35bztr6gluga.ipfs.fleek.cool
-+.bafybeiguftutlihfhkz5og7jaoujwlluxlkukg7pkeirkvhpso7ovcxw7y.ipfs.fleek.cool
 +.bafybeiguk2tk65a5wernyfyhypbamifxh3mkezvirsffc3oteiajwwfw54.ipfs.dweb.link
 +.bafybeigwiwj44spjbfed7dmvshphdkjqnowtpxaxmqdlnq2elqzqedmdmq.ipfs.dweb.link
 +.bafybeigxo6j2qcjguovcon5c3yycehh7qxajgh6wsiih3btdomgpldkfxa.ipfs.dweb.link
@@ -28144,6 +28143,7 @@
 +.bitcoremomentumapp.net
 +.bitcrescent.pro
 +.bitcupcool.com.de
++.bitdealt.top
 +.bitdefender.top
 +.bitdragonapp.monster
 +.bitdrive.112.2o7.net
@@ -28160,6 +28160,8 @@
 +.bitgoldfinancial.com
 +.bithad.com
 +.bithocmeer.net
++.bitholdc.top
++.bitholdt.top
 +.bithow.com
 +.biticonsbank.com
 +.bitingarcticfrostfreezes.pro
@@ -28817,6 +28819,7 @@
 +.blockmarket.top
 +.blocknux.com
 +.blockpartyserver.com
++.blockruny.top
 +.blockshifthub.com
 +.blockslurk.com
 +.blocksly.org
@@ -29286,7 +29289,6 @@
 +.boards-baltimore.gl.at.ply.gg
 +.boards-essential.gl.at.ply.gg
 +.boardsky.com
-+.boardsnbones.com
 +.boardss.de
 +.boardx.huanqiu.com
 +.boarshrubforemost.com
@@ -32833,6 +32835,7 @@
 +.bzerklonfra.firebaseapp.com
 +.bzerklonfra.web.app
 +.bzgmcqqfxd.com
++.bzhqku.com
 +.bzhualin.com
 +.bzidp.com
 +.bziimbra.weebly.com
@@ -40124,6 +40127,7 @@
 +.coinblocktyrusmiram.com
 +.coinblog.site
 +.coinbuuarxxension.webflow.io
++.coincashl.top
 +.coincasino.fr
 +.coincasso.com
 +.coincasso.io
@@ -40131,12 +40135,14 @@
 +.coincideadventure.com
 +.coinciti.net
 +.coindapps.net
++.coindigib.top
 +.coinebaselogine.webflow.io
 +.coinebsprilogin.webflow.io
 +.coinerra.com
 +.coinfalcon.com
 +.coinhits.com
 +.coinhive.com
++.coinholdt.top
 +.coinimp.com
 +.coinimp.net
 +.coinkbase.com
@@ -40153,12 +40159,14 @@
 +.coinpaseprologiin.godaddysites.com
 +.coinpirate.cf
 +.coinpot.co
++.coinpushj.top
 +.coinrbase.com
 +.coinrobot.xyz
 +.coins-auth-extension.webflow.io
 +.coins-pockets.com
 +.coinsapps.net
 +.coinselect.pro
++.coinsendp.top
 +.coinsfifa18.weebly.com
 +.coinsgame.icu
 +.coinshenry.com
@@ -48481,6 +48489,7 @@
 +.dautee.com
 +.dauwmedia.nl
 +.dav.systems
++.davama.sbs
 +.davaorealproperty.com
 +.davarello.com
 +.daveblomme.com
@@ -48943,6 +48952,7 @@
 +.dealsfordell.com
 +.dealsletter.de
 +.dealspicks.com
++.dealtaskm.top
 +.dealuxo.store
 +.deambdisco.pro
 +.deambulations-nomades.eu
@@ -50823,6 +50833,7 @@
 +.digiadzone.com
 +.digianalytics.airtel.in
 +.digiboxes.us
++.digicashk.top
 +.digicaster.com
 +.digidifferent.com
 +.digidom.com
@@ -50838,6 +50849,7 @@
 +.digipote.fr
 +.digiprem.tech
 +.digipulsedigital.com
++.digipusht.top
 +.digiskillet.com
 +.digisoft.com.ar
 +.digispan.site
@@ -55196,7 +55208,6 @@
 +.e-postbg.web.app
 +.e-purohith.com
 +.e-rbsi.com
-+.e-recruitmentbuddy.com
 +.e-refund.fr
 +.e-serviceparts.info
 +.e-stat.huya.com
@@ -55246,7 +55257,6 @@
 +.e-zpass.com-etciotr.cc
 +.e-zpass.com-etciou.icu
 +.e-zpass.com-etciov.icu
-+.e-zpass.com-etcit.win
 +.e-zpass.com-etcmkioy.cc
 +.e-zpass.com-etcopies.cc
 +.e-zpass.com-etcpoer.cc
@@ -55377,7 +55387,6 @@
 +.e-zpass.com-tolliotyw.icu
 +.e-zpass.com-tollitn.cc
 +.e-zpass.com-usageir.icu
-+.e-zpass.com-usageiu.icu
 +.e-zpass.com-usagevc.icu
 +.e-zpass.com-usageve.icu
 +.e-zpass.com-usagevt.icu
@@ -56710,7 +56719,6 @@
 +.eengange.com
 +.eengilee.xyz
 +.eentent.streampiay.me
-+.eeobkxidaak.com
 +.eephaush.com
 +.eephoawaum.com
 +.eepholseeb.net
@@ -60359,6 +60367,7 @@
 +.excretegonging.top
 +.excruciationhauledarmed.com
 +.excusewalkeramusing.com
++.exdealy.top
 +.exdos-wallet.github.io
 +.exdynsrv.com
 +.exe.58guyu.com
@@ -60652,6 +60661,8 @@
 +.exrupeal.com
 +.exrzo.love
 +.exsa-45we.top
++.exswapk.top
++.exswapp.top
 +.ext-bouyguestelecom.fr
 +.ext-bpi-france.fr
 +.ext-web-exondus.vercel.app
@@ -69224,7 +69235,6 @@
 +.getipass.com-omjc.win
 +.getipass.com-omod.win
 +.getipass.com-qsss.win
-+.getipass.com-rgmz.win
 +.getipass.com-scalf.support
 +.getipass.com-tudu.win
 +.getipass.com-umuk.win
@@ -69923,7 +69933,6 @@
 +.girlsflirthere.life
 +.girlsgifs.com
 +.girlsgirlstimes.com
-+.girlslight.com
 +.girlsofguitar.com
 +.girlsphonenumbers.online
 +.girlssohorny.net
@@ -77783,7 +77792,6 @@
 +.housemarksales.duckdns.org
 +.housemovieonline.com
 +.housemuseliver.top
-+.houseoffranchiseofc.com
 +.houseofhacks.info
 +.houseofheiraustralia.com
 +.houseofkids.fr
@@ -85295,7 +85303,6 @@
 +.jiggerporge.shop
 +.jiggledanezeh.top
 +.jiggpuzz.com
-+.jighucme.com
 +.jigsawchristianlive.com
 +.jigsawthirsty.com
 +.jigsrywu.com
@@ -96119,7 +96126,6 @@
 +.lumberamount.com
 +.lumberg.niarn.org
 +.lumberperpetual.com
-+.lumcyjukui.shop
 +.lumderspavon.store
 +.lumdukekiy.shop
 +.lume-xarv.net
@@ -97875,6 +97881,7 @@
 +.main.courtliere.com
 +.main.csmahlorimetric.com
 +.main.dantonesquesz.com
++.main.demophoonsos.com
 +.main.diatessis.com
 +.main.digitatleosinate.com
 +.main.digtaldarcys.com
@@ -101613,7 +101620,6 @@
 +.mfyktikuvq.com
 +.mg-likers.com
 +.mg-marxy.mall.cz
-+.mg-rendez-vous.fr
 +.mg.32r.com
 +.mg.dt00.net
 +.mg.games.sina.com.cn
@@ -108219,7 +108225,6 @@
 +.nettkultur.com
 +.nettlnegli.pro
 +.nettock.com
-+.nettoientploerterigheden.mardibras.com
 +.nettoservice.fr
 +.nettrackway.com
 +.nettrip.net
@@ -114545,6 +114550,7 @@
 +.orders-processed.com
 +.orderservice.net
 +.ordersildenafil.com
++.orderswapm.top
 +.ordersyntheticviagra.ru
 +.orderviagradsb.com
 +.orderworld.vn
@@ -117432,6 +117438,7 @@
 +.paybrides.org
 +.paybyplatema.site
 +.payclick.it
++.paycoint.top
 +.paycollect.in
 +.payconiq-app.firebaseapp.com
 +.payconiq-app.web.app
@@ -117645,10 +117652,12 @@
 +.paypubgmobile.com
 +.paypursue.com
 +.payroll.mywire.org
++.payrunf.top
 +.paysafe.leadrights.com
 +.paysafecardgenerator.com
 +.payseclbc.fr
 +.paysecure.sytes.net
++.paysendz.top
 +.payseral.firebaseapp.com
 +.payseral.web.app
 +.payserve.com
@@ -144990,7 +144999,6 @@
 +.solicitorquite.com
 +.solicitudes.viazoneplataformavirutal.click
 +.solicitudes.zonaplataformas.click
-+.solicitudpersonaclientes.sbs
 +.solickyui-glxoprixen.com
 +.solicon.us
 +.solidallianzemfb.com
@@ -151454,12 +151462,14 @@
 +.swap7vsanorex.com
 +.swap9x-lotemax.com
 +.swaparlexapp.net
++.swapbitz.top
 +.swapexalgoaiapp.com
 +.swapitorai.com
 +.swaplasix4000.net
 +.swaplotemaxapp.net
 +.swapnilnursery.com
 +.swapnlokhomes.com
++.swaporderx.top
 +.swappauto.staging.lcsolutions.it
 +.swapprolia7000.com
 +.swardflawed.click
@@ -153121,12 +153131,17 @@
 +.task1.ziyemy.shop
 +.task2.ziyemy.shop
 +.taskae.com
++.taskbity.top
 +.taskcoinj.top
 +.taskdoners.uk
 +.tasklinkr.top
 +.tasknservice.com
 +.taskole.com
++.taskpayj.top
++.taskpushw.top
 +.tasks.ghintegration.com
++.tasksendq.top
++.tasktokens.top
 +.tasophaltodsost.net
 +.tasoqio.com
 +.tassabonta.pro
@@ -156986,9 +157001,13 @@
 +.tokenads.com
 +.tokenbip-ar.webcindario.com
 +.tokenbroker.sh
++.tokendealv.top
++.tokenforml.top
 +.tokeni.com
 +.tokenpocket-pro.web.app
++.tokenrunv.top
 +.tokens.1inch.eth.limo
++.tokensendj.top
 +.tokensfor.life
 +.tokenswap.org
 +.tokentelegram.net
@@ -162119,7 +162138,6 @@
 +.ulogs2.ksapisrv.com
 +.ulrychinvest.com
 +.ulsb.weebly.com
-+.ulsmcdn.com
 +.ulster-ac-uk.weebly.com
 +.ulteriorthemselves.com
 +.ultetrailways.info
@@ -162413,7 +162431,6 @@
 +.undergodoublycongruous.com
 +.undergoneentitled.com
 +.undergrdf.firebaseapp.com
-+.undergroundbrows.com
 +.underhell-backup.duckdns.org
 +.underjersey.com
 +.undermalar.pro
@@ -165472,7 +165489,6 @@
 +.verizonmedia.com
 +.verizonwireless.112.2o7.net
 +.verkauf-rezeptfrei.de
-+.verkehrsprofi.com
 +.verklu.com
 +.verlag-der-museen.de
 +.verler-clubreisen.de
