@@ -1,9 +1,9 @@
-# Version: 202505060208
+# Version: 202505060308
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44487
-# Last modified: 2025-05-06T02:08:28+0000
+# Entries: 44483
+# Last modified: 2025-05-06T03:08:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -400,7 +400,6 @@
 +.1nqrqa.de
 +.1ns1rosb.de
 +.1odi7j43c.de
-+.1p1eqpotato.com
 +.1p3opxwwet.ru
 +.1p3yg.icu
 +.1p8ln1dtr.de
@@ -3623,7 +3622,6 @@
 +.ads10.speedbit.com
 +.ads180.com
 +.ads2.brazzers.com
-+.ads2.gamecity.net
 +.ads2.hsoub.com
 +.ads2.jubii.dk
 +.ads2.net-communities.co.uk
@@ -21662,7 +21660,6 @@
 +.in.treasuredata.com
 +.in.unext.jp
 +.inabsolor.com
-+.inaccessiblefebruaryimmunity.com
 +.inadmissiblesomehow.com
 +.inagtwo.live
 +.inaltariaon.com
@@ -44477,7 +44474,6 @@
 +.zxcdn.com
 +.zxclan.com
 +.zxcvbnmasdfghjklqwertyuiop.work
-+.zxiws.cn
 +.zxmojgj.com
 +.zxqiwe.cn
 +.zxwnlg.com
