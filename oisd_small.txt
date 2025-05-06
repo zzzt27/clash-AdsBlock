@@ -1,9 +1,9 @@
-# Version: 202505061811
+# Version: 202505061912
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44396
-# Last modified: 2025-05-06T18:11:59+0000
+# Entries: 44393
+# Last modified: 2025-05-06T19:12:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -21913,7 +21913,6 @@
 +.interbuzznews.com
 +.interclics.com
 +.interdfp.com
-+.interestalonginsensitive.com
 +.interestededit.com
 +.interestingpracticable.com
 +.interestsubsidereason.com
@@ -22882,7 +22881,6 @@
 +.jyxzrb.xyz
 +.jyzkut.com
 +.jz4u1.icu
-+.jzmwipkal.com
 +.jzplabcvvy.com
 +.jzqbyykbrrbkq.top
 +.jzqscvqlgasxh.buzz
@@ -25283,7 +25281,6 @@
 +.maithigloab.net
 +.majesticsecondary.com
 +.majile.vip
-+.majime-site-rk.com
 +.majmotlee.com
 +.majoagna.com
 +.major.dvanadva.ru
