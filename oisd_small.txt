@@ -1,9 +1,9 @@
-# Version: 202505060008
+# Version: 202505060208
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44494
-# Last modified: 2025-05-06T00:08:32+0000
+# Entries: 44487
+# Last modified: 2025-05-06T02:08:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10281,7 +10281,6 @@
 +.changeable1x.xyz
 +.changedmuffin.com
 +.changejav128.fun
-+.changelifer.biz
 +.chango.com
 +.channeldrag.com
 +.channelgardeningplaster.com
@@ -25342,7 +25341,6 @@
 +.maipheeg.com
 +.maithigloab.net
 +.majesticsecondary.com
-+.majestybrightennext.com
 +.majile.vip
 +.majime-site-rk.com
 +.majmotlee.com
@@ -29898,7 +29896,6 @@
 +.perilousalonetrout.com
 +.periodicjotrickle.com
 +.periodicpole.com
-+.periodicprodigal.com
 +.periodspoppyrefuge.com
 +.perksyringefiring.com
 +.perky-method.com
@@ -33021,7 +33018,6 @@
 +.results.clickverifier.online
 +.results.uservalidate.co.uk
 +.resultsz.com
-+.resumeconcurrence.com
 +.resurrectionincomplete.com
 +.retagro.com
 +.retail-client-events-service.internal.salsify.com
@@ -34010,7 +34006,6 @@
 +.rxeosevsso.com
 +.rxexiaam.guru
 +.rxjfh.com
-+.rxtgbihqbs99.com
 +.rxthdr.com
 +.rxvej.com
 +.rxys.cn
@@ -35539,7 +35534,6 @@
 +.skillpropulsion.com
 +.skillsombineukdw.com
 +.skilyake.net
-+.skimmemorandum.com
 +.skimwhiskersmakeup.com
 +.skink.asorman.io
 +.skink.thoumi.ch
@@ -44173,7 +44167,6 @@
 +.zalo-ads.zadn.vn
 +.zaloads-480.zdn.vn
 +.zaltaumi.net
-+.zalwlraoazu.com
 +.zambiandirexit.top
 +.zamiasbrass.top
 +.zamioculcas2.org
