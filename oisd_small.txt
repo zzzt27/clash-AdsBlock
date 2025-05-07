@@ -1,9 +1,9 @@
-# Version: 202505070209
+# Version: 202505070309
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44368
-# Last modified: 2025-05-07T02:09:29+0000
+# Entries: 44363
+# Last modified: 2025-05-07T03:09:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10398,7 +10398,6 @@
 +.chimpanzee.thestoryengine.co.uk
 +.chimpstatic.com
 +.chinacontraryintrepid.com
-+.chinagranddad.com
 +.chinaslauras.com
 +.chinchilla.68keys.io
 +.chiningpassen.shop
@@ -12118,7 +12117,6 @@
 +.crjpingate.com
 +.crm-analytics.imweb.ru
 +.crm-campaign.liga.net
-+.crmdump.com
 +.crmentjg.com
 +.crmpt.livejasmin.com
 +.crmtt.livejasmin.com
@@ -17382,7 +17380,6 @@
 +.feckurteg.net
 +.fed18a1e5b.com
 +.fedapush.net
-+.fedassuagecompare.com
 +.federalacerbitylid.com
 +.fedim.site
 +.fedot.site
@@ -30814,7 +30811,6 @@
 +.pr.t-online.de
 +.pr3tty-fly-4.net
 +.pra.praxis.nl
-+.practicalbar.pro
 +.practicallyfire.com
 +.practicbog.com
 +.practice3452.fun
@@ -35734,7 +35730,6 @@
 +.sodhef.com
 +.sodiumcupboard.com
 +.sodiumendlesslyhandsome.com
-+.sodringermushy.com
 +.sodsoninlawpiteous.com
 +.sofinpushpile.com
 +.sofire.1024tera.com
