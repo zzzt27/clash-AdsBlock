@@ -1,9 +1,9 @@
-# Version: 202505070309
+# Version: 202505070409
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44363
-# Last modified: 2025-05-07T03:09:19+0000
+# Entries: 44359
+# Last modified: 2025-05-07T04:09:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10302,7 +10302,6 @@
 +.checbox.cc
 +.check-now.online
 +.check-tl-ver-154-1.com
-+.check-tl-ver-17-8.com
 +.check-tl-ver-294-2.com
 +.check-tl-ver-54-1.com
 +.check-tl-ver-54-3.com
@@ -12149,7 +12148,6 @@
 +.crow.gim.technology
 +.crow.themarbleking.com
 +.crow.voracious.dev
-+.crowdeddisk.pro
 +.crowdgravity.com
 +.crowdnextquoted.com
 +.crowdsuitcaseuntwist.com
@@ -31966,7 +31964,6 @@
 +.qsearch-a.akamaihd.net
 +.qservz.com
 +.qsko05060mas.com
-+.qsko05061mas.com
 +.qskxpvncyjly.com
 +.qsmnt.online
 +.qsvbi.space
@@ -42623,7 +42620,6 @@
 +.wmtbivpifywrc.one
 +.wmtten.com
 +.wmwwmbjkqomr.top
-+.wneia.iaskhot.com
 +.wnojded.icu
 +.wnouncrrippleshiswa.org
 +.wnp.com
