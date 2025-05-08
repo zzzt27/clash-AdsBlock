@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 08 May 2025
 # LatestVersion 24.01
-# Domain Count: 15781
+# Domain Count: 15780
 #===============================================================
 
 +.0i0i0i0.com
@@ -15060,7 +15060,6 @@
 +.sntr.avito.ru
 +.so1cool.com
 +.socdm.com
-+.social-discovery.io
 +.sociomantic.com
 +.socy.es
 +.sojern.com
