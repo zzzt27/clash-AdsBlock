@@ -1,9 +1,9 @@
-# Version: 202505100308
+# Version: 202505100408
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 179803
-# Last modified: 2025-05-10T03:08:08+0000
+# Entries: 179800
+# Last modified: 2025-05-10T04:08:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -38118,7 +38118,6 @@
 +.chytridaustral.com
 +.chyvz-lsdpv.click
 +.ci-admin.iovation.com
-+.ci-betwinner1.com
 +.ci-mpsnare.iovation.com
 +.ci26757.tw1.ru
 +.ci69056.tmweb.ru
@@ -49023,7 +49022,6 @@
 +.dawnnationaladvertiser.com
 +.dawoku.com
 +.dawplm.com
-+.dawson-hub.com
 +.dawtittalky.shop
 +.dax3x3wqpt2q3.cloudfront.net
 +.daxflow.com
@@ -54235,7 +54233,6 @@
 +.dpd-tracking.jgusp.com
 +.dpd-tracking.knhfs.com
 +.dpd.com-pl.cc
-+.dpd.globkurier.pro
 +.dpd.hbhqxcs.com
 +.dpd9yiocsyy6p.cloudfront.net
 +.dpdnav.com
@@ -84130,6 +84127,7 @@
 +.irritationunderage.com
 +.irritimpid.pro
 +.irritprece.pro
++.irritsdili.com
 +.irrobmonta.pro
 +.irroburtic.pro
 +.irromintus.pro
@@ -87492,7 +87490,6 @@
 +.jzkuo.com
 +.jznylsf.cn
 +.jzo3.com
-+.jzokkejvjblrq.top
 +.jzoxvmq.cc
 +.jzpeterson.com
 +.jzplabcvvy.com
