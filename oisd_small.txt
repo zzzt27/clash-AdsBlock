@@ -1,9 +1,9 @@
-# Version: 202505100208
+# Version: 202505100308
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44413
-# Last modified: 2025-05-10T02:08:30+0000
+# Entries: 44411
+# Last modified: 2025-05-10T03:08:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8792,7 +8792,6 @@
 +.brachhoecake.top
 +.brackenclomped.com
 +.bracketauthorizedportray.com
-+.bractepizzoa.com
 +.bradleyincorrect.com
 +.braflipperstense.com
 +.braidprosecution.com
@@ -25135,7 +25134,6 @@
 +.lzolanahk.com
 +.lzoorgpta.com
 +.lzukrobrykk.com
-+.lzvwybvvyrqyk.top
 +.lzxdx24yib.com
 +.lzzqfj.xyz
 +.m-fmfadcfm.icu
