@@ -1,9 +1,9 @@
-# Version: 202505120514
+# Version: 202505120614
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21123
-# Last modified: 2025-05-12T05:14:38+0000
+# Entries: 21124
+# Last modified: 2025-05-12T06:14:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11206,6 +11206,7 @@
 +.multimediagay.com
 +.multiporn.me
 +.multivitaminaid.com
++.multporn.com
 +.multporn.net
 +.multporn.xxx
 +.mumbaiescortss.net
