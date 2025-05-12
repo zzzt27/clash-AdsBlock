@@ -1,9 +1,9 @@
-# Version: 202505120715
+# Version: 202505120915
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21157
-# Last modified: 2025-05-12T07:15:04+0000
+# Entries: 21156
+# Last modified: 2025-05-12T09:15:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15705,7 +15705,6 @@
 +.sexdatinghot.com
 +.sexdead.com
 +.sexdep.blog
-+.sexdepvl.com
 +.sexdepvn.lat
 +.sexdesimovie.com
 +.sexdiary.biz
