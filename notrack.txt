@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 09 Apr 2025
+# Updated: 12 May 2025
 # LatestVersion 24.01
-# Domain Count: 15798
+# Domain Count: 15775
 #===============================================================
 
 +.0i0i0i0.com
@@ -69,7 +69,6 @@
 +.aatkit.com
 +.aax-us-iad.amazon.com
 +.aaxads.com
-+.aaxdetect.com
 +.abmr.net
 +.absolveparticlesanti.com
 +.abtasty.com
@@ -91,7 +90,6 @@
 +.acuityplatform.com
 +.acxiom-online.com
 +.ad-delivery.net
-+.ad-dev.globalnoticias.pt
 +.ad-maven.com
 +.ad-optima.com
 +.ad-plus.com.tr
@@ -575,7 +573,6 @@
 +.analytics.snidigital.com
 +.analytics.socialcube.me
 +.analytics.speckle.systems
-+.analytics.spotify.com
 +.analytics.ssense.com
 +.analytics.starz.com
 +.analytics.svt.se
@@ -896,7 +893,6 @@
 +.bugherd.com
 +.bugly.weplayer.cc
 +.bugsnag.com
-+.bullionyield.com
 +.bumlam.com
 +.bunintruder.com
 +.buoydeparturediscontent.com
@@ -1142,7 +1138,6 @@
 +.crispadvertising.com
 +.criteo.com
 +.criteo.net
-+.criticaltriggerweather.com
 +.crosspromo.voodoo.io
 +.crsspxl.com
 +.crumblerefunddiana.com
@@ -1271,7 +1266,6 @@
 +.dressipi.com
 +.drift.com
 +.driftt.com
-+.driv-analytics.com
 +.dropkickmedia.com
 +.ds.shalltry.com
 +.dstillery.com
@@ -1444,7 +1438,6 @@
 +.februarybogus.com
 +.februaryinjectionproudly.com
 +.federatedml-pa.googleapis.com
-+.feed.ff.avast.com
 +.feedbackify.com
 +.feelsjet.com
 +.femetrics.grammarly.io
@@ -1452,7 +1445,6 @@
 +.fidelity-media.com
 +.fieldtest.cc
 +.fiftyt.com
-+.fightmallowfiasco.com
 +.fimserve.com
 +.finisheddaysflamboyant.com
 +.firebaselogging-pa.googleapis.com
@@ -1531,7 +1523,6 @@
 +.gaug.es
 +.gdrytrk.com
 +.gecko-sg.byteoversea.com
-+.generalizebusinessman.com
 +.geniusonclick.com
 +.geo.query.yahoo.com
 +.geoadnxs.com
@@ -1641,7 +1632,6 @@
 +.highperformancedformats.com
 +.highperformancedisplayformat.com
 +.highperformancegate.com
-+.highrevenuecpm.com
 +.highrevenuecpmnetwork.com
 +.highrevenuegate.com
 +.highwaycpmrevenue.com
@@ -1821,7 +1811,6 @@
 +.jivosite.com
 +.jivox.com
 +.jmgads.com
-+.jnrtavp2x66u.com
 +.jobfilletfortitude.com
 +.jpgtrk.com
 +.jpush.cn
@@ -1873,7 +1862,6 @@
 +.kzt2afc1rp52.com
 +.l9bjkkhaycw6f8f4.soundcloud.com
 +.labaz.vip
-+.lacquerreddeform.com
 +.ladsp.jp
 +.latinon.com
 +.latinwayy.com
@@ -2115,7 +2103,6 @@
 +.metrics.roblox.com
 +.metrics.royalmail.com
 +.metrics.sdkbox.com
-+.metrics.spbtv.com
 +.metrics.ubuntu.com
 +.metrics.washingtonpost.com
 +.metrics2.data.hicloud.com
@@ -5372,6 +5359,7 @@
 +.mkt2021.com
 +.mkt2022.com
 +.mkt2023.com
++.mkt20231126.com
 +.mkt2024.com
 +.mkt2025.com
 +.mkt2026.com
@@ -13650,7 +13638,6 @@
 +.mymarketingreports.com
 +.mynetreklam.com
 +.mypush.io
-+.myswitchads.com
 +.myvisualiq.net
 +.nanigans.com
 +.nanogardens.tech
@@ -13668,7 +13655,6 @@
 +.neodatagroup.com
 +.nessainy.net
 +.net.ar
-+.netcommunities.com
 +.netline.com
 +.netmera-web.com
 +.netmera.com
@@ -14049,7 +14035,6 @@
 +.pushnow.net
 +.pushpad.xyz
 +.pushprofit.net
-+.pushspring.com
 +.pushub.net
 +.pushwoosh.com
 +.pushy.ai
@@ -14473,7 +14458,6 @@
 +.smetrics.bmspaf.org
 +.smetrics.bncollege.com
 +.smetrics.bnymellon.com
-+.smetrics.boostinfinite.com
 +.smetrics.boostmobile.com
 +.smetrics.boozallen.com
 +.smetrics.boss.info
@@ -14526,9 +14510,7 @@
 +.smetrics.cnn.com
 +.smetrics.coca-cola.com
 +.smetrics.coca-colaentuhogar.com
-+.smetrics.codan.dk
 +.smetrics.comenity.net
-+.smetrics.comparethemarket.com
 +.smetrics.consumerreports.org
 +.smetrics.converse.com
 +.smetrics.convivacarecenters.com
@@ -14588,7 +14570,6 @@
 +.smetrics.energia.ie
 +.smetrics.energyaustralia.com.au
 +.smetrics.enterprise.com
-+.smetrics.enterprisersproject.com
 +.smetrics.enterprisesg.gov.sg
 +.smetrics.eprice.it
 +.smetrics.equipmentwatch.com
@@ -15075,7 +15056,6 @@
 +.sntr.avito.ru
 +.so1cool.com
 +.socdm.com
-+.social-discovery.io
 +.sociomantic.com
 +.socy.es
 +.sojern.com
@@ -15122,7 +15102,6 @@
 +.stackadapt.com
 +.stackla.com
 +.staggeredravehospitality.com
-+.stampsmindlessscrap.com
 +.startappservice.com
 +.startup.mobile.webvisor.com
 +.startup.mobile.yandex.net
@@ -15672,7 +15651,6 @@
 +.vuukle.com
 +.vvbox.cz
 +.vwdservices.com
-+.vzigttqgqx.com
 +.w3-reporting.reddit.com
 +.w55c.net
 +.walkme.com
@@ -15756,7 +15734,6 @@
 +.xg4ken.com
 +.xiti.com
 +.xlirdr.com
-+.xmsflzmygw.com
 +.xpu.samsungelectronics.com
 +.xtrapath1.izatcloud.net
 +.xtrapath2.izatcloud.net
