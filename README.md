@@ -1,4 +1,4 @@
-# Ads Block for clash
+# AdBlock Rules for Mihomo
 
 ## Source List
 
