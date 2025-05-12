@@ -1,9 +1,9 @@
-# Version: 202505121415
+# Version: 202505121542
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21163
-# Last modified: 2025-05-12T14:15:13+0000
+# Entries: 21162
+# Last modified: 2025-05-12T15:42:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3519,7 +3519,6 @@
 +.clubsweethearts.com
 +.clubtug.com
 +.clubuldechat.com
-+.clubv1.com
 +.clubwarp.com
 +.cluset.com
 +.cmail20.com
