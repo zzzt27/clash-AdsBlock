@@ -1,9 +1,9 @@
-# Version: 202505121315
+# Version: 202505121415
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21161
-# Last modified: 2025-05-12T13:15:05+0000
+# Entries: 21163
+# Last modified: 2025-05-12T14:15:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7851,6 +7851,7 @@
 +.hotdailyflirts.com
 +.hotdesifuck.pro
 +.hotdesigirlsfuck.com
++.hotdesileaks.com
 +.hotdreams.com.br
 +.hotebonypussy.com
 +.hotebonytube.com
@@ -8595,6 +8596,7 @@
 +.iporder.icu
 +.iporn.win
 +.iporn88.net
++.ipornbase.xyz
 +.ipornia.com
 +.iporno.hu
 +.iporno.site
