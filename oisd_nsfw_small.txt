@@ -1,9 +1,9 @@
-# Version: 202505131115
+# Version: 202505131359
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21188
-# Last modified: 2025-05-13T11:15:24+0000
+# Entries: 21189
+# Last modified: 2025-05-13T13:59:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -876,6 +876,7 @@
 +.alllesbiansex.com
 +.allmalepornstars.com
 +.allmanga.org
++.allmaturefuck.cc
 +.allmaturepics.net
 +.allmatureporn.cc
 +.allmaturepornpics.com
@@ -1474,7 +1475,6 @@
 +.asianthumbs.org
 +.asiantolick.com
 +.asiantsgirls.com
-+.asiantube.tv
 +.asiantubexxx.net
 +.asiantv.fun
 +.asianude4u.net
@@ -21073,6 +21073,7 @@
 +.znzz.com
 +.zo3x.link
 +.zo3x.vip
++.zoazoa28.me
 +.zoekvinden.nl
 +.zoig.com
 +.zoig1.com
