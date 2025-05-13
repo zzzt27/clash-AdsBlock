@@ -1,9 +1,9 @@
-# Version: 202505130213
+# Version: 202505130313
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21145
-# Last modified: 2025-05-13T02:13:19+0000
+# Last modified: 2025-05-13T03:13:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -20092,7 +20092,6 @@
 +.xtubehentai.com
 +.xtubetv.xyz
 +.xtubex.pro
-+.xtubezoo.com
 +.xtudr.com
 +.xtusubs.com
 +.xtvid.com
@@ -20530,6 +20529,7 @@
 +.xxxkernel.com
 +.xxxkino.xyz
 +.xxxkotleta.com
++.xxxku.ru
 +.xxxl-dev.at
 +.xxxl-tube.com
 +.xxxl.tube
