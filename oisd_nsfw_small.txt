@@ -1,9 +1,9 @@
-# Version: 202505131916
+# Version: 202505132116
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21190
-# Last modified: 2025-05-13T19:16:10+0000
+# Entries: 21191
+# Last modified: 2025-05-13T21:16:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11604,6 +11604,7 @@
 +.narod.ru
 +.narutohentaidb.com
 +.narutopixxx.com
++.nashepornovideo.com
 +.nastia.ai
 +.nasty-young.com
 +.nastybulb.com
@@ -16696,7 +16697,6 @@
 +.skinnyteenporn.website
 +.skinstrip.net
 +.skipthegames.com
-+.skiva.co.il
 +.sklavenzentrale.com
 +.skokka.com
 +.skokka.com.au
@@ -21160,6 +21160,7 @@
 +.zootubered.com
 +.zootubesex.com
 +.zootubex.us
++.zoovideo.gold
 +.zoovilleforum.net
 +.zoox18.com
 +.zooxnxx.pro
