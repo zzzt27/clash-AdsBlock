@@ -1,9 +1,9 @@
-# Version: 202505130915
+# Version: 202505131115
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21189
-# Last modified: 2025-05-13T09:15:08+0000
+# Entries: 21188
+# Last modified: 2025-05-13T11:15:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11592,7 +11592,6 @@
 +.nanojav.com
 +.nanovids.com
 +.naoconto.com
-+.naoleveportras.net
 +.napgp.ru
 +.napisex.hu
 +.napiszar.com
