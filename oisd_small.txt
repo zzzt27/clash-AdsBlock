@@ -1,9 +1,9 @@
-# Version: 202505140709
+# Version: 202505141211
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43737
-# Last modified: 2025-05-14T07:09:56+0000
+# Entries: 43751
+# Last modified: 2025-05-14T12:11:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1889,6 +1889,7 @@
 +.aalures.com
 +.aanetwork.vn
 +.aanqylta.com
++.aapj.cn
 +.aapz.com
 +.aarbur.com
 +.aardvark.mission-austria.at
@@ -4632,6 +4633,7 @@
 +.aklmjylwvkryr.top
 +.akmxts.com
 +.akn.analytics.autodesk.com
++.akoo0514uis.com
 +.aksazkxmiopf.com
 +.aksb-a.akamaihd.net
 +.aksonural.ru
@@ -6765,6 +6767,7 @@
 +.atzekromchan.com
 +.aubaigeep.com
 +.auburn9819.com
++.aucdn.net
 +.auchoahy.net
 +.auchoons.net
 +.auckodsailtoas.net
@@ -8281,6 +8284,7 @@
 +.bklhnlv.com
 +.bkojzevpe.com
 +.bkokuwxfetah.com
++.bkqa.cn
 +.bkr5xeg0c.com
 +.bkrkv.com
 +.bksoylhvsx.com
@@ -11822,6 +11826,7 @@
 +.cpmadvisors.com
 +.cpmaffiliation.com
 +.cpmclktrk.online
++.cpmemes.cfd
 +.cpmgatenetwork.com
 +.cpmmedia.net
 +.cpmnetworkcontent.com
@@ -17366,6 +17371,7 @@
 +.filasofighit.com
 +.filasseseeder.com
 +.file-subiz.com
++.fileescd.cfd
 +.filerocket.link
 +.files.xtpag.top
 +.filesnoughtwallet.com
@@ -19052,6 +19058,7 @@
 +.gmboxx.com
 +.gme-trking.com
 +.gmehcotihh.com
++.gmendanln.com
 +.gmiqicw.com
 +.gmkflsdaa.com
 +.gmknz.com
@@ -22296,6 +22303,7 @@
 +.jmyrmuozbor.com
 +.jncx1s.michaellindahl.com
 +.jnhjpdayvpzj.com
++.jnjslk.top
 +.jnnjthg.com
 +.jnrtavp2x66u.com
 +.jo.429men.com
@@ -22921,6 +22929,7 @@
 +.kklq05120p0i.com
 +.kklq05121p0i.com
 +.kklq05131p0i.com
++.kklq05140p0i.com
 +.kkmacsqsbf.info
 +.kknkcyrkvoqsqa.com
 +.kkoacpohjomc.com
@@ -24886,6 +24895,7 @@
 +.mad.mobisky.pl
 +.madadsmedia.com
 +.madamecam.com
++.madcheddar.net
 +.madcpms.com
 +.madehimalowbo.com
 +.madeinvasionneedy.com
@@ -30620,6 +30630,7 @@
 +.producerplot.com
 +.producingtrunkblaze.com
 +.productanychaste.com
++.productdownload.pro
 +.producthub.info
 +.production-tracking.riviu.co
 +.products.gobankingrates.com
@@ -33507,6 +33518,7 @@
 +.s.dstfgh.com
 +.s.dsvrqo.com
 +.s.dsx827.com
++.s.dt6ycu.com
 +.s.eaalink.com
 +.s.elink2b.com
 +.s.elink2c.com
@@ -35764,6 +35776,7 @@
 +.ssp.zf313.com
 +.sspapi-prd.samsungrs.com
 +.sspnm.emol.com
++.ssqxuy.icu
 +.ssqyuvavse.com
 +.ssr.streamrail.net
 +.ssrv7.com
@@ -43553,6 +43566,7 @@
 +.ziphoumt.net
 +.zipitnow.cfd
 +.zippercontinual.com
++.zipup.click
 +.zirdough.net
 +.zirduftaibs.xyz
 +.zireemilsoude.net
