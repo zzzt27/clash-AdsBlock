@@ -1,9 +1,9 @@
-# Version: 202505141015
+# Version: 202505141415
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21249
-# Last modified: 2025-05-14T10:15:33+0000
+# Entries: 21253
+# Last modified: 2025-05-14T14:15:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8270,6 +8270,7 @@
 +.ilovexs.com
 +.ilovnudes.com
 +.iluvtoons.com
++.im9.eu
 +.imagearranger.com
 +.imagefap.com
 +.imageflea.com
@@ -11368,6 +11369,7 @@
 +.myfreecams.pro
 +.myfreepornstars.com
 +.myfreesexpics.com
++.myfreesites.net
 +.myfreewebcam.org
 +.myfreshp.com
 +.myfriendsfeet.com
@@ -16892,6 +16894,7 @@
 +.sosiano.com
 +.sosing.com
 +.soski.click
++.soski.top
 +.sosulki.com
 +.sosushka.fun
 +.sosushka.me
@@ -20915,6 +20918,7 @@
 +.yepporn.com
 +.yeptube.com
 +.yeptube.net
++.yesaa.buzz
 +.yesbackpage.com
 +.yescams.com
 +.yesgaysex.com
