@@ -1,9 +1,9 @@
-# Version: 202505140714
+# Version: 202505140915
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21249
-# Last modified: 2025-05-14T07:14:11+0000
+# Entries: 21250
+# Last modified: 2025-05-14T09:15:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16522,6 +16522,7 @@
 +.shavedpussypics.com
 +.shayefpro.com
 +.she66.com
++.sheam.mom
 +.sheamateur.com
 +.shebate.com
 +.sheeme.com
