@@ -1,9 +1,9 @@
-# Version: 202505141415
+# Version: 202505141715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21253
-# Last modified: 2025-05-14T14:15:13+0000
+# Entries: 21255
+# Last modified: 2025-05-14T17:15:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1107,6 +1107,7 @@
 +.anhsex.blog
 +.anifap.com
 +.anifap.pro
++.anifap.xyz
 +.anihentai.com
 +.anihideck.org
 +.anilos.com
@@ -20160,6 +20161,7 @@
 +.xstory.cam
 +.xstory.ru
 +.xstorysnap.com
++.xstripp.com
 +.xsz-av.com
 +.xszav.club
 +.xszav1.com
