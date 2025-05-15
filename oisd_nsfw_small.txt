@@ -1,9 +1,9 @@
-# Version: 202505150918
+# Version: 202505151018
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21302
-# Last modified: 2025-05-15T09:18:43+0000
+# Entries: 21306
+# Last modified: 2025-05-15T10:18:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -566,6 +566,7 @@
 +.adsexpert.net
 +.adstub.net
 +.adugames.com
++.adult
 +.adult-empire.com
 +.adult-engine-search.com
 +.adult-fanfiction.org
@@ -13093,6 +13094,7 @@
 +.pormama.com
 +.pormo.cam
 +.pormo.xyz
++.porn
 +.porn-app.com
 +.porn-arab.net
 +.porn-bolta1.click
@@ -15282,6 +15284,7 @@
 +.russkoeporno24.best
 +.russkoeporno24.net
 +.russkoeporno365.com
++.russkoeporno365.me
 +.russkoeporno365.today
 +.russkoeporno365.vip
 +.russkoeporno369.com
@@ -15581,6 +15584,7 @@
 +.severeporn.com
 +.severinelapaye.com
 +.severstroysnab.ru
++.sex
 +.sex-animals.site
 +.sex-arab-xxx.ink
 +.sex-arab.ink
@@ -20471,6 +20475,7 @@
 +.xxvidsx.com
 +.xxvl.org
 +.xxvlxx.com
++.xxx
 +.xxx-anal-cams.bar
 +.xxx-anal-cams.ink
 +.xxx-anal-sex.ink
@@ -20751,7 +20756,6 @@
 +.xxxpornmasti.com
 +.xxxpornmaturevideos.com
 +.xxxporno.cam
-+.xxxporno.win
 +.xxxpornohub.net
 +.xxxpornotube.com
 +.xxxpornotuber.com
