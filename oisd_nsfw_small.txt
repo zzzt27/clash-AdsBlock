@@ -1,9 +1,9 @@
-# Version: 202505150817
+# Version: 202505150918
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21303
-# Last modified: 2025-05-15T08:17:06+0000
+# Entries: 21302
+# Last modified: 2025-05-15T09:18:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3835,7 +3835,6 @@
 +.cutelatina.com
 +.cutepw.xyz
 +.cutesexmovies.com
-+.cutesluts.pics
 +.cutetube.online
 +.cutewifes.com
 +.cutexxxteen.ru
