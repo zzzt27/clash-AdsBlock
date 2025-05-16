@@ -1,9 +1,9 @@
-# Version: 202505160013
+# Version: 202505160213
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21334
-# Last modified: 2025-05-16T00:13:02+0000
+# Entries: 21336
+# Last modified: 2025-05-16T02:13:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1737,6 +1737,7 @@
 +.babeuniversum.com
 +.babextube.com
 +.babezdoor.com
++.babiescb.cz
 +.babijos.com
 +.babiporno.com
 +.babiporno.net
@@ -2319,6 +2320,7 @@
 +.bigporn.fun
 +.bigpornhd.mom
 +.bigpornovideo.net
++.bigslapparty.com
 +.bigtenplus.com
 +.bigtit.xyz
 +.bigtitavenue.com
