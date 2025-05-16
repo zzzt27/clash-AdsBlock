@@ -1,9 +1,9 @@
-# Version: 202505152113
+# Version: 202505160013
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21335
-# Last modified: 2025-05-15T21:13:09+0000
+# Entries: 21334
+# Last modified: 2025-05-16T00:13:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12724,7 +12724,6 @@
 +.phe18.vip
 +.phe69.me
 +.pheclip.vip
-+.pheclipsexviet.com
 +.phevkl.fun
 +.phica.eu
 +.phil-flash.com
