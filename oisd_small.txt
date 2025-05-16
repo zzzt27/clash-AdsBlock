@@ -1,9 +1,9 @@
-# Version: 202505161723
+# Version: 202505161823
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43527
-# Last modified: 2025-05-16T17:23:56+0000
+# Entries: 43526
+# Last modified: 2025-05-16T18:23:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -31705,7 +31705,6 @@
 +.rarapfabm.com
 +.rarqadxifhi.com
 +.rarrfibuf.com
-+.rartengg.com
 +.rascalbygone.com
 +.rashbarnabas.com
 +.rashlyblowfly.com
