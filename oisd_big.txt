@@ -1,9 +1,9 @@
-# Version: 202505162309
+# Version: 202505170009
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 178625
-# Last modified: 2025-05-16T23:09:34+0000
+# Entries: 178565
+# Last modified: 2025-05-17T00:09:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -483,7 +483,6 @@
 +.0xmicrosoft.duckdns.org
 +.0xtoken.com
 +.0xxd.com
-+.0ytm24gwqd.icu
 +.0zf.ru
 +.1-1ads.com
 +.1-2005-search.com
@@ -3327,7 +3326,6 @@
 +.4afa45f1.xyz
 +.4affiliate.net
 +.4ai.com
-+.4ai.net
 +.4all.twinks4all.com
 +.4allfree.com
 +.4analytics.ws
@@ -19231,6 +19229,7 @@
 +.applledld.com-nmnzxlh.info
 +.applleldd.mnvfdgb.com
 +.applleldd.mnxcvqb.com
++.applleldd.mnxcvqc.com
 +.applmnvvx.car-accident-claim.com
 +.applog-perf.uc.cn
 +.applog.camera360.com
@@ -19706,7 +19705,6 @@
 +.arcade.ya.com
 +.arcades.tech
 +.arcadiafind.site
-+.arcadialoom.website
 +.arcanecheat.com
 +.arcaneodyssey.online
 +.arcaneplane.site
@@ -21172,7 +21170,6 @@
 +.atb-stats-api.imolive.tv
 +.atbaamisr.com
 +.atbells576.square.site
-+.atbmarkets.com
 +.atbmarketspro.com
 +.atbonlinecorporate.com
 +.atcbcr.pro
@@ -26875,7 +26872,6 @@
 +.beta.simpel.nl
 +.beta.spb0.ru
 +.beta.stats.logalty.com
-+.beta.w3.org.kz
 +.betaaitradingview.app
 +.betabroad.com
 +.betack.com
@@ -31762,7 +31758,6 @@
 +.bupnjndj.com
 +.buqezuu8.pro
 +.buqkrzbrucz.com
-+.bur-nn.ru
 +.bur77.pro
 +.burago.fr
 +.buram.xyz
@@ -36182,7 +36177,6 @@
 +.cfd.platform84-14.com
 +.cfd.platform8409.com
 +.cfd.plattform8426.com
-+.cfd.plte6i9menni.83kg3avrz87f2293rz.com
 +.cfd.polymarket.6kdvu69l3nxzgk7v765mevji3.com
 +.cfd.polymarketgroup.com
 +.cfd.pty-500.com
@@ -37499,7 +37493,6 @@
 +.choisir-creneau-mondialrelay.fr
 +.choisirmonlocker.com
 +.choisirunrelay.com
-+.choisislelocker.net
 +.choix-creneau-mondialrelay.com
 +.choix-jour.net
 +.choix-relais.fr
@@ -37943,7 +37936,6 @@
 +.cigibud.com
 +.cignfilib.pro
 +.cigoadrouz.com
-+.cigoqcq.top
 +.cigosoo8.pro
 +.cigpcl.com
 +.cihangcapital.com
@@ -39080,7 +39072,6 @@
 +.clmm.nl
 +.clmm.pro
 +.clmm.team
-+.clmm.tv
 +.clmm.win
 +.clmm1.tv
 +.clmm88.co
@@ -45953,7 +45944,6 @@
 +.czechdomain.weebly.com
 +.czechowskamarudzi.pl
 +.czechupdate2024.activehosted.com
-+.czelec.betterofelectr.org
 +.czgazik.one
 +.czgtgj.com
 +.czh5aa.xyz
@@ -48353,6 +48343,7 @@
 +.datrmuazno.com
 +.datropy.com
 +.datrylia.info
++.datrylon.info
 +.datryxon.info
 +.dattomocks.top
 +.dattter.shop
@@ -49133,7 +49124,6 @@
 +.deeptack.com
 +.deepuniversedata.online
 +.deepuniverselogs.online
-+.deepuniverseportal.site
 +.deepuniversestudies.online
 +.deepuniversetheory.online
 +.deepvion.info
@@ -52700,7 +52690,6 @@
 +.docwq579w4q3345896925892434782781291913file302538923pdf.pages.dev
 +.docxreview.myportfolio.com
 +.dodajogloszenia.pl
-+.dodalan.com
 +.dodaretoxe.com
 +.dodayobeitand.xyz
 +.dodecpoten.pro
@@ -53889,7 +53878,6 @@
 +.dreamydrizzles.pro
 +.dreamyhorizonse.pro
 +.dreamyhues.pro
-+.dreamyimages.pro
 +.dreamyjourneys.pro
 +.dreamyoutlook.pro
 +.dreamytide.pro
@@ -55189,14 +55177,12 @@
 +.e-zpassny.com-bnugf.vip
 +.e-zpassny.com-ceuo.cc
 +.e-zpassny.com-cuhfr.vip
-+.e-zpassny.com-cxyue.vip
 +.e-zpassny.com-hngvb.vip
 +.e-zpassny.com-ljhyg.vip
 +.e-zpassny.com-rhjky.vip
 +.e-zpassny.com-tgnyy.vip
 +.e-zpassny.com-trvhj.vip
 +.e-zpassny.com-vbrfd.vip
-+.e-zpassny.com-vcdyg.vip
 +.e-zpassny.com-zmhsyd.cc
 +.e-zpassny.com-zmhsyx.cc
 +.e-zpassnyzyy.com
@@ -56948,7 +56934,6 @@
 +.elaydark.com
 +.elbacom.com
 +.elbalcondeatocha.com
-+.elbi-trader.com
 +.elbio.tn
 +.elbitrader.com
 +.elboncoin.fr
@@ -57378,6 +57363,7 @@
 +.elxont.com
 +.ely7tra.top
 +.elyandbegantoti.com
++.elynlonisles.com
 +.elynsgroup.com
 +.elysianquest.pro
 +.elysiumecho.pro
@@ -57825,7 +57811,6 @@
 +.encephograhy.pro
 +.encepsebac.pro
 +.enchanted-stretch.pro
-+.enchantedbloom.pro
 +.enchantedexplorerscdc.com
 +.enchantedfruit.com
 +.enchantedjourneys.pro
@@ -58834,7 +58819,6 @@
 +.escortsalbacete.com
 +.escribaniaquinterno.com.ar
 +.escribedas.com
-+.escrowinternationals.com
 +.escuagefoggish.click
 +.escuelaalexrovira.com
 +.escueladealexrovira.com
@@ -60520,7 +60504,6 @@
 +.extmaps-api.yandex.net
 +.extofiles.com
 +.extogweste.pro
-+.extonglobal.capital
 +.extonglobal.com
 +.extonglobal.io
 +.extonglobal.org
@@ -62894,7 +62877,6 @@
 +.fidomining.top
 +.fidsdeign.shop
 +.fidtaswiw.com
-+.fidy-lity-wynor.bond
 +.fiehff.com
 +.field-alpha.gl.at.ply.gg
 +.field-aye.gl.at.ply.gg
@@ -64171,7 +64153,6 @@
 +.flat-login-signup.webflow.io
 +.flatepicbats.com
 +.flatjeep.com
-+.flatll.digital
 +.flatratepromotion.link
 +.flatrelentlessperspective.com
 +.flattee.com
@@ -66397,7 +66378,6 @@
 +.frostyshadowwhirl.pro
 +.frostystardust.pro
 +.frostytranquilwave.pro
-+.frostywindwhirl.pro
 +.frothadditions.com
 +.frothyfeather.pro
 +.frothyfeathers.pro
@@ -66457,7 +66437,6 @@
 +.frycmisfixa.com
 +.frycornwhole.com
 +.fryeboots.fr
-+.frz3p1.onl.onlinetrees.co.uk
 +.frze.fr
 +.frzz.fr
 +.fs-11.com
@@ -67457,7 +67436,6 @@
 +.gainacloudstorageaid.com
 +.gainacreditscore.com
 +.gainadentalimplantssite.com
-+.gainanosteoporosis.com
 +.gainareversemortgageweb.com
 +.gainaseniorlivinguse.com
 +.gainaseomarketing.com
@@ -69029,7 +69007,6 @@
 +.getipass.com-getsq.vip
 +.getipass.com-getsw.vip
 +.getipass.com-iukh.win
-+.getipass.com-qrfy.win
 +.getipass.com-rcsv.win
 +.getipass.com-tfgc.win
 +.getipass.com-ujfd.win
@@ -70872,7 +70849,6 @@
 +.gold2762.com
 +.gold433256.studio.site
 +.gold456o.fun
-+.goldai-polsk4.site
 +.goldai-polska.site
 +.goldanddiamondsgroup.com
 +.goldangblowze.top
@@ -72640,7 +72616,6 @@
 +.grupodulcemar.pe
 +.grupoeq.com
 +.grupofas.com
-+.grupogyv.com.co
 +.grupoloang.com
 +.grupolylsalud.com
 +.grupomodamil.com.br
@@ -73189,7 +73164,6 @@
 +.guru-designs.com
 +.guru.com1.ru
 +.guru4invest.com
-+.guru4invest.io
 +.gurudeveng.com
 +.gurugeniswhoperish.firebaseapp.com
 +.gurugeniswhoperish.web.app
@@ -73950,6 +73924,7 @@
 +.handmadevet.com
 +.handnorth.com
 +.handovernotes.com
++.handpanworld.com
 +.handshakewebsolution.com
 +.handsl.org
 +.handsomehose.com
@@ -87337,7 +87312,6 @@
 +.kayka.fr
 +.kaylabelton.com
 +.kayscredit.com
-+.kaysos.com
 +.kaytri.com
 +.kaz.kz
 +.kaz.uk.to
@@ -87754,7 +87728,6 @@
 +.kettlstrap.pro
 +.kettnercapital.com
 +.keucoinloginn.webflow.io
-+.kevinagyekum.com
 +.kevinandhowlin.com
 +.kevinbaires.com
 +.kevinbrokeagain.pages.dev
@@ -90547,7 +90520,6 @@
 +.lancasternh.com
 +.lancelfrance.fr
 +.lancersnerol.shop
-+.lancery.digital
 +.lancerzenith-7ysv0h.stormkit.dev
 +.lancesberc.pro
 +.lancibicam.pro
@@ -92156,7 +92128,6 @@
 +.leroymerlintools.fr
 +.lerrdoriak.com
 +.lerrykayy.ddns.net
-+.lert.website
 +.lerug.fun
 +.les-caves.fr
 +.les-inds.weebly.com
@@ -93841,7 +93812,6 @@
 +.lnpost.paczkanajutro24.rest
 +.lnpost.paczkanaweekend.rest
 +.lnpost.paczkanaweekend.world
-+.lnpost.paczkanumer72735.cfd
 +.lnpost.paczkanumer72735.cyou
 +.lnpost.paczkaweekend.cyou
 +.lnpost.paczkaweekend.icu
@@ -97212,7 +97182,6 @@
 +.magicalfurnishcompatriot.com
 +.magicaljoin.com
 +.magicallyitalian.com
-+.magicalmushrooms.pro
 +.magicc.info
 +.magiccandles.eu
 +.magicchance.com
@@ -100076,7 +100045,6 @@
 +.medicareoptions.me
 +.medicareplans.me
 +.medicaretab.com
-+.medicationneglectedshared.com
 +.medicday.com
 +.medicdemis.pro
 +.medicdrop.com
@@ -102200,7 +102168,6 @@
 +.mindless-fruit.pro
 +.mindlessmark.com
 +.mindlessslogan.com
-+.mindloomio.online
 +.mindmemobile.com
 +.mindmeters.biz
 +.mindpilot.website
@@ -103829,7 +103796,6 @@
 +.mondialeacrilicos.com.br
 +.mondialerelais-expeditions.com
 +.mondialinvestmentsltd.com
-+.mondialinvestmentsltd.vip
 +.mondialrelais-fr-livraison.com
 +.mondialrelais-france-suivi.com
 +.mondialrelais-suivis.com
@@ -105278,7 +105244,6 @@
 +.multiyogaoffer.jp.net
 +.mum.alibabachengdun.com
 +.mumbaifolks.com
-+.mumbo-ai.com
 +.mumdownunder.com
 +.mumglobal.com
 +.mummifiedpatienceunknowing.com
@@ -105643,7 +105608,6 @@
 +.my-deco-shop.com
 +.my-docs-jet.firebaseapp.com
 +.my-docs-jet.web.app
-+.my-downloads.de
 +.my-easy.shop
 +.my-ee-alert.web.app
 +.my-ee-billing-portal.web.app
@@ -106105,7 +106069,6 @@
 +.myiccu.web.app
 +.myicloudcam.com
 +.myiclouds-caryco.cyou
-+.myiclous-caryco.cyou
 +.myidteistraeami.weebly.com
 +.myidtelshnbc.weebly.com
 +.myidtelstracomidentityasauthorization2foidc.weebly.com
@@ -108873,7 +108836,6 @@
 +.nexte6volution.top
 +.nextel-ringtone.komi.su
 +.nexteraenergy.fr
-+.nextfaktpl.cfd
 +.nextgen-apple.fr
 +.nextgenerationzynkobsupporterlovesgood.duckdns.org
 +.nextgenideas2023.top
@@ -112399,7 +112361,6 @@
 +.ohioturnpike.org-rfvh.win
 +.ohioturnpike.org-tzp.win
 +.ohioturnpike.org-vdas.vip
-+.ohioturnpike.org-vhdu.vip
 +.ohioturnpike.org-xxios.vip
 +.ohioubereatsaccountsalert.duckdns.org
 +.ohjee.com
@@ -114159,7 +114120,6 @@
 +.opposedarrangement.net
 +.oppositeemperorcollected.com
 +.oppositeoperation.com
-+.oppositeparcel.com
 +.opposition-cb.fr
 +.opposition-enligne.fr
 +.opposs.com
@@ -116951,6 +116911,7 @@
 +.partner-id742.world
 +.partner-id891489.com
 +.partner-id897123.com
++.partner-notice.com
 +.partner-source.com
 +.partner-ts.groupon.be
 +.partner-ts.groupon.co.uk
@@ -122057,7 +122018,6 @@
 +.possicontr.pro
 +.possumamount.com
 +.post-a.top
-+.post-ag.help
 +.post-cardiff.gl.at.ply.gg
 +.post-check.top
 +.post-log.pushwoosh.com
@@ -122811,7 +122771,6 @@
 +.premiumwellpro.com
 +.premiumxvideo.com
 +.premiumyields.com
-+.premiumyields1.com
 +.premiumyields2.com
 +.premiumyields3.com
 +.premiumyields4.com
@@ -127099,7 +127058,6 @@
 +.pure-glow.fr
 +.pure-track.info
 +.pure-visionary.info
-+.pure18.fun
 +.pureadexchange.com
 +.pureadsltd.com
 +.pureay.life
@@ -128242,7 +128200,6 @@
 +.qualityrolexwatch.com
 +.qualitytraveling.com
 +.qualizebruisi.org
-+.qualmzinzi.pro
 +.qualswertos.top
 +.quanbailing.com
 +.quanc.net
@@ -129432,7 +129389,6 @@
 +.randomhouse.com.102.122.2o7.net
 +.randomignitiondentist.com
 +.randomjoyful.pro
-+.randomjoyfulse.pro
 +.randommirai.duckdns.org
 +.randomripple.pro
 +.randomsparkle.pro
@@ -131721,7 +131677,6 @@
 +.reportwave.cfd
 +.reportwest-midas.codmwest.com
 +.repostponing.cfd
-+.repoupdater.ddns.net
 +.repreirren.pro
 +.reprenebritical.org
 +.representacoesfenix.com
@@ -133365,7 +133320,6 @@
 +.rk-makler.de
 +.rk6h3.icu
 +.rkadint.com
-+.rkatamonju.info
 +.rkdms.com
 +.rkdpzcdehop.fun
 +.rken104.com
@@ -138459,7 +138413,6 @@
 +.secure.doll9jiva.com
 +.secure.east2pony.com
 +.secure.emeu0circ.com
-+.secure.etcmaf.win
 +.secure.etym6cero.com
 +.secure.fear7calk.com
 +.secure.feed5baby.com
@@ -141224,7 +141177,6 @@
 +.shikokbu.com
 +.shikroux.net
 +.shilohfarmtn.com
-+.shimmerclub.pro
 +.shimmeringconcert.com
 +.shimmeringdreamer.pro
 +.shimmeringdreamworld.pro
@@ -147407,8 +147359,6 @@
 +.starrentalcar-tonga.weebly.com
 +.starry-galaxy.com
 +.starryprotection.com
-+.starrysouffle.pro
-+.starrywildwhirl.pro
 +.stars.manystars.ru
 +.stars.politikinsider.pro
 +.starsdoor.com
@@ -150450,7 +150400,6 @@
 +.sunnybloom.pro
 +.sunnycascade.pro
 +.sunnycomet.pro
-+.sunnyechomind.pro
 +.sunnyenterprises.info
 +.sunnyglimmer.pro
 +.sunnyglimpse.pro
@@ -155003,7 +154952,6 @@
 +.thefacux.com
 +.thefaithfulrootshomestead.com
 +.thefakejournal.com
-+.thefallingwaterdesigns.com
 +.thefamilybargain.com
 +.thefarmhouseandthefarm.com
 +.thefashionablecorner.com
@@ -158894,7 +158842,6 @@
 +.tradingnow.tech
 +.tradingtacticstower.com
 +.tradingview.little-mouse.xyz
-+.tradiora.com
 +.traditionallyenquired.com
 +.traditionallyrecipepiteous.com
 +.tradiwnky.pro
@@ -159382,7 +159329,6 @@
 +.trd.bnclevel.com
 +.trd.bprofit-ai.com
 +.trd.bscapital-ltd.com
-+.trd.cfdreserve-vip.com
 +.trd.ghostglobaltd.com
 +.trd.hspchart.com
 +.trd.libertyinvest.proxy741.com
@@ -159533,7 +159479,6 @@
 +.trendmd.com
 +.trendmicro-update.org
 +.trendmirror.cfd
-+.trendmoversdubai.com
 +.trendnews.com
 +.trendnewshub.click
 +.trendnewsscope.click
@@ -161686,7 +161631,6 @@
 +.uclcollege.com
 +.ucleaner.com
 +.ucmasmauritius.com
-+.ucmhdmlqnr.com
 +.ucom.ne.jp
 +.uconn-jhvnp.formstack.com
 +.uconnrequestcancellationform1.weebly.com
@@ -162758,7 +162702,6 @@
 +.universalplanners.com
 +.universalsrc.com
 +.universalstudioshollywood.fr
-+.universaltravels.space
 +.universaltrout.com
 +.universami.ge
 +.universeexpansion.website
@@ -165859,7 +165802,6 @@
 +.vibrantoasis.pro
 +.vibrantpact.com
 +.vibrantpathwayof.pro
-+.vibrantrandom.pro
 +.vibrantreporter.com
 +.vibrantskyline.com
 +.vibrantspring.pro
@@ -166460,7 +166402,6 @@
 +.vinted.verpfiy837593.com
 +.vinted.vinte1de.com
 +.vinted.vintedverify905217paypal.com
-+.vinted.wallet905.shop
 +.vinted.zahlung41.de
 +.vintedapp.vip
 +.vintedcz.id5046.top
@@ -178515,7 +178456,6 @@
 +.zwyjpyocwv.com
 +.zwzdjb.xyz
 +.zx.docin.com
-+.zx.pyja.press
 +.zx.regeditscv.com
 +.zx.svcsghost.com
 +.zx4u41mgxq6x.live
