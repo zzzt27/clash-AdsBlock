@@ -1,9 +1,9 @@
-# Version: 202505170209
+# Version: 202505170309
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 178428
-# Last modified: 2025-05-17T02:09:53+0000
+# Entries: 178379
+# Last modified: 2025-05-17T03:09:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4340,7 +4340,6 @@
 +.6667799.weebly.com
 +.666aa777bb.com
 +.666bb777ww.com
-+.666bbb222www.com
 +.666hh999gg.com
 +.666p86el.square.site
 +.666ppp222ppp.com
@@ -13646,7 +13645,6 @@
 +.airnbnb.fr
 +.airpb.com
 +.airplane-aozg-9avj.9usuu9gr.workers.dev
-+.airplay.fr
 +.airpodsstore.fr
 +.airport-forums.gl.at.ply.gg
 +.airport-reporter.gl.at.ply.gg
@@ -14176,7 +14174,6 @@
 +.alebilet.id-543.pl
 +.alebilet.id534.pl
 +.alebilet.id5543.pl
-+.alebilet.id5544.pl
 +.alebilet.id6643.pl
 +.alebilet.id6644.pl
 +.alebilet.id8123.uk
@@ -14812,7 +14809,6 @@
 +.allegrolokalnie.500598.shop
 +.allegrolokalnie.505022.shop
 +.allegrolokalnie.51c.rest
-+.allegrolokalnie.52384751.xyz
 +.allegrolokalnie.545005.shop
 +.allegrolokalnie.551055.shop
 +.allegrolokalnie.5573423.sbs
@@ -24041,7 +24037,6 @@
 +.babyniceshark.com
 +.babysdeals.com
 +.babyshop-outlet.fr
-+.babysittingrainyoffend.com
 +.babysongtosleep.com
 +.babysteadygo.com
 +.babyverkoop.com
@@ -26421,7 +26416,6 @@
 +.benlkctra.firebaseapp.com
 +.benlkctra.web.app
 +.benmarshcycling.com
-+.bennedospok.run
 +.bennepungled.shop
 +.bennettashley.com
 +.benniepeters.com
@@ -27065,7 +27059,6 @@
 +.beyondnews-wire.click
 +.beyondnewswire.click
 +.beyondsauerkraut.com
-+.beyondthegraveparanormal.com
 +.beyondthewebheadlines.com
 +.beyondwickedmapping.org
 +.beyoote.com
@@ -28909,7 +28902,6 @@
 +.bncpos.firebaseapp.com
 +.bncpos.web.app
 +.bncrfi.cc
-+.bncrfii.org
 +.bncullfi.top
 +.bnculloi.top
 +.bndes.webcindario.com
@@ -35804,7 +35796,6 @@
 +.certumgroup.com
 +.certxpert.com
 +.ceruchina.com
-+.ceruleanchime.com
 +.cervejariacacique.com.br
 +.cerviinfer.pro
 +.ceryel.help
@@ -38136,7 +38127,6 @@
 +.cittadellassalluteee.weebly.com
 +.city-impact.gl.at.ply.gg
 +.city-markets.com
-+.city-markets.io
 +.city-outlet.fr
 +.city-parking-ssl1.com
 +.cityads.com
@@ -40107,7 +40097,6 @@
 +.coldshadowwhisper.pro
 +.coldspringautobody.com
 +.coldstar.pk
-+.coldwarmlie.pro
 +.coldwaters.info
 +.colebuxton.fr
 +.colectar.ro
@@ -41385,7 +41374,6 @@
 +.connexions-netflix.fr
 +.connexionsecure.fr
 +.connexpay.fr
-+.connext-cdn.azureedge.net
 +.connextra.com
 +.connivingly.info
 +.connxpayl.fr
@@ -43923,7 +43911,6 @@
 +.crayfish.spotlessconcepts.com
 +.crayfish.thecatherinewheel.co
 +.crayon.meishichina.com
-+.crazefiles.com
 +.crazesmalto.com
 +.crazy-baboon.com
 +.crazy-loveplace.com
@@ -52279,7 +52266,6 @@
 +.dmu.ict.go.ug
 +.dmuqumodgwm.com
 +.dmv.ca-govfcd.vip
-+.dmv.ca-govjod.vip
 +.dmv.ca-govnyp.vip
 +.dmv.ny-govqy.vip
 +.dmv.ny-govra.vip
@@ -53581,7 +53567,6 @@
 +.dpd-pomoc.nasneeq.com
 +.dpd-query.hfdbj.com
 +.dpd-query.igrsw.com
-+.dpd-search.cdlfj.com
 +.dpd-search.hfwlc.com
 +.dpd-search.msofs.com
 +.dpd-space.pgclw.com
@@ -53939,7 +53924,6 @@
 +.drive-secu.myportfolio.com
 +.drive.chelae.com
 +.drive.deupload.com
-+.drive.ky-govd.vip
 +.drive90.com
 +.driveauchan.fr
 +.drivecleaner.com
@@ -55892,7 +55876,6 @@
 +.echoayiti.com
 +.echobaddest.us
 +.echobanners.net
-+.echobreeze.pro
 +.echochain.cfd
 +.echochief.com
 +.echoela1.wixstudio.io
@@ -69903,7 +69886,6 @@
 +.glimmerglow.pro
 +.glimmeringgains.pro
 +.glimmernesterse.pro
-+.glimmernestse.pro
 +.glimmerpulse.pro
 +.glimmershade.online
 +.glimmersolar.com
@@ -70225,7 +70207,6 @@
 +.gm-talent-hub.webflow.io
 +.gm.fengyunzhibo.com
 +.gm2.biz
-+.gm8tz.lat
 +.gma.alicdn.com
 +.gma1.com
 +.gmads.net
@@ -73147,7 +73128,6 @@
 +.gutimbett.com.de
 +.gutlovinglife.com
 +.gutockeewhargo.net
-+.gutrnesak.com
 +.gutscheine-gewinn.com
 +.gutscheinland.de
 +.gutscheinmailer24.de
@@ -73957,7 +73937,6 @@
 +.haplessland.com
 +.happeavval.pro
 +.happen.spkt.io
-+.happenemerged.com
 +.happeningflutter.com
 +.happie-lex-s-school.teachable.com
 +.happiness-app.net
@@ -74099,7 +74078,6 @@
 +.harmonynesters.pro
 +.harmonynexus.com
 +.harmonypetal.pro
-+.harmonyseekingfound.pro
 +.harmonywhisk.pro
 +.harmonywing.com
 +.harmrietmeijer.nl
@@ -77598,7 +77576,6 @@
 +.howledmintier.com
 +.howlexhaust.com
 +.howling-terabyte-immense.on-fleek.app
-+.howlingwolvescallpack.pro
 +.howphantomwallet.webflow.io
 +.howploymope.com
 +.howprotectmypass.webservis.ru
@@ -80516,7 +80493,6 @@
 +.imparmalad.pro
 +.imparscalt.pro
 +.impartial-steal.pro
-+.impartiallori.pro
 +.impartialpath.com
 +.impassionedpresence.com
 +.impassynch.pro
@@ -83716,7 +83692,6 @@
 +.ithelpdesk-uc.weebly.com
 +.ithocawauthaglu.net
 +.itholder.com
-+.ithoughtsustache.info
 +.ithubainternships.co.za
 +.itibaninstalacoes.com.br
 +.itibr.org.br
@@ -84081,7 +84056,6 @@
 +.j0ss4np1c5.site
 +.j0v4lz--jpdp-idomp--set-workers-dev.translate.goog
 +.j1.piaobing.com
-+.j124odqx8f35esu.voltairels.pl
 +.j15do3.angell.vantagetennis.com
 +.j178.wmur.com
 +.j198.registercitizen.com
@@ -89091,7 +89065,6 @@
 +.kramersmarionnettes.com
 +.krankin.com
 +.kranlogen.webflow.io
-+.kranos.gr.com
 +.krantzreal.life
 +.kraonkelaere.com
 +.kraoqsvumatd.com
@@ -92044,7 +92017,6 @@
 +.lerceunpre.pro
 +.lerecensement.fr
 +.lererikal.org
-+.lereveresidence.com.br
 +.lericettedifrancy74.com
 +.lerkomarcizh.top
 +.lerloy.com
@@ -95416,7 +95388,6 @@
 +.louboutin-paschers.fr
 +.louboutinfemme-pascher.fr
 +.louboutinfrance.fr
-+.louboutinhommechaussures.fr
 +.louboutinoutletus.us.com
 +.louboutinpaschersoldes.fr
 +.louchaug.com
@@ -96030,7 +96001,6 @@
 +.luminousstickswar.com
 +.luminpath.online
 +.luminrimbu.pro
-+.luminspire.online
 +.luminstride.website
 +.luminvault.online
 +.lumipulse.live
@@ -96654,7 +96624,6 @@
 +.m.lousivency.com.cn
 +.m.lowshelp.top
 +.m.lpqhelp.top
-+.m.lr96.top
 +.m.lrjhelp.top
 +.m.lulitechnology.cn
 +.m.lusrg.cn
@@ -98110,7 +98079,6 @@
 +.managedweb.net
 +.manageenglne.com
 +.manageenglne.store
-+.managehub.store
 +.manageintel.com
 +.management-boost.exads.com
 +.management-entitled.gl.at.ply.gg
@@ -102096,7 +102064,6 @@
 +.mindlessslogan.com
 +.mindmemobile.com
 +.mindmeters.biz
-+.mindpilot.website
 +.mindpowr.com
 +.mindscelebrationearnestly.com
 +.mindscope.site
@@ -104707,7 +104674,6 @@
 +.ms.cnbanbao.com
 +.ms.cnczjy.com
 +.ms.dzen.ru
-+.ms.gov-ds.xin
 +.ms.gov-ku.xin
 +.ms.quens.top
 +.ms10be.be
@@ -106159,7 +106125,6 @@
 +.mypeachpass.com-csai.vip
 +.mypeachpass.com-dfbrf.vip
 +.mypeachpass.com-fgwsx.vip
-+.mypeachpass.com-fsioo.vip
 +.mypeachpass.com-gbfrd.vip
 +.mypeachpass.com-ghs.win
 +.mypeachpass.com-hfg.win
@@ -107644,7 +107609,6 @@
 +.nemado-tadifi.pro
 +.nemancarpets.co
 +.nematmaggi.pro
-+.nemesyspay.com
 +.neminte.com
 +.nemordespo.pro
 +.nemppa.com
@@ -110955,7 +110919,6 @@
 +.nuxexio-fin.com
 +.nuxtrade.com
 +.nuyixi.com
-+.nuyqsshmxgukny.com
 +.nuzostgcylun.com
 +.nuzzlehop.site
 +.nv-ad.24hstatic.com
@@ -111447,7 +111410,6 @@
 +.obedieval.my.id
 +.obedikioto.pro
 +.obedirectukly.info
-+.obejrz.pl
 +.obejrzyj-to.pl
 +.obeliestra.pro
 +.oberbergerfenster.de
@@ -121278,7 +121240,6 @@
 +.policyres.game.yy.com
 +.policytv.com.ng
 +.policytv.tv
-+.policyviolationspport.site
 +.policyviolatorbrandfocus.vercel.app
 +.polietilentorba.com
 +.polifd.digital
@@ -126655,7 +126616,6 @@
 +.pubimageboard.com
 +.pubimgs.com
 +.pubimgs.sapo.pt
-+.pubivxz.digital
 +.pubiwayliker.com
 +.pubjeuxinfos.info
 +.publi.atresmediapublicidad.com
@@ -141072,7 +141032,6 @@
 +.shimmeringdreamer.pro
 +.shimmeringdreamworld.pro
 +.shimmeringechoes.pro
-+.shimmeringfieldspro.pro
 +.shimmeringjoy.pro
 +.shimmeringmeadow.pro
 +.shimmeringpine.pro
@@ -148273,7 +148232,6 @@
 +.stats.wired.com
 +.stats.wordpress.com
 +.stats.wp.com
-+.stats.wp.org.kz
 +.stats.wpmucdn.com
 +.stats.wwd.com
 +.stats.www.ibm.com
@@ -148762,7 +148720,6 @@
 +.stellarium.es
 +.stellarium.fr
 +.stellaroracle.online
-+.stellarpinnacle.pro
 +.stellarshift.store
 +.stellarward.site
 +.stellarwhisper.online
@@ -151630,7 +151587,6 @@
 +.syncastle.online
 +.synccora.com
 +.syncdataupdatebillsecuritymainauthrecovery.backtoepamiaz.biz.id
-+.syncfernpace.pro
 +.synchrfragri.firebaseapp.com
 +.synchrobit.io
 +.synchrobox.adswizz.com
@@ -153973,7 +153929,6 @@
 +.temperrunnersdale.com
 +.tempertrick.com
 +.tempest.services.disqus.com
-+.tempestgrove.website
 +.tempisite.com
 +.tempkool.com
 +.templatemadness.com
@@ -156628,7 +156583,6 @@
 +.todlfdjw.godaddysites.com
 +.todlht-xnm.rocks
 +.todoapk.net
-+.todoarmarios.top
 +.todoaxarquia.com
 +.todocalefactores.top
 +.todoenkasa.com
@@ -161036,7 +160990,6 @@
 +.txdmv.gov-jwh.win
 +.txdmv.gov-jwn.win
 +.txdmv.gov-kte.icu
-+.txdmv.gov-ktq.icu
 +.txdmv.gov-lku.win
 +.txdmv.gov-ncv.win
 +.txdmv.gov-rj.xin
@@ -167881,7 +167834,6 @@
 +.w-s-a.co.uk
 +.w-tools.com
 +.w-translations.gl.at.ply.gg
-+.w-upchange.igcwq.top
 +.w.4kporn.xxx
 +.w.ap.formaxprime.co.uk
 +.w.aviso-cliente.net
@@ -170257,7 +170209,6 @@
 +.wellsfargonline.rumahweb.org
 +.wellsigns.com
 +.wellspringspa.ca
-+.wellstrader.com
 +.wellt--ledgre-sso.webflow.io
 +.wellta--leidger--usa.webflow.io
 +.welltai--ilive--lidgwer.webflow.io
