@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 18 May 2025
 # LatestVersion 24.01
-# Domain Count: 15774
+# Domain Count: 15772
 #===============================================================
 
 +.0i0i0i0.com
@@ -1238,7 +1238,6 @@
 +.disqusads.com
 +.disrespectpreceding.com
 +.dl-rms.com
-+.dlfvgndsdfsn.com
 +.dm.bytedance.com
 +.dmgmediaprivacy.co.uk
 +.dmpprof.com
@@ -1756,7 +1755,6 @@
 +.instabug.com
 +.installationmidterm.com
 +.instana.io
-+.instartlogic.com
 +.insticator.com
 +.instinctiveads.com
 +.insurads.com
