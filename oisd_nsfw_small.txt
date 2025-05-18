@@ -1,9 +1,9 @@
-# Version: 202505181820
+# Version: 202505181916
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21737
-# Last modified: 2025-05-18T18:20:55+0000
+# Entries: 21734
+# Last modified: 2025-05-18T19:16:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10652,7 +10652,6 @@
 +.manhwas.net
 +.manhwasex.net
 +.manhwavn.com
-+.manhwaweb.com
 +.manhwax.org
 +.maniacpass.com
 +.maniacture.com
@@ -10714,7 +10713,6 @@
 +.masalaseen.net
 +.masaporn.me
 +.masaporn.vip
-+.masj.ru
 +.maskarad.biz
 +.masked.love
 +.masplux.one
@@ -10798,7 +10796,6 @@
 +.maturenakedfree.com
 +.maturenearby.com
 +.matureneighborconnections.com
-+.matureneighbourhood.com
 +.maturenextdoor.com
 +.maturenude.tv
 +.maturenudewomen.net
@@ -11430,6 +11427,7 @@
 +.mpchat.com
 +.mpgcafe.com
 +.mplstudios.com
++.mpon.info
 +.mrazens.com
 +.mrdeepfakes.com
 +.mrdeepfakes.xyz
@@ -17914,7 +17912,6 @@
 +.tellyplay.com
 +.telochki.org
 +.telrock.net
-+.telrock.org
 +.telugu-xxx.com
 +.telugu.cyou
 +.telugu.icu
@@ -20063,7 +20060,6 @@
 +.xemsex.me
 +.xemsex.sex
 +.xemsex.vin
-+.xemsexdi.xyz
 +.xemsexfull.com
 +.xemsexjav.lat
 +.xemsexnhat.live
@@ -21435,6 +21431,7 @@
 +.yooma.su
 +.yoosex.top
 +.yootalk.net
++.yotube.com
 +.you-ladies.de
 +.you-porn.com
 +.you-stories.com
