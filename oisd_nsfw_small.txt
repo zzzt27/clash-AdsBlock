@@ -1,9 +1,9 @@
-# Version: 202505180316
+# Version: 202505180416
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21635
-# Last modified: 2025-05-18T03:16:24+0000
+# Entries: 21633
+# Last modified: 2025-05-18T04:16:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -221,7 +221,6 @@
 +.2busty.net
 +.2bzha.com
 +.2d-erocafe.com
-+.2date4love.com
 +.2dhentai.club
 +.2djgame.net
 +.2eroticporn2.com
@@ -2090,6 +2089,7 @@
 +.befuck.video
 +.behaarteladies.de
 +.beianrufsex.com
++.beijosquentes.com
 +.belamionline.com
 +.belasdovale.com.br
 +.beleggingsprofessionals.com
@@ -14789,7 +14789,6 @@
 +.protinok.org
 +.protinok.top
 +.provocami.com
-+.proximeety.com
 +.proxnxx.com
 +.proxy.gd
 +.proxyadult.org
@@ -16977,7 +16976,6 @@
 +.singleflirt.com
 +.singleflirtplace.com
 +.singlelogin.re
-+.singlemanforum.com
 +.singleparentmeet.com
 +.singlesmokers.co.uk
 +.sinkkuseuraa.com
@@ -17511,7 +17509,6 @@
 +.swapperai.com
 +.swappz.com
 +.swapsmut.com
-+.sweet-cutie.co.za
 +.sweet-pornstars.com
 +.sweetbabeslondon.com
 +.sweetcollection.es
@@ -20176,6 +20173,7 @@
 +.xmaxix.com
 +.xmaza.co
 +.xmaza.me
++.xmaza.net
 +.xmaza.org
 +.xmeeting.com
 +.xmegadrive.com
