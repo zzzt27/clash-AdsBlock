@@ -1,9 +1,9 @@
-# Version: 202505172216
+# Version: 202505180015
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21646
-# Last modified: 2025-05-17T22:16:05+0000
+# Entries: 21644
+# Last modified: 2025-05-18T00:15:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -412,6 +412,7 @@
 +.85st.us
 +.8888.porn
 +.88av.one
++.88p2p.com
 +.8animal.com
 +.8boobs.com
 +.8chan.moe
@@ -538,6 +539,7 @@
 +.acmejoy.com
 +.acompanhantesdemoc.com.br
 +.acompanhantesparacatu.com.br
++.acscdn.com
 +.actif-soumis.com
 +.actionmatures.com
 +.actionviewphotography.com
@@ -1239,6 +1241,7 @@
 +.ant.com
 +.antalyadanescort.com
 +.antalyaescorthot.com
++.antalyaescortlar.com.tr
 +.antarvasna3.com
 +.antarvasnabf.com
 +.antarvasnahd.com
@@ -3523,7 +3526,6 @@
 +.classificadosxbr.com
 +.classluxo.com.br
 +.classmodels.com
-+.cleopatraescorts.co.uk
 +.clickaine.com
 +.clickandflirt.com
 +.clickbdsm.com
@@ -4170,7 +4172,6 @@
 +.desipornphoto.com
 +.desipornscandals.com
 +.desipornvideo.cc
-+.desipornx.mobi
 +.desipornx.org
 +.desiporny.com
 +.desiprn.com
@@ -6763,6 +6764,7 @@
 +.gifhq.com
 +.gifkin.net
 +.gifmeat.com
++.gifnuki.com
 +.gifporntube.com
 +.gifsauce.com
 +.gifscollection.com
@@ -8730,6 +8732,7 @@
 +.intim-uslugi.info
 +.intim-znakomstva.com
 +.intim.de
++.intim.guru
 +.intim24.eu
 +.intimacyflirts.com
 +.intimatlas1.com
@@ -10928,7 +10931,6 @@
 +.meisjeneuken.net
 +.mejane.com
 +.melapelacomics.com
-+.melapelocondibujos.com
 +.melapelogays.com
 +.melayupanas.com
 +.melayuseksvideo.org
@@ -12736,6 +12738,7 @@
 +.paradisehill.cc
 +.paradisenudes.com
 +.paradisetv.co.jp
++.paraeles.pt
 +.parasited.com
 +.parastapornoa.com
 +.parejas.net
@@ -13555,7 +13558,6 @@
 +.pornfuror.com
 +.porngals.com
 +.porngals4.com
-+.porngames.biz
 +.porngames.com
 +.porngames.games
 +.porngames.tv
@@ -15056,7 +15058,6 @@
 +.ratedgross.com
 +.ratemy.co
 +.ratemywand.com
-+.ratuhentai.pro
 +.ratx.com
 +.ravencams.com
 +.ravepartiescorp.com
@@ -15437,6 +15438,7 @@
 +.rulet-18.com
 +.ruletka-888.com
 +.rumahjav.com
++.rumahperjaka.site
 +.rumahporno.com
 +.rumporn.com
 +.run.place
@@ -15604,6 +15606,7 @@
 +.sauna.rest
 +.savana.com
 +.savehentai.info
++.savemp4.red
 +.savemycam.com
 +.saveporn.net
 +.savitabhabhi.vip
@@ -18263,7 +18266,6 @@
 +.top1phimsex.tube
 +.top1phimsex.video
 +.top4fans.com
-+.top7788.com
 +.topadult.org
 +.topadulttubies.com
 +.topanasex.com
@@ -18410,7 +18412,6 @@
 +.transangels.com
 +.transangelsnetwork.com
 +.transangelsporn.com
-+.transarmuito.com
 +.transdoe.com
 +.transen.net
 +.transenklub.net
@@ -18511,7 +18512,6 @@
 +.truyenhentai.xyz
 +.truyenhentai18.net
 +.truyenhentaivn.icu
-+.truyenhentaivn.live
 +.truyenhentaiz.net
 +.truyensex.blog
 +.truyensex.moe
@@ -18613,7 +18613,6 @@
 +.tubeamateurporn.com
 +.tubeanalporn.com
 +.tubebaba.com
-+.tubebay.net
 +.tubebdsm.com
 +.tubeboat.com
 +.tubecharm.com
@@ -20279,7 +20278,6 @@
 +.xn--m1abbbg.io
 +.xn--m1abbbg.me
 +.xn--mgbf7fdim.com
-+.xn--mgbkt9eckr.net
 +.xn--ngbcrg3b.com
 +.xn--porn-tqa.net
 +.xn--q3cspkd6d0a0d.com
