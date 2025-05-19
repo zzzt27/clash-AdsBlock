@@ -1,9 +1,9 @@
-# Version: 202505192016
+# Version: 202505192129
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21692
-# Last modified: 2025-05-19T20:16:12+0000
+# Entries: 21686
+# Last modified: 2025-05-19T21:29:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3911,7 +3911,6 @@
 +.cutiecomics.com
 +.cutiesover30.com
 +.cyber-fuck.com
-+.cyberns.net
 +.cyoc.net
 +.cyrillo.biz
 +.cytohistology.ru
@@ -4334,7 +4333,6 @@
 +.discreetcrush.com
 +.discreetdolls.com
 +.discreethookups.co.uk
-+.disneynow.com
 +.disponivel.com
 +.disponivel.net
 +.distintas.net
@@ -5029,6 +5027,7 @@
 +.erotskeprice.info
 +.erotskeprice.net
 +.erotube.dk
++.erovi.jp
 +.erovideochat.net
 +.erovoice.us
 +.erowall.com
@@ -5222,7 +5221,6 @@
 +.exotickenya.com
 +.exoticnigeria.com
 +.exotictanzania.com
-+.expage.com
 +.expertvintage.com
 +.explayboybunnies.com
 +.explicite-art.com
@@ -7231,7 +7229,6 @@
 +.hatayiskenderunescort.com
 +.hataytravel.com
 +.hataywebmasters.com
-+.hatchresources.com
 +.hath.network
 +.hayat-schutz.de
 +.hayav.com
@@ -8781,7 +8778,6 @@
 +.ipostnaked.com
 +.ipuss.tv
 +.ipussypics.com
-+.iqdb.org
 +.iqoo.me
 +.iqoption.com
 +.iqqtv.net
@@ -15026,6 +15022,7 @@
 +.qwe.wiki
 +.qwertypu.com
 +.qwiketube.com
++.qwqw.hu
 +.r-34.xyz
 +.r18.com
 +.r18.dev
@@ -15183,7 +15180,6 @@
 +.realzoomovies.com
 +.reations.com
 +.rebelbrides.com
-+.reblog.hu
 +.rec-tube.com
 +.recon.com
 +.recordbate.com
@@ -15535,7 +15531,6 @@
 +.rusescorto.com
 +.rusex.love
 +.rusexvideo.com
-+.rushchat.ai
 +.rushfuck.com
 +.rusigry.com
 +.rusmillion.ru
@@ -15734,7 +15729,6 @@
 +.scout69.com
 +.screenjunkies.com
 +.scriptbin.works
-+.scrivimiadesso.com
 +.scrolller.com
 +.scrolller.online
 +.sdc.com
@@ -20511,6 +20505,7 @@
 +.xonuox.net
 +.xoporn.com
 +.xorgasmo.com
++.xorgasmos.net
 +.xorow.ru
 +.xossip.group
 +.xossip.pro
@@ -21330,7 +21325,6 @@
 +.yasex.net
 +.yasexe.pro
 +.yasyadong.com
-+.yatv16.me
 +.yavtube.com
 +.yazawaj.com
 +.yazhouse8.com
