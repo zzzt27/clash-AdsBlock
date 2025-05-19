@@ -1,9 +1,9 @@
-# Version: 202505191315
+# Version: 202505191416
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21665
-# Last modified: 2025-05-19T13:15:47+0000
+# Entries: 21666
+# Last modified: 2025-05-19T14:16:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1302,7 +1302,6 @@
 +.aporntv.com
 +.apornvideo.com
 +.appav.site
-+.appowls.com
 +.appsgeyser.com
 +.ar-xnxx.com
 +.arab-xn.com
@@ -3070,6 +3069,7 @@
 +.camshowrecordings.com
 +.camshowsites.com
 +.camshowsrecorded.com
++.camshq.info
 +.camslib.com
 +.camsloveaholics.com
 +.camsmut.com
@@ -4592,6 +4592,7 @@
 +.dvderotik.com
 +.dvdgayonline.com
 +.dvdl.net
++.dvdrev.com
 +.dvdvideosoft.net
 +.dvir.ru
 +.dwporn.com
@@ -11840,7 +11841,6 @@
 +.nastyvideotube.com
 +.nataliedate.com
 +.natashaescort.com
-+.natasharoy.net
 +.national-porn.art
 +.nationescort.com
 +.natropinkah.ru
@@ -18153,6 +18153,7 @@
 +.tickling-videos.net
 +.ticklingforum.com
 +.tickzoo.tv
++.tiffany.ca
 +.tightassanal.com
 +.tightasspics.com
 +.tightbaldpussy.com
@@ -19595,7 +19596,6 @@
 +.watch-my-gf.com
 +.watch.porn
 +.watch4beauty.com
-+.watchanime.video
 +.watchdirty.is
 +.watchdirty.to
 +.watcherotic.com
@@ -20390,6 +20390,7 @@
 +.xnxx123.net
 +.xnxx123.org
 +.xnxx123.tv
++.xnxx18.info
 +.xnxx18.org
 +.xnxx2.cc
 +.xnxx2.info
