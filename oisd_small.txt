@@ -1,9 +1,9 @@
-# Version: 202505190809
+# Version: 202505190909
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43450
-# Last modified: 2025-05-19T08:09:57+0000
+# Entries: 43441
+# Last modified: 2025-05-19T09:09:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -830,7 +830,6 @@
 +.4088846d50.com
 +.40ceexln7929.com
 +.40cg.com
-+.40hardcore.galleryprogram.com
 +.41206396.xyz
 +.4126fe80.xyz
 +.4164d5b6eb.com
@@ -6719,7 +6718,6 @@
 +.atonementelectronics.com
 +.atonementimmersedlacerate.com
 +.atonementwisely.com
-+.atoniesknoweth.shop
 +.atorks.xyz
 +.atpanchama.com
 +.atpansagean.com
@@ -19388,7 +19386,6 @@
 +.greetpanda.org
 +.greewepi.net
 +.greewoabaikr.com
-+.grefagroon.com
 +.grefutiwhe.com
 +.gregneegnohoo.com
 +.greheelsy.net
@@ -22137,7 +22134,6 @@
 +.jggegj-rtbix.top
 +.jggldfvx.com
 +.jggleds.shop
-+.jgiyadntcqakjyp.com
 +.jgjyxf.xyz
 +.jgntjtyf.icu
 +.jgqaainj.buzz
@@ -23687,7 +23683,6 @@
 +.likeads.com
 +.likecontrol.com
 +.likelyguy.com
-+.likenessmockery.com
 +.likenewvids.online
 +.likescenesfocused.com
 +.likevertising.com
@@ -37933,7 +37928,6 @@
 +.tjk-njk.com
 +.tjpzz.buzz
 +.tjuspyk.icu
-+.tjxjpqa.com
 +.tk.504pk.com
 +.tk.kaufda.de
 +.tk.meinprospekt.de
@@ -41981,9 +41975,7 @@
 +.wwbdayuvbvrsr.rocks
 +.wwenifnijjpi.com
 +.wwija.com
-+.wwowww.xyz
 +.wwpon365.ru
-+.wwqssmg.com
 +.wwqsvldq.work
 +.www-banner.chat.ru
 +.www-google-analytics.l.google.com
@@ -42013,7 +42005,6 @@
 +.wyrockraptest.shop
 +.wysasys.com
 +.wyvlljvbbjvvm.top
-+.wyvw.cn
 +.wzcuinglezyz.one
 +.wzeagshwyric.com
 +.wzeofdkmyo.com
