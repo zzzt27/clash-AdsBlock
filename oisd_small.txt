@@ -1,9 +1,9 @@
-# Version: 202505200609
+# Version: 202505200710
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43429
-# Last modified: 2025-05-20T06:09:48+0000
+# Entries: 43450
+# Last modified: 2025-05-20T07:10:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -745,6 +745,7 @@
 +.357fbe0abe.71d287479d.com
 +.35a92e241c.30ea3091fb.com
 +.360.anatic.net
++.360degreesprojects.com
 +.360protected.com
 +.360yield.com
 +.3625ggtp1.com
@@ -2129,6 +2130,7 @@
 +.abwattsoakmoss.top
 +.abwhyag.com
 +.abwiswry.live
++.abwpstaging.com
 +.abwsunml.com
 +.abxomvaqnosw.com
 +.abyssfar.com
@@ -3179,6 +3181,7 @@
 +.adrevenue.appsflyer.com
 +.adrevenuerescue.com
 +.adrgyouguide.com
++.adrianpeachdesign.com
 +.adriftventilatormeatloaf.com
 +.adright.co
 +.adright.com
@@ -6234,6 +6237,7 @@
 +.aqcwzaossxti.com
 +.aqcxudtisa.com
 +.aqdkehbez.com
++.aqdlwqnlttt.com
 +.aqgyncebdxmpw.icu
 +.aqhz.xyz
 +.aqi.wd.amberweather.com
@@ -9215,6 +9219,7 @@
 +.bytesdictatescoop.com
 +.bytmfj.xyz
 +.bytogeticr.com
++.byuatuitvfbk.xyz
 +.byyanmaor.com
 +.byzoruator.com
 +.bzclk.baidu.com
@@ -10150,7 +10155,6 @@
 +.chaindedicated.com
 +.chaingptweb3.org
 +.chaintopdom.nl
-+.chaipoaveb.net
 +.chaipoodrort.com
 +.chaiptut.xyz
 +.chairmansmile.com
@@ -10589,8 +10593,8 @@
 +.cleftmeter.com
 +.clemencyexceptionpolar.com
 +.clenchedfavouritemailman.com
-+.clerkrevokesmiling.com
 +.clerrrep.com
++.clever-brother.com
 +.cleverads.vn
 +.cleverjump.org
 +.clevernesscolloquial.com
@@ -11031,6 +11035,7 @@
 +.cognizancesteepleelevate.com
 +.cogsnarks.shop
 +.cogwoodprester.shop
++.cogzsatyhofvp.online
 +.cohawaut.com
 +.coherencemessengerrot.com
 +.cohereoverdue.com
@@ -15403,6 +15408,7 @@
 +.dvmdwmnyj3u4h.cloudfront.net
 +.dvs.china.com
 +.dvser.china.com
++.dvulz.org
 +.dvv009j588zal.cloudfront.net
 +.dvvemmg.com
 +.dvwowtnmyluv4.cloudfront.net
@@ -16106,6 +16112,7 @@
 +.empond.com
 +.emptieskischen.shop
 +.ems.youku.com
++.emslskcwvhzhx.tech
 +.emu.blitzpower.com
 +.emu.cortexfutura.com
 +.emu.motala.no
@@ -16404,6 +16411,7 @@
 +.etahub.com
 +.etargetnet.com
 +.etchantmegger.click
++.etetxwdgqxufr.one
 +.etflpbk.com
 +.ethaistoothi.com
 +.ethan.wang
@@ -18093,6 +18101,7 @@
 +.fruitlesshooraytheirs.com
 +.frutwafiwah.com
 +.fruvumoxw.com
++.frxdebifmmw.com
 +.fryawlauk.com
 +.fryboldlymalice.com
 +.frycmisfixa.com
@@ -18838,6 +18847,7 @@
 +.gkbhrj49a.com
 +.gkbpmrtixkzui.one
 +.gkeolwi.icu
++.gkhxtswd.com
 +.gkyju.space
 +.gl-cash.com
 +.gla63a4l.de
@@ -19758,6 +19768,7 @@
 +.gxrpbnhskxrtj.vip
 +.gxzvrffzlfxyq.global
 +.gycbpuyulmeji.xyz
++.gyftxmucdqvup.xyz
 +.gygvodegxicbv.love
 +.gyh1lh20owj.ru
 +.gylor.xyz
@@ -20049,6 +20060,7 @@
 +.hdblive.com
 +.hdbtop.com
 +.hddcode.com
++.hdfnsoytorpam.click
 +.hdqxbeihymhut.online
 +.hdsrc-a.akamaihd.net
 +.hdtcode.com
@@ -22876,6 +22888,7 @@
 +.kixfuvmhibuk.com
 +.kiynew.com
 +.kjdsfjisdfjr23.azurewebsites.net
++.kjgnidnhlxugm.icu
 +.kjsrpkibdjtyy.online
 +.kjsvvnzcto.com
 +.kjxhd.cn
@@ -26999,6 +27012,7 @@
 +.ngc1.nsm-corp.com
 +.ngcghsdvjfcpp.club
 +.ngegas.files.im
++.ngforanoppor.org
 +.ngfruitiesmatc.info
 +.ngfycrwwd.com
 +.nggbpptthpm.com
@@ -27481,6 +27495,7 @@
 +.nvjqm.com
 +.nvpartnerspromo.com
 +.nvpokyko.icu
++.nvpylxkdptacm.today
 +.nvtvssczb.com
 +.nvuzubaus.tech
 +.nwabcuwugact.com
@@ -27589,7 +27604,6 @@
 +.oaphogekr.com
 +.oapseegluls.com
 +.oapsoulreen.net
-+.oaraiwephoursou.net
 +.oardaptaunga.net
 +.oardilin.com
 +.oarswithdraw.com
@@ -28424,6 +28438,7 @@
 +.osamapk.com
 +.osamara.com
 +.osarmapa.net
++.oscarey.my.id
 +.oscohkajcjz.com
 +.osd.oxygem.it
 +.osdhkyor.com
@@ -31231,6 +31246,7 @@
 +.qavhivvcex.com
 +.qazjpdzhatxaw.vip
 +.qazrvobkmqvmr.top
++.qbkraweaoemzb.top
 +.qbrth.ezcontacts.com
 +.qbrzvovrozqer.top
 +.qbsday.xyz
@@ -31346,6 +31362,7 @@
 +.qnmesegceogg.com
 +.qnp16tstw.com
 +.qnqtgyq.icu
++.qnsabgtfnvgb.com
 +.qnsr.com
 +.qnsxtvhfnajnw.global
 +.qoaaa.com
@@ -31364,11 +31381,13 @@
 +.qpigulofbwah.com
 +.qpoe.com
 +.qppq166n.de
++.qprmqmhtilo.com
 +.qprskl.com
 +.qpwvhsxxzwgft.global
 +.qpyrqg.xyz
 +.qqbqy.com
 +.qqganna.icu
++.qqkyhkfakl.xyz
 +.qqqdsrjovklsr.today
 +.qqrxk.club
 +.qqsfafvkgsyto.online
@@ -36502,7 +36521,6 @@
 +.stuntoffer.com
 +.stupid-luck.com
 +.stupidityscream.com
-+.stupsouchig.com
 +.sturdyarrival.com
 +.sturgeon.patentfamily.com
 +.sturtsbabassu.shop
@@ -40131,6 +40149,7 @@
 +.uwaxoyfklhm.com
 +.uwfcqtdb.xyz
 +.uwlzsfo.com
++.uwnqfhnsmveti.icu
 +.uwnytpkxxpueh.club
 +.uwoaptee.com
 +.uwqsacaoeshlz.rocks
@@ -40403,6 +40422,7 @@
 +.vfegqmbcgyndw.today
 +.vfghd.com
 +.vfl81ea28aztw7y3.pro
++.vfndyulomlfk.com
 +.vfqgmtqglqxkd.xyz
 +.vfthr.com
 +.vftvbx.xyz
@@ -40759,7 +40779,6 @@
 +.votingbemixt.website
 +.votookrogn.net
 +.votruiiuefzwd.today
-+.voucoapoo.com
 +.voudl.club
 +.vougaipte.net
 +.vovhalrrqiowz.love
@@ -41364,7 +41383,6 @@
 +.whaukroati.net
 +.whaumsaift.com
 +.whaurteruw.com
-+.whautchaup.net
 +.whautsis.com
 +.whauvebul.com
 +.whauzavouweb.com
@@ -41456,7 +41474,6 @@
 +.whoopblew.com
 +.whoopseelratiy.net
 +.whoostoo.net
-+.whootitoukrol.net
 +.whoppercreaky.com
 +.whoptoorsaub.com
 +.whotsirs.net
@@ -41675,6 +41692,7 @@
 +.wkabios.icu
 +.wkclick.baidu.com
 +.wkctj.baidu.com
++.wkjvzljmxdzni.top
 +.wkoocuweg.com
 +.wktyyxtvwthxp.one
 +.wkvvzeqybmqmw.top
@@ -42911,6 +42929,7 @@
 +.ymprove.gmx.net
 +.ymprove.web.de
 +.ymqlrkznenfcd.world
++.ymrxocxihgf.com
 +.ymtracking.com
 +.ynklendr.online
 +.ynlfpyeifc.com
@@ -42922,6 +42941,7 @@
 +.yoc.younited-credit.com
 +.yockingdey.shop
 +.yodimedia.com
++.yoecsffqwtqle.life
 +.yofnvrab.com
 +.yogapersuasive.com
 +.yogar2ti8nf09.com
@@ -43002,6 +43022,7 @@
 +.yremovementxvi.org
 +.yresumeformor.com
 +.yrhnw7h63.com
++.yritjxjkcqf.xyz
 +.yrwqquykdja.com
 +.ys-log-upload-os.hoyoverse.com
 +.ys2000.cdn.bcebos.com
@@ -43106,6 +43127,7 @@
 +.zajukrib.net
 +.zakld.com
 +.zakruxxita.com
++.zaksmeqp.com
 +.zalo-ads-240.zadn.vn
 +.zalo-ads-480.zadn.vn
 +.zalo-ads.zadn.vn
@@ -43135,7 +43157,6 @@
 +.zatloudredr.com
 +.zatnoh.com
 +.zauchogligreted.net
-+.zaudephaigrauto.net
 +.zaugaunachuchiw.net
 +.zaunooptaips.com
 +.zauroonephofiph.com
