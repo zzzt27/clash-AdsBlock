@@ -1,9 +1,9 @@
-# Version: 202505200915
+# Version: 202505201016
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21694
-# Last modified: 2025-05-20T09:15:33+0000
+# Entries: 21691
+# Last modified: 2025-05-20T10:16:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7856,7 +7856,6 @@
 +.homepornbay.com
 +.homepornfilms.com
 +.homepornking.com
-+.homeporno.biz
 +.homeporno.mobi
 +.homesexplanet.com
 +.hometownnudes.com
@@ -9407,6 +9406,7 @@
 +.jpdmv.com
 +.jpsex-xxx.com
 +.jpvhub.com
++.jpvoyeur.net
 +.jrants.com
 +.jrpop.com
 +.jsutandy.com
@@ -10437,7 +10437,6 @@
 +.lustyweb.live
 +.luticlip.com
 +.luvcelebs.com
-+.luvlabo.jp
 +.luvland.co.za
 +.luvprn.com
 +.luvr.ai
@@ -13261,7 +13260,6 @@
 +.pokegirlgo.com
 +.pokerdom5.su
 +.pokerdombbd.top
-+.pokerdomlen.top
 +.pokerdomris.top
 +.pokerdomrru.top
 +.polarpornhd.com
@@ -16448,7 +16446,6 @@
 +.sexros.biz
 +.sexru.xyz
 +.sexrura.pl
-+.sexrzn.guru
 +.sexs-photo.com
 +.sexs-xxxl.com
 +.sexs.site
