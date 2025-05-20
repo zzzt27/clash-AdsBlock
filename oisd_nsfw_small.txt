@@ -1,9 +1,9 @@
-# Version: 202505200315
+# Version: 202505200415
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21673
-# Last modified: 2025-05-20T03:15:25+0000
+# Entries: 21703
+# Last modified: 2025-05-20T04:15:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1545,6 +1545,7 @@
 +.assistirhentai.com
 +.assmgp.com
 +.assoass.com
++.associatedcontent.com
 +.assoholics.cc
 +.assparade.com
 +.asspig.com
@@ -1633,6 +1634,7 @@
 +.avdodee.com
 +.avdonna.com
 +.avelip.com
++.avemmy.net
 +.avenue-x.com
 +.avero.jp
 +.avfhd.com
@@ -2495,6 +2497,7 @@
 +.blogger.ba
 +.bloglag.com
 +.blogs.fr
++.blogsport.com
 +.blogspost.com
 +.blovjob.com
 +.blowboobs.com
@@ -2830,6 +2833,7 @@
 +.bsdmporn.net
 +.bsexvideos.com
 +.bshrdr.com
++.bt-chat.com
 +.btt803.com
 +.bubbaporn.com
 +.bubbas.in
@@ -3714,6 +3718,7 @@
 +.coochporn.com
 +.coolgaymovies.com
 +.coolinet.net
++.cooliris.com
 +.coollesbianporn.com
 +.coolporns.com
 +.coolsexnew.com
@@ -3757,6 +3762,7 @@
 +.cougarillo.com
 +.cougars-infideles.com
 +.cougars.com
++.cougarukdating.co.uk
 +.coupleslookingforsexmen.com
 +.couplesnus.com
 +.cowanimalsex.fun
@@ -5009,6 +5015,7 @@
 +.erotikfilmizle.cx
 +.erotikfilmizle1.cc
 +.erotikfilmkeyfi.net
++.erotikfilmkeyfi.site
 +.erotikfilmler.club
 +.erotikfilmsitesi.vip
 +.erotikforum.at
@@ -5082,6 +5089,7 @@
 +.escortdirectory.com
 +.escortdomain.net
 +.escortdude.com
++.escorte-bucuresti.sexy
 +.escorte.com
 +.escorteintime.com
 +.escorteurogirls.com
@@ -7229,6 +7237,7 @@
 +.hayav.com
 +.haysex.us
 +.haysex.vip
++.haysex18.net
 +.hboav.com
 +.hcbdsm.com
 +.hclips.com
@@ -7850,6 +7859,7 @@
 +.homepornbay.com
 +.homepornfilms.com
 +.homepornking.com
++.homeporno.biz
 +.homeporno.mobi
 +.homesexplanet.com
 +.hometownnudes.com
@@ -8654,6 +8664,7 @@
 +.indoporn.mobi
 +.indoporn.pro
 +.indosex21.com
++.indosex21.net
 +.indoxvideos.com
 +.indsex.in
 +.indxxx.com
@@ -10147,6 +10158,7 @@
 +.linkdolls.com
 +.linkgoed.nl
 +.linkgp.com.br
++.linkhipe.com
 +.linkhotel.nl
 +.linkiest.com
 +.linkmetoporn.com
@@ -10418,6 +10430,7 @@
 +.lustgoddess.com
 +.lusthaus.cc
 +.lusthaus.live
++.lustholic.com
 +.lustich.de
 +.lustmap.ch
 +.lustomic.com
@@ -10500,6 +10513,7 @@
 +.magyarlanyok.net
 +.magyarporno.tv
 +.mahajataha.com
++.mahalini.com
 +.maheir.com
 +.mahoushoujobu.com
 +.maidvids.com
@@ -11205,6 +11219,7 @@
 +.mlookelporno.com
 +.mm111.cc
 +.mmadult.xyz
++.mmdfans.net
 +.mmdhentai.com
 +.mmdhub.net
 +.mmhdhub.com
@@ -11377,6 +11392,7 @@
 +.motherlessmedia.com
 +.motherlesspics.com
 +.motorsxxx.com
++.moujmasti.com
 +.mousouzoku-av.com
 +.mouthporn.net
 +.mov18plus.com
@@ -12319,6 +12335,7 @@
 +.nungxxx.net
 +.nunude.com
 +.nunuporn.com
++.nuoga.eu
 +.nupornfree.com
 +.nupornsite.com
 +.nurgay.to
@@ -12460,6 +12477,7 @@
 +.olo.cool
 +.olp.xyz
 +.olympine.com
++.omahbokep.me
 +.omaporno.pics
 +.omasex.com
 +.omasex.tv
@@ -12551,6 +12569,7 @@
 +.onlyfansfuck.com
 +.onlyfanslifestyle.com
 +.onlyfanspacks.com
++.onlyfanstop.org
 +.onlyfaponic.com
 +.onlyfinder.com
 +.onlyflings.com
@@ -13253,6 +13272,7 @@
 +.pokegirlgo.com
 +.pokerdom5.su
 +.pokerdombbd.top
++.pokerdomfog.top
 +.pokerdomlen.top
 +.pokerdomris.top
 +.pokerdomrru.top
@@ -14813,6 +14833,7 @@
 +.prostitutkisex.com
 +.prostitutkisexy.com
 +.prostitutkishelkovonice.net
++.prostitutkisochi.party
 +.prostitutkisoy.com
 +.prostitutkisoy.info
 +.prostitutok-net.top
@@ -14943,7 +14964,6 @@
 +.putinho.net
 +.putlocker.gy
 +.putonas.xxx
-+.putricinta.com
 +.pv.be
 +.pvi.pl
 +.pvideo.cz
@@ -16659,6 +16679,7 @@
 +.sexwithmature.com
 +.sexwithmuslims.com
 +.sexworld3d.com
++.sexx-msk.com
 +.sexx-tube.com
 +.sexxcup.com
 +.sexxhay.info
@@ -16843,6 +16864,7 @@
 +.shareanynudes.net
 +.sharesome.com
 +.sharkyporn.com
++.sharpporn.com
 +.shavedpics.com
 +.shavedpussypics.com
 +.shayefpro.com
@@ -17026,6 +17048,7 @@
 +.sinfulhookups.com
 +.singelgrannar.com
 +.singeporno.com
++.singingfish.com
 +.single-baltic-lady.com
 +.singleflirt.com
 +.singleflirtplace.com
@@ -18095,6 +18118,7 @@
 +.thickassporn.com
 +.thickcash.com
 +.thicktube.com
++.thienvadia.icu
 +.thisav.biz
 +.thisav.com
 +.thisav.me
@@ -18227,6 +18251,7 @@
 +.titspornq.com
 +.titstok.me
 +.titti.co.il
++.tittystan.com
 +.tittytube.com
 +.titway.com
 +.tizam.cc
@@ -18389,6 +18414,7 @@
 +.tortenetek.hu
 +.totalfreeporn.com
 +.totalfucktube.com
++.totalh.net
 +.totallpuss.in
 +.totallyfreecam.com
 +.totallynsfw.com
@@ -18492,6 +18518,7 @@
 +.travesta.de
 +.travestichat.fr
 +.travesticomlocal.com.br
++.travestiscaba.com
 +.travestismexico.com
 +.travestisvip.com.br
 +.traxvideos.com
@@ -18916,6 +18943,7 @@
 +.ulive.chat
 +.ulla.com
 +.ullu.app
++.ulluprime.com
 +.ulluuncut.in
 +.ulmf.org
 +.uloversdoll.com
@@ -19004,6 +19032,7 @@
 +.urbate.chat
 +.urdesi.com
 +.urdolls.com
++.urdusexstories.website
 +.urgayporn.com
 +.urgenca.com
 +.urlgalleries.net
@@ -19527,7 +19556,6 @@
 +.vrxxx.com
 +.vs3.com
 +.vscdns.com
-+.vse-shutochki.ru
 +.vsekraskitver.ru
 +.vseporno.tv
 +.vsex.in
@@ -19590,6 +19618,7 @@
 +.wantmatures.com
 +.wapbold.com
 +.wapbold.net
++.wapka.me
 +.waplog.com
 +.wapoz.info
 +.waprek.ru
@@ -19840,7 +19869,6 @@
 +.wowgirls.com
 +.wowgirlsblog.com
 +.wowindianporn.mobi
-+.wowmasti.com
 +.wowmasti.online
 +.wowne.ws
 +.wowporn.video
@@ -20509,6 +20537,7 @@
 +.xpanded.com
 +.xpee.com
 +.xpembed.me
++.xphimsex.lol
 +.xphimsex.tv
 +.xphimsexviet.site
 +.xphoto.name
@@ -21312,6 +21341,7 @@
 +.yasex.net
 +.yasexe.pro
 +.yasyadong.com
++.yatv16.me
 +.yavtube.com
 +.yazawaj.com
 +.yazhouse8.com
