@@ -1,9 +1,9 @@
-# Version: 202505201516
+# Version: 202505201617
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21674
-# Last modified: 2025-05-20T15:16:31+0000
+# Last modified: 2025-05-20T16:17:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -813,7 +813,6 @@
 +.ajajas.com
 +.akadem-iap.ru
 +.akaihentai.com
-+.akamessenger.org
 +.akarokvalakit.com
 +.akeporn.com
 +.aki-h.com
@@ -2494,7 +2493,6 @@
 +.blogger.ba
 +.bloglag.com
 +.blogs.fr
-+.blogsport.com
 +.blogspost.com
 +.blovjob.com
 +.blowboobs.com
@@ -2828,7 +2826,6 @@
 +.bsdmporn.net
 +.bsexvideos.com
 +.bshrdr.com
-+.bt-chat.com
 +.btt803.com
 +.bubbaporn.com
 +.bubbas.in
@@ -9374,6 +9371,7 @@
 +.josporn.com
 +.jotsex.com
 +.joujizz.com
++.jouwpagina.be
 +.jouwpagina.nl
 +.jovencitas.gratis
 +.jovencitas.info
@@ -10810,7 +10808,6 @@
 +.maturetubelust.com
 +.maturetubexxx.net
 +.maturewomandating.net
-+.maturewomenpics.net
 +.maturewomenpictures.net
 +.matureworldp.com
 +.maturexl.com
@@ -12908,7 +12905,6 @@
 +.petsexvideos.com
 +.pexi.nl
 +.pezdwood.ltd
-+.pezdwood.org
 +.pezporn.com
 +.pgirls.vg
 +.pgmodels.com.br
@@ -13569,6 +13565,7 @@
 +.pornfd.com
 +.pornfetishforum.com
 +.pornfidelity.com
++.pornfind.cc
 +.pornfind.org
 +.pornfinder.biz
 +.pornfixy.com
@@ -17859,6 +17856,7 @@
 +.tellyplay.com
 +.telochki.org
 +.telrock.net
++.telrock.org
 +.telugu-xxx.com
 +.telugu.cyou
 +.telugu.icu
@@ -19795,6 +19793,7 @@
 +.wmgf.art
 +.wmyporn.com
 +.wnacg.org
++.wodao.buzz
 +.wodap.buzz
 +.wodde.top
 +.wodee.buzz
@@ -21318,6 +21317,7 @@
 +.yazhouse8.com
 +.yazhouseba.co
 +.yc-yes.com
++.yd-house80.com
 +.yed5.com
 +.yed9.com
 +.yedporn.com
