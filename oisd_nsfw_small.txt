@@ -1,9 +1,9 @@
-# Version: 202505200615
+# Version: 202505200715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21702
-# Last modified: 2025-05-20T06:15:16+0000
+# Entries: 21700
+# Last modified: 2025-05-20T07:15:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7087,6 +7087,7 @@
 +.gsex.club
 +.gsexy.com.br
 +.gsporn.com
++.gtmore.top
 +.gtp.fyi
 +.guangdongvideo.com
 +.guarrasdeldia.com
@@ -8725,7 +8726,6 @@
 +.interracial-dating.net
 +.interracial.com
 +.interracial69.com
-+.interracialcupid.com
 +.interracialdating.com
 +.interracialdatingcentral.com
 +.interracialpass.com
@@ -12012,7 +12012,6 @@
 +.nextdoorstudios.com
 +.nezyda.com
 +.nfbusty.com
-+.nfsxx.com
 +.ng-source.com
 +.nhentai.com
 +.nhentai.gg
@@ -16121,7 +16120,6 @@
 +.sexdolltech.com
 +.sexdom.club
 +.sexdots.com
-+.sexdraugiem.com
 +.sexdug.net
 +.sexe911.com
 +.sexedchat.com
@@ -16617,6 +16615,7 @@
 +.sexvideos-hd.com
 +.sexvideos-xxx.net
 +.sexvideos.best
++.sexvideos.dad
 +.sexvideos.fyi
 +.sexvideos.host
 +.sexvideos.rodeo
@@ -17631,7 +17630,6 @@
 +.sxyspy.top
 +.sympatie.sk
 +.syntheticgirls.com
-+.syswind.eu
 +.szex-tortenetek.com
 +.szex.tube
 +.szex.xyz
