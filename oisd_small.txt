@@ -1,9 +1,9 @@
-# Version: 202505210710
+# Version: 202505210810
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43293
-# Last modified: 2025-05-21T07:10:13+0000
+# Entries: 43285
+# Last modified: 2025-05-21T08:10:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -560,7 +560,6 @@
 +.2950917e4a.56eed75dbe.com
 +.29662166.xyz
 +.29694851.xyz
-+.29972123f3.com
 +.29a7397be5.com
 +.29apfjmg2.de
 +.29b124c44a.com
@@ -5071,7 +5070,6 @@
 +.amidoxypochard.com
 +.amildarclaes.space
 +.amillionads.com
-+.amithoutsoo.net
 +.amjllwbovlyba.top
 +.amjoltiktor.com
 +.amjsiksirkh.com
@@ -17076,7 +17074,6 @@
 +.faugstat.info
 +.fauphauvuzeey.net
 +.fauphoaglu.net
-+.fausamoawhisi.net
 +.fauseepetoozuk.xyz
 +.faveoliaiver.top
 +.favorbort.guru
@@ -20607,7 +20604,6 @@
 +.hotxxxcontent.com
 +.houdodoo.net
 +.houhoogroo.net
-+.houhoumooh.net
 +.houptaupaiho.net
 +.hourglassinedible.com
 +.hoursencirclepeel.com
@@ -26977,7 +26973,6 @@
 +.nightsgeological.com
 +.nigmen.com
 +.nigrebud.net
-+.nigroopheert.com
 +.nijaqccry.com
 +.nijaultuweftie.net
 +.nijopvohmbiz.com
@@ -27875,7 +27870,6 @@
 +.olayomad.com
 +.old-go.pro
 +.oldeststrickenambulance.com
-+.olichoogrulsom.com
 +.olineman.pro
 +.olitoryhunter.com
 +.olivecough.com
@@ -31878,7 +31872,6 @@
 +.redvil.co.in
 +.redwingmagazine.com
 +.redwolfmoon.com
-+.reecasoabaiz.net
 +.reedpraised.com
 +.reedsbullyingpastel.com
 +.reedsinterfering.com
@@ -34264,7 +34257,6 @@
 +.shasogna.com
 +.shassheld.live
 +.shatonus.shop
-+.shatsoutheshe.net
 +.shatterconceal.com
 +.shauasoz.my
 +.shaugacakro.net
