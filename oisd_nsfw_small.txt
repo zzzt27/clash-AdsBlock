@@ -1,9 +1,9 @@
-# Version: 202505210715
+# Version: 202505210816
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20624
-# Last modified: 2025-05-21T07:15:44+0000
+# Entries: 20640
+# Last modified: 2025-05-21T08:16:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -793,6 +793,7 @@
 +.alarbda.com
 +.alastonsuomi.com
 +.albporn.com
++.alectra.com
 +.alesbiansex.com
 +.alesbiansporn.com
 +.alesbianxxx.com
@@ -2551,6 +2552,7 @@
 +.boocam.tv
 +.boogolinks.nl
 +.book18.org
++.booklikes.com
 +.bookmark.xxx
 +.bookofp.com
 +.bookofsext.com
@@ -3405,7 +3407,6 @@
 +.cloudbate.com
 +.cloudes24.com
 +.cloudisexy.com
-+.cloudromance.com
 +.cloudzsexy.com
 +.clporn.com
 +.club72.fr
@@ -3757,6 +3758,7 @@
 +.daju-spravku.ru
 +.dalechatea.me
 +.daleporno.com
++.damasproximas.com
 +.damconuong.fit
 +.damconuong.love
 +.damduc.org
@@ -5316,6 +5318,7 @@
 +.fetish.com
 +.fetishadviser.com
 +.fetishburg.com
++.fetishclub.ro
 +.fetishdate.xxx
 +.fetishfemdom.adult
 +.fetishfinder.com
@@ -6546,6 +6549,7 @@
 +.gntai.net
 +.gnula.nu
 +.gnulahd.nu
++.gnulaseries.nu
 +.go-gaytube.com
 +.go.porn
 +.go4sex.eu
@@ -8462,6 +8466,7 @@
 +.ixiporn.foo
 +.ixiporn.info
 +.ixiporn6.com
++.ixspublic.com
 +.ixxx.com
 +.ixxx.video
 +.ixxx.yachts
@@ -8989,6 +8994,7 @@
 +.juicywives.com
 +.juicyxnxx.com
 +.jukujo-club.com
++.jukujoxvideo.com
 +.jukujyo.net
 +.julesjordan.com
 +.julesjordanvideo.com
@@ -9282,6 +9288,7 @@
 +.kolkatagirlagency.in
 +.kolmic.com
 +.koloporno.com
++.kom.cz
 +.komendant.net
 +.komikdewasa.art
 +.komikdewasa.mom
@@ -10452,6 +10459,7 @@
 +.mersindepansiyon.com
 +.mersindugun.com
 +.mersinescortelden.com
++.mersinescortgo.com
 +.mersinescorthot.com
 +.mersinescorts.com
 +.mersinforum.net
@@ -12220,6 +12228,7 @@
 +.pegasproductions.com
 +.pejnya.me
 +.pejnya.net
++.pejnya.ru
 +.pejuhin.link
 +.peliculaseroticasonline.net
 +.peliculaseroticass.com
@@ -15840,6 +15849,7 @@
 +.sexviet8.net
 +.sexviet88.link
 +.sexviet88.xyz
++.sexvietcc.com
 +.sexvietday.com
 +.sexvietfree.com
 +.sexvieth.com
@@ -17282,6 +17292,7 @@
 +.thumbnow.com
 +.thumbs.pro
 +.thumbzilla.com
++.thunderurl.com
 +.tia-tanaka.com
 +.tiamanhwa.com
 +.tiava.com
@@ -17303,7 +17314,6 @@
 +.tightsexteens.com
 +.tigo.com.gt
 +.tigresavip.com.br
-+.tijotijo.com
 +.tik.cam
 +.tik.pm
 +.tik.porn
@@ -18133,6 +18143,7 @@
 +.uzporno.fun
 +.uzx.su
 +.v-anale.best
++.v-lazer.com
 +.v2ph.com
 +.v2ph.ru
 +.v66av.xyz
@@ -18244,6 +18255,7 @@
 +.videocelebs.net
 +.videoclip.bg
 +.videoclubusa.com
++.videocrot.com
 +.videodesexo.blog
 +.videodesexo.club
 +.videoerotici.org
@@ -18477,6 +18489,7 @@
 +.vlxx.rocks
 +.vlxx.tw
 +.vlxx.xxx
++.vlxx69.top
 +.vlxxhot.net
 +.vlxxpro.io
 +.vlxxx.biz
@@ -18511,6 +18524,7 @@
 +.voodi.ee
 +.vorbestecumine.com
 +.vosfemmes.com
++.votrevoisinemature.com
 +.voyeur-house.cc
 +.voyeur-house.club
 +.voyeur-house.org
@@ -20217,9 +20231,11 @@
 +.xxxwap.mobi
 +.xxxweb.info
 +.xxxwebdlxxx.org
++.xxxwebdlxxx.top
 +.xxxwtf.com
 +.xxxwww.mobi
 +.xxxx.com
++.xxxx.jp
 +.xxxx4k.com
 +.xxxx8k.com
 +.xxxxcum.com
