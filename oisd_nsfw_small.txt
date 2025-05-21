@@ -1,9 +1,9 @@
-# Version: 202505210816
+# Version: 202505210916
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20640
-# Last modified: 2025-05-21T08:16:00+0000
+# Entries: 20646
+# Last modified: 2025-05-21T09:16:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3006,6 +3006,7 @@
 +.capetinhas.blog
 +.capitalporn.com
 +.captaincams.com
++.car.blog
 +.caramelbbw.com
 +.caramelmature.com
 +.carameltube.com
@@ -5585,6 +5586,7 @@
 +.forumtravesti.com.br
 +.forumzevk.com
 +.forzaarab.com
++.fotka.com
 +.fotki.com
 +.fotodepenis.com
 +.fotonovelasxxx.com
@@ -7948,6 +7950,7 @@
 +.ichbindein.com
 +.ichhier.de
 +.ichigocandy.com
++.icp0.io
 +.idates.com
 +.idealgasm.com
 +.idealmature.com
@@ -8344,7 +8347,6 @@
 +.intimday.com
 +.intimequebec.com
 +.intimmeitene.lv
-+.intimok.com
 +.intporn.com
 +.intrigue.dating
 +.invisionfree.com
@@ -11424,6 +11426,7 @@
 +.newsexvideos.top
 +.newshemalemodels.com
 +.newshemaletube.com
++.newstudio.tv
 +.newtransnudes.com
 +.newtwinkporn.com
 +.newvideochats.com
@@ -16196,6 +16199,7 @@
 +.shqiptarski.com
 +.shrink-service.it
 +.shrmha.com
++.shuanghengjiasi.com
 +.shufflesex.com
 +.shufuni.tv
 +.shwaz69.com
@@ -16630,6 +16634,7 @@
 +.sublimedirectory.com
 +.submilf.com
 +.submityourflicks.com
++.subqq.top
 +.subscribestar.adult
 +.subseeker.co
 +.subspaceland.com
@@ -17506,11 +17511,11 @@
 +.torn-porn.com
 +.toroporno.com
 +.torrent-pirat.com
-+.torrentico.top
 +.torte-net.hu
 +.tortenetek.hu
 +.totalfreeporn.com
 +.totalfucktube.com
++.totallpuss.in
 +.totallyfreecam.com
 +.totallynsfw.com
 +.totemcash.com
@@ -18155,6 +18160,7 @@
 +.vaginius.com
 +.vaginke.fun
 +.vaginke.love
++.vaginke.xyz
 +.vagosex.xxx
 +.vagyaid.hu
 +.vailonxx.co
