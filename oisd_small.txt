@@ -1,9 +1,9 @@
-# Version: 202505211609
+# Version: 202505211639
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 43131
-# Last modified: 2025-05-21T16:09:56+0000
+# Entries: 43130
+# Last modified: 2025-05-21T16:39:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6961,7 +6961,6 @@
 +.awaps.yandex.ru
 +.award.sitekeuring.net
 +.awardchirpingenunciate.com
-+.awardeeramjets.top
 +.awarecatching.com
 +.awarenesstack.com
 +.awareunique.pro
