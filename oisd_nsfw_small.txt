@@ -1,9 +1,9 @@
-# Version: 202505220614
+# Version: 202505220805
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20836
-# Last modified: 2025-05-22T06:14:51+0000
+# Entries: 20841
+# Last modified: 2025-05-22T08:05:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7368,6 +7368,7 @@
 +.hentaisyaoi.com
 +.hentaitale.net
 +.hentaiteca.net
++.hentaithai.com
 +.hentaithai.net
 +.hentaitk.net
 +.hentaitokyo.com
@@ -9309,7 +9310,6 @@
 +.kiev-girls.info
 +.kifpy.com
 +.kiiroo.com
-+.kijk.nl
 +.kik.com
 +.kikdirty.com
 +.kikfriender.com
@@ -9540,6 +9540,7 @@
 +.lanaudierequalifie.com
 +.landrover.com
 +.lanewgirl.com
++.lang.live
 +.langtrees.com
 +.lankasri.com
 +.lap.hu
@@ -12215,6 +12216,7 @@
 +.osexlove.com
 +.osmiporno.com
 +.ososedki.com
++.osreformados.com
 +.osteuropaladies.de
 +.otomi-games.com
 +.otonajp.com
@@ -12241,6 +12243,7 @@
 +.over-blog.org
 +.over40handjobs.com
 +.overgeared.club
++.owl.com
 +.oxax.tv
 +.oxotube.com
 +.oxtube.cc
@@ -15424,7 +15427,6 @@
 +.sexarab-xnxx.com
 +.sexarab.cam
 +.sexarab.fun
-+.sexarab.llc
 +.sexarab.porn
 +.sexarab1.org
 +.sexaraba.org
@@ -19205,6 +19207,7 @@
 +.xemsex.co
 +.xemsex.me
 +.xemsex.sex
++.xemsex.tax
 +.xemsex.vin
 +.xemsexfull.com
 +.xemsexjav.lat
@@ -20224,6 +20227,7 @@
 +.xxxkeeper.com
 +.xxxkernel.com
 +.xxxkino.xyz
++.xxxl-dev.at
 +.xxxl-tube.com
 +.xxxlbs.com
 +.xxxlesbians.me
@@ -20276,6 +20280,7 @@
 +.xxxperevod.com
 +.xxxpersian.com
 +.xxxphimxxx.com
++.xxxphoto.xyz
 +.xxxpicsarchive.com
 +.xxxpicss.com
 +.xxxpicz.com
