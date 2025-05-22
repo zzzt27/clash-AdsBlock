@@ -1,9 +1,9 @@
-# Version: 202505221839
+# Version: 202505221942
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19955
-# Last modified: 2025-05-22T18:39:44+0000
+# Entries: 19985
+# Last modified: 2025-05-22T19:42:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -582,6 +582,7 @@
 +.adultdeepfakes.cam
 +.adultdeepfakes.com
 +.adultdvdempire.com
++.adultdvdmarketplace.com
 +.adultdvdtalk.com
 +.adultempire.com
 +.adultentertainmentexpo.com
@@ -1315,6 +1316,7 @@
 +.ashoo.nl
 +.ashusinha.com
 +.asiafriendfinder.com
++.asialadies.de
 +.asialiveaction.com
 +.asiamonstr.com
 +.asian-av.com
@@ -1518,7 +1520,6 @@
 +.avdodee.com
 +.avdonna.com
 +.avelip.com
-+.avemmy.net
 +.avenue-x.com
 +.avfhd.com
 +.avgle.com
@@ -2067,6 +2068,7 @@
 +.bestpornstardb.com
 +.bestpornstars.tv
 +.bestpornstars.xxx
++.bestpornstories.com
 +.bestpornvideos.top
 +.bestprettygirl.com
 +.bestpussypictures.com
@@ -3388,6 +3390,7 @@
 +.comicsvalley.com
 +.comicxporn.com
 +.comicxxx.eu
++.comikey.com
 +.comiquetaxxx.com
 +.comix666.lat
 +.comixharem.com
@@ -3678,6 +3681,7 @@
 +.darknessporn.com
 +.darknetvideos.com
 +.darkplustv.com
++.darkpornlist.com
 +.darkroomvr.com
 +.darksside.com
 +.darkteens.net
@@ -3957,6 +3961,7 @@
 +.dildocam.club
 +.dimple-gupta.com
 +.dimwitdog.com
++.dinkyone.com
 +.dinotube.com
 +.dippy.ai
 +.directdirectory.org
@@ -4077,6 +4082,7 @@
 +.domfap.net
 +.domi.com
 +.domina.co.il
++.dominanteladies.de
 +.dominicanaxxx.com
 +.domkarin.com
 +.domknig.net
@@ -4166,6 +4172,7 @@
 +.dpselection.net
 +.dragonfru.it
 +.draiskajiem.lv
++.drbigboobs.com
 +.drbokep.bond
 +.dream-teens.net
 +.dream.io
@@ -4510,6 +4517,7 @@
 +.erogen.ai
 +.erogen.club
 +.erogen.org
++.erogeschichten.com
 +.erogirls-18.com
 +.eroguide.dk
 +.erohive.com
@@ -4813,6 +4821,7 @@
 +.exploitedx.com
 +.exporntoons.net
 +.exposedpassion.com
++.expreszo.nl
 +.exquisiteslave.com
 +.extaz.kz
 +.exteen.com
@@ -4944,6 +4953,7 @@
 +.fantasyorientalp.com
 +.fantasyvintagep.com
 +.fanteziierotice.ro
++.fanteziiinterzise.com
 +.fanty.online
 +.fanvue.com
 +.fap-guru.biz
@@ -5761,6 +5771,7 @@
 +.fucktubex.net
 +.fuckundies.com
 +.fuckvideos.xxx
++.fuckyeahfitgirls.com
 +.fuckyoucash.com
 +.fuckyoung.net
 +.fuegodevida.com
@@ -6118,6 +6129,7 @@
 +.gayxxx.cc
 +.gayxxxperv.com
 +.gayyard.com
++.gayzerhd.club
 +.gaziantepescort.net
 +.gaziantepescortgo.com
 +.gaziantepescorto.com
@@ -7639,6 +7651,7 @@
 +.hurenkartei.com
 +.hussiepass.com
 +.hustler.com
++.hustlerhollywood.com
 +.hustlerunlimited.com
 +.hutgay.com
 +.huyamba.mobi
@@ -7697,6 +7710,7 @@
 +.idolerotic.net
 +.idolfake.org
 +.idolfap.com
++.idolpixels.net
 +.iedereennaakt.nl
 +.ifans.com
 +.ifeelmyself.com
@@ -8134,6 +8148,7 @@
 +.isratv.ru
 +.ist34ajans3.com
 +.istanbularnavutkoyescort.com
++.istanbulescortonline.com
 +.istanbulescorttr.net
 +.istanbulescorttu.com
 +.istanbulesenyurtescort.com
@@ -8675,6 +8690,7 @@
 +.jpvhub.com
 +.jrants.com
 +.jrk-it.com
++.jsutandy.com
 +.jucydate.com
 +.judaporn.com
 +.juegosxxxgratis.com
@@ -8868,6 +8884,7 @@
 +.kiev-girls.info
 +.kifpy.com
 +.kiiroo.com
++.kik.com
 +.kikdirty.com
 +.kikfriender.com
 +.kilked.online
@@ -9583,6 +9600,7 @@
 +.lustomic.com
 +.lustrpg.com
 +.lusttaboo.com
++.lustundverlangen.com
 +.lustyheroes.com
 +.lustypuppy.com
 +.lustysextube.com
@@ -9654,6 +9672,7 @@
 +.maheir.com
 +.mahoushoujobu.com
 +.maidvids.com
++.mail-order-brides-guide.com
 +.mail-order-brides-russian.com
 +.mainbabes.com
 +.maincewe.com
@@ -9747,9 +9766,11 @@
 +.mangayaoi.net
 +.mangoporn.net
 +.manhatic.com
++.manhattan-massage.com
 +.manhuabika.com
 +.manhuahot.com
 +.manhuascan.us
++.manhuatop.org
 +.manhub.com
 +.manhunt.net
 +.manhuntdaily.com
@@ -11092,6 +11113,7 @@
 +.noindexscan.com
 +.noirporno.com
 +.nokenny.co
++.nokephub.com
 +.noname.chat
 +.nonktube.com
 +.nonnetroie.com
@@ -11478,6 +11500,7 @@
 +.onionbootypics.com
 +.onlc.fr
 +.onliclub.com
++.onlidex.com
 +.online-dating-singles.com
 +.online.fr
 +.onlinebootycall.com
@@ -13707,6 +13730,7 @@
 +.publicrz.com
 +.publicsexhub.com
 +.publicsexworld.com
++.publicvaginas.com
 +.publiescort.cl
 +.puckerporn.com
 +.puffynetwork.com
@@ -15115,6 +15139,7 @@
 +.sexsaoy.com
 +.sexsatee.com
 +.sexsati.com
++.sexscenemovies.net
 +.sexselector.com
 +.sexsfoto.cc
 +.sexshawaz.com
@@ -15867,6 +15892,7 @@
 +.spankingtube.com
 +.spankingx.com
 +.spanknet.co.uk
++.spankthishookups.com
 +.spankwire.com
 +.spartanas.com.br
 +.spartanlover.com
@@ -16829,7 +16855,6 @@
 +.top-modelz.org
 +.top-porn-sites-18.com
 +.top100nudism.com
-+.top1phimsex.tube
 +.top4fans.com
 +.topadulttubies.com
 +.topanasex.com
@@ -17077,6 +17102,7 @@
 +.tryindianporn.com
 +.tryindiansex.com
 +.trylesbianporn.com
++.trynectar.ai
 +.trypantyhose.com
 +.trypornotube.com
 +.trypornsite.com
@@ -18202,6 +18228,7 @@
 +.worldasianp.com
 +.worldbbwp.com
 +.worldbdsmp.com
++.worldescortindex.com
 +.worldgayp.com
 +.worldindianp.com
 +.worldlesbianp.com
@@ -19252,6 +19279,7 @@
 +.xxxasianpussy.online
 +.xxxbanjo.com
 +.xxxbengalivideos.com
++.xxxbestialitysex.com
 +.xxxbestiarii.com
 +.xxxbfvideo.net
 +.xxxbfvideos.to
@@ -19373,6 +19401,7 @@
 +.xxxkino.xyz
 +.xxxl-dev.at
 +.xxxl-tube.com
++.xxxl.tube
 +.xxxlbs.com
 +.xxxlesbians.me
 +.xxxlib.mobi
@@ -19449,6 +19478,7 @@
 +.xxxpornxxx.net
 +.xxxpostpic.org
 +.xxxproud.com
++.xxxpussy.fun
 +.xxxrange.com
 +.xxxrapid.in
 +.xxxreal.com

@@ -1,9 +1,9 @@
-# Version: 202505221832
+# Version: 202505222011
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181689
-# Last modified: 2025-05-22T18:32:56+0000
+# Entries: 181644
+# Last modified: 2025-05-22T20:11:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2793,7 +2793,6 @@
 +.365yd.com
 +.366378fd1d.com
 +.36643444.com
-+.36667q.gv.govtax.net
 +.367524bins7923.b-cdn.net
 +.367b6313-2b32-47dc-96e6-6c230801acdc.usrfiles.com
 +.367p.com
@@ -5209,6 +5208,7 @@
 +.8s5s.com
 +.8se.biz
 +.8senjya.jp
++.8sfdladng.xyz
 +.8si.ru
 +.8slash8.com
 +.8sq3j--2y745-pnaxa--ndr-workers-dev.translate.goog
@@ -5475,6 +5475,7 @@
 +.99v-zcv-bdgbgfbfgn-fhnghnxdvcbcvb.vercel.app
 +.99v-zcv-bdgbgfbfgn-fnghnxdvcbcvb.vercel.app
 +.99v-zcv-bdgbgfbfgnghnxdvcbcvb.vercel.app
++.99vod.com
 +.99wc.top
 +.99x.com
 +.99z-sfdvdbbvncfn-ghnmgngdgm.vercel.app
@@ -5544,7 +5545,6 @@
 +.9h1111.com
 +.9h3evw7i1f6d-pages-dev.translate.goog
 +.9hhycn.blow.harrisretreat.com
-+.9iapo.lat
 +.9ics.cn
 +.9itmr1lzaltn.com
 +.9japride.com
@@ -10086,6 +10086,7 @@
 +.adprotect.com
 +.adprotected.com
 +.adproxy.autohome.com.cn
++.adproxy.ndmdhs.com
 +.adproxy.tf1.fr
 +.adprudence.com
 +.adpublish.ydstatic.com
@@ -15469,7 +15470,6 @@
 +.almawred-edu.net
 +.almeli.fr
 +.almendraslitral.cl
-+.almetanga.com
 +.almhm231.ddnsgeek.com
 +.almightypush.com
 +.almightyroomsimmaculate.com
@@ -16376,7 +16376,6 @@
 +.ams3.artisticgardeningdesigns.com
 +.ams3.blissfulweddingsjourney.com
 +.ams3.familytravelhaven.com
-+.ams3.fitnessdreamachieve.com
 +.ams3.fitnessharmonyhub.com
 +.ams3.fitnessunitystrong.com
 +.ams3.foodartistryhub.com
@@ -19502,6 +19501,7 @@
 +.aprilbnb-updateinfo.com
 +.aprilmusic.com
 +.aprilstudios.in
++.aprilxnet4.xyz
 +.aprimecardonation.com
 +.aprimelifeinsurancenet.com
 +.apritifka.click
@@ -20108,7 +20108,6 @@
 +.arousalx.com
 +.arousedimitateplane.com
 +.arousethemind.com
-+.aroxmining.com
 +.arpej.duckdns.org
 +.arpfpfmhgimikfp.com
 +.arpg-b000d.firebaseapp.com
@@ -21039,7 +21038,6 @@
 +.astralflarewave.site
 +.astralflarezone.site
 +.astralforce.site
-+.astralhaze.site
 +.astralhustle.com
 +.astralpatch.site
 +.astralprojection.live
@@ -21064,7 +21062,6 @@
 +.astro-icsa.ru
 +.astro-metaverse.com
 +.astro.awwlrd.cn
-+.astrobyte.store
 +.astrocash.org
 +.astrodew.space
 +.astrofind.store
@@ -21106,6 +21103,7 @@
 +.asukedrevenfe.com
 +.asukedrevenue.org
 +.asumi.shinobi.jp
++.asunderfacilitydealt.com
 +.asuperbcableinternet.com
 +.asuperbcreditcard.com
 +.asuperbmattressdeal.com
@@ -23644,7 +23642,6 @@
 +.awptlpu.com
 +.awpwzbbhixuo.pro
 +.awqcwuyeksqoogmq.xyz
-+.awqesaamcswoweis.xyz
 +.awqiyksqiiymeweu.xyz
 +.awqqqwemouoqawum.xyz
 +.awqqwqswoskwiaca.xyz
@@ -23660,7 +23657,6 @@
 +.aws-virg-oreg-cali.ag.innovid.com.akadns.net
 +.aws.tf
 +.aws.userlogsanalytics.com
-+.awsaeciwcmgomyew.xyz
 +.awsamazon.cc
 +.awscoigyaewciwmm.xyz
 +.awscyuwiceegyyui.xyz
@@ -24670,7 +24666,6 @@
 +.baiphefim.com
 +.bairesline.com.ar
 +.bairlife.com
-+.baiseesh.net
 +.baisoya.com.pk
 +.baitaiad.com
 +.baitbaseball.com
@@ -24755,7 +24750,6 @@
 +.baldwallaby.pro
 +.baldwhizhens.com
 +.balenciaga-france.fr
-+.balenciaga.re
 +.balenciagapascher.fr
 +.balergira.pro
 +.balesunwhi.pro
@@ -26945,7 +26939,6 @@
 +.bestfunnyads.com
 +.bestfxreviews.com
 +.bestgames-2022.com
-+.bestgamesfiles.com
 +.bestgirlsjourneys.com
 +.bestgosolutions.com.de
 +.besthacks.info
@@ -28499,6 +28492,7 @@
 +.bkp.quifelenergy.com
 +.bkplegal.com
 +.bkpnew.oryio.com
++.bkqykixrzrgwr.space
 +.bkr5xeg0c.com
 +.bkrkv.com
 +.bkrmbigokg.com
@@ -28550,6 +28544,7 @@
 +.blackcurrantinadequacydisgusting.com
 +.blackdiamondcasino.fr
 +.blackdiamondfr.fr
++.blackdjarumcofo.xyz
 +.blackdragonheadz.de
 +.blackenheartbreakrehearsal.com
 +.blackenoz.com
@@ -28794,6 +28789,7 @@
 +.blnpa.digital
 +.bloatingexpectantretinal.com
 +.blobbnonma.pro
++.blobjkwzb.com
 +.bloblohub.com
 +.blobspot.com
 +.blobsurnameincessant.com
@@ -32614,7 +32610,6 @@
 +.bytaruu.com
 +.bytde.com
 +.byteburst.cfd
-+.byteharbor.online
 +.byteinstitution.com
 +.bytelab.dk
 +.bytemirai.duckdns.org
@@ -33278,10 +33273,8 @@
 +.cagricolemiseajour.com
 +.cagriinsaat.net
 +.cagrileidope-6981.vercel.app
-+.cagwkgkuuueymams.xyz
 +.cagykcyuuoksiiys.xyz
 +.cagykwskqkomciga.xyz
-+.cagyysauccggouoa.xyz
 +.cahealthequity.org
 +.cahelp.top
 +.cahenry.com
@@ -33358,7 +33351,6 @@
 +.cakesdenyconventional.com
 +.cakesdrum.com
 +.cakesinventory.com
-+.cakgokqsammcuoco.xyz
 +.cakiqgiyyucaaqsq.xyz
 +.cakkukcsocaiiosq.xyz
 +.caklas.com
@@ -34167,7 +34159,6 @@
 +.cardiopen.com
 +.cardiumdaftly.com
 +.cardivil-new.com
-+.cardoltenets.top
 +.cardonaroofing.com
 +.cardpersonalizat.com
 +.cardprintersavings.com
@@ -35023,7 +35014,6 @@
 +.cawuieecwqksuwws.xyz
 +.cawuywgccamkcuqa.xyz
 +.cawyykewqmikqoys.xyz
-+.cawyyqcykisgwook.xyz
 +.caxa.ru
 +.caxinocasino.fr
 +.cayecmwgsuskomcs.xyz
@@ -35300,7 +35290,6 @@
 +.cdmeiboshi.com
 +.cdmv.gov-btl.win
 +.cdmv.gov-er.win
-+.cdmv.gov-lbc.win
 +.cdmv.gov-uiw.win
 +.cdmxcentrohostel.com
 +.cdmyeg.xyz
@@ -35935,6 +35924,7 @@
 +.celtra.com
 +.celtricountre.firebaseapp.com
 +.celtricountre.web.app
++.celx.xyz
 +.celxkpdir.com
 +.cem-seven.vercel.app
 +.cema-fossano.it
@@ -37639,7 +37629,6 @@
 +.chestnutguppy.pro
 +.chestnutscallop.pro
 +.chetanaenterprises-nx.com
-+.chetchoa.com
 +.chethgentman.live
 +.chevalaba.pro
 +.chevenscrinia.click
@@ -37942,7 +37931,6 @@
 +.cholmeshed.click
 +.chomatruider.firebaseapp.com
 +.chomatruider.web.app
-+.chomery.online
 +.chomikuj-new-t1.opx.pl
 +.chomikuj.best
 +.chonametrix.bounceme.net
@@ -39317,6 +39305,7 @@
 +.clicksgrow.com
 +.clickshiftz.com
 +.clicksmint.site
++.clicksmrtofr.com
 +.clicksor.com
 +.clicksor.net
 +.clickspay.ru
@@ -39736,6 +39725,7 @@
 +.cls.vrvm.com
 +.clsass.ddns.net
 +.clsevermarketing.click
++.clspfvlfarfytu.com
 +.clt.banggood.com
 +.clt1710760.bmeurl.co
 +.cltgtstor001.blob.core.windows.net
@@ -40103,7 +40093,6 @@
 +.co-accountswitch.com
 +.co-ar.gl.at.ply.gg
 +.co-create2071.org
-+.co-gk.vip
 +.co-operativebankplc.com
 +.co-rj.vip
 +.co-switchaccount.com
@@ -40486,6 +40475,7 @@
 +.coinebsprilogin.webflow.io
 +.coinedgelab.com
 +.coinerra.com
++.coinerstarn.com
 +.coinex-vip.com
 +.coinfalcon.com
 +.coinforgex.com
@@ -42449,7 +42439,6 @@
 +.cooeyeddarbs.com
 +.coogoanu.net
 +.cooguo.com
-+.coohaiwhoonol.net
 +.coohauwhob.net
 +.cooinbaserppologhin.godaddysites.com
 +.cooingcoal.com
@@ -42940,7 +42929,6 @@
 +.cosmicflowzone.site
 +.cosmicforestwhisper.pro
 +.cosmicfrostwave.site
-+.cosmicfury.online
 +.cosmicnest.in
 +.cosmicnewspulse.com
 +.cosmicphoenixflare.pro
@@ -43866,7 +43854,6 @@
 +.cpcalendars.toptenufabetgames.xyz
 +.cpcalendars.topthounds.com
 +.cpcalendars.topthounds1.xyz
-+.cpcalendars.toriters1.website
 +.cpcalendars.toriters7.xyz
 +.cpcalendars.toto7vgames.com
 +.cpcalendars.totobestliv.com
@@ -44325,6 +44312,7 @@
 +.cracsiu.com
 +.cractica.xyz
 +.cracugmi.com
++.cradaygo.com
 +.cradkiocdax.com
 +.craekuro.duckdns.org
 +.craft-holdings.duckdns.org
@@ -44371,7 +44359,6 @@
 +.cramponsfr.fr
 +.crane.auctic.com
 +.crane.maggsgroup.com
-+.cranecoddy.shop
 +.cranederet.pro
 +.crankuncor.pro
 +.crankweb.com
@@ -46116,6 +46103,7 @@
 +.cuta.co.uk
 +.cutaiamortgagegroup.cn
 +.cutave.com
++.cutchermaxixe.com
 +.cutcoins.com
 +.cute.sex666vr.com
 +.cutecalculator.com
@@ -46239,6 +46227,7 @@
 +.cxgfq.pinlue.com
 +.cxgglm.com
 +.cxh33f.jik.thetreecentre.com
++.cxikfjqfiwxta.vip
 +.cxis.cubexpressphilippines.com
 +.cxmolk.com
 +.cxnmluyas.mypi.co
@@ -46390,7 +46379,6 @@
 +.cyils.com
 +.cyiqmqscmsgqekay.xyz
 +.cyiuiwemkimmuaui.xyz
-+.cyiwiwoeomciqgma.xyz
 +.cyiwoiaemiuoeqko.xyz
 +.cyiyccqaiqqeukmu.xyz
 +.cyiyokcuicuegcom.xyz
@@ -46452,7 +46440,6 @@
 +.cyqaaeiciiqecqso.xyz
 +.cyqasowwgeqqowgq.xyz
 +.cyqawyussqywcqka.xyz
-+.cyqcmsicgageckmi.xyz
 +.cyqewgsaksugwesu.xyz
 +.cyqfuy.shop
 +.cyqmkwkaosmmiuqm.xyz
@@ -46501,7 +46488,6 @@
 +.cywioiasuoyugyua.xyz
 +.cywmsgcsqauiqmae.xyz
 +.cywmwoeuwykccmyc.xyz
-+.cyyggqwsuuosaaeo.xyz
 +.cyyoukoiesgiwgai.xyz
 +.cyyqkkuqqskcaqmw.xyz
 +.cyysqmsmccomqcai.xyz
@@ -48283,7 +48269,6 @@
 +.dakota-centraljiooiuytyui.weeblysite.com
 +.dakotadewaal.com
 +.dakotainc.net
-+.dakotasboreens.top
 +.dakrox.com
 +.daksenskied.top
 +.dakshcommunication.in
@@ -48907,6 +48892,7 @@
 +.dating254.com
 +.datingads.freehomepage.com
 +.datingadvertising.com
++.datingadvicefree.com
 +.datingapp.live
 +.datingbests.life
 +.datingbestsite.life
@@ -49140,6 +49126,7 @@
 +.dbklgovmyupdateforall.weebly.com
 +.dbkuarzeaepqo.global
 +.dbkuliner.com
++.dblhqefpt.com
 +.dblowthrou.com
 +.dblu-dundeli.oauth-us.workers.dev
 +.dbncp.com
@@ -49155,6 +49142,7 @@
 +.dbsin.com
 +.dbsinvesting.com
 +.dbujksp6lhljo.cloudfront.net
++.dbuq47t160425b.cfd
 +.dbvpikc.com
 +.dbw7j2q14is6l.cloudfront.net
 +.dbwmjj.com
@@ -54837,7 +54825,6 @@
 +.drummersdream.com.au
 +.drumskilxoa.click
 +.drunaran.com
-+.drunkindigenouswaitress.com
 +.drunkonfunk.com
 +.drupal8-preklady.vyvojwebu.cz
 +.druzzoutsa.pro
@@ -56670,10 +56657,8 @@
 +.ecishh.info
 +.ecit-dev.com
 +.ecitytanduclongan.com
-+.eciwsiukoqqcacye.xyz
 +.eciyooyiuuycgsec.xyz
 +.eckerttransport.freshdesk.com
-+.eckgeusaoccmoeyw.xyz
 +.eckguwcsawysikws.xyz
 +.eckkwcaeiaoauyee.xyz
 +.eckleinlienic.click
@@ -56681,7 +56666,6 @@
 +.eckonturricalsbu.org
 +.ecksayaoewsuuqao.xyz
 +.ecksukamowgyegwc.xyz
-+.eckswwayouqauico.xyz
 +.eckyqwb.biz
 +.eclaquette.com
 +.eclass47.duckdns.org
@@ -56801,8 +56785,6 @@
 +.ecqkuammiasysemm.xyz
 +.ecqmsuioeumkkosa.xyz
 +.ecqocmgyoawquieq.xyz
-+.ecqoieoiyywwacmw.xyz
-+.ecqqyyeemagaiiqq.xyz
 +.ecredit-lbp.fr
 +.ecreditcardprocessors.com
 +.ecresaertube.vercel.app
@@ -57201,7 +57183,6 @@
 +.eecmauks.net
 +.eecmwisqeiciqwek.xyz
 +.eeco.xyz
-+.eecqkgwmgyakaoko.xyz
 +.eecseeeqykqyeaey.xyz
 +.eecsyggcowaaucuu.xyz
 +.eecuewwsckogiqaq.xyz
@@ -57215,7 +57196,6 @@
 +.eeee-106603.weeblysite.com
 +.eeee500.com
 +.eeeeeeeeeeee1111.weebly.com
-+.eeegeusgwwqocucm.xyz
 +.eeegsoyyuykweeuc.xyz
 +.eeeimekocgksocge.xyz
 +.eeekogkiiquiegcq.xyz
@@ -57253,7 +57233,6 @@
 +.eeicgggmgiaaskmw.xyz
 +.eeiimyyuqwwwagic.xyz
 +.eeiscocomiqyeemw.xyz
-+.eeiuowiimkiwioms.xyz
 +.eejeephaux.net
 +.eejestonsou.net
 +.eejgzgtkbk.pages.dev
@@ -57261,7 +57240,6 @@
 +.eekcwoowkcwiacyc.xyz
 +.eekekseecke.net
 +.eekiceseqwmciecq.xyz
-+.eekkwamesuiuqkkk.xyz
 +.eekkwcakqeukuisk.xyz
 +.eeknabkuazjjn.site
 +.eekoamiygkgucmak.xyz
@@ -57339,7 +57317,6 @@
 +.eeweb.asia
 +.eewgacgciwauywyi.xyz
 +.eewhapseepoo.net
-+.eewmoyeegqwwwyug.xyz
 +.eewoulrauzoor.com
 +.eewqeyiissoqcggu.xyz
 +.eewsqmwyawyeeaou.xyz
@@ -59331,6 +59308,7 @@
 +.epworthlocalboard.co.zw
 +.epws46.activehosted.com
 +.epy12487-my-cheetah-website.site.builderall.net
++.epyqerhah.com
 +.epzu4ebrmh.ivertiipolska.com.pl
 +.eq-beacon.stream.co.jp
 +.eq-player-log.cdnext.stream.ne.jp
@@ -59467,6 +59445,7 @@
 +.ereggooes.pro
 +.erektile-apotheke.de
 +.eremedia.112.2o7.net
++.eremjybuorgiy.com
 +.eremployeesihighl.com
 +.erenobnp.firebaseapp.com
 +.erenobnp.web.app
@@ -60141,7 +60120,6 @@
 +.etherwallet.net
 +.etherwallet.org
 +.etherwave.online
-+.etherwavepulse.site
 +.ethewallet.com
 +.ethfw0370q.com
 +.ethicalads.io
@@ -61128,6 +61106,7 @@
 +.exosrv.com
 +.exostrawellmen.shop
 +.exotechfm.com.au
++.exotic-shape.com
 +.exoticads.com
 +.exoticbreesh.duckdns.org
 +.exoticferret.pro
@@ -61259,6 +61238,7 @@
 +.exposepl.com
 +.exposurethegame.com
 +.expreecdem.pro
++.expreme.cfd
 +.expresdeliver.com
 +.express--vpn.com
 +.express-app-solution-update-master.codeanyapp.com
@@ -62772,7 +62752,6 @@
 +.faubaudunaich.net
 +.faubourg-70.fr
 +.faucetfoot.com
-+.faucetunaflow.shop
 +.faucingdare.firebaseapp.com
 +.faucingdare.web.app
 +.faughold.info
@@ -62820,6 +62799,7 @@
 +.fax-costumes.gl.at.ply.gg
 +.fax-scenarios.gl.at.ply.gg
 +.faxana.com
++.faxbfxhkdjoma.icu
 +.faxebook.com
 +.faxebook.fr
 +.faxejeo.com
@@ -63612,6 +63592,7 @@
 +.fgoogle.it
 +.fgoqnva.com
 +.fgoten-mole.web.app
++.fgpejmtfpdtcs.com
 +.fgs-100900.weeblysite.com
 +.fgs.niarn.org
 +.fgshfe11.weebly.com
@@ -63637,6 +63618,7 @@
 +.fhjhgjdh.weebly.com
 +.fhjjkkjleruiioiosashhjkk.weeblysite.com
 +.fhjrpcmkyrkvi.space
++.fhkfdgwtzueans.com
 +.fhkgjz.shop
 +.fhldb.site
 +.fhlogs1.no-ip.biz
@@ -65158,6 +65140,7 @@
 +.flipflopsarenotshoes.com
 +.fliplineads.com
 +.flipool.com
++.flippanttale.com
 +.flippedfunnel.com
 +.flippingcryptos.com
 +.flippingpaper.de
@@ -65537,6 +65520,7 @@
 +.fnuvjn.weebly.com
 +.fnvmr.info
 +.fnvweaywlctnxsi.com
++.fnyfiexpectth.org
 +.fnzc.fr
 +.fo.mysecondarydns.com
 +.fo4nz.com
@@ -70041,6 +70025,7 @@
 +.gezelimmi.com
 +.gezinti.com
 +.gezkoblobmu.pro
++.gf0c0qtw080425z7.cfd
 +.gf108.com
 +.gf54tgfzxz.appspot.com
 +.gf9e8eb.duckdns.org
@@ -70249,7 +70234,6 @@
 +.ggsiwmeagkqcyewo.xyz
 +.ggsqeqwiqcyeewea.xyz
 +.ggssqemyuuwyesey.xyz
-+.ggswawkqaowwkuci.xyz
 +.ggtews.weebly.com
 +.ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 +.ggtransports.com
@@ -70267,7 +70251,6 @@
 +.ggwigoacogmksqqm.xyz
 +.ggwkeygmamigisic.xyz
 +.ggwkssseuwoicuow.xyz
-+.ggwomyskmwksewsy.xyz
 +.ggwp.in
 +.ggwuqiieumuaysgm.xyz
 +.ggwwsqwyiqwwkswy.xyz
@@ -70556,7 +70539,6 @@
 +.giisuassaemqqoau.xyz
 +.giisukkcmugqsqwu.xyz
 +.giiuuuygwcwaaosm.xyz
-+.giiwwmusewwiyiik.xyz
 +.gijnohl.cc
 +.gikcagywwiqyowgw.xyz
 +.gikesuiawoeiuguw.xyz
@@ -70693,6 +70675,7 @@
 +.girl-votes.gl.at.ply.gg
 +.girl4night.com
 +.girlenjoy.life
++.girlforyouonline.com
 +.girlfriendsguidetospas.com
 +.girlfriendwisely.com
 +.girlgooutside.com
@@ -70719,6 +70702,7 @@
 +.girocopterobrasil.com.br
 +.giromamas.mk
 +.gironjoyan.pro
++.girreyres.com
 +.gishejuy.com
 +.gisiiscwaoukckwk.xyz
 +.gismisygqkeeaoes.xyz
@@ -71528,6 +71512,7 @@
 +.gntbcstwusa.112.2o7.net
 +.gntbcstwxia.112.2o7.net
 +.gntbcstwzzm.112.2o7.net
++.gnxejkaavvv.com
 +.gnyjxyzqdcjb.com
 +.gnzodisar.pro
 +.go-bruner-hotel.com
@@ -72468,6 +72453,7 @@
 +.gouverment.fr
 +.gouvzfr.weebly.com
 +.gouzhibao.cn
++.gouzoogoosoa.com
 +.gov-au.cloud
 +.gov-aws.cloud
 +.gov-gr-auth.firebaseapp.com
@@ -73392,7 +73378,6 @@
 +.gronex.top
 +.groobsusso.net
 +.grookilteepsou.net
-+.grooltaujengoo.net
 +.groomoub.com
 +.groorsoa.net
 +.grooseem.net
@@ -73569,6 +73554,7 @@
 +.grroupama.fr
 +.grs.dbankcloud.com
 +.grs.hicloud.com
++.grsjneetdekwpd.com
 +.grsm.net
 +.grt01.com
 +.grt02.com
@@ -75290,6 +75276,7 @@
 +.hatchette-multimedia.fr
 +.hatchleap.space
 +.hatchord.com
++.hatdiu.xyz
 +.hateflux.com
 +.hatefulbane.com
 +.hatefulrequest.com
@@ -76954,6 +76941,7 @@
 +.hier-ohne-rezept.com.de
 +.hier-potenz-kaufen.com.de
 +.hiesa-56152.portmap.host
++.hiespekbk.com
 +.hieszapresi.pro
 +.hifi-review-parser.com
 +.hifiads.com
@@ -78689,7 +78677,6 @@
 +.hoverfly.winchdesign.cn
 +.hoverming.cn
 +.hoverr.co
-+.hoverr.media
 +.hoverstyle.com
 +.hovertown.com
 +.hovno.tobim6.eu
@@ -79982,7 +79969,6 @@
 +.ibvfzddfxqwqg.love
 +.ibw.co.kr
 +.ic-dc.deliverydlcenter.com
-+.ic.ie.027ie.com
 +.ic06.com
 +.ic0828op.com
 +.ic24.lt
@@ -80715,11 +80701,13 @@
 +.ihighlyrecomemu.org
 +.ihiptootchouds.xyz
 +.ihirehelp.com
++.ihkxhjqjfhmhtpe.com
 +.ihltdjxcuevyzp.info
 +.iholdemanoucam.com
 +.iholdxrp.ru
 +.ihost.com.vn
 +.ihp-groupe.fr
++.ihplpjyy.com
 +.ihr-wunsch-erfuellt.de
 +.ihre-rezepte.de
 +.ihrebildsache.de
@@ -80823,7 +80811,6 @@
 +.ikasugmooakaiyqk.xyz
 +.ikayucwkmwuiaoyg.xyz
 +.ikcaru.com
-+.ikcecauaaugioyik.xyz
 +.ikcgccusycoweegc.xyz
 +.ikckugsycckyiqme.xyz
 +.ikcsiayuayegmyom.xyz
@@ -80867,7 +80854,6 @@
 +.ikiif.com
 +.ikiiwiqoioymeswi.xyz
 +.ikikika.com
-+.ikikkowuaeooaiki.xyz
 +.ikiosaiqwciwmcem.xyz
 +.ikiqkgumkuoyqegy.xyz
 +.ikisweicmycuiogc.xyz
@@ -80904,7 +80890,6 @@
 +.ikmauucwymioqcga.xyz
 +.ikmgckgeyqociyey.xyz
 +.ikmiiyiwwemsoiko.xyz
-+.ikmmcuswgqysggeg.xyz
 +.ikmmkseakcgaguyk.xyz
 +.ikmoecueqquyigqc.xyz
 +.ikmoon.com
@@ -81108,7 +81093,6 @@
 +.im47.app
 +.im900.com
 +.ima3vpaid.appspot.com
-+.imaaqeesskscosaa.xyz
 +.imableaker.shop
 +.imac-community.com
 +.imadedinner.net
@@ -81286,7 +81270,6 @@
 +.imcdn.pro
 +.imciccmysoammsqk.xyz
 +.imckuiacamomeace.xyz
-+.imcoqqccwgkgwuwo.xyz
 +.imcorsa.com
 +.imcounting.com
 +.imcqaigwuokwiegu.xyz
@@ -82049,7 +82032,6 @@
 +.imwmmyaiiumiumiy.xyz
 +.imwmycqqigykwcyo.xyz
 +.imwswqyaegouqimk.xyz
-+.imwwmkcoswyeewco.xyz
 +.imwyeqoyceagkuke.xyz
 +.imyanmarads.com
 +.imydreamsauknd.com
@@ -84803,6 +84785,7 @@
 +.isabellaconnect-k1.web.app
 +.isabellagodpointy.com
 +.isabellahopepancake.com
++.isabellalive.cfd
 +.isabelmarantfr.fr
 +.isafe.pro
 +.isalinux.intercomonline.com
@@ -86296,6 +86279,7 @@
 +.jexled6.shop
 +.jexorium.online
 +.jextoban.com
++.jey90080425s.cfd
 +.jeyrkyshop.com
 +.jezailmasking.com
 +.jezer.site
@@ -86512,7 +86496,6 @@
 +.jingalbundles.com
 +.jinghuazhijia.com
 +.jinglemirror.pro
-+.jingocaggy.shop
 +.jingoproperties.com
 +.jingtanglw.com
 +.jingteinv.com
@@ -86576,6 +86559,7 @@
 +.jiussharefiles.ddns.net
 +.jiusudie.com
 +.jiuweihuzhibo.com
++.jiuyic.top
 +.jiuyoufood.com
 +.jiuytgatt.weebly.com
 +.jiuyuntian3.cn
@@ -86710,6 +86694,7 @@
 +.jmsyap.112.2o7.net
 +.jmt7mbwce.com
 +.jmv.quifelenergy.com
++.jmvdpupdkzoktb.com
 +.jmvjpwl3o.localto.net
 +.jmwdsqkbh.com
 +.jmxgwesrte.com
@@ -87306,6 +87291,7 @@
 +.jrad.jd.com
 +.jrafspaelojsejbn.xyz
 +.jraytest1.com
++.jrbbavbvqmbaz.top
 +.jrblfv.icu
 +.jrcdelcotimescom.122.2o7.net
 +.jrclick.jd.com
@@ -90267,7 +90253,6 @@
 +.kooaiccogoycqwck.xyz
 +.kooappslogs.com
 +.koocash.com
-+.koocawhaido.net
 +.koocheepton.net
 +.koocoofy.com
 +.kooewiykeyuaagog.xyz
@@ -90277,7 +90262,6 @@
 +.kookoinlogien.webflow.io
 +.kookypeach.com
 +.koolstuff4you.com
-+.koomcwiockaeuuay.xyz
 +.koomoaboatapoa.xyz
 +.koophoogloophie.net
 +.koopon.pl
@@ -90470,7 +90454,6 @@
 +.kqgeescomyswsuso.xyz
 +.kqgekimmyuacqqug.xyz
 +.kqgeoceicocikewk.xyz
-+.kqgiowyeesigyaum.xyz
 +.kqgiyqwmacmugmwi.xyz
 +.kqgqikaqweomksii.xyz
 +.kqguiymeukayausi.xyz
@@ -90488,12 +90471,10 @@
 +.kqkouawywscaueim.xyz
 +.kqkqkewyikieusec.xyz
 +.kqkuecgwekewqcym.xyz
-+.kqkwuswcscsomuue.xyz
 +.kqmccuwykcakkycu.xyz
 +.kqmcmawwycogwmyk.xyz
 +.kqmffmth.xyz
 +.kqmguowaycgqugww.xyz
-+.kqmiqgswgmauoake.xyz
 +.kqmkkiwwsccicaaw.xyz
 +.kqoiacmkuaqkiqes.xyz
 +.kqoiaoywigyiogos.xyz
@@ -90521,10 +90502,8 @@
 +.kqucoin-logenon.webflow.io
 +.kqucoinleogine.webflow.io
 +.kquconnlogin.webflow.io
-+.kqucygucyowiekeu.xyz
 +.kqukccaquyoaqoki.xyz
 +.kqussyowmkokiequ.xyz
-+.kquueequggioekom.xyz
 +.kqwcgemuwoswagwq.xyz
 +.kqweikwyomwemqqi.xyz
 +.kqwekssugswgoyme.xyz
@@ -90668,7 +90647,6 @@
 +.krone-ellhofen.de
 +.kronoseletronicos.online
 +.kronoslot.com
-+.kronosoolites.top
 +.kropka.onet.pl
 +.kroxa.net
 +.krpano.org
@@ -90727,7 +90705,6 @@
 +.ksdiy.com
 +.ksdnewr.com
 +.ksdot.govq.win
-+.ksdot.govs.win
 +.ksdrbnsau.weebly.com
 +.ksds.jp
 +.kse65-7a22a.firebaseapp.com
@@ -91527,6 +91504,7 @@
 +.l1vec4ms.com
 +.l2.l.qq.com
 +.l2conect.at.ua
++.l2mfle649s080425l.cfd
 +.l2s.pet
 +.l3mon.dailycheapdeals.com
 +.l3monrat.com
@@ -92575,6 +92553,7 @@
 +.lbsonline.pushct.baidu.com
 +.lbsycw.com
 +.lbtinternet.weebly.com
++.lbuepkvfyo.com
 +.lbv-84.de
 +.lbv12ckjwjklkboighsfryg-jchkjx-idtusqk3wesjfhrtiy.teemill.com
 +.lbvxzfut.cba.pl
@@ -94378,7 +94357,6 @@
 +.lingd.cn
 +.lingerie-mania.com
 +.lingerincle.com
-+.lingetunearth.top
 +.lingid.ee
 +.lingkaran.com.my
 +.lingosurveys.com
@@ -94592,6 +94570,7 @@
 +.lip.is
 +.lipancreek.com
 +.lipertekstil.com
++.liphicafo.com
 +.lipidcontrolplus.pl
 +.lipidicchaoush.com
 +.lipnqqmebq.firebaseapp.com
@@ -95034,6 +95013,7 @@
 +.lizyf.top
 +.ljbiynvyhfteq.rocks
 +.ljbrbz.xyz
++.ljbwzlmlzvavm.top
 +.ljc.coupang.com
 +.ljcudq5hsanym9o.nutfx.pl
 +.ljdofz.xyz
@@ -97228,6 +97208,7 @@
 +.lthxz.cn
 +.ltiacademy.co.uk
 +.ltimechanical.com
++.ltingcoempa.org
 +.ltiws.com
 +.ltkwark.ddns.net
 +.ltlweight.trgr.me
@@ -97518,7 +97499,6 @@
 +.lumpylumber.com
 +.lumpyouter.com
 +.lumpypoodle.pro
-+.lumqalij.shop
 +.lumquvonee.shop
 +.lumramavyy.shop
 +.lumrobotay.shop
@@ -97832,6 +97812,7 @@
 +.lxtihmjohnson163.airdns.org
 +.lxvsjdmjygqcc.space
 +.lxwl-wx.net
++.lxylxwxvhffvm.vip
 +.lxzmk.com
 +.lyaeccn.com
 +.lyaeunjil.pro
@@ -98292,7 +98273,6 @@
 +.ma1il.netsons.org
 +.ma2.lb0408.com
 +.ma3ion.com
-+.ma8kkm.gv.govtax.net
 +.maacap.com
 +.maadimedical.com
 +.maafsante.fr
@@ -100227,7 +100207,6 @@
 +.marten.joqr.co.jp
 +.marten.supernero.app
 +.martextpeyotyl.top
-+.martfinder.com
 +.marti-cqh.com
 +.martialartsonlineschool.com
 +.martialchara.org
@@ -101044,6 +101023,7 @@
 +.mctestnoip0403.ddns.net
 +.mcvapes.co.za
 +.mcxmke.com
++.mcyaabdssxdlg.space
 +.mcytxdrqjmrly.fun
 +.md-1s.ru
 +.md-67.whb.tempwebhost.net
@@ -101186,6 +101166,7 @@
 +.mechaflux.online
 +.mechanical-valley.com
 +.mechanicalcardiac.com
++.mechanicladenthereby.com
 +.mechaonik.nsx.pl
 +.mechasync.online
 +.mechaverse.store
@@ -102059,6 +102040,7 @@
 +.mercury.books.com.tw
 +.mercury.bravenet.com
 +.mercury.coupang.com
++.mercury.dl.playstation.net
 +.mercuryassetrealty.com
 +.mercurysugarconsulting.com
 +.mercyconsultancyhq.com
@@ -103754,7 +103736,6 @@
 +.minorityspasmodiccommissioner.com
 +.minotaur107.com
 +.minotaurgadgets.com
-+.minpsychedelics.com
 +.minst.weebly.com
 +.minsundhed-tjek.com
 +.mint-iris-tern.glitch.me
@@ -105560,7 +105541,6 @@
 +.moontag.com
 +.moonwink.space
 +.moonwish.com.cn
-+.moophauglouhee.com
 +.moopsazijop.com
 +.mooqa.fun
 +.moorcocks.info
@@ -106095,6 +106075,7 @@
 +.mqs.ioam.de
 +.mqsiiui.com
 +.mqtmut.fr
++.mquoemywissvp.tech
 +.mqwmgs.xyz
 +.mqwtgq.xyz
 +.mqx1nhg41-unqn.vercel.app
@@ -106467,6 +106448,7 @@
 +.msysqkakmuqimmme.xyz
 +.msywuciamawkuqcm.xyz
 +.msywuugoeakoyaqa.xyz
++.mszddprapuziw.vip
 +.mszene.pro
 +.mszu80t.kekop.cn
 +.mt-bau.info
@@ -106723,7 +106705,6 @@
 +.mukhtaraz2000.geekgalaxy.com
 +.mukindwouldm.org
 +.mukipol.com
-+.mukkeqscusyoamek.xyz
 +.mukkkuagqweoysoy.xyz
 +.mukluundet.pro
 +.mukqimaaugysggqa.xyz
@@ -106874,7 +106855,6 @@
 +.muqcwukcwueyoyao.xyz
 +.muqeoauwkkomkuay.xyz
 +.muqkwwoeeweqocqw.xyz
-+.muquayoisuyasqqa.xyz
 +.muquysssmwgicuco.xyz
 +.muragetunnel.com
 +.murallyhuashi.casa
@@ -106902,7 +106882,6 @@
 +.murtgu7kalos2.duckdns.org
 +.musaamkmcwusmwsg.xyz
 +.musackeqacuomkma.xyz
-+.musacquigguoiuya.xyz
 +.musaiindot.pro
 +.musanpartn.pro
 +.musclecar.000a.de
@@ -107024,7 +107003,6 @@
 +.mustvideo.fr
 +.mustwork.work
 +.muswegiqgauciiqa.xyz
-+.muswoqsykskwcioy.xyz
 +.mutagcroce.pro
 +.mutamhrotensionz.webflow.io
 +.mutantanaconda.pro
@@ -107067,7 +107045,6 @@
 +.muuxxu.com
 +.muwagiqykmukeeso.xyz
 +.muwgeckcouugmwqu.xyz
-+.muwkkqgeeuwoqsgy.xyz
 +.muwkygcasqugygim.xyz
 +.muwmedia.com
 +.muwmumgyuaookqce.xyz
@@ -107150,6 +107127,7 @@
 +.mwmuller.com
 +.mwngrs.pulty.multiversemechanics.info
 +.mworkhovdiminat.info
++.mwoukrkskillso.com
 +.mwprotected.com
 +.mwquick.com
 +.mwqwwwwwfaceb0ok-italia.emochila.com
@@ -108140,6 +108118,7 @@
 +.myworkspacefax.myclickfunnels.com
 +.mywp.asia
 +.myxflo.com
++.myxstalk.lol
 +.myyage.com
 +.myyahoo.fr
 +.myyahoo55187.activehosted.com
@@ -109467,7 +109446,6 @@
 +.nerosta.giize.com
 +.nersionitsumpute.com
 +.nertalorix.com
-+.nerteetchoubo.net
 +.nertushaud.com
 +.nerve.untergrund.net
 +.nervegus.com
@@ -112357,6 +112335,8 @@
 +.nsultingcoe.net
 +.nsureuae.com
 +.nswoislxidhs.pro
++.nsx-e.np.dl.playstation.net
++.nsx.np.dl.playstation.net
 +.nszbiwxorynnf.xyz
 +.nt-associates.com
 +.nt.mynumber.org
@@ -112601,7 +112581,6 @@
 +.nurturingthemindandbody.com
 +.nusatoyota.co.id
 +.nusaw.com
-+.nuschias.top
 +.nuseek.com
 +.nuskt.directory
 +.nusuroy.com
@@ -113193,7 +113172,6 @@
 +.obligationdrummersculpture.com
 +.obligebuffaloirresolute.com
 +.oblittombo.pro
-+.oblivionhex.site
 +.oblivionpie.com
 +.oblivionspire.site
 +.oblivionthreatjeopardy.com
@@ -114827,6 +114805,7 @@
 +.onclklnd.com
 +.oncloud-france.fr
 +.oncloudpolska.com.pl
++.oncsxvhl.com
 +.oncustomer.asia
 +.oncwwsirydji.xyz
 +.ondamappic.pro
@@ -114834,6 +114813,7 @@
 +.ondaysweop.blogspot.com
 +.ondazautol.pro
 +.ondbazxakr.com
++.ondcrabi.com
 +.ondemandsupervision.com
 +.onderhost.com
 +.ondervezze.pro
@@ -114995,6 +114975,7 @@
 +.onfireshield.com
 +.onflix.us
 +.onfluencer.net
++.onforyou.xyz
 +.ongastlya.com
 +.ongbobimsua.com
 +.ongive.com
@@ -115281,7 +115262,6 @@
 +.only.hearty-community.com
 +.only2date.com
 +.onlyapteka.ru
-+.onlyariel.com
 +.onlycunt.com
 +.onlyczat.pl
 +.onlyfancomplaints.com
@@ -115825,7 +115805,6 @@
 +.ops.ccmbg.com
 +.ops.diamond-internationalltd.com
 +.ops.inv-intteractiveltd.com
-+.ops.tradingrepublic-ltd.com
 +.opsex.com
 +.opskins.gg
 +.opskln.com
@@ -116671,7 +116650,6 @@
 +.ottpremium-officiel.fr
 +.ottpremium.shoters.cc
 +.otulook.fr
-+.otuspooh.shop
 +.otvadvpas.com
 +.otvjsfmh.tech
 +.otvmucajjmac.com
@@ -117271,7 +117249,6 @@
 +.owtky3dxj.localto.net
 +.owuaiousagokguya.xyz
 +.owuakeowmsiywggs.xyz
-+.owuaokyioesowqoy.xyz
 +.owugaiyyggymyuso.xyz
 +.owuiaecgyccggeoi.xyz
 +.owuukgecaqikwucm.xyz
@@ -117380,7 +117357,6 @@
 +.oye4b2lsr08j3cw.pltnetf.sbs
 +.oyecamwwwswaqmqi.xyz
 +.oyeesuomyugyqoyw.xyz
-+.oyegkasocigwkmqu.xyz
 +.oyegkikuyqoiwgmq.xyz
 +.oyell.net
 +.oyemuiiauugimowu.xyz
@@ -117392,7 +117368,6 @@
 +.oygemqkmeasqguks.xyz
 +.oygkmweesmogwqgw.xyz
 +.oygosoukacsoayku.xyz
-+.oygqawaiaamagsko.xyz
 +.oyguscgecogggygq.xyz
 +.oyi9f1kbaj.com
 +.oyicwomuacguuome.xyz
@@ -117452,7 +117427,6 @@
 +.oyyiiwgmeqswqgoq.xyz
 +.oyykskusykwwqesy.xyz
 +.oyyksmoiekksymuk.xyz
-+.oyykwmwcywsummqe.xyz
 +.oyynfv.top
 +.oz-yypkhuwo.rocks
 +.oz.valueclick.ne.jp
@@ -117493,6 +117467,7 @@
 +.ozwxhoonxlm.com
 +.ozxdmyluco.com
 +.ozxojpgmezzy.com
++.ozycode.cfd
 +.ozykeor.icu
 +.ozz.su
 +.ozznarazdtz.com
@@ -119449,7 +119424,6 @@
 +.pb.s3wfg.com
 +.pb.sogou.com
 +.pb3.pstatp.com
-+.pb44c6.gv.govtax.net
 +.pb7.us
 +.pbaco.blueskyanalytics.net
 +.pbaperformance.com
@@ -119641,6 +119615,7 @@
 +.pdns.nudt.edu.cn
 +.pdo.suitesmanjuba.com.br
 +.pdochgl.top
++.pdorki.xyz
 +.pdrdesmoineservicefr.firebaseapp.com
 +.pdrdesmoineservicefr.web.app
 +.pdre.info
@@ -120922,7 +120897,6 @@
 +.photovault.store
 +.photsinstagrmclubsd.weebly.com
 +.phouckoothoo.net
-+.phoukridrap.net
 +.phozeca.com
 +.php-blue-whale-piobio.codeanyapp.com
 +.php-mango-oyster-pl01.codeanyapp.com
@@ -121082,7 +121056,6 @@
 +.pickup-chronopost.fr
 +.pickup-colis.fr
 +.pickup-livraison.fr
-+.pickup-myrelay.com
 +.pickuprelais.fr
 +.pickuptruckhelp.com
 +.pickworthaborderont.clearlakefirst.com
@@ -121861,7 +121834,6 @@
 +.pl-kategorie785178237.icu
 +.pl-kategorie8375149572.icu
 +.pl-kategorie841083174.icu
-+.pl-kategorie84124713.icu
 +.pl-kategorie915812373.icu
 +.pl-kategorie9237462962.icu
 +.pl-kategorie97412714712.icu
@@ -124037,6 +124009,7 @@
 +.postnewsads.com
 +.postnewsmail.com
 +.postoffice-co-za.web.app
++.postoffrsmatch.com
 +.postpagodescuentos.com
 +.postponeclement.com
 +.postproperties.co.zw
@@ -124044,6 +124017,7 @@
 +.postrelease.com
 +.postresurco.webcindario.com
 +.posts-creator.gl.at.ply.gg
++.postsmartlnk.com
 +.postsmaxoptions.com
 +.postsorteercentrum.nl
 +.postsprime.com
@@ -124150,6 +124124,7 @@
 +.pourleplaisir.fr
 +.pouryedgeai.net
 +.pousadacasadoangelo.com.br
++.pouyyonlgw.com
 +.pov-prime.fr
 +.poverdistr.pro
 +.povrat-poreza.firebaseapp.com
@@ -129718,7 +129693,6 @@
 +.qamucekecyicmoia.xyz
 +.qamusgcwwwmyssik.xyz
 +.qamwcakgsascgaes.xyz
-+.qamyceyaisimsmek.xyz
 +.qanadoo.fr
 +.qange.com
 +.qanqizywghyna.xyz
@@ -129901,7 +129875,6 @@
 +.qcsekgyeqqyacsms.xyz
 +.qcsigekmouwyacao.xyz
 +.qcsigmgkyuwesqqa.xyz
-+.qcsioeqygkwugoio.xyz
 +.qcsiwaauscumeeiu.xyz
 +.qcskamseykkygsio.xyz
 +.qcsmooacwmiwomyu.xyz
@@ -130983,6 +130956,7 @@
 +.qylymuy.com
 +.qymkbmjssadw.top
 +.qyqc4s.com
++.qyrkicaqiytxdml.com
 +.qyromjlyvzwjv.top
 +.qyrywea9.pro
 +.qytiguu.com
@@ -131881,7 +131855,6 @@
 +.rauheestuma.xyz
 +.rauldiputado.com
 +.rauma-update.weebly.com
-+.raumipti.net
 +.raumobjektgruppe.de
 +.raumpoesie.net
 +.raunapropo.pro
@@ -132033,6 +132006,7 @@
 +.rbtwo.bid
 +.rbuxfree.com
 +.rbvgaetqsk.love
++.rbweljjbvvbrj.top
 +.rbxbot.com
 +.rbxdream.com
 +.rbxfree.com
@@ -132423,6 +132397,7 @@
 +.realtime-bid.com
 +.realtime-logger.production-public.tubi.io
 +.realtime-profiling.datarize.ai
++.realtime-receive-lp1.dg.srv.nintendo.net
 +.realtimeanalytics.yext.com
 +.realtimebuzzalertupdate.click
 +.realtimebuzzbreakingalert.click
@@ -132556,6 +132531,8 @@
 +.receiptcent.com
 +.receitacpfregularizacao.com
 +.receive-international-money-24h.weebly.com
++.receive-lp1.dg.srv.nintendo.net
++.receive-lp1.er.srv.nintendo.net
 +.receive-probably.gl.at.ply.gg
 +.receive.llc
 +.receiver-metis.infeng.site
@@ -136046,7 +136023,6 @@
 +.rolleto.fr
 +.rolletocasino.fr
 +.rolletto.fr
-+.rolleychacker.top
 +.rollher.com
 +.rollinginclover.com
 +.rollingwolvesforthcoming.com
@@ -136490,7 +136466,6 @@
 +.royal-skin.net
 +.royal.deliverylocationiim.xin
 +.royal.deliverylocationiin.xin
-+.royal.deliverylocationiix.xin
 +.royal.deliverylocationvc.xin
 +.royal.processingonlineio.xin
 +.royalair.koom.ma
@@ -137185,6 +137160,7 @@
 +.ruit.tech
 +.ruiyangcn.com
 +.ruizdiaz-sattel.de
++.rujpqipniloqi.love
 +.rukalebi.ru
 +.rukayatbalogun.xyz
 +.ruklibamj.com
@@ -138012,6 +137988,7 @@
 +.sabrasmith.com
 +.sabratravel-sd.com
 +.sabre-airlinesolutions.com
++.sabreripier.shop
 +.sabunca.com
 +.saburnavig.pro
 +.sac--longchamps.fr
@@ -138749,7 +138726,6 @@
 +.sanrjeofikacje24.219588.org
 +.sanrjeofikacje24.611357.org
 +.sansamuels.com
-+.sanseemp.com
 +.sanseracingteam.com
 +.sansha.fr
 +.sansho007.no-ip.biz
@@ -141312,7 +141288,6 @@
 +.seektheglobe.com
 +.seekwell.net
 +.seekwiggleuz.shop
-+.seekwiwmmcgamwye.xyz
 +.seekygmmmuemwoya.xyz
 +.seelfarmsix.com
 +.seemethepointa.org
@@ -141336,7 +141311,6 @@
 +.seeskincare.com
 +.seespa-am-bodensee.de
 +.seespice.com
-+.seetaziy.net
 +.seeteksystems.com
 +.seeteressecalywoi.github.io
 +.seethisinaction.com
@@ -141550,7 +141524,6 @@
 +.semasio.net
 +.semasu.net
 +.semaxin.pl
-+.semayecmaqeeeweg.xyz
 +.sembilanfm.blogspot.com
 +.sembinonin.pro
 +.semblea.com
@@ -141869,7 +141842,6 @@
 +.seqcyaaucayymamw.xyz
 +.seqgqemyyamiycou.xyz
 +.seqicagkcuogicgw.xyz
-+.seqiiqyuiomeukoi.xyz
 +.seqokiommyqkekmm.xyz
 +.seqqauqcmcikikkq.xyz
 +.seqseauiqgoqikey.xyz
@@ -142987,7 +142959,6 @@
 +.sgb.niarn.org
 +.sgbid.prod.sift.co
 +.sgccgwqgcoiyiike.xyz
-+.sgccucogucsgcqik.xyz
 +.sgccuugqyoyuageo.xyz
 +.sgcegqoqcqqescge.xyz
 +.sgcemsokwmcuaqeq.xyz
@@ -143710,7 +143681,6 @@
 +.shido.market
 +.shielcapit.pro
 +.shield.knowt.com
-+.shieldedpay.org
 +.shieldinnovationsllc.com
 +.shifaherbalmaster.com
 +.shift.oferty-kredytowe.pl
@@ -144107,7 +144077,6 @@
 +.shopshopping.online
 +.shopsimplux.com
 +.shopsolutions.co
-+.shopsonnies.top
 +.shopsquare.naver.com
 +.shopstempowered.wallpapersenginelive.com
 +.shopstudio.at
@@ -145741,6 +145710,7 @@
 +.sleepwellmagazine.com
 +.sleepy-khorana.193-239-86-216.plesk.page
 +.sleepybearcreations.com
++.sleepydrunk.pro
 +.sleepyhollowstories.com
 +.sleepyrowan.com
 +.slegelogins.webflow.io
@@ -147316,7 +147286,6 @@
 +.sojoin.net
 +.sojourner.mypicture.info
 +.sok8.net
-+.sokajecorin.com
 +.sokdikksiiefgsdf.cyou
 +.sokdm.yt
 +.sokitosa.com
@@ -147423,7 +147392,6 @@
 +.soleina.fr
 +.solelyfun.com
 +.solelyfurniture.com
-+.solelylane.site
 +.solemnape.pro
 +.solemndates.com
 +.solemnmackerel.pro
@@ -149084,6 +149052,7 @@
 +.sproatmonger.shop
 +.sprobuj.top
 +.sprocket-ping.s3.amazonaws.com
++.sprofile-lp1.cdn.nintendo.net
 +.sprolcontr.pro
 +.spromoter.com
 +.sproose.com
@@ -150001,7 +149970,6 @@
 +.starsearchtool.com
 +.starseed.fr
 +.starshift.icu
-+.starshiftzone.site
 +.starshine-shop.com
 +.starslay3r.net
 +.starssp.top
@@ -154297,7 +154265,6 @@
 +.sy.ameba.jp
 +.sy.salesmanago.pl
 +.sy.tubeprnlist.online
-+.sy1kv.lat
 +.sya9yncn3q.com
 +.syakoba.com
 +.syarts.org
@@ -154859,6 +154826,7 @@
 +.t7z.cupid.iqiyi.com
 +.t7z.cupid.ptqy.gitv.tv
 +.t810.ctpost.com
++.t84c3srgclc9.com
 +.t85itha3nitde.com
 +.t89ll.com
 +.t8ixcketgse-faceb0okk.emochila.com
@@ -154941,6 +154909,7 @@
 +.tackyshark.pro
 +.tackytrains.com
 +.tackywildebeest.pro
++.tacmagonsoaksu.com
 +.taco-keys.com
 +.taco.sexreels.net
 +.tacoda.net
@@ -156415,6 +156384,7 @@
 +.telemdiabo.pro
 +.telemediaa.pl
 +.telemetric.dk
++.telemetry-cii.api.playstation.com
 +.telemetry-in.battle.net
 +.telemetry-incoming.r53-2.services.mozilla.com
 +.telemetry.api.swiftkey.com
@@ -157460,6 +157430,7 @@
 +.thebarnmixing.com
 +.thebearing.net
 +.thebernoullieffect.com
++.thebestdates.net
 +.thebestdealsforyou.com
 +.thebestgame2020.com
 +.thebestlinksfr.firebaseapp.com
@@ -158185,7 +158156,6 @@
 +.thinnerwishingeccentric.com
 +.thinpaltrydistrust.com
 +.thioeradio.pro
-+.thioninkalwar.top
 +.thiraq.com
 +.third-gained.gl.at.ply.gg
 +.third-tracking.com
@@ -159125,7 +159095,6 @@
 +.tkpopup.asia
 +.tkpopup.vn
 +.tkportal.aotter.net
-+.tkqeai6tead.life
 +.tkrecorder.aotter.net
 +.tkshopvn.vip
 +.tktlert.kro.kr
@@ -163011,6 +162980,7 @@
 +.tsiservice-login1.com
 +.tsiwqtng8huauw30n.com
 +.tsj0.madeindesign.com
++.tskingperdues.shop
 +.tsl-inspections.com
 +.tslaico.net
 +.tslamrzckfctp.icu
@@ -163870,7 +163840,6 @@
 +.txdmv.gov-wiki.qpon
 +.txdmv.gov-wiko.qpon
 +.txdmv.gov-wikr.qpon
-+.txdmv.gov-wikt.qpon
 +.txdmv.gov-wikv.qpon
 +.txdmv.gov-wiky.qpon
 +.txdmv.gov-wikz.qpon
@@ -163885,7 +163854,6 @@
 +.txdmv.hax-ppv.win
 +.txdmv.hax-qri.win
 +.txdmv.hax-vvw.win
-+.txdmv.hax-xtl.win
 +.txdmv.jds-ddb.win
 +.txdmv.jds-hmz.win
 +.txdmv.jds-oqk.win
@@ -164620,7 +164588,6 @@
 +.uigicymiwigqooco.xyz
 +.uigkyuweammwgouw.xyz
 +.uigqemagsoyecces.xyz
-+.uigsewqwwygeqgac.xyz
 +.uigsmeuqyiycmgki.xyz
 +.uigucseaekusaoaq.xyz
 +.uigvrnjehy.duckdns.org
@@ -164656,7 +164623,6 @@
 +.uiocmqiysmkeukki.xyz
 +.uioeoeukggkkgusw.xyz
 +.uiofnm-co-jp.com
-+.uioiuggmkyeicsyo.xyz
 +.uiokkyqmguwcciko.xyz
 +.uiomcasqysugceuk.xyz
 +.uiomgkawoueqeeqy.xyz
@@ -164679,7 +164645,6 @@
 +.uiqqeyagsowssksw.xyz
 +.uiqqgeaquscmicui.xyz
 +.uiqssmocycmkiick.xyz
-+.uiqyqqmugikqskwi.xyz
 +.uirusu.jp
 +.uisek-edu-ec-mail.weebly.com
 +.uiseqwqqwaygoiqk.xyz
@@ -164811,7 +164776,6 @@
 +.ukkeewsmiqyyqeky.xyz
 +.ukkiftx.icu
 +.ukkogekwuooowiya.xyz
-+.ukkscqeowcuuesgq.xyz
 +.ukkweggsyiqgumqq.xyz
 +.uklad.top
 +.uklado.top
@@ -164827,7 +164791,6 @@
 +.ukmkyuuoiuqaswks.xyz
 +.ukmlastityty.info
 +.ukmlastitytyeastf.com
-+.ukmmkuwoaamgkseg.xyz
 +.ukmmmkcccucwgaas.xyz
 +.ukmpdonors.com
 +.ukmsuqucumgmuimq.xyz
@@ -164905,7 +164868,6 @@
 +.ukykcmacegysssay.xyz
 +.ukykiseycycaeswy.xyz
 +.ukykiyyqcaugkwsi.xyz
-+.ukymcuyaguqcamgw.xyz
 +.ukymmmcuismmmagm.xyz
 +.ukymsyuwkqwmosqw.xyz
 +.ukyooiwccmcckqaq.xyz
@@ -165928,7 +165890,6 @@
 +.uolphotosite.112.2o7.net
 +.uomwebmail.weebly.com
 +.uonuvcrnert.com
-+.uoo1gm.gv.govtax.net
 +.uoomer.pro
 +.uoou-gov.cloud
 +.uopholddlginj.godaddysites.com
@@ -166500,7 +166461,6 @@
 +.us.flhsmvcj.win
 +.us.flhsmver.win
 +.us.flhsmvlh.win
-+.us.flhsmvnd.top
 +.us.flhsmvnf.top
 +.us.flhsmvnk.top
 +.us.flhsmvnl.top
@@ -166521,7 +166481,6 @@
 +.us.flhsmvti.win
 +.us.flhsmvtp.win
 +.us.flhsmvvo.win
-+.us.flhsmvwb.top
 +.us.flhsmvwe.win
 +.us.flhsmvwh.top
 +.us.flhsmvwj.top
@@ -166788,7 +166747,6 @@
 +.usps.com-fastzasa.win
 +.usps.com-fastzasf.win
 +.usps.com-fastzash.win
-+.usps.com-fastzasz.win
 +.usps.com-fastzusb.win
 +.usps.com-fastzusj.win
 +.usps.com-fastzusl.win
@@ -167930,7 +167888,6 @@
 +.vekaria.com
 +.vekimo9415-my-cheetah-website.site.builderall.net
 +.vekis.de
-+.veklora.site
 +.vektor-power.com
 +.vektorex.com
 +.vektormax.com
@@ -169223,6 +169180,7 @@
 +.villageskaier.com
 +.villagewebmaileraccess0987653.weebly.com
 +.villainous-appointment.com
++.villainous-stop.pro
 +.villakaffeebohne.com
 +.villalecchi.com
 +.villaltatravel.com
@@ -169358,7 +169316,6 @@
 +.vinted.r6zyei.pro
 +.vinted.receive627.run
 +.vinted.sale-verification76.world
-+.vinted.sp2lsmwq.live
 +.vinted.total010.shop
 +.vinted.total742.shop
 +.vinted.transportation950.shop
@@ -169870,6 +169827,7 @@
 +.vjntedit.36278.today
 +.vjntedpt.36278.today
 +.vjntedse.16274.today
++.vjojjdird.com
 +.vjpanplus.top
 +.vjugz.com
 +.vjyr5ujcry56iyjgsr3qasrhre1yu79oyjdhndsaq1w5uiyku.teemill.com
@@ -170034,6 +169992,7 @@
 +.vnc69977s.com
 +.vncdz213.ddns.net
 +.vnchinhphu.cc
++.vncnu.com
 +.vnebi.com
 +.vneid.vieegovn.cc
 +.vnemira.ru
@@ -174826,6 +174785,7 @@
 +.wjct3s8at.com
 +.wjcvanniekerk.com
 +.wjebboljovoaz.top
++.wjljwqbzjjvkw.top
 +.wjptf.top
 +.wjvavwjyaso.com
 +.wjxcdn.com
@@ -174950,11 +174910,9 @@
 +.wmgqwgkqwwysqgaa.xyz
 +.wmgukoycakamcoaw.xyz
 +.wmi.4i7i.com
-+.wmiaciccykwumsmu.xyz
 +.wmieyyucysmukcuq.xyz
 +.wmigkewumsyoqoio.xyz
 +.wmiigmckekeiuaas.xyz
-+.wmikkcwkciqcykau.xyz
 +.wmioygcaucqmecmc.xyz
 +.wmioyksakiaosqya.xyz
 +.wmip.ru
@@ -175014,7 +174972,6 @@
 +.wmuwywmeciweaumu.xyz
 +.wmvngq.shop
 +.wmw.matchin.jp
-+.wmwaumiockyiesmo.xyz
 +.wmwaumswsigyaaom.xyz
 +.wmweiymquousmccw.xyz
 +.wmwifbajxxbcxmucxmlc.com
@@ -175071,7 +175028,6 @@
 +.woakaemmsimisiea.xyz
 +.woamcgmgwakyigqa.xyz
 +.woamoogloow.net
-+.woaocaewowoecuis.xyz
 +.woaosomukaeemcok.xyz
 +.woapheer.com
 +.woasry.com
@@ -176593,6 +176549,7 @@
 +.x5engqblicfklf6x0mf6.maherstcottage.com.au
 +.x5fnzbct1.life
 +.x5k.ru
++.x5vw0y8h70804254.cfd
 +.x6.no-ip.info
 +.x6.yakiuchi.com
 +.x63-hello.live
@@ -176775,6 +176732,7 @@
 +.xcowuheclvwryh.com
 +.xcracked.com
 +.xcreepl.sytes.net
++.xcrghf.xyz
 +.xctoquhnalqgn.vip
 +.xcuffrzha.com
 +.xcultur.com
@@ -178228,6 +178186,7 @@
 +.xwbmjb.xyz
 +.xwdjnj.xyz
 +.xweb.ddns.net
++.xweblaxbwsinuji.com
 +.xwebmail-blutho.glitch.me
 +.xwebmail-stuserb.riyueguo.com
 +.xwebmail-stuserblk.riyueguo.com
@@ -179482,6 +179441,7 @@
 +.youyoumw.com
 +.yovoads.com
 +.yown.ru
++.yoxwrdiw.com
 +.yoyadsdom.com
 +.yoyausones.com
 +.yoydzs.blogspot.de
@@ -179534,7 +179494,6 @@
 +.yqcyssgoqkiummgk.xyz
 +.yqcyusuekwwieyec.xyz
 +.yqeaaogccwceomog.xyz
-+.yqeawecaweymsycm.xyz
 +.yqeawimgaeaamqiq.xyz
 +.yqeggyoyqcsqqawu.xyz
 +.yqeikmqkauwskqeg.xyz
@@ -179547,7 +179506,6 @@
 +.yqgeiasmqyqwcgaq.xyz
 +.yqgggisgwiukyaaw.xyz
 +.yqggooiqmkuyeayw.xyz
-+.yqggssswaoaccekm.xyz
 +.yqgigmkosqqeycwm.xyz
 +.yqgqayagqysumcas.xyz
 +.yqgsaogekaoeaosi.xyz
@@ -179586,7 +179544,6 @@
 +.yqqkkuqcakigqayg.xyz
 +.yqqqmyyssoguqgwc.xyz
 +.yqqwkaqsqqyemmum.xyz
-+.yqseqsmuwqoqiceq.xyz
 +.yqsewmcsyagqyiwq.xyz
 +.yqsgeussekcsgkoq.xyz
 +.yqskuywwysmoacko.xyz
@@ -179646,7 +179603,6 @@
 +.ysayyewgqmgogyye.xyz
 +.ysbaojia.com
 +.ysbweb.com
-+.ysccgmmsqssqgwme.xyz
 +.yscuouwkwuiugkcm.xyz
 +.yscwumqkoygsowcg.xyz
 +.yscxb.xyz
@@ -181190,7 +181146,6 @@
 +.zofmhx.icu
 +.zofoxao.com
 +.zog.link
-+.zograughoa.net
 +.zogrepsili.com
 +.zohaethnic.com
 +.zohard.com
