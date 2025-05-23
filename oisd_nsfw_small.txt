@@ -1,9 +1,9 @@
-# Version: 202505231614
+# Version: 202505231714
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20908
-# Last modified: 2025-05-23T16:14:33+0000
+# Entries: 20917
+# Last modified: 2025-05-23T17:14:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -620,6 +620,7 @@
 +.adultfilmcentral.com
 +.adultfilmdatabase.com
 +.adultfilmindex.com
++.adultfilmstarcontent.com
 +.adultfinder-friend.com
 +.adultfishdating.com.au
 +.adultflingdating.co.uk
@@ -1034,6 +1035,7 @@
 +.analdin.live
 +.analdin.xxx
 +.analdreamhouse.com
++.analforum.net
 +.analgalore.com
 +.analized.com
 +.analmom.com
@@ -2715,6 +2717,7 @@
 +.brazzers.com
 +.brazzers.xxx
 +.brazzersnetwork.com
++.brazzersone.org
 +.brazzerss.vip
 +.brazzerssurvey.com
 +.brazzfan.com
@@ -4218,6 +4221,7 @@
 +.divorcedhookup.com
 +.dixyporn.com
 +.diyarbakirescortilan.com
++.diyarbakirofisescortlari.com
 +.djatoya.com
 +.djav.org
 +.djgujarati.com
@@ -7078,6 +7082,7 @@
 +.hdporn97.com
 +.hdporncomics.com
 +.hdporncomics.org
++.hdporncomix.com
 +.hdporner.me
 +.hdporner.tv
 +.hdpornflicks.com
@@ -9834,6 +9839,7 @@
 +.linkhipe.com
 +.linkhotel.nl
 +.linkmetoporn.com
++.linknet.be
 +.linkoverzicht.be
 +.linkparty.info
 +.links2leaks.com
@@ -10012,6 +10018,7 @@
 +.loveherboobs.com
 +.loveherfeet.com
 +.loveherfilms.com
++.lovehkfilm.com
 +.lovehomeporn.com
 +.lovehoney.ca
 +.lovehoney.co.nz
@@ -16457,6 +16464,7 @@
 +.sisurl.com
 +.sisurl.net
 +.siswetlive.com
++.site123.me
 +.sitedesex.com
 +.siterips.org
 +.siteripz.cc
@@ -18172,6 +18180,7 @@
 +.u18chan.com
 +.u3c3.com
 +.u9mm.com
++.uaa.com
 +.uaa001.com
 +.uaa002.com
 +.uaa003.com
