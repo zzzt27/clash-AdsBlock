@@ -1,9 +1,9 @@
-# Version: 202505231714
+# Version: 202505231923
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20917
-# Last modified: 2025-05-23T17:14:38+0000
+# Entries: 20927
+# Last modified: 2025-05-23T19:23:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2408,7 +2408,6 @@
 +.blacktube.tv
 +.blackwhitepleasure.com
 +.blackwink.com
-+.blackxxxgay.com
 +.blazinglink.com
 +.blcdog.com
 +.bleachbooru.org
@@ -2442,6 +2441,7 @@
 +.blushvibe.com
 +.blwatcher.com
 +.bmbsgo.com
++.bncloudfl.com
 +.bnewporn.com
 +.boabronha.com
 +.boafoda.com
@@ -5736,6 +5736,7 @@
 +.foxytv.org
 +.fpkmgppu.ru
 +.fpo.xxx
++.fr.nf
 +.france-vidcaps.org
 +.francexe.com
 +.franks-tgirlworld.com
@@ -6473,6 +6474,7 @@
 +.geilhaus.de
 +.geinou-nude.com
 +.geinoujam.com
++.gejiem.eu
 +.gekso.com
 +.gekso.mobi
 +.gekso.org
@@ -7569,6 +7571,7 @@
 +.hlebo.com
 +.hlebo.mobi
 +.hmanga.asia
++.hmanga.org
 +.hmporn.net
 +.hmvmania.com
 +.hnext.jp
@@ -8177,6 +8180,7 @@
 +.impervert.com
 +.impostingit.com
 +.improvsex.net
++.imss.gob.mx
 +.imvu.com
 +.imx.to
 +.imzog.com
@@ -8429,6 +8433,7 @@
 +.info-instacams.com
 +.info-mymilfs.com
 +.infoenbolas.com
++.infy.uk
 +.ingyen.icu
 +.ingyenporno.biz
 +.ingyenporno.tv
@@ -9276,6 +9281,7 @@
 +.katworld.net
 +.kauf6.com
 +.kaufmich.com
++.kav.so
 +.kav.xxx
 +.kavabunga.org
 +.kaviar-pornos.net
@@ -9412,7 +9418,6 @@
 +.kleinetitten.pics
 +.kleverig.eu
 +.klsmooci02.com
-+.klubb6.fi
 +.klubzaodrasle.com
 +.kmb.org.hk
 +.knockporn.com
@@ -12146,7 +12151,6 @@
 +.onlyfinder.com
 +.onlyflings.com
 +.onlygaymen.com
-+.onlygayporn.com
 +.onlygayvideo.com
 +.onlyhardporn.mobi
 +.onlyhentaistuff.com
@@ -14236,6 +14240,7 @@
 +.premiumporno.net
 +.prendiporno.tv
 +.prendresonpieds.com
++.prepagos.com
 +.pretty.porn
 +.prettyflaps.com
 +.prettynu.tv
@@ -14474,6 +14479,7 @@
 +.putasvipmexico.net
 +.putaxvideos.com
 +.putinho.net
++.putlocker.gy
 +.putonas.xxx
 +.pv.be
 +.pvi.pl
@@ -14589,6 +14595,7 @@
 +.randomskip.com
 +.randyblue.com
 +.ranetki.online
++.ranking.bio
 +.raparigaslocais.com
 +.rapbeh.net
 +.rapeathome.com
@@ -14774,6 +14781,7 @@
 +.refinery29.com
 +.reflectivedesire.com
 +.regionalnudes.com
++.regiosexcontact.nl
 +.regioswingers.be
 +.reifefrauenklub.com
 +.reifefraukostenlos.com
@@ -16974,6 +16982,7 @@
 +.swipeporn.xyz
 +.swipeturbate.com
 +.swirlr.com
++.swissdevjobs.ch
 +.swpt.org
 +.sx77.org
 +.sxfree.top
@@ -18935,6 +18944,7 @@
 +.webcambabes.nl
 +.webcamexchange.com
 +.webcamgalore.com
++.webcamgalore.de
 +.webcamjackers.com
 +.webcampornoxxx.net
 +.webcamrecs.com
@@ -19216,6 +19226,7 @@
 +.x99av.com
 +.xadultporn.com
 +.xahani.com
++.xala.az
 +.xalabahia.com
 +.xamateur.net
 +.xamigos.es
@@ -20542,7 +20553,6 @@
 +.xxxzootube.com
 +.xyouxxx.com
 +.xyzcomics.com
-+.xyzpic.cyou
 +.xyzporncomics.com
 +.xzhentai.net
 +.xzooz.su
