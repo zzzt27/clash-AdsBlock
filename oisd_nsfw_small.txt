@@ -1,9 +1,9 @@
-# Version: 202505240839
+# Version: 202505240918
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21038
-# Last modified: 2025-05-24T08:39:44+0000
+# Entries: 21041
+# Last modified: 2025-05-24T09:18:11+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -455,6 +455,7 @@
 +.a-hentai.tv
 +.a1tb.com
 +.a2zporn2.com
++.a3erf.com
 +.a4ktube.com
 +.aaaporn.net
 +.aagmaal.autos
@@ -3422,6 +3423,7 @@
 +.cineville.nl
 +.cinselsohbetet.com
 +.cirillas.com
++.cision.com
 +.citas10.net
 +.citebeur.com
 +.citybrothel.com.au
@@ -3590,6 +3592,7 @@
 +.contactossex.com
 +.contactoysexo.com
 +.contactq.fr
++.contatosexual.com
 +.contatosproximos.com
 +.contattolocale.com
 +.contattoveloce.com
@@ -14577,6 +14580,7 @@
 +.qingse.one
 +.qinimg.com
 +.qiqitv.info
++.qise100.com
 +.qnewporn.com
 +.qombol.com
 +.qoqh.com
@@ -15685,7 +15689,6 @@
 +.sexfreehdxxxin.com
 +.sexfrisk.com
 +.sexfun.nl
-+.sexgaga.com
 +.sexgai.cc
 +.sexgai.store
 +.sexgai9x.pro
