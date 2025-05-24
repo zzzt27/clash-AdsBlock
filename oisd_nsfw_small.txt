@@ -1,9 +1,9 @@
-# Version: 202505241913
+# Version: 202505242058
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21099
-# Last modified: 2025-05-24T19:13:40+0000
+# Entries: 21098
+# Last modified: 2025-05-24T20:58:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4291,7 +4291,6 @@
 +.dogporntube.site
 +.dogsanimalxxx.club
 +.dogsbestialitysex.com
-+.dogsex.club
 +.dogsex19.com
 +.dogsexporn.net
 +.dogspics.net
