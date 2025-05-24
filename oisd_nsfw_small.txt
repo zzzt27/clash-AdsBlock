@@ -1,9 +1,9 @@
-# Version: 202505241314
+# Version: 202505241413
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21063
-# Last modified: 2025-05-24T13:14:19+0000
+# Entries: 21066
+# Last modified: 2025-05-24T14:13:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -380,6 +380,7 @@
 +.6navi.ch
 +.6profi-forum.com
 +.6profis.de
++.6relax.de
 +.6today.de
 +.6xnxx.pro
 +.6ytube.com
@@ -1238,6 +1239,7 @@
 +.aoxx69.vip
 +.apartadox.com
 +.apclips.com
++.apefist.com
 +.apenasmaisumyaoi.com
 +.apetube.com
 +.apetube.page
@@ -14469,6 +14471,7 @@
 +.ptclassic.com
 +.ptorrents.com
 +.ptporn.com
++.ptt.sex
 +.puba.com
 +.pubjav.com
 +.public-porn.art
