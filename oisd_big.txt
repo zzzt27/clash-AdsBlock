@@ -1,9 +1,9 @@
-# Version: 202505240409
+# Version: 202505240809
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 179569
-# Last modified: 2025-05-24T04:09:04+0000
+# Entries: 179567
+# Last modified: 2025-05-24T08:09:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -26813,7 +26813,6 @@
 +.besuretotakenow.com
 +.bet-alright.fr
 +.bet-at-home.com
-+.bet-games.ru
 +.bet-master.fr
 +.bet-riot-casino.fr
 +.bet-tanzania.com
@@ -70829,7 +70828,6 @@
 +.gobusinessloan.com
 +.gobustone.az
 +.gobuxeg.com
-+.gocableinternetok.live
 +.gocdn.ru
 +.gochainwallet.github.io
 +.gocheewimtie.xyz
