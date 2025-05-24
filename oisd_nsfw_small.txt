@@ -1,9 +1,9 @@
-# Version: 202505240513
+# Version: 202505240613
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21010
-# Last modified: 2025-05-24T05:13:17+0000
+# Entries: 21014
+# Last modified: 2025-05-24T06:13:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8076,6 +8076,7 @@
 +.hw-area.com
 +.hyderabadbeauties.com
 +.hydievpornovideo.com
++.hydrahub.io
 +.hyggeligtreff.com
 +.hyperxxporn.net
 +.hyperzod.dev
@@ -9293,7 +9294,6 @@
 +.kashtanka.xyz
 +.kashtanporn.com
 +.kasidie.com
-+.kaskosy.com
 +.kasualapp.com
 +.kasurbokep.com
 +.kasut.org
@@ -14399,6 +14399,7 @@
 +.prostitutkisoy.com
 +.prostitutkisoy.info
 +.prostitutok-net.top
++.prostitutoknet.top
 +.prostivedettes.com
 +.prostoporno.beauty
 +.prostoporno.blog
@@ -17114,6 +17115,7 @@
 +.tacamateurs.com
 +.tacosaltos.com
 +.tagass.net
++.tagstube.com
 +.taianhsex.com
 +.taiav.com
 +.taifangbd.com
@@ -18206,6 +18208,7 @@
 +.tv-25.co
 +.tv2.hu
 +.tvali.net
++.tvn.hu
 +.tvoisex.ru
 +.tvojerande.cz
 +.tvporn.net
@@ -20686,6 +20689,7 @@
 +.yesaa.buzz
 +.yesbackpage.com
 +.yescams.com
++.yescort.ru
 +.yesgay.xyz
 +.yesgaysex.com
 +.yesichat.com
