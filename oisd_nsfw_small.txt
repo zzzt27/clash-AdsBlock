@@ -1,9 +1,9 @@
-# Version: 202505240918
+# Version: 202505241013
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21041
-# Last modified: 2025-05-24T09:18:11+0000
+# Entries: 21045
+# Last modified: 2025-05-24T10:13:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -852,6 +852,7 @@
 +.alldojki.com
 +.alldojki.in
 +.allebonygals.com
++.allepaginas.nl
 +.allesoverseks.be
 +.allfet.net
 +.allfinegirls.com
@@ -3999,6 +4000,7 @@
 +.desi-xxx-porn.com
 +.desi-xxx-videos.com
 +.desi-xxx.pro
++.desi400.com
 +.desi49.com
 +.desi49.info
 +.desi49.vip
@@ -9688,7 +9690,6 @@
 +.leakshaven.com
 +.leakslove.com
 +.leaktube.net
-+.leaktube.org
 +.leaktubenet.com
 +.leakutopia.com
 +.leakvids.com
@@ -14855,6 +14856,7 @@
 +.regionalnudes.com
 +.regiosexcontact.nl
 +.regioswingers.be
++.regioswingers.nl
 +.reifefrauenklub.com
 +.reifefraukostenlos.com
 +.reifenachbarn.com
@@ -18318,6 +18320,7 @@
 +.uhairy.com
 +.uhdsexmovs.com
 +.uhdsextube.com
++.uhmegle.com
 +.uhtube.fun
 +.uiiumovie.fun
 +.uiporn.asia
@@ -21043,6 +21046,7 @@
 +.zvraceny.cz
 +.zwaremetalen.com
 +.zwhitelabel.com
++.zwinkr.de
 +.zxctube.com
 +.zxt.in
 +.zxvideos.net
