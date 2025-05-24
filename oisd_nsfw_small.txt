@@ -1,9 +1,9 @@
-# Version: 202505242115
+# Version: 202505242216
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21149
-# Last modified: 2025-05-24T21:15:18+0000
+# Entries: 21156
+# Last modified: 2025-05-24T22:16:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5816,6 +5816,7 @@
 +.free-xxx-porn.org
 +.free.bg
 +.free.hr
++.free.nf
 +.free18.net
 +.free4kporn.com
 +.free4u.cyou
@@ -8619,6 +8620,7 @@
 +.isexychat.com
 +.isexychat.in
 +.isexychat.org
++.isguzem.online
 +.ishemalesex.com
 +.ishotmyself.com
 +.ishotmyself.nl
@@ -10338,6 +10340,7 @@
 +.mangadass.com
 +.mangadistrict.com
 +.mangadna.com
++.mangadoujin.com
 +.mangaforest.me
 +.mangaforfree.com
 +.mangaforfree.net
@@ -10471,6 +10474,7 @@
 +.masterpaj.com
 +.mastertgp.net
 +.masthindistory.com
++.mastibaba.com
 +.masticlubs.com
 +.mastixflix.com
 +.masturbate2gether.com
@@ -14357,6 +14361,7 @@
 +.preggophilia.com
 +.prehistorictube.com
 +.premium-beauty.com
++.premium-ott.com
 +.premium.chat
 +.premiumbukkake.com
 +.premiumescorts.site
@@ -19473,6 +19478,7 @@
 +.xchina.co
 +.xchina.store
 +.xcity.jp
++.xclip.vip
 +.xcomics.se
 +.xconfessions.com
 +.xculazos.com
@@ -20461,6 +20467,7 @@
 +.xxxevery.day
 +.xxxfap.me
 +.xxxfast.com
++.xxxfetishforum.com
 +.xxxfile.org
 +.xxxfiles.com
 +.xxxfilm.pro
