@@ -1,9 +1,9 @@
-# Version: 202505251609
+# Version: 202505251710
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 179176
-# Last modified: 2025-05-25T16:09:47+0000
+# Entries: 179174
+# Last modified: 2025-05-25T17:10:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -25462,7 +25462,6 @@
 +.bbvanetcashs.com
 +.bbvft221.ddns.net
 +.bbxo.fr
-+.bbxyxt.xyz
 +.bbzassociates.com
 +.bc-game-casino.fr
 +.bc-help.top
@@ -154205,7 +154204,6 @@
 +.telefon-50-zl.is-best.net
 +.telefonsexmitcam.eu
 +.telefoonshop.net
-+.telegakapur.shop
 +.telegeqwt.tax
 +.telegoffer.pro
 +.telegorda.net

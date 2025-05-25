@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 25 May 2025
 # LatestVersion 24.01
-# Domain Count: 15770
+# Domain Count: 15769
 #===============================================================
 
 +.0i0i0i0.com
@@ -615,7 +615,6 @@
 +.antiadblocksystems.com
 +.antillephone.com
 +.antio-nar.com
-+.antonyexpected.com
 +.anyclip.com
 +.anythinktech.com
 +.anytrack.io
