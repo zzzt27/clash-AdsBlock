@@ -1,9 +1,9 @@
-# Version: 202505250714
+# Version: 202505250815
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21218
-# Last modified: 2025-05-25T07:14:34+0000
+# Entries: 21220
+# Last modified: 2025-05-25T08:15:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1246,6 +1246,7 @@
 +.aoitenshi.com
 +.aosex.com
 +.aoutrametade.com.br
++.aoxx69.net
 +.aoxx69.vip
 +.apartadox.com
 +.apclips.com
@@ -5170,7 +5171,6 @@
 +.facetporn.com
 +.facialabuse.com
 +.facileporno.com
-+.factly.in
 +.factormoe.net
 +.fadadosexo.com
 +.fagalicious.com
@@ -6153,6 +6153,7 @@
 +.fuegodevida.com
 +.fuegoporno.com
 +.fukxl.com
++.fukxx.com
 +.fulladultmovies.com
 +.fullanal.net
 +.fullblog.com.ar
@@ -10134,6 +10135,7 @@
 +.lovehoney.co.uk
 +.lovehoney.com
 +.lovehoney.com.au
++.lovehoney.eu
 +.lovehoneyforum.com
 +.lovehotporn.com
 +.lovehub.com
@@ -11898,6 +11900,7 @@
 +.nsfw.sex
 +.nsfw.xxx
 +.nsfw247.to
++.nsfwaichat.com
 +.nsfwalbum.com
 +.nsfwcharai.com
 +.nsfwgify.com
@@ -16569,7 +16572,6 @@
 +.sheshaft.com
 +.shiatube.org
 +.shibbydex.com
-+.shikshabarta.com
 +.shireyishunjian.com
 +.shirodoujin.com
 +.shirouto.top
