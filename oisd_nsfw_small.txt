@@ -1,9 +1,9 @@
-# Version: 202505251915
+# Version: 202505252015
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21255
-# Last modified: 2025-05-25T19:15:18+0000
+# Entries: 21256
+# Last modified: 2025-05-25T20:15:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3255,7 +3255,6 @@
 +.cercoincontri.com
 +.cerdas.com
 +.ceske-kurvicky.cz
-+.ceskekundy.cz
 +.ceskeporno.cz
 +.cfake.com
 +.cfapfakes.com
@@ -8286,7 +8285,6 @@
 +.imperiodefamosas.com
 +.impervert.com
 +.impostingit.com
-+.improvsex.net
 +.imss.gob.mx
 +.imvu.com
 +.imx.to
@@ -10461,6 +10459,7 @@
 +.manytoon.com
 +.manytoon.me
 +.manyvids.com
++.maomiav.one
 +.maqola.ru
 +.maqolalar.ru
 +.maranatha.it
@@ -10897,6 +10896,7 @@
 +.milfsexbomb.com
 +.milfsforsex.com
 +.milfsinyourneighborhood.com
++.milfsover30.com
 +.milfspics.com
 +.milfstate.com
 +.milftoon.org
@@ -17267,6 +17267,7 @@
 +.szexvideok.me
 +.szexvital.hu
 +.szikla.hu
++.szon.hu
 +.szorospina.net
 +.t-escorts.com
 +.t0x.net
