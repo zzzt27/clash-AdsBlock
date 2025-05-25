@@ -1,9 +1,9 @@
-# Version: 202505250915
+# Version: 202505251015
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21226
-# Last modified: 2025-05-25T09:15:40+0000
+# Entries: 21227
+# Last modified: 2025-05-25T10:15:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3652,6 +3652,7 @@
 +.coochporn.com
 +.coolgaymovies.com
 +.coolinet.net
++.cooliris.com
 +.coollesbianporn.com
 +.coolporns.com
 +.coolsexnew.com
@@ -4438,6 +4439,7 @@
 +.dpselection.net
 +.dragonfru.it
 +.draiskajiem.lv
++.drawnudes.net
 +.drbigboobs.com
 +.drbokep.bond
 +.dream-teens.net
@@ -4787,6 +4789,7 @@
 +.erodate.rs
 +.erodatecams.com
 +.erodougazo.com
++.erodoujinlog.com
 +.eroero.one
 +.eroeronews.com
 +.erofights.com
@@ -16317,7 +16320,6 @@
 +.sexxxhay.com
 +.sexxxhd.com
 +.sexxxlife.com
-+.sexxxmsk.com
 +.sexxxmurmansk.life
 +.sexxxnhatban.com
 +.sexxxnudepics.com
@@ -18497,7 +18499,6 @@
 +.ukswingersparties.co.uk
 +.ulive.chat
 +.ulla.com
-+.ulluprime.com
 +.ulluuncut.in
 +.ulmf.org
 +.uloversdoll.com
@@ -18580,7 +18581,6 @@
 +.urbancrocspot.org
 +.urbate.chat
 +.urdesi.com
-+.urdolls.com
 +.urgayporn.com
 +.urgenca.com
 +.urlgalleries.net
@@ -20869,6 +20869,7 @@
 +.yaoiscan.com
 +.yaoitoon.com
 +.yapatube.com
++.yapfiles.ru
 +.yaporn.biz
 +.yapornobit.mobi
 +.yaruo.info
