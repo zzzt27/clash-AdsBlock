@@ -1,9 +1,9 @@
-# Version: 202505260314
+# Version: 202505260414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21301
-# Last modified: 2025-05-26T03:14:04+0000
+# Entries: 21304
+# Last modified: 2025-05-26T04:14:30+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2874,6 +2874,7 @@
 +.bwin.it
 +.bworldporn.com
 +.bxtube.com
++.bycoo.buzz
 +.byethost13.com
 +.bylki.info
 +.bylki.me
@@ -3373,6 +3374,7 @@
 +.cherrypimps.com
 +.cheshskoe.net
 +.chez-alice.fr
++.chez.com
 +.chezcathy.com
 +.chibolitas.org
 +.chicafruta.com
@@ -12619,6 +12621,7 @@
 +.peliculaseroticasonline.net
 +.peliculaseroticass.com
 +.peliculaspornonline.com
++.pelisplus.today
 +.pelisxporno.net
 +.pelisxxx.me
 +.pelotok.net
