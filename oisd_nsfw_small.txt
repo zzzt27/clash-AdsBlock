@@ -1,9 +1,9 @@
-# Version: 202505261014
+# Version: 202505261215
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21326
-# Last modified: 2025-05-26T10:14:33+0000
+# Entries: 21329
+# Last modified: 2025-05-26T12:15:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8268,6 +8268,7 @@
 +.ijavhd.com
 +.ijavtorrent.com
 +.ijldallasgaydating.com
++.ijsberenforum.com
 +.iknowthatgirl.com
 +.ikuhentai.net
 +.ilesbianporn.com
@@ -15604,6 +15605,7 @@
 +.seqingx.com
 +.serakon.com
 +.seratea.com
++.serials.ws
 +.serpeton.com
 +.serviporno.com
 +.sese277.info
@@ -18966,6 +18968,7 @@
 +.viet69.sb
 +.viet69hay.com
 +.viet69moi.com
++.viet69t.com
 +.vietimg.com
 +.vietnamesewomen.org
 +.vietnamporn.net
