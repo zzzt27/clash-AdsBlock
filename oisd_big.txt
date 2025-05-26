@@ -1,9 +1,9 @@
-# Version: 202505260610
+# Version: 202505260709
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180968
-# Last modified: 2025-05-26T06:10:02+0000
+# Entries: 180924
+# Last modified: 2025-05-26T07:09:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13645,7 +13645,6 @@
 +.airlytics.airlock.twcmobile.weather.com
 +.airmaildata.com
 +.airmanselectiontest.com
-+.airmax95.fr
 +.airmaxnike.fr
 +.airmaxoutletstore.us.com
 +.airmaxplus.fr
@@ -14716,7 +14715,6 @@
 +.allegro.pl-12343124.shop
 +.allegro.pl-12879.shop
 +.allegro.pl-31289.cfd
-+.allegro.pl-32193.cfd
 +.allegro.pl-4014.shop
 +.allegro.pl-4299.cfd
 +.allegro.pl-56745745332.shop
@@ -14850,7 +14848,6 @@
 +.allegrolokalnie.891274y.click
 +.allegrolokalnie.894v.rest
 +.allegrolokalnie.89710-2844.shop
-+.allegrolokalnie.89721412.shop
 +.allegrolokalnie.89724-voa8.shop
 +.allegrolokalnie.8998v11.shop
 +.allegrolokalnie.8y31842.shop
@@ -15955,7 +15952,6 @@
 +.amazonne.fr
 +.amazonpl001.cfolks.pl
 +.amazonprofits.co
-+.amazonprofits.org
 +.amazonservices.122.2o7.net
 +.amazonshopbop.122.2o7.net
 +.amazontips.net
@@ -22543,7 +22539,6 @@
 +.aurora.dawn-904.workers.dev
 +.auroracommunitycare.com
 +.aurorafield.online
-+.auroraflux.store
 +.auroralake.site
 +.aurorastore.org
 +.auroratrainingadvantage.biz
@@ -27332,7 +27327,6 @@
 +.biblicaltimes.org
 +.bibliotheque-sonore.org
 +.biboushop.fr
-+.bibrenom.com
 +.bibulustartane.guru
 +.bibvshsjs.top
 +.bicakee.com
@@ -28417,7 +28411,6 @@
 +.blackwatercreditrepair.com
 +.blackwestchestersocial.com
 +.blackwid0w.com
-+.blackwoodalways.com
 +.blacurlik.com
 +.bladdersruinousalternative.com
 +.bladdersvictimbleak.com
@@ -30213,7 +30206,6 @@
 +.brandads.net
 +.brandadsstatic.vivo.com.cn
 +.brandaktuelle-aktion.de
-+.brandamen.com
 +.brandandbusiness.com.co
 +.brandcellphones.com
 +.brandclik.com
@@ -33655,7 +33647,6 @@
 +.canonfrance.fr
 +.canonprintersupport247.com
 +.canonticket.com
-+.canoperation.com
 +.canopusacrux.top
 +.canossa.ac.tz
 +.canottowa.112.2o7.net
@@ -49097,7 +49088,6 @@
 +.deafndelin.pro
 +.deaiai55.com
 +.deaimatch.jp
-+.deakepic.com
 +.deal-dealings.com
 +.deal-md.gl.at.ply.gg
 +.deal-pairs.gl.at.ply.gg
@@ -51102,7 +51092,6 @@
 +.digicaster.com
 +.digidifferent.com
 +.digidom.com
-+.digidropshop.net
 +.digiexperts.net
 +.digigenie.com
 +.digihashtag.com
@@ -54413,7 +54402,6 @@
 +.driftpress.cfd
 +.drifttag.pro
 +.drikolansa.top
-+.drill-simulator.com
 +.drillcompensate.com
 +.drillingstarlightsupper.com
 +.drillpipedomi.com
@@ -57799,7 +57787,6 @@
 +.elpotenyc.com
 +.elprincesudan.com
 +.elranchomexican.com
-+.elrecognisefro.com
 +.elreefgrain.com
 +.elreventondelsabor.com
 +.elrey051526.kozow.com
@@ -61161,7 +61148,6 @@
 +.exvirnani.review
 +.exvlhbjik.firebaseapp.com
 +.exvlhbjik.web.app
-+.exvrbxjy.com
 +.exw-wallet.com
 +.exweme88490.activehosted.com
 +.exweme95150.activehosted.com
@@ -79162,7 +79148,6 @@
 +.humouhaire.pro
 +.humpbuds.com
 +.humpdecompose.com
-+.humpeppier.shop
 +.humphrywholesome.com
 +.humraaz.com
 +.humremjobvipfun.com
@@ -79300,7 +79285,6 @@
 +.huynguyen2k.github.io
 +.huyushop.com
 +.huzhanbin.cn
-+.huzzahscurl.top
 +.hv67k1.face-book.cc
 +.hvaccontractorsoftware.net
 +.hvacfairfaxva.com
@@ -84148,7 +84132,6 @@
 +.ionichost.com
 +.ioniserpinones.com
 +.ionistkhaya.website
-+.ionogenbakutu.shop
 +.iononetravoy.com
 +.ionos-100951.weeblysite.com
 +.ionos-101603.weeblysite.com
@@ -85387,7 +85370,6 @@
 +.jacketzerobelieved.com
 +.jackielovedogs.com
 +.jackieszarka.com
-+.jackjonesfr.fr
 +.jackmaalouf.com
 +.jackmoorefghjk.weebly.com
 +.jackowusch.de
@@ -86093,7 +86075,6 @@
 +.jessonthemend.com
 +.jestbiases.com
 +.jestelitho.pro
-+.jestesmy.top
 +.jesuhelpmemylife.weebly.com
 +.jesuisfidele.fr
 +.jesus2020.com
@@ -100409,7 +100390,6 @@
 +.maxlityu.web.app
 +.maxlsvlps.vip
 +.maxluxo.com.br
-+.maxmara-france.fr
 +.maxmedia.sgaonline.com
 +.maxmoney.com
 +.maxnet.top
@@ -104441,7 +104421,6 @@
 +.mockscissorssatisfaction.com
 +.mocmubse.net
 +.mod-gov-bd.dwnlld.com
-+.mod-gov-bd.info
 +.mod-gov-bd.net-src.org
 +.mod-gov-pk.live
 +.modablask.com
@@ -113075,7 +113054,6 @@
 +.oemutbhpmcvfpnv.com
 +.oencantadordecaes.pt
 +.oeradetox.pro
-+.oerwpren.top
 +.oesgroup.co.za
 +.oestersoetebier.de
 +.oestpq.com
@@ -114090,7 +114068,6 @@
 +.olx.pl19680oferta.cfd
 +.olx.pl2351.cfd
 +.olx.pl29834oferta-iphone.cfd
-+.olx.pl32490oferta-iphone.cfd
 +.olx.pl34709oferta-iphone.cfd
 +.olx.pl48509oferta.cfd
 +.olx.pl5423.cfd
@@ -133544,7 +133521,6 @@
 +.residentialmmsuccessful.com
 +.residentoftheunitedstates.com
 +.residenz-seezeichen.de
-+.resignationcustomerflaw.com
 +.resignedcamelplumbing.com
 +.resignedsauna.com
 +.resignfallk.icu
@@ -135146,7 +135122,6 @@
 +.rmaticalacycurated.info
 +.rmbn.ru
 +.rmbplumbingservices.com
-+.rmbvzh.xyz
 +.rmc1995.duckdns.org
 +.rmcdn.2mdn.net
 +.rmcdn.f.2mdn.net
@@ -139311,7 +139286,6 @@
 +.scissordisciplinaryrace.com
 +.scissoron.com
 +.scissorsstatement.com
-+.scitechhubzonex.com
 +.scivoconfi.pro
 +.scivososa.pro
 +.sciworkshopx.com
@@ -142796,7 +142770,6 @@
 +.sharedfax815201376.wordpress.com
 +.sharedfile8.pages.dev
 +.sharedfille.weebly.com
-+.sharedhabble.top
 +.sharedmediumshe.com
 +.sharedmovies.com
 +.sharedocumentsondocu.firebaseapp.com
@@ -143375,7 +143348,6 @@
 +.shop146.com
 +.shop22.fishkillbaptistnurseryschool.org
 +.shop265.com
-+.shop4community.com
 +.shop4s.top
 +.shop7sao.com
 +.shopaccfifa.com
@@ -144565,7 +144537,6 @@
 +.site3.co.kr
 +.site4-sbisec.hqmz2.com
 +.site4-sbisec.jgj12.com
-+.site4-sbisec.wln72.com
 +.site4-sbisec.zpsp7.com
 +.site9423623.92.webydo.com
 +.site9423773.92.webydo.com
@@ -145357,7 +145328,6 @@
 +.slybloodhound.pro
 +.slycaracara.pro
 +.slychicks.com
-+.slyrrksolcdsak.com
 +.slyzoologicalpending.com
 +.sm-bt.net
 +.sm-cloud.yunsafe.top
@@ -149231,7 +149201,6 @@
 +.staemcommunity.com
 +.staemcommunnlty.com
 +.staemcommunty.com
-+.staemcommunutty.com
 +.staemcomnmunity.com
 +.staemcomunity.ru
 +.staemconmunity.com
@@ -151239,7 +151208,6 @@
 +.stiryyilerk.help
 +.stitchandswitch.com
 +.stitchgrrl.com
-+.stithauzouleesy.com
 +.stitonsane.pro
 +.stivamutua.pro
 +.stizzcorbe.pro
@@ -152165,7 +152133,6 @@
 +.subwayfreshresolution.com
 +.subwocommu.pro
 +.subxyz.duckdns.org
-+.subzero6969.site
 +.subzerocuisse.top
 +.subzerox5.duckdns.org
 +.succeedfinance.news
@@ -159225,7 +159192,6 @@
 +.toolbarcounter.com
 +.toolbarpartner.com
 +.toolbeltonline.com
-+.toolbotx.com
 +.toolbox-ed.com
 +.toolbox.nl
 +.toolcapital.com
@@ -162191,7 +162157,6 @@
 +.trophesage.pro
 +.trophravel.pro
 +.trophylab.com
-+.tropicalos.com
 +.tropicalpal.com
 +.tropicboys.com
 +.tropilugar.pro
@@ -163370,7 +163335,6 @@
 +.txdmv.jds-hmz.win
 +.txdmv.jds-oqk.win
 +.txdmv.qwd-bwk.win
-+.txdmv.qwd-rtk.win
 +.txgpgszrhedyl.online
 +.txhfgwgkwt7.asia
 +.txhfgwgkwt8.asia
@@ -165001,7 +164965,6 @@
 +.unoblotto.net
 +.unobvcomia.pro
 +.unoprofeta.com
-+.unoptedcoupe.top
 +.unorivesic.pro
 +.unositescdn.buzz
 +.unpacedgervas.shop
@@ -165587,7 +165550,6 @@
 +.uqqmj868.xyz
 +.uquhuahi.com
 +.uqxue3.cmbtn.combertonplaygroup.co.uk
-+.uqydcs.xyz
 +.uqykeq.xyz
 +.uqylahqhxk.icu
 +.uqz.com
@@ -169216,7 +169178,6 @@
 +.visitswigspittle.com
 +.visittobali.com
 +.visitweb.com
-+.visivemoost.top
 +.visolitech.com
 +.visor.brookviewadvisor.com
 +.visor.sberbank.ru
@@ -169772,7 +169733,6 @@
 +.volcaedecants.shop
 +.volcapasti.pro
 +.volceapplog.com
-+.volckgroup.com
 +.voldarinis.com
 +.voldemort.pl
 +.voldffgkdsllkjthlkjt.b-cdn.net
@@ -170332,7 +170292,6 @@
 +.vusial-tiket.world
 +.vusurlbc.fr
 +.vutipseethu.net
-+.vutjnt.xyz
 +.vutjtyaq.com
 +.vutkaqlakbp.com
 +.vutokpxc.com
@@ -171611,7 +171570,6 @@
 +.web3-exodus-en.github.io
 +.web3-faqs-exodus.github.io
 +.web3-ledgrr-liveelogin.webflow.io
-+.web3.omacyn.com
 +.web3.rwbhelp.top
 +.web3.tvwhelp.top
 +.web39847363att.weebly.com
@@ -173443,7 +173401,6 @@
 +.whiteinterpinkbot.pro
 +.whiteler.com
 +.whitelistmedia.com
-+.whitenercpa.com
 +.whitenoisenews.com
 +.whitepark9.com
 +.whitepinaforesho.org
@@ -173821,7 +173778,6 @@
 +.will.zla.se
 +.willalland.info
 +.willashoes.com
-+.willawaseta.shop
 +.willcommen.de
 +.willemjan.info
 +.willemsenwitgoed.nl
