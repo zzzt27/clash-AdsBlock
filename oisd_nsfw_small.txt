@@ -1,9 +1,9 @@
-# Version: 202505261816
+# Version: 202505261934
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21339
-# Last modified: 2025-05-26T18:16:35+0000
+# Entries: 21341
+# Last modified: 2025-05-26T19:34:51+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2006,6 +2006,7 @@
 +.bearworld.com
 +.beastiality.club
 +.beastiality.tv
++.beastiegals.com
 +.beastmovie.club
 +.beastpics.club
 +.beastsexstars.net
@@ -3778,6 +3779,7 @@
 +.csaladinet.hu
 +.css.edu
 +.csucsvideok.hu
++.ct.ws
 +.ctbae.com
 +.cu2.be
 +.cu2.nl
@@ -4418,7 +4420,6 @@
 +.dosug32.net
 +.dosug33.net
 +.dosug39.com
-+.dosug39.net
 +.dosug69.net
 +.dosugbararh.com
 +.dosugbarbel.com
@@ -8290,6 +8291,7 @@
 +.ilovexs.com
 +.ilovnudes.com
 +.iluvtoons.com
++.im9.eu
 +.imagearranger.com
 +.imagefap.com
 +.imageflea.com
