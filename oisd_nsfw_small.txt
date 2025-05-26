@@ -1,9 +1,9 @@
-# Version: 202505260814
+# Version: 202505260914
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21323
-# Last modified: 2025-05-26T08:14:17+0000
+# Entries: 21325
+# Last modified: 2025-05-26T09:14:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2069,6 +2069,7 @@
 +.befuck.me
 +.befuck.net
 +.befuck.video
++.behaarteladies.de
 +.beheo.net
 +.beianrufsex.com
 +.beijosquentes.com
@@ -18552,6 +18553,7 @@
 +.uhdsextube.com
 +.uhmegle.com
 +.uhtube.fun
++.uiiumovie.com
 +.uiiumovie.fun
 +.uiporn.asia
 +.uiporn.com
