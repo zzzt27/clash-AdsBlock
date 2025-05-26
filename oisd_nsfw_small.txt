@@ -1,9 +1,9 @@
-# Version: 202505261716
+# Version: 202505261816
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21335
-# Last modified: 2025-05-26T17:16:23+0000
+# Entries: 21339
+# Last modified: 2025-05-26T18:16:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9566,6 +9566,7 @@
 +.klsmooci02.com
 +.klubzaodrasle.com
 +.kmb.org.hk
++.kmpmag.pw
 +.knockporn.com
 +.knocktube.mobi
 +.knuddels.de
@@ -15417,6 +15418,7 @@
 +.saradahentai.com
 +.sarakaur.com
 +.sarapbabe.com
++.sasisa.org
 +.sasisa.ru
 +.sasporn.com
 +.satanicporn.net
@@ -16987,6 +16989,7 @@
 +.spermyporn.com
 +.sphinxtube.com
 +.spice-tv.jp
++.spicecash.com
 +.spicetrade.ru
 +.spicevids.com
 +.spicy.porn
@@ -18175,6 +18178,7 @@
 +.traporn.com
 +.trash.porn
 +.travchat.fr
++.travestichat.fr
 +.travesticomlocal.com.br
 +.travestismexico.com
 +.traxvideos.com
