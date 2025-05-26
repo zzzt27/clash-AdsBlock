@@ -1,9 +1,9 @@
-# Version: 202505261934
+# Version: 202505262014
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21341
-# Last modified: 2025-05-26T19:34:51+0000
+# Entries: 21342
+# Last modified: 2025-05-26T20:14:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4633,6 +4633,7 @@
 +.ecn.com
 +.eco-matras.com
 +.ecoporno.tv
++.ecplaza.net
 +.edenfantasys.com
 +.edengay.com
 +.edenliberal.es
