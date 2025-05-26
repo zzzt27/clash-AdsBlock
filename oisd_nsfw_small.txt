@@ -1,9 +1,9 @@
-# Version: 202505261316
+# Version: 202505261416
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21332
-# Last modified: 2025-05-26T13:16:03+0000
+# Entries: 21334
+# Last modified: 2025-05-26T14:16:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6969,6 +6969,7 @@
 +.grometsplaza.net
 +.grooby.com
 +.groobygirls.com
++.groupfun.com
 +.grouple.co
 +.groupsexxx.com
 +.groupslinks.com
@@ -19954,6 +19955,7 @@
 +.xn--e1afprfv.live
 +.xn--e1afprfv2b.com
 +.xn--e1afprfv2b.tv
++.xn--h-k9tybb8g5ivhkczry701afhpm4sru6d.net
 +.xn--h1adgzc.xn--p1ai
 +.xn--h1agb8a9a.me
 +.xn--i1bj7b6b9a3bzdb2d9d3c.com
