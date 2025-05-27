@@ -1,9 +1,9 @@
-# Version: 202505270013
+# Version: 202505270214
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21376
-# Last modified: 2025-05-27T00:13:59+0000
+# Entries: 21378
+# Last modified: 2025-05-27T02:14:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2460,6 +2460,7 @@
 +.blacksonblondes.com
 +.blacktowhite.net
 +.blacktrannynow.com
++.blacktube.com
 +.blacktube.tv
 +.blackwhitepleasure.com
 +.blackwink.com
@@ -9365,6 +9366,7 @@
 +.ka4ka.ru
 +.ka4nem.ru
 +.kaamuu.cfd
++.kabachok.xyz
 +.kabinedasnovinhas.com
 +.kadikoyescortum.com
 +.kadikoyihl.com
