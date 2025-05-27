@@ -1,9 +1,9 @@
-# Version: 202505271615
+# Version: 202505271715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21405
-# Last modified: 2025-05-27T16:15:38+0000
+# Entries: 21406
+# Last modified: 2025-05-27T17:15:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5600,6 +5600,7 @@
 +.fileboomporn.com
 +.filehost.ro
 +.filesmonsterclub.net
++.filesor.com
 +.filipinamagic.com
 +.filipinawebcams.com
 +.filipinofriendfinder.com
@@ -14585,7 +14586,6 @@
 +.proeb.xyz
 +.professor-porno.com
 +.profibdsm.cz
-+.profile-rate.com
 +.profissionaisdosexo.com
 +.profreeporno.com
 +.progtech-yug.ru
@@ -14851,6 +14851,7 @@
 +.quicksandfans.com
 +.quienhabla.mx
 +.qwbabes.com
++.qwe.wiki
 +.qwertypu.com
 +.qwiketube.com
 +.qwqw.hu

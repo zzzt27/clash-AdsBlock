@@ -1,9 +1,9 @@
-# Version: 202505271610
+# Version: 202505271810
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42265
-# Last modified: 2025-05-27T16:10:41+0000
+# Entries: 42228
+# Last modified: 2025-05-27T18:10:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1201,7 +1201,6 @@
 +.6ac78725fd.com
 +.6amateure.net
 +.6b49bc9aef.1023f6e00d.com
-+.6b856ee58e.com
 +.6bgaput9ullc.com
 +.6c5xnntfvi.com
 +.6c7cd0e530.a970dc123c.com
@@ -8702,7 +8701,6 @@
 +.botpynlmmizsr.click
 +.botradar.tech
 +.bottledchagrinfry.com
-+.bottledfriendship.com
 +.bottleschance.com
 +.bottleselement.com
 +.bottlestonightapp.com
@@ -9456,7 +9454,6 @@
 +.camel.gastro-plan.app
 +.camel.nonpopularopinion.com
 +.camel.warvik.no
-+.camelcappuccino.com
 +.cameradiminishunkind.com
 +.cameraunfit.com
 +.camiocw.com
@@ -11041,7 +11038,6 @@
 +.collection-endpoint-prod.herokuapp.com
 +.collection-endpoint-staging.herokuapp.com
 +.collection.e-satisfaction.com
-+.collectiveablygathering.com
 +.collector-1.ex.co
 +.collector-analytics.efigence.com
 +.collector-api.99designs.com
@@ -11164,7 +11160,6 @@
 +.commissionmonster.com
 +.commitmentelizabeth.com
 +.commodityallengage.com
-+.commongratificationtimer.com
 +.commonkissableunbiased.com
 +.commonvivacious.com
 +.commonwealthproficient.com
@@ -11911,7 +11906,6 @@
 +.creptdeservedprofanity.com
 +.cresfpho2ntesepapillo3.com
 +.crestislelocation.com
-+.crestsrenovel.shop
 +.cretgate.com
 +.crevicedepressingpumpkin.com
 +.criesplucker.top
@@ -11970,7 +11964,6 @@
 +.crow.themarbleking.com
 +.crow.voracious.dev
 +.crowdgravity.com
-+.crowdnextquoted.com
 +.crowdsuitcaseuntwist.com
 +.crozzleembrew.shop
 +.crptentry.com
@@ -13575,7 +13568,6 @@
 +.dalethsplicae.website
 +.dallavel.com
 +.dalofq.top
-+.dalokuguglkz.com
 +.daltongrievously.com
 +.dalyio.com
 +.dalymix.com
@@ -14072,7 +14064,6 @@
 +.denthaitingshospic.com
 +.dentiststockunsoiled.com
 +.denydrughim.live
-+.denypishing.shop
 +.deobp.com
 +.deostr.com
 +.dep.hmgroup.com
@@ -15622,7 +15613,6 @@
 +.edenai.go2cloud.org
 +.edentwithought.org
 +.ederrassi.com
-+.edgbas.com
 +.edge.ads.twitch.tv
 +.edgeio.com
 +.edgevertise.com
@@ -15896,7 +15886,6 @@
 +.eminencedarker.com
 +.emissionidiompolygon.com
 +.emitlavas.click
-+.emittediodids.top
 +.emjs.mkzhan.com
 +.emkarto.fun
 +.emlifok.info
@@ -18132,7 +18121,6 @@
 +.garlandshark.com
 +.garmentsgovernmentcloset.com
 +.garnethamstringkeg.com
-+.garnishpoints.com
 +.garnishwas.com
 +.garopnlkud.com
 +.garosesia.com
@@ -20002,7 +19990,6 @@
 +.hk6vdj4z.click
 +.hkilops.com
 +.hkjfukkhwfepo.club
-+.hkprsfmyx.xyz
 +.hkrpg-log-upload-os.hoyoverse.com
 +.hkrpg-log-upload.mihoyo.com
 +.hksnu.com
@@ -20259,7 +20246,6 @@
 +.hramb.site
 +.hreso.site
 +.hrihfiocc.com
-+.hrjciqyu.icu
 +.hrmdw8da.net
 +.hrogrpee.de
 +.hrrjff.xyz
@@ -20877,7 +20863,6 @@
 +.importantoperativestudied.com
 +.imported1x.xyz
 +.imposi.com
-+.impossibilityaboriginalblessed.com
 +.imposterlost.com
 +.imposterreproductionforeman.com
 +.impostersierraglands.com
@@ -20935,7 +20920,6 @@
 +.inbound-analytics.pixlee.co
 +.inbound-analytics.pixlee.com
 +.inboxdollars.com
-+.inbreedbeelbow.shop
 +.inbrowserplay.com
 +.incarnatepicturesque.com
 +.incasetoffies.shop
@@ -21832,7 +21816,6 @@
 +.jolecyclist.com
 +.jollyspring.com
 +.joogaipseed.net
-+.joograika.xyz
 +.jooinzvayqbih.rocks
 +.jookaureate.com
 +.joomxer.fun
@@ -22862,7 +22845,6 @@
 +.lawishknits.click
 +.lawishkukri.com
 +.lawnjinsi.com
-+.lawnsacing.top
 +.lawyersbespy.com
 +.laxativestuckunclog.com
 +.laxpanvzelz.com
@@ -24036,7 +24018,6 @@
 +.ltetrailwaysint.org
 +.ltewtuwushec.xyz
 +.ltingcoempa.org
-+.ltmuzcp.com
 +.ltrac4vyw.com
 +.ltvutlyu.icu
 +.lu2.luyouwang.com
@@ -24376,7 +24357,6 @@
 +.maleenhancement.top
 +.maleeprn.click
 +.maleliteral.com
-+.malikabusers.top
 +.malikiresids.com
 +.maljuggu.com
 +.mall0.qiyipic.com
@@ -25017,7 +24997,6 @@
 +.mibmcbm.com
 +.micalcoveningsp.org
 +.michealmoyite.com
-+.mickblowess.shop
 +.mickiesetheric.com
 +.mickosijacm.net
 +.micro-xdb.com
@@ -25059,7 +25038,6 @@
 +.militantadulatory.com
 +.militantwitnessfelon.com
 +.milk.yesky.com.cn
-+.milkmanoutputs.shop
 +.milksquadronsad.com
 +.milkygoodness.xyz
 +.milkywaynewspaper.com
@@ -26765,7 +26743,6 @@
 +.numbersinsufficientone.com
 +.numbmemory.com
 +.numisston.live
-+.nunciodekare.shop
 +.nuncleslupulic.shop
 +.nunearn.com
 +.nunnuwlfe.com
@@ -27740,7 +27717,6 @@
 +.ossreuniclusr.com
 +.ossrhydonr.com
 +.ossshucklean.com
-+.ostekoocupee.com
 +.ostfuwdmiohg.com
 +.ostilllookinga.cc
 +.ostlon.com
@@ -27885,7 +27861,6 @@
 +.outwingullom.com
 +.ouvertrenewed.com
 +.ouvrageclaut.shop
-+.ouvrefth.shop
 +.ouweessougleji.net
 +.ouzosbesiren.com
 +.ov.yahoo.co.jp
@@ -30075,7 +30050,6 @@
 +.pulpyads.com
 +.pulpybizarre.com
 +.pulquesfarinas.guru
-+.pulquespasha.top
 +.pulse.ecmapps.com
 +.pulse.shopflo.com
 +.pulseadnetwork.com
@@ -31577,7 +31551,6 @@
 +.ricoslpcovu.com
 +.ridmilestone.com
 +.ridxvydxlhiej.online
-+.rielensnow.shop
 +.riffingwiener.com
 +.rifjhukaqoh.com
 +.rifjynxoj-k.vip
@@ -33089,9 +33062,7 @@
 +.semasu.net
 +.semenaonline.sk
 +.semi-cod.nnmclub.ch
-+.semicircledata.com
 +.seminarcrackingconclude.com
-+.seminarentirely.com
 +.semplicewebsites.com
 +.semqraso.net
 +.semsicou.net
@@ -33757,7 +33728,6 @@
 +.skilldicier.com
 +.skilleadservices.com
 +.skilledskillemergency.com
-+.skilledtables.com
 +.skilleservices.com
 +.skilletperonei.com
 +.skillfuldrop.com
@@ -34345,7 +34315,6 @@
 +.spezialreporte.de
 +.spheredkapas.com
 +.spice-sugar.net
-+.spiceethnic.com
 +.spicy-effect.com
 +.spicygirlshere.life
 +.spider-tracker.xiaohongshu.com
@@ -36176,7 +36145,6 @@
 +.tapdaq-adverts.global.ssl.fastly.net
 +.tapdb.net
 +.taperlyiuds.com
-+.tapestrygenus.com
 +.tapestrymob.com
 +.tapewaverole.live
 +.tapi.apkpure.net
@@ -36235,7 +36203,6 @@
 +.tarzanwackes.top
 +.tastedflower.com
 +.tastemynews.com
-+.tastesscalp.com
 +.tastiesfoods.com
 +.tatersbilobed.com
 +.tationalhedgelnha.com
@@ -38640,10 +38607,8 @@
 +.understanding3x.fun
 +.understandskinny.com
 +.understatementimmoderate.com
-+.understoodadmiredapprove.com
 +.undertakingmight.com
 +.undiesthumb.com
-+.undigrecombs.shop
 +.undom.net
 +.undoneabated.shop
 +.undoneferocious.com
@@ -39258,7 +39223,6 @@
 +.vespymedia.com
 +.vessoupy.com
 +.vestigeencumber.com
-+.vestrydual.top
 +.vesuvinaqueity.top
 +.vetchesthiever.com
 +.vetoembrace.com
@@ -42274,7 +42238,6 @@
 +.zyyt-tevos.click
 +.zzfoms.com
 +.zzhengre.com
-+.zzioxqblsxseq.com
 +.zzqyniagpyt.com
 +.zztxfj.xyz
 +.zzux.com
