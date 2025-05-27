@@ -1,9 +1,9 @@
-# Version: 202505271315
+# Version: 202505271415
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21403
-# Last modified: 2025-05-27T13:15:52+0000
+# Last modified: 2025-05-27T14:15:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16607,6 +16607,7 @@
 +.shahvani.com
 +.shahvani.me
 +.shahvatnak.com
++.shakinghip.com
 +.shakypussy.com
 +.shameless.com
 +.shania.co.in
@@ -19938,7 +19939,6 @@
 +.xmateur.com
 +.xmaxix.com
 +.xmaza.co
-+.xmaza.me
 +.xmaza.net
 +.xmaza.org
 +.xmeeting.com
