@@ -1,9 +1,9 @@
-# Version: 202505271215
+# Version: 202505271315
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21402
-# Last modified: 2025-05-27T12:15:10+0000
+# Entries: 21403
+# Last modified: 2025-05-27T13:15:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -20641,6 +20641,7 @@
 +.xxxarab.ink
 +.xxxarabtv.com
 +.xxxasianpussy.online
++.xxxasianpussy.xyz
 +.xxxbanjo.com
 +.xxxbengalivideos.com
 +.xxxbestialitysex.com
