@@ -1,9 +1,9 @@
-# Version: 202505271515
+# Version: 202505271615
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21404
-# Last modified: 2025-05-27T15:15:19+0000
+# Entries: 21405
+# Last modified: 2025-05-27T16:15:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16273,6 +16273,7 @@
 +.sexsurgut.sex
 +.sextagil.online
 +.sextales.net
++.sextalk.club
 +.sextamil.xyz
 +.sextb.date
 +.sextb.net
