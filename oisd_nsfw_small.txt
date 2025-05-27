@@ -1,9 +1,9 @@
-# Version: 202505270414
+# Version: 202505270514
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21382
-# Last modified: 2025-05-27T04:14:14+0000
+# Entries: 21386
+# Last modified: 2025-05-27T05:14:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7674,6 +7674,7 @@
 +.hindisexvideosxmx.cam
 +.hindisexxvideos.cam
 +.hindisexxvideos.com
++.hindisexxvideos.digital
 +.hindisexxvideos.top
 +.hindisexyvideo.me
 +.hindisexyvideo.net
@@ -10416,6 +10417,7 @@
 +.mamaescort.com
 +.mamagyi.org
 +.mamaisinok.com
++.mamapornovideo.org
 +.mamapornovideo.top
 +.mamashki.vip
 +.mamba-games.com
@@ -11904,6 +11906,7 @@
 +.nitgatas.com.br
 +.nitroflare-porn.com
 +.niverafansub.org
++.niwepa.com
 +.niwerat.com
 +.niyaniya.moe
 +.nizipescort.com
@@ -13695,6 +13698,7 @@
 +.porno365.garden
 +.porno365.guide
 +.porno365.hiphop
++.porno365.icu
 +.porno365.in
 +.porno365.la
 +.porno365.land
