@@ -1,9 +1,9 @@
-# Version: 202505270214
+# Version: 202505270414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21378
-# Last modified: 2025-05-27T02:14:15+0000
+# Entries: 21382
+# Last modified: 2025-05-27T04:14:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4296,6 +4296,7 @@
 +.disc-net.org
 +.discountedporn.com
 +.discreetdolls.com
++.discreethookups.co.uk
 +.disponivel.com
 +.disponivel.net
 +.distintas.net
@@ -5801,6 +5802,7 @@
 +.foropirata.com
 +.foroporno.com
 +.foroprepagoscolombia.com
++.forquickies.com
 +.forrokalandok.com
 +.forshemale.com
 +.forttroff.com
@@ -8743,7 +8745,6 @@
 +.itemfix.com
 +.itinyteens.com
 +.itnaked.com
-+.itporn.net
 +.itpornit.com
 +.its.porn
 +.itsex.tube
@@ -9667,6 +9668,7 @@
 +.ksksati.com
 +.ktatyane.ru
 +.ktkjmp.com
++.ktosexy.de
 +.ktzhk.com
 +.kuav888.com
 +.kudosporn.com
@@ -11072,6 +11074,7 @@
 +.mnysm8.com
 +.moartraffic.com
 +.moav.com
++.mob2ham.com
 +.mobahot.com
 +.mobez.ru
 +.mobi.ca
@@ -15479,6 +15482,7 @@
 +.sawstory.com
 +.saygai.com
 +.sayhentai.art
++.sayhentai.ink
 +.sayhentai.one
 +.sayuncle.com
 +.sb-cd.com
