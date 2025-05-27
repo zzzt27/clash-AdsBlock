@@ -1,9 +1,9 @@
-# Version: 202505271014
+# Version: 202505271215
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21397
-# Last modified: 2025-05-27T10:14:46+0000
+# Entries: 21402
+# Last modified: 2025-05-27T12:15:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -375,6 +375,7 @@
 +.69xx.one
 +.69xxxtube.com
 +.69yed.com
++.6annonce.net
 +.6chat.org
 +.6chua.com
 +.6dude.com
@@ -4413,6 +4414,7 @@
 +.doodoo.ru
 +.doodsearch.com
 +.doodstream.com.tr
++.doojavna.com
 +.doomland.net
 +.dooporn24.com
 +.dooporn24.org
@@ -5537,6 +5539,7 @@
 +.fet-app.com
 +.fet.fun
 +.fetegoale.top
++.feti072.com
 +.fetisch.de
 +.fetischpartner.com
 +.fetish-games.com
@@ -17950,6 +17953,7 @@
 +.tiktok18.porn
 +.tiktokersnuas.blog
 +.tiktokpornstar.com
++.tikwikitok.com
 +.timekiller.com
 +.timelysextube.com
 +.timtales.com
@@ -18622,6 +18626,7 @@
 +.uhtube.fun
 +.uiiumovie.com
 +.uiiumovie.fun
++.uiiumoviehd.com
 +.uiporn.asia
 +.uiporn.com
 +.uiporn.net
