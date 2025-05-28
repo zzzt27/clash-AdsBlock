@@ -1,9 +1,9 @@
-# Version: 202505280914
+# Version: 202505281014
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21478
-# Last modified: 2025-05-28T09:14:32+0000
+# Entries: 21480
+# Last modified: 2025-05-28T10:14:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -43,6 +43,7 @@
 +.108read.com
 +.108teen.com
 +.10musume.com
++.114av.one
 +.11pornxxx.com
 +.11vids.com
 +.11xmovies.beauty
@@ -4882,6 +4883,7 @@
 +.erokomiksi.com
 +.erokomiksi.org
 +.erokrad.date
++.erokrad.life
 +.erokrad.live
 +.erolub.com
 +.eroluv.com
@@ -15947,7 +15949,6 @@
 +.sexchinaav.net
 +.sexchita.club
 +.sexcomix.me
-+.sexcotrang.pro
 +.sexdansk.com
 +.sexdating.guru
 +.sexdatinghot.com
@@ -16864,6 +16865,7 @@
 +.sincansaglik.com
 +.sincats.com
 +.sinfulhookups.com
++.singelgrannar.com
 +.singeporno.com
 +.single-baltic-lady.com
 +.single-chats.com
