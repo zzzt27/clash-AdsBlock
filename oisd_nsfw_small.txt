@@ -1,9 +1,9 @@
-# Version: 202505282016
+# Version: 202505282114
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21501
-# Last modified: 2025-05-28T20:16:24+0000
+# Entries: 21503
+# Last modified: 2025-05-28T21:14:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3487,6 +3487,7 @@
 +.chutpatti.com
 +.chymme.net
 +.chyoa.com
++.ciaoamigos.it
 +.ciberhentai.com
 +.cicisex.net
 +.cigarettesaftersex.com
@@ -15294,6 +15295,7 @@
 +.roloflix.com
 +.romance-manga.com
 +.romanceperfeito.com.br
++.romantik69.co.il
 +.romantix.com
 +.romanvideo.com
 +.romcomics.net
