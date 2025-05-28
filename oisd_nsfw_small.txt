@@ -1,9 +1,9 @@
-# Version: 202505280714
+# Version: 202505280814
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21477
-# Last modified: 2025-05-28T07:14:28+0000
+# Entries: 21479
+# Last modified: 2025-05-28T08:14:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5014,6 +5014,7 @@
 +.errio.net
 +.errotica-archives.com
 +.errrotica.com
++.erry.one
 +.ersties.com
 +.eryamanda.com
 +.eryamansu.com
@@ -9638,6 +9639,7 @@
 +.kiz6dar-pic.net
 +.kizdar.net
 +.kkzz.kr
++.kladoffka.com
 +.kleinetitten.pics
 +.kleverig.eu
 +.klsmooci02.com
@@ -15485,7 +15487,6 @@
 +.sadomaso-chat.de
 +.sadpandastudios.com
 +.safadas.blog
-+.safadasamadoras.com
 +.safeboy.net
 +.saggytits.pics
 +.saggytitsporn.com
@@ -20055,6 +20056,7 @@
 +.xn--18-3qi3cza1ivb9c.online
 +.xn--18-3qi5din4cwdvcvkxa5e.com
 +.xn--191-1klyfn3i1b2j7c.com
++.xn--2-5wf2bba1ap9j6b6d2dwa0dm6b.com
 +.xn--2-5wf2cglt0g3bzisa3g.com
 +.xn--2-5wf7cj4a8cxbe8m7c.com
 +.xn--2-5wf7cj4ag2d7bd1o4cj.com
