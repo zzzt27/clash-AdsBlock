@@ -1,9 +1,9 @@
-# Version: 202505280814
+# Version: 202505280914
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21479
-# Last modified: 2025-05-28T08:14:44+0000
+# Entries: 21478
+# Last modified: 2025-05-28T09:14:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10080,7 +10080,6 @@
 +.links2leaks.com
 +.linksdegrupo.com
 +.linsemao.com
-+.linsemiao.com
 +.listcrawler.com
 +.listcrawler.eu
 +.listslut.com
@@ -16453,7 +16452,6 @@
 +.sexviet.blog
 +.sexviet.men
 +.sexviet1.lol
-+.sexviet18.net
 +.sexviet69.cfd
 +.sexviet69.life
 +.sexviet88.link
@@ -18127,6 +18125,7 @@
 +.top-porn-sites-18.com
 +.top100nudism.com
 +.top4fans.com
++.topadult.org
 +.topadulttubies.com
 +.topanasex.com
 +.topasianp.com
