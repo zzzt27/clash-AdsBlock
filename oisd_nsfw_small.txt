@@ -1,9 +1,9 @@
-# Version: 202505281115
+# Version: 202505281315
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21482
-# Last modified: 2025-05-28T11:15:17+0000
+# Entries: 21485
+# Last modified: 2025-05-28T13:15:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5584,6 +5584,7 @@
 +.fetishburg.com
 +.fetishclub.ro
 +.fetishdate.xxx
++.fetisheros.com
 +.fetishfemdom.adult
 +.fetishfinder.com
 +.fetishhitsgallery.com
@@ -7859,6 +7860,7 @@
 +.hookupswipe.com
 +.hooliganapps.com
 +.hooligapps.com
++.hoootgayporn.com
 +.hoostory.ru
 +.hooxs.com
 +.hopiaks.com
@@ -15766,6 +15768,7 @@
 +.sex-hot-xxx.com
 +.sex-hq.video
 +.sex-hub-kharkov.top
++.sex-hub-kyiv.top
 +.sex-hunter.net
 +.sex-igry.com
 +.sex-irani.com
