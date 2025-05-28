@@ -1,9 +1,9 @@
-# Version: 202505280214
+# Version: 202505280314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21467
-# Last modified: 2025-05-28T02:14:26+0000
+# Entries: 21468
+# Last modified: 2025-05-28T03:14:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12550,6 +12550,7 @@
 +.osakamotion.net
 +.osexlove.com
 +.osmiporno.com
++.osnovanie-osman.ru
 +.ososedki.com
 +.osreformados.com
 +.osteuropaladies.de
