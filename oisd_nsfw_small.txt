@@ -1,9 +1,9 @@
-# Version: 202505280314
+# Version: 202505280614
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21468
-# Last modified: 2025-05-28T03:14:27+0000
+# Entries: 21474
+# Last modified: 2025-05-28T06:14:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -140,6 +140,7 @@
 +.1hanime.com
 +.1hentai.org
 +.1passforallsites.com
++.1plus1tv.com
 +.1plus1tv.ru
 +.1pondo.com
 +.1pondo.tv
@@ -4685,7 +4686,6 @@
 +.egotastic.com
 +.egroups.com
 +.egy69.com
-+.egyporn.org
 +.eharmony.co.uk
 +.ehentai.ai
 +.ehentai.to
@@ -10461,7 +10461,6 @@
 +.mamaisinok.com
 +.mamapornovideo.org
 +.mamapornovideo.top
-+.mamashki.vip
 +.mamba-games.com
 +.mamefutute.com
 +.mammetroie.org
@@ -10712,6 +10711,7 @@
 +.maturesex.fun
 +.maturesex.homes
 +.maturesex.quest
++.maturesexattack.com
 +.maturesexi.net
 +.maturesexmatch.com
 +.maturesexmovies.xxx
@@ -12799,6 +12799,7 @@
 +.pervmom.com
 +.pervnana.com
 +.pervtube.net
++.pervz.com
 +.petardas.com
 +.petardas.xxx
 +.peterfever.com
@@ -13783,6 +13784,7 @@
 +.porno365lol.com
 +.porno365lol.name
 +.porno365love.com
++.porno365s.name
 +.porno365s.org
 +.porno365x.club
 +.porno365x.info
@@ -15402,6 +15404,7 @@
 +.rusdevka.pro
 +.rusdosug.click
 +.rusescorto.com
++.rusex.love
 +.rusexvideo.com
 +.rushfuck.com
 +.rusigry.com
@@ -15496,6 +15499,7 @@
 +.sambaporno.com
 +.sambapornogratis.com.br
 +.samenprive.nl
++.samexhibit.com
 +.sammyboyforum.com
 +.sammyboyforum.info
 +.samo.sex
@@ -16167,7 +16171,6 @@
 +.sexoanalporno.com
 +.sexoaovivo.org
 +.sexobal.love
-+.sexobelgorod.online
 +.sexocean.com
 +.sexocean.net
 +.sexochel.love
@@ -16860,6 +16863,7 @@
 +.sincats.com
 +.sinfulhookups.com
 +.singeporno.com
++.single-baltic-lady.com
 +.single-chats.com
 +.singleflirt.com
 +.singleflirtplace.com
@@ -17922,7 +17926,6 @@
 +.thicktube.com
 +.thisav.com
 +.thisav.me
-+.thisav.video
 +.thisav2.com
 +.thislife.net
 +.thisvid.com
@@ -18963,6 +18966,7 @@
 +.video-camera.ru
 +.video-fucking.com
 +.video-jav.net
++.video-roulette.online
 +.video-roulette24.ru
 +.video-sex-xxx.cc
 +.video-tube-hd.com
@@ -19215,6 +19219,7 @@
 +.vlxx.rocks
 +.vlxx.xxx
 +.vlxx69.top
++.vlxxhihi.net
 +.vlxxhot.net
 +.vlxxpro.io
 +.vlxxx.biz
@@ -20496,6 +20501,7 @@
 +.xvideos57.com
 +.xvideos61.com
 +.xvideos66.cc
++.xvideos69.xxx
 +.xvideos74.com
 +.xvideos9.com
 +.xvideos91.com

@@ -1,9 +1,9 @@
-# Version: 202505280309
+# Version: 202505280609
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42103
-# Last modified: 2025-05-28T03:09:45+0000
+# Entries: 42093
+# Last modified: 2025-05-28T06:09:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1436,6 +1436,7 @@
 +.88d7b6aa44fb8eb.com
 +.88eq7spm.de
 +.88lm15.com
++.88lmfff666.com
 +.88tm6.cc
 +.89263907.xyz
 +.89296649.xyz
@@ -2853,7 +2854,6 @@
 +.addefenderplus.info
 +.addeluxe.jp
 +.addfreestats.com
-+.addgreater.com
 +.addictionmulegoodness.com
 +.addictrelive.com
 +.addin.icu
@@ -3605,7 +3605,6 @@
 +.ads.savannahnow.com
 +.ads.scifi.com
 +.ads.scored.co
-+.ads.senmanga.com
 +.ads.seovietnam.pro
 +.ads.service.kugou.com
 +.ads.sexyland.vn
@@ -7898,7 +7897,6 @@
 +.beegrenugoz.com
 +.beegruwhoazoa.net
 +.beehiveavertconfessed.com
-+.beehivematty.top
 +.beemolgator.com
 +.beenoper.com
 +.beeperdecisivecommunication.com
@@ -8146,6 +8144,8 @@
 +.bgecvddelzg.com
 +.bgf05251lko.com
 +.bgf05270lko.com
++.bgf05271lko.com
++.bgf05280lko.com
 +.bgg.baidu.com
 +.bggqdleabtqhwqw.xyz
 +.bghebf.xyz
@@ -10270,7 +10270,6 @@
 +.chipyourdiet.live
 +.chiq-cloud.com
 +.chirmsseaman.shop
-+.chiselhld.top
 +.chitchaudsoax.net
 +.chitika.net
 +.chitsnooked.com
@@ -11162,7 +11161,6 @@
 +.compitte.com
 +.complainfriendshipperry.com
 +.complainguyseaweed.com
-+.complaintconsequencereply.com
 +.complainttattooshy.com
 +.complementinstancesvarying.com
 +.complexastare.shop
@@ -13588,7 +13586,6 @@
 +.dashboard.digita.media
 +.dashboard.grapemedia.cz
 +.dashboard.xqubemedia.com
-+.dashdryopes.shop
 +.dashedheroncapricorn.com
 +.dasperdolus.com
 +.dasyuredenmark.com
@@ -14040,7 +14037,6 @@
 +.deporttideevenings.com
 +.depotdesirabledyed.com
 +.depreciateape.com
-+.depressedchamber.com
 +.deputizeeverydayexorcist.com
 +.deputizepacifistwipe.com
 +.deqik.com
@@ -14231,7 +14227,6 @@
 +.dictseconal.com
 +.dictumstortil.com
 +.diddestrewinds.top
-+.didesthanger.com
 +.didna.io
 +.didtheyreadit.com
 +.dieadi.com
@@ -14239,7 +14234,6 @@
 +.diettrappeddestruction.com
 +.differentevidence.com
 +.differsassassin.com
-+.differsprosperityprotector.com
 +.diffhobbet.click
 +.difficultfog.com
 +.difficultyanthonymode.com
@@ -14860,7 +14854,6 @@
 +.downloadyt.com
 +.downlon.com
 +.downnora.me
-+.downparanoia.com
 +.downright-administration.pro
 +.downwardstreakchar.com
 +.doyoudi.com
@@ -15019,7 +15012,6 @@
 +.dsh7ky7308k4b.cloudfront.net
 +.dshjbn.xyz
 +.dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
-+.dskesrsbhqdnlta.xyz
 +.dslfndqpednqu.xyz
 +.dsnextgen.com
 +.dsnymrk0k4p3v.cloudfront.net
@@ -15728,7 +15720,6 @@
 +.ejcet5y9ag.com
 +.ejdkqclkzq.com
 +.ejevika.com
-+.ejidocinct.top
 +.ejitmssx-rk.icu
 +.ejkrtgyjxakrqk.com
 +.ejtm.com
@@ -16009,6 +16000,7 @@
 +.epimetheus.navigator.gmx.net
 +.epiv.cardlytics.com
 +.eplndhtrobl.com
++.epmumb34x.top
 +.epnredirect.ru
 +.epnt.ebay.com
 +.epochheelbiography.com
@@ -16821,7 +16813,6 @@
 +.fauseepetoozuk.xyz
 +.faveoliaiver.top
 +.favorbort.guru
-+.favoredkuwait.top
 +.favorite-option.pro
 +.fawnnaresh.com
 +.faxbfxhkdjoma.icu
@@ -17025,7 +17016,6 @@
 +.ficinhubcap.com
 +.fickle-brush.com
 +.ficklecapacious.com
-+.ficklepounder.shop
 +.fidajbhta.com
 +.fidar.site
 +.fidelity-media.com
@@ -17435,6 +17425,7 @@
 +.flux.effiliation.com
 +.fluxads.com
 +.flw.camcaps.ac
++.flxr.myplan-c.com
 +.fly-ads.net
 +.flyerrepentembrace.com
 +.flyerseafood.com
@@ -18290,6 +18281,7 @@
 +.getmackeepersoftpro.xyz
 +.getmagic.moe
 +.getmatchedlocally.com
++.getmetrical.com
 +.getmytralala.com
 +.getnotix.co
 +.getoffers24.online
@@ -20471,6 +20463,7 @@
 +.iarrowtoldilim.info
 +.iasrv.com
 +.iaukmlastitytyeast.com
++.iaxmmw9fbx.com
 +.ibaglhc.icu
 +.ibd-as-api.iq.com
 +.ibeat.indiatimes.com
@@ -20726,6 +20719,7 @@
 +.img.ferlie.net
 +.img.opentracker.net
 +.img.prohardver.hu
++.img.sct.eu1.usercentrics.eu
 +.img.yangshengtang123.com
 +.img1.126.net
 +.img1.hblds.com
@@ -20746,6 +20740,7 @@
 +.imgoss820.top
 +.imgot.site
 +.imgpromo.easyrencontre.com
++.imgsct.cookiebot.com
 +.imgx.jampp.com
 +.imidicsecular.com
 +.imitateupsettweak.com
@@ -21541,7 +21536,6 @@
 +.jb.ecar168.cn
 +.jbaqavqkrowyl.top
 +.jbbyyryezqqvq.top
-+.jbbyyryolqvvb.top
 +.jbdch1.appmobile.cn
 +.jbib-hxyf.icu
 +.jbm6c54upkui.com
@@ -22700,7 +22694,6 @@
 +.laneyounger.com
 +.langrauoz.xyz
 +.langretsahibah.com
-+.languidintentgained.com
 +.languroa.xyz
 +.lanknewcomer.com
 +.lanky-bar.com
@@ -23916,6 +23909,7 @@
 +.lqcngjecijy.rocks
 +.lqdafcgrlaaby.xyz
 +.lqfctb.icu
++.lqftuugziloa.com
 +.lqgenuq-j.life
 +.lqjfhehcrkatj.xyz
 +.lqlwjr.icu
@@ -24041,6 +24035,7 @@
 +.lvnzrh.xyz
 +.lvodomo.info
 +.lvojjayaaoqym.top
++.lvsm.cn
 +.lvw7k4d3j.com
 +.lw.musictarget.com
 +.lw2dplgt8.com
@@ -24153,7 +24148,6 @@
 +.ma.zoho.eu
 +.ma1.meishij.net
 +.ma3ion.com
-+.macacussimpson.top
 +.macan-native.com
 +.macaw.ianmitchell.dev
 +.macaw.lab75.jp
@@ -25444,7 +25438,6 @@
 +.motivesbreastchopped.com
 +.motphimqq.pro
 +.motsardi.net
-+.moujeekeedil.com
 +.moumaiphuch.net
 +.mountain.zhidao.baidu.com
 +.mountaincaller.top
@@ -25866,6 +25859,7 @@
 +.n55cpw.vip
 +.n55ylc001.vip
 +.n69.com
++.n72bn5s7uu.top
 +.n730.timesunion.com
 +.n818.timesherald.com
 +.n91hg.com
@@ -26033,7 +26027,6 @@
 +.nearestmicrowavespends.com
 +.nearlynightingalebust.com
 +.neat-period.com
-+.nebsefte.net
 +.necessaryescort.com
 +.nechythithy.pro
 +.nectarineple.com
@@ -27369,7 +27362,6 @@
 +.oocecmauhe.net
 +.oodrampi.com
 +.oofptbhbdb.com
-+.oogiri-ads-bucket.s3.ap-northeast-3.amazonaws.com
 +.oogneenu.net
 +.ookresit.net
 +.ookris.oferty-kredytowe.pl
@@ -28457,7 +28449,6 @@
 +.performoo.com
 +.perfunctorystair.com
 +.perhapsdrivewayvat.com
-+.pericuelysian.top
 +.perigshfnon.com
 +.perilastronaut.com
 +.periodspoppyrefuge.com
@@ -28479,7 +28470,6 @@
 +.persona3.tech
 +.personalizedtab.com
 +.personalskillsex.org
-+.personantaeus.top
 +.personaserver.com
 +.persuadecowardenviable.com
 +.pertawee.net
@@ -28569,7 +28559,6 @@
 +.pheersie.com
 +.pheftoud.com
 +.phegnauxoudsez.xyz
-+.phemietoric.shop
 +.phenidudo.pro
 +.pheniter.com
 +.phenomtrackapi-ir.phenompeople.com
@@ -28662,7 +28651,6 @@
 +.pidsnbtigntdi.vip
 +.pieclayton.com
 +.piercepavilion.com
-+.pierianphellum.shop
 +.pierisrapgae.com
 +.pietexture.com
 +.pifnrihu.com
@@ -28856,6 +28844,7 @@
 +.pixoctopus.pixnet.net
 +.pixxur.com
 +.pizzlessclimb.top
++.pj.l.liftdsp.com
 +.pjagilteei.com
 +.pjbbhj.icu
 +.pjjpp.com
@@ -30223,6 +30212,7 @@
 +.q2i8kd5n.de
 +.q2usj.icu
 +.q511.wpbf.com
++.q5sn40kmp2.com
 +.q6idnawboy7g.com
 +.q770.whittierdailynews.com
 +.q777.sfchronicle.com
@@ -30274,6 +30264,7 @@
 +.qcwnfoqtqgvau.icu
 +.qd.x4399.com
 +.qdfscelxyyem.club
++.qdheqraln.com
 +.qdhrbget.click
 +.qdjsiyt.icu
 +.qdmil.com
@@ -31015,7 +31006,6 @@
 +.referer.pixplug.in
 +.referralware.com
 +.referredencouragedlearned.com
-+.reffeltcorv.top
 +.refiledashily.top
 +.refilmsbones.top
 +.refinescruelly.click
@@ -31366,7 +31356,6 @@
 +.revenuewasadirect.com
 +.reverbstomptusk.com
 +.reversiondisplay.com
-+.revetoergot.shop
 +.revfusion.net
 +.revi.rcs.it
 +.review.gdtimg.com
@@ -31669,7 +31658,6 @@
 +.roots.baby
 +.rootzaffiliates.com
 +.ropeanresultanc.com
-+.ropebrains.com
 +.roredi.com
 +.roritchou.net
 +.rorserdy.com
@@ -31741,6 +31729,7 @@
 +.rps.hpplay.cn
 +.rpsukimsjy.com
 +.rptmoczqsf.com
++.rpvqhicca.com
 +.rqazepammrl.com
 +.rqhajf.icu
 +.rqmob.com
@@ -32563,7 +32552,6 @@
 +.sandwichconscientiousroadside.com
 +.sandydestructioncoax.com
 +.sandyrecordingmeet.com
-+.sandysuspicions.com
 +.sane-entertainment.pro
 +.sanereply.com
 +.saneworkbench.com
@@ -32927,6 +32915,8 @@
 +.seezfull.com
 +.sefsdvc.com
 +.seg.sharethis.com
++.segapi.splice.com
++.seghg.hottopic.com
 +.segment-api.goodrx.com
 +.segment-cdn.producthunt.com
 +.segment.lalr.co
@@ -34261,7 +34251,6 @@
 +.spokentomatoestraumatic.com
 +.spokesperson254.fun
 +.spolecznosci.net
-+.spondeekitling.top
 +.sponsor-v2.lebtown.com
 +.sponsor.styleblueprint.com
 +.sponsorads.de
@@ -35806,6 +35795,7 @@
 +.t.streetsblog.org
 +.t.sur.new.gorodkirov.ru
 +.t.syosetu.org
++.t.tnafpt.com
 +.t.trsbf.com
 +.t.uc.cn
 +.t.wayfair.com
@@ -36283,7 +36273,6 @@
 +.tenoneraliners.top
 +.tensorsbancos.com
 +.tensuao.club
-+.tenthgiven.com
 +.tenthsfrumpy.com
 +.teqdutdxiwzwd.one
 +.teracreative.com
@@ -36562,7 +36551,6 @@
 +.ticketpantomimevirus.com
 +.ticketsfrustratingrobe.com
 +.ticketswinning.com
-+.ticklefell.com
 +.tickleinclosetried.com
 +.ticrite.com
 +.tictacfrison.com
@@ -37899,6 +37887,8 @@
 +.trowanesteeler.com
 +.trpool.org
 +.trpop.xyz
++.trt-scripts.usedrop.io
++.trt.usedrop.io
 +.trtjigpsscmv9epe10.com
 +.truanet.com
 +.truazka.xyz
@@ -40206,6 +40196,7 @@
 +.wifescamara.click
 +.wigetmedia.com
 +.wiggledeteriorate.com
++.wigqae.icu
 +.wiinvent.com.vn
 +.wiinvent.tv
 +.wijmkizacdan.com
@@ -40361,7 +40352,6 @@
 +.wmedps.com
 +.wmeng.feihuadns.com
 +.wmirk.ru
-+.wmjmswhivwzyzp.com
 +.wmmrbwiyztgeg.top
 +.wmnnjfe.com
 +.wmober.com
