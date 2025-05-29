@@ -1,9 +1,9 @@
-# Version: 202505291516
+# Version: 202505291720
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21532
-# Last modified: 2025-05-29T15:16:01+0000
+# Entries: 21533
+# Last modified: 2025-05-29T17:20:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1442,6 +1442,7 @@
 +.asianfreesex.net
 +.asiangalore.com
 +.asiangay.tv
++.asiangaylove.com
 +.asiangaysex.net
 +.asiangirls.life
 +.asianleak.org

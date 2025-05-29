@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 29 May 2025
 # LatestVersion 24.01
-# Domain Count: 15769
+# Domain Count: 15768
 #===============================================================
 
 +.0i0i0i0.com
@@ -15684,7 +15684,6 @@
 +.webtraxs.com
 +.webtrekk-asia.net
 +.webtrekk.com
-+.webtrekk.mediaset.net
 +.webtrekk.net
 +.webtrends.com
 +.webtrendslive.com
