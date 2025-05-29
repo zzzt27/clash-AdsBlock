@@ -1,9 +1,9 @@
-# Version: 202505290313
+# Version: 202505290427
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21515
-# Last modified: 2025-05-29T03:13:31+0000
+# Entries: 21516
+# Last modified: 2025-05-29T04:27:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9405,6 +9405,7 @@
 +.justporn.com
 +.justporn.tv
 +.justpornflix.com
++.justsex.co.za
 +.justsextube.com
 +.justswallows.click
 +.justthegays.com
