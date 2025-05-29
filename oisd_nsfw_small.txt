@@ -1,9 +1,9 @@
-# Version: 202505291720
+# Version: 202505291817
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21533
-# Last modified: 2025-05-29T17:20:14+0000
+# Entries: 21534
+# Last modified: 2025-05-29T18:17:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4011,6 +4011,7 @@
 +.dateyou.com
 +.datezone.com
 +.dating-bisexual.com
++.dating-finder.com
 +.dating-milfs.com
 +.dating999.com
 +.datingdirect.com
