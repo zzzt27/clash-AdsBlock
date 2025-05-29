@@ -1,9 +1,9 @@
-# Version: 202505290615
+# Version: 202505290715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21523
-# Last modified: 2025-05-29T06:15:18+0000
+# Entries: 21525
+# Last modified: 2025-05-29T07:15:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1593,6 +1593,7 @@
 +.aussiflirtz.com
 +.autoblow.com
 +.autolinkweb.com
++.autowise.dev
 +.av-mad.com
 +.av-matome.jp
 +.av-photograph.com
@@ -18366,6 +18367,7 @@
 +.trendyporn.com
 +.trendyxxx.com
 +.trep.me
++.treta.com.br
 +.trfpump.com
 +.tribute-to.com
 +.trickymasseur.com

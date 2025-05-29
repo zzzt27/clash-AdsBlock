@@ -1,9 +1,9 @@
-# Version: 202505290610
+# Version: 202505290810
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42044
-# Last modified: 2025-05-29T06:10:35+0000
+# Entries: 42029
+# Last modified: 2025-05-29T08:10:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -560,7 +560,6 @@
 +.26bab6d06f.cc0a417698.com
 +.26e8841da4.com
 +.26ea4af114.com
-+.26fc4b0b38.com
 +.26q4nn691.de
 +.275a93755c.com
 +.27714296.xyz
@@ -7109,7 +7108,6 @@
 +.awjadlbwiawt.com
 +.awjnkashupk.com
 +.awjpufvwu.com
-+.awkbkkqkqmevb.top
 +.awkbkkqmeeoaj.top
 +.awkwardemergency.com
 +.awkwardsuperstition.com
@@ -8145,7 +8143,6 @@
 +.bg4nxu2u5t.com
 +.bgecvddelzg.com
 +.bgedagiwyimix.com
-+.bgf05290lko.com
 +.bgg.baidu.com
 +.bggqdleabtqhwqw.xyz
 +.bghebf.xyz
@@ -9117,7 +9114,6 @@
 +.button-call.zalo.me
 +.button-follow.zalo.me
 +.button-share.zalo.me
-+.bututpoopsie.com
 +.buxfmookn.com
 +.buxgupaznwus.com
 +.buyadvupfor24.com
@@ -9715,7 +9711,6 @@
 +.ccaa0e51d8.com
 +.ccc-x.jd.com
 +.ccc9c93083.com
-+.cccc5a2b7f.com
 +.ccccc66kkkkk.com
 +.ccccc67kkkkk.com
 +.ccccc78kkkkk.com
@@ -14032,7 +14027,6 @@
 +.depreciateape.com
 +.deputizeeverydayexorcist.com
 +.deputizepacifistwipe.com
-+.depzdhamot.com
 +.deqik.com
 +.derateddeerdog.click
 +.derevya2sh8ka09.com
@@ -21224,7 +21218,6 @@
 +.irishormone.com
 +.irisunitepleased.com
 +.irkantyip.com
-+.irlj.cn
 +.irmyckddtm.com
 +.irnmh.fun
 +.ironcladtrouble.com
@@ -22036,7 +22029,6 @@
 +.katecrochetvanity.com
 +.katerigordas.pro
 +.kathesygri.com
-+.katieseaweed.com
 +.katuhus.com
 +.kaubapsy.com
 +.kaurieseluxate.com
@@ -22768,7 +22760,6 @@
 +.lbqdaua.icu
 +.lbuepkvfyo.com
 +.lby2kd27c.com
-+.lbylqerzmzlzq.top
 +.lcd.aivote.com
 +.lciapi.ninthdecimal.com
 +.lcidauv.top
@@ -22959,7 +22950,6 @@
 +.lh031i88q.com
 +.lh1dki82.com
 +.lhdnba.top
-+.lhe-beacon.team-rec.jp
 +.lheadydedfearinglest.org
 +.lhedihmandr.com
 +.lhewouldasifany.org
@@ -25784,7 +25774,6 @@
 +.myuyxesrktrmz.life
 +.myvpistasrwah.one
 +.mywb.fr
-+.mywedding-beacon.team-rec.jp
 +.mywondertrip.com
 +.myxstalk.lol
 +.myyilufa888.com
@@ -30312,7 +30301,6 @@
 +.qmbdta.cn
 +.qmgria.cn
 +.qmkackqmigezu.club
-+.qmrelvevwlwlw.top
 +.qmslgwdr.com
 +.qn-5.com
 +.qn-cdnfile1pcdn.msstatic.com
@@ -36110,6 +36098,7 @@
 +.tealand.cmcm.com
 +.tealium.cbsnews.com
 +.tealsgenevan.com
++.team-rec.jp
 +.teamairportheedless.com
 +.teamshilarious.com
 +.teamsmarched.com
@@ -38511,7 +38500,6 @@
 +.unresolveddrama.com
 +.unrestbad.com
 +.unripewar.com
-+.unroastspitted.com
 +.unrotomon.com
 +.unrulymedia.com
 +.unrulymorning.pro
@@ -39070,7 +39058,6 @@
 +.vg4u8rvq65t6.com
 +.vg876yuj.click
 +.vgfhycwkvh.com
-+.vgnhigankih.com
 +.vgs-collect-keeper.apps.verygood.systems
 +.vgxbpf.xyz
 +.vhabwaoh.com
@@ -40204,7 +40191,6 @@
 +.windlebrogues.com
 +.window.nixnet.cz
 +.windows-pro.net
-+.windowylarvule.com
 +.windrightyshade.com
 +.windsplay.com
 +.windymissphantom.com
@@ -42015,7 +42001,6 @@
 +.zuulo.xyz
 +.zuzodoad.com
 +.zv.7vid.net
-+.zvbqvqbrwbeye.top
 +.zvela.filegram.to
 +.zvetokr2hr8pcng09.com
 +.zvhlzb.xyz
