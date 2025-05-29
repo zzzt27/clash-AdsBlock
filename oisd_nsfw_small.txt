@@ -1,9 +1,9 @@
-# Version: 202505291215
+# Version: 202505291316
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21531
-# Last modified: 2025-05-29T12:15:51+0000
+# Entries: 21530
+# Last modified: 2025-05-29T13:16:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -639,7 +639,6 @@
 +.adultfilmstarcontent.com
 +.adultfinder-friend.com
 +.adultfishdating.com.au
-+.adultflingdating.co.uk
 +.adultfolio.com
 +.adultfriendfinder.com
 +.adultfriendfinder.onl
