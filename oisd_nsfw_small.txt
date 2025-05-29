@@ -1,9 +1,9 @@
-# Version: 202505291817
+# Version: 202505291914
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21534
-# Last modified: 2025-05-29T18:17:05+0000
+# Entries: 21535
+# Last modified: 2025-05-29T19:14:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13131,7 +13131,6 @@
 +.playsexgames.xxx
 +.playsextube.com
 +.playsplusfree.online
-+.playstorex.com
 +.playtube.co.za
 +.playtube.tv
 +.playvids.com
@@ -15740,6 +15739,7 @@
 +.senioras.com
 +.seniorfriendfinder.com
 +.seniorhookups.org
++.seniorhookupsites.net
 +.seniornext.com
 +.seniorsexhookup.net
 +.seniorsforsex.com.au
@@ -18389,6 +18389,7 @@
 +.tropictube.com
 +.tropsha.com
 +.trouveuncrush.com
++.trouveur.com
 +.trovagnocca.com
 +.trueamateurmodels.com
 +.trueamateurs.com
