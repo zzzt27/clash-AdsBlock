@@ -1,9 +1,9 @@
-# Version: 202505290209
+# Version: 202505290309
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180189
-# Last modified: 2025-05-29T02:09:33+0000
+# Entries: 180188
+# Last modified: 2025-05-29T03:09:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -40790,7 +40790,6 @@
 +.compte-facebook.ws
 +.compte-free.fr
 +.compte-livraison.fr
-+.compteamazon.fr
 +.compteinfo.fr
 +.compteur.websiteout.net
 +.compteverif.fr

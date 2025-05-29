@@ -1,9 +1,9 @@
-# Version: 202505290213
+# Version: 202505290313
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21514
-# Last modified: 2025-05-29T02:13:48+0000
+# Entries: 21515
+# Last modified: 2025-05-29T03:13:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16155,6 +16155,7 @@
 +.sexmithausfrauen.net
 +.sexmodel-secrets.com
 +.sexmoi.cyou
++.sexmoitv.com
 +.sexmoivip.com
 +.sexmole.com
 +.sexmom.xyz
