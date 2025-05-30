@@ -1,9 +1,9 @@
-# Version: 202505300715
+# Version: 202505300819
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21610
-# Last modified: 2025-05-30T07:15:12+0000
+# Entries: 21611
+# Last modified: 2025-05-30T08:19:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12020,6 +12020,7 @@
 +.night-lady.co.il
 +.nightclub.eu
 +.nightdreambabe.com
++.nightlifeporn.com
 +.nightmareporn.com
 +.nightsex.net
 +.nihonjav.com
