@@ -1,9 +1,9 @@
-# Version: 202505301808
+# Version: 202505301828
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181233
-# Last modified: 2025-05-30T18:08:36+0000
+# Entries: 181232
+# Last modified: 2025-05-30T18:28:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -138864,7 +138864,6 @@
 +.schubert-new-media.de
 +.schubnorvex.net
 +.schuetzenfedern.de
-+.schuh-zentgraf.de
 +.schuhpflichtig.de
 +.schuldentipps.de
 +.schuler-web.de
