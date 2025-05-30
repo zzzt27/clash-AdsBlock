@@ -1,9 +1,9 @@
-# Version: 202505301316
+# Version: 202505301416
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21616
-# Last modified: 2025-05-30T13:16:45+0000
+# Entries: 21617
+# Last modified: 2025-05-30T14:16:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15277,6 +15277,7 @@
 +.relaxlviv.com
 +.relaxmovs.com
 +.relaxmsk.com
++.relaxportal.biz
 +.relayblog.com
 +.remaxhd.homes
 +.remilf.com
