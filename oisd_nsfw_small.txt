@@ -1,9 +1,9 @@
-# Version: 202505302112
+# Version: 202505302212
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21623
-# Last modified: 2025-05-30T21:12:46+0000
+# Entries: 21625
+# Last modified: 2025-05-30T22:12:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6620,6 +6620,7 @@
 +.gaystream.pw
 +.gaystryst.com
 +.gaysuperman.com
++.gayteam.club
 +.gayteendatingapps.com
 +.gaytogether.org
 +.gaytor.rent
@@ -6880,6 +6881,7 @@
 +.gnoccatravels.com
 +.gntai.net
 +.gnula.nu
++.gnula.se
 +.gnulahd.nu
 +.gnulaseries.nu
 +.go-gaytube.com
