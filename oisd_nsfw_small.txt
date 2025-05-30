@@ -1,9 +1,9 @@
-# Version: 202505301613
+# Version: 202505301714
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21617
-# Last modified: 2025-05-30T16:13:57+0000
+# Entries: 21618
+# Last modified: 2025-05-30T17:14:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19353,6 +19353,7 @@
 +.vlesbianporn.com
 +.vlgaimup.pro
 +.vlxx.blog
++.vlxx.digital
 +.vlxx.now
 +.vlxx.plus
 +.vlxx.rocks
