@@ -1,9 +1,9 @@
-# Version: 202505300916
+# Version: 202505301115
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21612
-# Last modified: 2025-05-30T09:16:39+0000
+# Entries: 21615
+# Last modified: 2025-05-30T11:15:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4695,6 +4695,7 @@
 +.edenfantasys.com
 +.edengay.com
 +.edenliberal.es
++.edgeconnectcdn.net
 +.ediporn.com
 +.eelslap.com
 +.effedupmovies.com
@@ -9590,6 +9591,7 @@
 +.kechtube.com
 +.keekass.com
 +.keencams.com
++.keenetic.name
 +.keep2porn.net
 +.keezmovies.com
 +.keilabacellar.com
@@ -18707,6 +18709,7 @@
 +.tumbest.com
 +.tumbex.com
 +.tumblrgallery.xyz
++.tuoi69hd.com
 +.tuoilontv.org
 +.turboporno.info
 +.turkcedublajporno.com
