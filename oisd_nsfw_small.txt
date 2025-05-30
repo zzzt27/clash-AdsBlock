@@ -1,9 +1,9 @@
-# Version: 202505301814
+# Version: 202505301913
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21619
-# Last modified: 2025-05-30T18:14:13+0000
+# Last modified: 2025-05-30T19:13:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9878,6 +9878,7 @@
 +.latinaporn.one
 +.latinas.monster
 +.latinawomen.net
++.latinawomenbrides.com
 +.latinboyz.com
 +.latinbrides.net
 +.latinchats.net
@@ -19867,7 +19868,6 @@
 +.x3vid.com
 +.x3x3x.xyz
 +.x4men.com
-+.x4u.xyz
 +.x6av.com
 +.x99av.com
 +.xahani.com
