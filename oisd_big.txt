@@ -1,9 +1,9 @@
-# Version: 202505301210
+# Version: 202505301311
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181123
-# Last modified: 2025-05-30T12:10:51+0000
+# Entries: 181131
+# Last modified: 2025-05-30T13:11:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14259,6 +14259,7 @@
 +.alebilet.pl-81323.icu
 +.alebilet.pl-938842.cfd
 +.alebilet.pl-oferta16943.pl
++.alebilet.pl-oferta284849200.sbs
 +.alebilet.pl-oferta435154.pl
 +.alebilet.pl-oferta73581.icu
 +.alebilet.pl-oferta781241.shop
@@ -15186,6 +15187,7 @@
 +.allegrolokalnie.plss5ljjrltda21gjk.icu
 +.allegrolokalnie.plss5ljjrltda28gjk.icu
 +.allegrolokalnie.plss5ljjrltda29gjk.icu
++.allegrolokalnie.plss5ljjrltda33gjk.icu
 +.allegrolokalnie.plss5ljjrltda34gjk.icu
 +.allegrolokalnie.polecane-dzis.shop
 +.allegrolokalnie.polecane-kategorie-inne.shop
@@ -15492,6 +15494,7 @@
 +.almiranazelia.blogspot.com
 +.almoldservicefr.firebaseapp.com
 +.almoldservicefr.web.app
++.almondine-midi-ixora.glitch.me
 +.almondtreehill.com
 +.almondusual.com
 +.almonryminuter.com
@@ -33626,6 +33629,7 @@
 +.cap.pegasus-anallytics.com
 +.cap.piguetdevellopmentsltd.com
 +.cap.portorealprotecaoveicular.com.br
++.cap.presttigeadviceltd.com
 +.cap.sirenconsultancyltd.com
 +.cap.spectregroupltd.com
 +.cap.vallkyriegloballtd.com
@@ -34892,6 +34896,7 @@
 +.ccuoqedyqvttq.tech
 +.ccupdatedata.authorizeddns.net
 +.ccuui.yt
++.ccwjl.com
 +.ccxxn.999xs.com
 +.ccyaxntr.com
 +.ccycny.com
@@ -64882,6 +64887,7 @@
 +.focixio7.pro
 +.focojuridico.com.br
 +.focus-burn.gl.at.ply.gg
++.focus-hub.info
 +.focus-track.info
 +.focus-water.gl.at.ply.gg
 +.focusbrand.cn
@@ -100928,6 +100934,7 @@
 +.memebrrcentreattmainuosecorighi.weebly.com
 +.memecoin.li
 +.memeforum.com
++.memeiderio.com
 +.memelink-6lrk.4everland.app
 +.mememakers.mobi
 +.mementos.fr
@@ -103267,6 +103274,7 @@
 +.mkukigems.com
 +.mkurtinvest.com
 +.mkvcinemas.fr
++.mkwiseman.com
 +.mkwodalinio.com
 +.ml-company.com
 +.ml0z14azlflr.com
@@ -112374,7 +112382,6 @@
 +.ocuvnd.com
 +.ocuwyfarlvbq.com
 +.ocvrulo.digital
-+.oczta-polska-pl.top
 +.oda.markitondemand.com
 +.odakino.top
 +.odalrevaursartu.net
@@ -115670,7 +115677,6 @@
 +.ouglook.fr
 +.ougrauty.com
 +.ougribot.net
-+.ouhael.club
 +.ouiokaq.top
 +.ouiyg.mefound.com
 +.ouiyriaeoji.pages.dev
@@ -124877,6 +124883,7 @@
 +.protect-vu0.firebaseapp.com
 +.protect-vu0.web.app
 +.protect-your-privacy.net
++.protectcopyrightremoval.vercel.app
 +.protected-by.clarium.io
 +.protected-redirect.click
 +.protected.net
@@ -135401,6 +135408,7 @@
 +.rovno.xyz
 +.row.volksstimme.de
 +.rowan-brave-brontomerus.glitch.me
++.rowermania.com
 +.rowerownia.eu
 +.rowjet.com
 +.rownet.pl
@@ -142975,7 +142983,6 @@
 +.shop.selectcellars.com.au
 +.shop.tdbtdbb.shop
 +.shop.theglobalbeautygroup.com.au
-+.shop.tiktokshopapp.top
 +.shop.vnay.vn
 +.shop.ytjytjr.shop
 +.shop.zisystech.com
@@ -168226,6 +168233,7 @@
 +.viajesdelcomercio.com
 +.vialogoonline.112.2o7.net
 +.vialogorollup.112.2o7.net
++.vialparts.com
 +.viamariller.com
 +.viamtv.112.2o7.net
 +.viamtvcom.112.2o7.net
