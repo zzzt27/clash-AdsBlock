@@ -1,9 +1,9 @@
-# Version: 202505302013
+# Version: 202505302112
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21620
-# Last modified: 2025-05-30T20:13:16+0000
+# Entries: 21623
+# Last modified: 2025-05-30T21:12:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9003,6 +9003,7 @@
 +.jav777.cc
 +.jav777.xyz
 +.jav8.one
++.jav8.pro
 +.jav8.vip
 +.jav9999.com
 +.javarchive.com
@@ -9396,6 +9397,7 @@
 +.jsutandy.com
 +.jucydate.com
 +.judaporn.com
++.judywatt.com
 +.juegosxxxgratis.com
 +.juggshunter.com
 +.juicedcunts.com
@@ -16784,6 +16786,7 @@
 +.shadbase.xxx
 +.shag.co.uk
 +.shag2night.com
++.shagcity.co.uk
 +.shagle.com
 +.shahvani.com
 +.shahvani.me
