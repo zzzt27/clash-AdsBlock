@@ -1,9 +1,9 @@
-# Version: 202505301416
+# Version: 202505301613
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21617
-# Last modified: 2025-05-30T14:16:40+0000
+# Last modified: 2025-05-30T16:13:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12950,7 +12950,6 @@
 +.phimsex6s.com
 +.phimsexau.net
 +.phimsexcap2.pro
-+.phimsexchauau.biz
 +.phimsexchina.one
 +.phimsexchina.vip
 +.phimsexcotrang.bet
@@ -18470,6 +18469,7 @@
 +.trueanal.org
 +.truebeachporn.com
 +.truefucktube.com
++.truehookup.com
 +.truelesbianfuck.com
 +.truemanga.com
 +.truemomporn.com
