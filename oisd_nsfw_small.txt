@@ -1,9 +1,9 @@
-# Version: 202505312014
+# Version: 202505312220
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21649
-# Last modified: 2025-05-31T20:14:06+0000
+# Entries: 21650
+# Last modified: 2025-05-31T22:20:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6242,6 +6242,7 @@
 +.fuckindianporn.mobi
 +.fucking-galleries.com
 +.fucking-girls-tube.com
++.fuckingbear.com
 +.fuckingbestialitytube.com
 +.fuckingglasses.com
 +.fuckingmachines.com
