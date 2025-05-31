@@ -1,9 +1,9 @@
-# Version: 202505311308
+# Version: 202505311408
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 181653
-# Last modified: 2025-05-31T13:08:01+0000
+# Last modified: 2025-05-31T14:08:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -58161,7 +58161,6 @@
 +.energy-factor.com
 +.energy-info.fr
 +.energy-ml.com
-+.energy-profit.app
 +.energy-utama.com
 +.energy.greencallings.com
 +.energy.openpoland.org
@@ -102404,6 +102403,7 @@
 +.michelebunch.com
 +.micheleharpsart.com
 +.michelesdesigns.com
++.michelettiadvocacia.com
 +.michelgoodsupportingtems.duckdns.org
 +.michelleannserlin.com
 +.michellekilfoyle.com
