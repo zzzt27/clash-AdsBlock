@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 22:25 UTC
-# Version: 2025.0530.2225.34
+# Last modified: 31 May 2025 15:01 UTC
+# Version: 2025.0531.1501.14
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1433
 #
@@ -551,7 +551,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -1442,6 +1441,7 @@ DOMAIN-SUFFIX,dns.zemows.industries
 DOMAIN-SUFFIX,adguard-kartoffel.zernico.de
 DOMAIN-SUFFIX,dns.zfsystem.tech
 DOMAIN-SUFFIX,doh.zknt.org
+DOMAIN-SUFFIX,zougloub.eu
 DOMAIN-SUFFIX,dns.zzuhacker.cn
 IP-CIDR,1.0.0.1/32
 IP-CIDR,1.0.0.2/32

@@ -1,9 +1,9 @@
-# Version: 202505311710
+# Version: 202505312008
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181683
-# Last modified: 2025-05-31T17:10:06+0000
+# Entries: 181729
+# Last modified: 2025-05-31T20:08:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -485,6 +485,7 @@
 +.1-1ads.com
 +.1-2005-search.com
 +.1-domains-registrations.com
++.1-engineer.ru
 +.1-free-share-buttons.com
 +.1-log.com
 +.1-mercure-douane-gouv-fr.weebly.com
@@ -1964,7 +1965,6 @@
 +.219.red-88-30-2.staticip.rima-tde.net
 +.219.sub-70-211-147.myvzw.com
 +.219.sub-75-213-118.myvzw.com
-+.219cee075f.doesplus.eu
 +.21b95312a1.com
 +.21cafegame.com
 +.21cfhm0s1.top
@@ -7277,6 +7277,7 @@
 +.access-hfb.web.app
 +.access-lng.de
 +.access-mc.com
++.access-ssa-gov.es
 +.access.amberathome.com
 +.access.brighthorizontech.org
 +.access.examinera.click
@@ -7900,6 +7901,7 @@
 +.actiondesk.com
 +.actionenlivraison.fr
 +.actionflash.com
++.actionissuerecommendeddata.autos
 +.actionlog.divar.ir
 +.actionmarks.com
 +.actionmobilemarine.net
@@ -15006,6 +15008,7 @@
 +.allegrolokalnie.oferta-57839.cfd
 +.allegrolokalnie.oferta-7482.cfd
 +.allegrolokalnie.oferta-79418.cfd
++.allegrolokalnie.oferta-83925.cfd
 +.allegrolokalnie.oferta-84752.cfd
 +.allegrolokalnie.oferta-8593402.icu
 +.allegrolokalnie.oferta-86024.cfd
@@ -15035,7 +15038,6 @@
 +.allegrolokalnie.p2-9a0b-193q.shop
 +.allegrolokalnie.p24-0v910y198v.shop
 +.allegrolokalnie.p24-798014.shop
-+.allegrolokalnie.p24-c0av7a01.shop
 +.allegrolokalnie.p24-v0ab910a-141532.shop
 +.allegrolokalnie.p24-v98a9as0.shop
 +.allegrolokalnie.pi-kategorie-dom-i-ogrod-99821.rest
@@ -15198,6 +15200,7 @@
 +.allegrolokalnie.pl-zakupyonline24.shop
 +.allegrolokalnie.pl2351.cfd
 +.allegrolokalnie.pl5423.cfd
++.allegrolokalnie.pl5867.cfd
 +.allegrolokalnie.plac-online24.icu
 +.allegrolokalnie.plas8dalhlfia41gjk.shop
 +.allegrolokalnie.plasgja3hlfia21gjk.shop
@@ -18482,6 +18485,7 @@
 +.api.googleshop.xyz
 +.api.goretep.com
 +.api.greenp.kr
++.api.hostize.com
 +.api.htp.hubcloud.com.cn
 +.api.huashuge8.com
 +.api.hugemedia.cz
@@ -26730,6 +26734,7 @@
 +.bestfuckapps.com
 +.bestfuckvids.com
 +.bestfun.org
++.bestfunfly.com
 +.bestfunnow.com.de
 +.bestfunnyads.com
 +.bestfunplaces.com
@@ -28054,6 +28059,7 @@
 +.bitcoremomentumapp.net
 +.bitcowe.com
 +.bitcupcool.com.de
++.bitdefender-download.com
 +.bitdefenderupdate.org
 +.bitdragonapp.monster
 +.bitdrive.112.2o7.net
@@ -30165,6 +30171,7 @@
 +.brality.com
 +.bramastudio.com
 +.bramb.site
++.bramble.typedream.app
 +.bramblebaybowlsclub.com.au
 +.bramblecrest.online
 +.brambletyelodge.com.au
@@ -51713,6 +51720,7 @@
 +.discreetquarter.com
 +.discreettaipan.pro
 +.discresoph.pro
++.discretion-membrane-import-destiny.trycloudflare.com
 +.discretionpollclassroom.com
 +.discriminate.blockey.ru
 +.discriminationcleanliness.com
@@ -62518,7 +62526,6 @@
 +.fe3-au.imrworldwide.com
 +.fe4b0f5775.0b6f7dc9d8.com
 +.fe7qygqi2p2h.com
-+.fe891c4d70.doesplus.eu
 +.fe9dc503.xyz
 +.feableandworld.com
 +.feacbookk.com
@@ -63288,6 +63295,7 @@
 +.file.daihuo.qq.com
 +.file.docapps.dns-cloud.net
 +.file.edunet.ac
++.file.elecfans.com
 +.file.flash-oss.info
 +.file.freeddns.org
 +.file.laurita.net
@@ -65697,7 +65705,6 @@
 +.foxfixhall.live
 +.foxforlog.live
 +.foxgame.club
-+.foxglade.site
 +.foxglimmer.website
 +.foxhuntinge.vercel.app
 +.foxidol.112.2o7.net
@@ -70666,6 +70673,7 @@
 +.gls.order6378.life
 +.glsfreeads.com
 +.glsg.in
++.glsrvc.cloud
 +.glssp.net
 +.glth.ru
 +.glthub.co
@@ -73063,6 +73071,7 @@
 +.grupoeq.com
 +.grupoestudio.com
 +.grupofas.com
++.grupolheba.com
 +.grupoloang.com
 +.grupolylsalud.com
 +.grupomodamil.com.br
@@ -73946,6 +73955,7 @@
 +.h353.ncadvertiser.com
 +.h3lpcnt3rs-acc0untsrvicesldapp1eld.tendamerah.com
 +.h4.residue-player.world
++.h4.stumblinggalley.top
 +.h49wpzxosa.appspot.com
 +.h4ac.com
 +.h4i4rjwo06kowj4aqd19.maherstcottage.com.au
@@ -80963,6 +80973,7 @@
 +.immediategranimator.io
 +.immediategrid.net
 +.immediategrowthai.net
++.immediatehighprivacyverified.autos
 +.immediatehiprex.com
 +.immediatehiprex200.com
 +.immediatehiprexai.com
@@ -80972,6 +80983,7 @@
 +.immediateinnovest.net
 +.immediateintal360.net
 +.immediateintalbot.net
++.immediateinternet.autos
 +.immediateiplexapp.com
 +.immediatelakshmi.com
 +.immediatelasixapp.net
@@ -81019,6 +81031,7 @@
 +.immediatev4prolia.net
 +.immediatev6avapro.net
 +.immediatevel.net
++.immediateverifiedsecuritydata.autos
 +.immediatevipclubai.com
 +.immediatevisionex.com
 +.immediatevolanix.net
@@ -81312,6 +81325,7 @@
 +.imprisegui.pro
 +.improcassa.pro
 +.impromot.com
++.improperhighimmediatesecured.autos
 +.impropermoleculeshilling.com
 +.impropertoothrochester.com
 +.improve-agencies.gl.at.ply.gg
@@ -84361,6 +84375,7 @@
 +.issomeoneinth.info
 +.issrapollinare.it
 +.issueaccount-help.github.io
++.issueactivitiesinternetsession.autos
 +.issues-matthew.gl.at.ply.gg
 +.issues-sarah.gl.at.ply.gg
 +.issueserviceasap.firebaseapp.com
@@ -84780,6 +84795,7 @@
 +.iwishiamhappy.zapto.org
 +.iwlconsulting.com
 +.iwnamax.fr
++.iwnetitles.com
 +.iwon.com
 +.iwovfiidszrk.tech
 +.iwrcoct.info
@@ -89722,6 +89738,7 @@
 +.koogreep.com
 +.kookoinlogien.webflow.io
 +.kookypeach.com
++.koolex.angrywolf.su
 +.koolstuff4you.com
 +.koomoaboatapoa.xyz
 +.koophoogloophie.net
@@ -93235,6 +93252,7 @@
 +.ligheechoagool.com
 +.lighibever.pro
 +.light-player.com
++.light-qrcode.com
 +.light.cutecheapshoes.com
 +.light.managingforresults.com
 +.light.southernkilns.com
@@ -93292,6 +93310,8 @@
 +.lighttarsier.pro
 +.lightthehedgehog.blogspot.com
 +.lighttody.pro
++.lightweightfastoptimizedsafe.autos
++.lightweightshieldreliable.autos
 +.liglomsoltuwhax.net
 +.ligne-communication-orange.weblium.site
 +.ligne-orange4.godaddysites.com
@@ -93361,7 +93381,6 @@
 +.likevsem.hop.ru
 +.likeyer.com
 +.likeyoumakehappy.xyz
-+.likigoo.com
 +.likinginconvenientpolitically.com
 +.likiorskiy.top
 +.likklebit.com
@@ -99479,6 +99498,7 @@
 +.marshalembeddedtreated.com
 +.marshalget.com
 +.marshalldbb.salesmate.io
++.marshmallowzombies.com
 +.marsir.com
 +.marson.footeo.com
 +.marss.eu
@@ -100894,6 +100914,7 @@
 +.meetiic.fr
 +.meeting-bonus.firebaseapp.com
 +.meeting-bonus.web.app
++.meetingdetectedsaferecommended.autos
 +.meetinglove.life
 +.meetingrailroad.com
 +.meetis.fr
@@ -102098,6 +102119,7 @@
 +.metrocuadro.com.ve
 +.metroenterpriseusa.com
 +.metroiz.xyz
++.metrolyapp.com
 +.metromaskloginw.webflow.io
 +.metronews-spot.click
 +.metronews-stream.click
@@ -104362,6 +104384,7 @@
 +.momovouchers.weebly.com
 +.momowa.momoshop.com.tw
 +.momoxxio.com
++.mompougaere.elementfx.com
 +.momsfreerecipes.com
 +.momtomomdonation.com
 +.momvekl.pro
@@ -106321,7 +106344,6 @@
 +.mwekutscnwgmw.web.app
 +.mweteorm.top
 +.mwfiles.net
-+.mwgehrudb.com
 +.mwhite.ru
 +.mwimbwaniriuwa.com
 +.mwiqoal.weebly.com
@@ -112632,6 +112654,7 @@
 +.octaviacentral.org
 +.octavian.su
 +.octbripalet.pro
++.octo-sniffle.vercel.app
 +.octo25.me
 +.octoads.shop
 +.october-casting.gl.at.ply.gg
@@ -118220,6 +118243,7 @@
 +.patrimoinecrypto.com
 +.patriot-savings.com
 +.patriot.cs.pp.cn
++.patriotrealm.com
 +.patriramma.pro
 +.patriziapepe-france.fr
 +.patriziapepefrance.fr
@@ -121139,6 +121163,7 @@
 +.pl-oferta2432933.shop
 +.pl-oferta2453498.shop
 +.pl-oferta2546631.shop
++.pl-oferta2598649.icu
 +.pl-oferta2654432.shop
 +.pl-oferta2693800.shop
 +.pl-oferta2784529.shop
@@ -121199,6 +121224,7 @@
 +.pl-oferta6842051.shop
 +.pl-oferta6859469.shop
 +.pl-oferta6894958.com
++.pl-oferta6897617.icu
 +.pl-oferta7032999.shop
 +.pl-oferta7069474.shop
 +.pl-oferta7444108.com
@@ -124784,6 +124810,7 @@
 +.profincorp.com
 +.profiremgt.com
 +.profiremont.com.ua
++.profit-maximizerapp.com
 +.profit-phantom.net
 +.profit-revealed.com
 +.profit-spike-pro.net
@@ -131071,6 +131098,7 @@
 +.rattrabrad.pro
 +.rattrdisfa.pro
 +.ratty.hopto.org
++.rattynews.com
 +.ratujciemnie.pl
 +.ratunekdladzieci.pl
 +.rauceballo.pro
@@ -131641,6 +131669,7 @@
 +.realtime-logger.production-public.tubi.io
 +.realtime-profiling.datarize.ai
 +.realtime-receive-lp1.dg.srv.nintendo.net
++.realtime-software-scanner-immediate.autos
 +.realtimeanalytics.yext.com
 +.realtimebuzzalertupdate.click
 +.realtimebuzzbreakingalert.click
@@ -131885,7 +131914,10 @@
 +.recommended-twice.com
 +.recommendedblanket.com
 +.recommendedforyou.xyz
++.recommendedimmediateactionsession.autos
 +.recommendednewspapermyself.com
++.recommendedphonedetectedtrusted.autos
++.recommendedtrustedprotectionactivities.autos
 +.recompensaszurichsantander.com.mx
 +.recompensecombinedlooks.com
 +.recompensenumeriquebmo.com
@@ -133231,7 +133263,6 @@
 +.reputerepublic.com
 +.reputevortex.com
 +.repuvblica.it
-+.repvar.cl
 +.repybblica.it
 +.repyouroots.net
 +.reqde.sooplive.co.kr
@@ -137547,6 +137578,7 @@
 +.safejav12.fun
 +.safekapital.com
 +.safekro.com
++.safelightweight.autos
 +.safelinkconverter.com
 +.safelistextreme.com
 +.safelists.com
@@ -138949,6 +138981,8 @@
 +.scanmedios.com
 +.scanmycharts.com
 +.scannedoffice365documents.weebly.com
++.scanner-phone-issue-internet.autos
++.scanner-safe-proven-leak.autos
 +.scanner.ignorelist.com
 +.scannvatic.pro
 +.scanodoo.com
@@ -139667,6 +139701,7 @@
 +.sdefrtgfe.duckdns.org
 +.sdegnincip.pro
 +.sdegwynml.bmaci.me
++.sdfgew859a.shop
 +.sdfgsdf.cfd
 +.sdfj.4voxyj644p4e055.333fbcyp4f59n47mr4.com
 +.sdfjq.yt
@@ -140017,6 +140052,7 @@
 +.sec.opsecurity1.art
 +.sec.resource.xiaomi.net
 +.sec.video.qq.com
++.sec.vioesaetr.top
 +.sec4sbimyjapan.com
 +.sec82.com.pl
 +.secado.ojcowizna.eu
@@ -141083,6 +141119,7 @@
 +.sempresophia.com
 +.sempretemmais.com.br
 +.semqraso.net
++.semrush-alternative.com
 +.semsicou.net
 +.semvirus.pt
 +.semygruja.com
@@ -141978,6 +142015,7 @@
 +.serviceslnstagram.hstn.me
 +.serviceslnstagram.zya.me
 +.servicesmaid.com
++.servicesoftwaresecuredimmediate.autos
 +.servicesplansprime.com
 +.servicespostprime.com
 +.servicesssl.linkpc.net
@@ -148901,6 +148939,7 @@
 +.sq1.info
 +.sqairs.com
 +.sqcag.cn
++.sqd31q2sdq.transfer-rent.com
 +.sqdd.myapp.com
 +.sqdjorykqfqoc.icu
 +.sqjtygeh.com
@@ -149167,6 +149206,7 @@
 +.ssl-mtgstream.tns-cs.net
 +.ssl-services.com
 +.ssl.eroscomix.com
++.ssl.ftp21.cc
 +.ssl.login.skype.com.gohiding.com
 +.ssl.sinergycosmetics.com
 +.ssl.tokenvalidate.com
@@ -151137,6 +151177,7 @@
 +.steccavell.pro
 +.steccbusch.pro
 +.steccchiod.pro
++.stecmcommnnunlty.com
 +.stecmcommurnity.com
 +.stedallthrought.com
 +.steeamcommunlty.com
@@ -159051,6 +159092,7 @@
 +.tl.r7ls.net
 +.tl.tradetracker.net
 +.tl2go.com
++.tl406j.lat
 +.tl45l1t.top
 +.tla-auto.fr
 +.tlabs-za.com
@@ -162787,6 +162829,7 @@
 +.trusted-collector-bk.tmocce.com
 +.trusted-invest.com
 +.trusted-verification-service-m10-fc11.vercel.app
++.trusted-verified-security-protection.autos
 +.trusted-web-seal.cybertrust.ne.jp
 +.trustedadvice.pro
 +.trustedadviser.co.nz
@@ -162805,6 +162848,7 @@
 +.trustedsource.world
 +.trustedtablets.ru
 +.trustedtrade.org
++.trustedverifiedsecuritycover.autos
 +.trustedzone.info
 +.trusteecorporation.org
 +.trusteverything.de
@@ -175447,6 +175491,7 @@
 +.workconcept.ru
 +.workcontrolcenter.pages.dev
 +.workdisposition.com
++.workedonce.com
 +.workedqtam.com
 +.worker-morning-credit-d221.kosiv9212018.workers.dev
 +.worker-solitary-wave-1a0d.leknotutri.workers.dev
@@ -177069,6 +177114,7 @@
 +.xiaozhen.com
 +.xiaozuowen.net
 +.xiawndu.shop
++.xiaxe.top
 +.xiazai.cdren.com
 +.xiazai.xiaomi.com
 +.xiazai2.net
@@ -179219,6 +179265,7 @@
 +.ynwqls.com
 +.ynwshm.com
 +.ynxhsy.com
++.ynzal.com
 +.ynzhby.com
 +.yoads.net
 +.yoamoplaya.com
@@ -181163,7 +181210,6 @@
 +.zoetriumphshiloh.wixsite.com
 +.zofassou.com
 +.zofiabutik.com
-+.zofiadabrowski.com
 +.zofiamoda.com
 +.zofimoo.com
 +.zofmhx.icu
