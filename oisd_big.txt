@@ -1,9 +1,9 @@
-# Version: 202505310007
+# Version: 202505310207
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181287
-# Last modified: 2025-05-31T00:07:48+0000
+# Entries: 181302
+# Last modified: 2025-05-31T02:07:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -275,6 +275,7 @@
 +.07dy.cc
 +.07gmail.com
 +.07health.net
++.08000.info
 +.0800apo-shop.de
 +.0800aposhop.com
 +.08031fef00.com
@@ -5226,6 +5227,7 @@
 +.8r.czlw.ru
 +.8radc6a0m2.com
 +.8rf.com
++.8rn1y79f02-1.algolianet.com
 +.8s32e590un.com
 +.8s5s.com
 +.8se.biz
@@ -62185,6 +62187,7 @@
 +.fayettevillearcabinets.com
 +.fayettevillecabinets.org
 +.faylinn.net
++.faz41k5o12.click
 +.fazalengineering.com
 +.fazanaharahe10.top
 +.fazanppq.com
@@ -67801,6 +67804,7 @@
 +.galacticpiece.pro
 +.galacticpuff.pro
 +.galacticwarriorempire.com
++.galacticyessence.com
 +.galafassi.net
 +.galafassi.org
 +.galala.ru
@@ -75117,6 +75121,7 @@
 +.healthnasdaqfeature.com
 +.healthnaturalguide.com
 +.healthnet.azurefd.net
++.healthnewscaribbean.com
 +.healthnewsletters.org
 +.healthnutritia.com
 +.healthpoliciespro.com
@@ -84286,6 +84291,7 @@
 +.it-support-pt.weebly.com
 +.it-supportunt.weebly.com
 +.it.lincunabolo.com
++.it2pl1tt.top
 +.it4systems.com
 +.itaca.in
 +.itachi1232.github.io
@@ -91367,6 +91373,7 @@
 +.laurel.macrovision.com
 +.laurel.rovicorp.com
 +.laurelconsult.com
++.laurelstrong.com
 +.lauren9u.beget.tech
 +.laurendateme.com
 +.laurenkinde.com
@@ -91822,6 +91829,7 @@
 +.learnmagicnj.com
 +.learno.co.in
 +.learnpianowellesley.com
++.learnriz.com
 +.learnskillboosts.con-ip.com
 +.learntheways.us
 +.learntoopierce.com
@@ -93746,6 +93754,7 @@
 +.live-3rivers-fcu-101.web.app
 +.live-a-live.com
 +.live-advert.net
++.live-api.hktvmall.com
 +.live-app.cx
 +.live-auths-ledgers.webflow.io
 +.live-cams-1.livejasmin.com
@@ -94224,6 +94233,7 @@
 +.lnpost.paczkaweekend.sbs
 +.lnpost.paczkawponiedzialek.icu
 +.lnpost.paczkawponiedzialek.rest
++.lnpost.pobraniowapaczka928873.cfd
 +.lnpost.przesylkaonumerze828237.sbs
 +.lnpost.sprawdzpaczke24.click
 +.lnpost.sprawdzpaczke24.shop
@@ -99310,6 +99320,7 @@
 +.martaabellan.com
 +.martafatass.pro
 +.martallonch.com
++.martaoversetter.eu
 +.martectx.de
 +.marteeletronica.com
 +.marten.countertype.com
@@ -100597,6 +100608,7 @@
 +.medikalbitkisel.org
 +.medikaller.com
 +.medilink.ir
++.medinews24.pl
 +.medinses.ru
 +.medio.com
 +.mediocre-hire.pro
@@ -106550,6 +106562,7 @@
 +.mydirectfi.firebaseapp.com
 +.mydirectfi.web.app
 +.mydirtytinders.com
++.mydisney-dashboard.com
 +.mydisney-help.com
 +.mydisney.acsub.com
 +.mydisney.sub-update.com
@@ -112600,6 +112613,7 @@
 +.oferta-4577508.icu
 +.oferta-47735629.sale
 +.oferta-4941812.shop
++.oferta-501213234.sbs
 +.oferta-5219677.shop
 +.oferta-537373.shop
 +.oferta-5596917.shop
@@ -113393,6 +113407,7 @@
 +.oldharper.xyz
 +.oldiezone.com
 +.olditis.com
++.oldjack.pro
 +.oldmonero.net
 +.oldmud.com
 +.oldpay.online
@@ -117531,6 +117546,7 @@
 +.parkingcombstrawberry.com
 +.parkingindigo.fr
 +.parkingridiculous.com
++.parkinscranton.com
 +.parklanecasino.fr
 +.parkmp.com
 +.parkodkrywcow.pl
@@ -141523,6 +141539,7 @@
 +.servgate.me
 +.servh.net
 +.servhost.hopto.org
++.servibjulisteamworkspace.myclickfunnels.com
 +.servic-account.start.page
 +.servic-overhaul.start.page
 +.servic63.beget.tech
@@ -144453,7 +144470,6 @@
 +.six-coral-bar.glitch.me
 +.six.beautifulboca.info
 +.six.louisconjar.com
-+.sixa.galacticyessence.com
 +.sixapart.112.2o7.net
 +.sixauthority.com
 +.sixdays-classic.de
@@ -148763,7 +148779,6 @@
 +.srv233490.hoster-test.ru
 +.srv233937.hoster-test.ru
 +.srv234120.hoster-test.ru
-+.srv234282.hoster-test.ru
 +.srv35062473.ultasrv.net
 +.srv479834.weebly.com
 +.srv602.ddns.net
@@ -166823,6 +166838,7 @@
 +.v063.4029tv.com
 +.v066.wxii12.com
 +.v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
++.v0k81je4.click
 +.v0kgi0osnu7pw.life
 +.v0p0woy3f8ze7.life
 +.v1-ad.video.yximgs.com
@@ -169029,6 +169045,7 @@
 +.vinted-de.proceed-id.info
 +.vinted-dk.apfrdeb.shop
 +.vinted-es.73245.info
++.vinted-es.confirm-id104.icu
 +.vinted-es.get-74281.info
 +.vinted-es.service-get.info
 +.vinted-es.system-pays.com
@@ -177867,7 +177884,6 @@
 +.xunchn.com
 +.xunferdiner.weebly.com
 +.xunhuimg.35g.cn
-+.xuno.galacticyessence.com
 +.xunyangdianzi4.cn
 +.xuonginaz.com
 +.xupiter.com
@@ -180965,7 +180981,6 @@
 +.zqjklzajmmwq.top
 +.zqjljeyqbejrb.top
 +.zqkxlf.com
-+.zqmblmvomvzab.top
 +.zqq.qualityglobal.wiki
 +.zqraicojravzn.xyz
 +.zqvee2re50mr.com
