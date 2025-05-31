@@ -1,9 +1,9 @@
-# Version: 202505311914
+# Version: 202505312014
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21647
-# Last modified: 2025-05-31T19:14:36+0000
+# Entries: 21649
+# Last modified: 2025-05-31T20:14:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4181,6 +4181,7 @@
 +.desipornx.org
 +.desiporny.com
 +.desiprn.com
++.desipussy.in
 +.desiresxxx.com
 +.desirsetfantasmes.com
 +.desiscandals.net
@@ -6189,6 +6190,7 @@
 +.fsiblog.video
 +.fsiblog3.cc
 +.fsiblog3.club
++.fsiblogcom.com
 +.fsicomics.com
 +.ftf.live
 +.ftmplus.com
