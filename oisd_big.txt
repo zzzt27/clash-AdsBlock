@@ -1,9 +1,9 @@
-# Version: 202505311508
+# Version: 202505311610
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181652
-# Last modified: 2025-05-31T15:08:42+0000
+# Entries: 181653
+# Last modified: 2025-05-31T16:10:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -362,7 +362,6 @@
 +.0dm.de
 +.0dwm.icu
 +.0e0.jp.eu.org
-+.0e08114be8.disnnplus.click
 +.0e4256d4f1.com
 +.0eab70c429.a567dda4c2.com
 +.0eb1d4c35c.dis-my.eu
@@ -6511,6 +6510,7 @@
 +.aawdlvr.com
 +.aawwewew.hipstor.kz
 +.aax.amazon-adsystem.amazon.com
++.aax.amazon-adsystem.com
 +.aax6.com
 +.aaxads.com
 +.aazcio.cn
@@ -32524,6 +32524,7 @@
 +.c.adyield.co
 +.c.albss.com
 +.c.amazinglybrilliant.com.au
++.c.amazon-adsystem.com
 +.c.ar.msn.com
 +.c.at.msn.com
 +.c.autohome.com.cn
@@ -97678,6 +97679,8 @@
 +.madrtnjkmoulj.web.app
 +.mads-eu.amazon.com
 +.mads-fe.amazon.com
++.mads.amazon-adsystem.com
++.mads.amazon.com
 +.mads.dailymail.co.uk
 +.madsabs.com
 +.madsack-native.de
@@ -110711,7 +110714,6 @@
 +.noleather.com
 +.nolerpe.lxhelp.top
 +.nolika.top
-+.nolimeo.fr
 +.nolix.ru
 +.nolojo.com
 +.noltra.top
@@ -174710,7 +174712,6 @@
 +.winnerm8.com
 +.winners.in
 +.winnersolutions.net
-+.winnertrophy.world
 +.winnerzcasino.fr
 +.winnewcarok.live
 +.winnies-bikeservice.de
