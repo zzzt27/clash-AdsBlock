@@ -1,9 +1,9 @@
-# Version: 202505310312
+# Version: 202505310411
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21633
-# Last modified: 2025-05-31T03:12:26+0000
+# Entries: 21634
+# Last modified: 2025-05-31T04:11:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6181,6 +6181,7 @@
 +.fscache.com
 +.fsi-blog.in
 +.fsiblog.cc
++.fsiblog.city
 +.fsiblog.club
 +.fsiblog.co
 +.fsiblog.info
