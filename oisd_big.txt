@@ -1,9 +1,9 @@
-# Version: 202505310907
+# Version: 202505311007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181622
-# Last modified: 2025-05-31T09:07:54+0000
+# Entries: 181631
+# Last modified: 2025-05-31T10:07:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2661,7 +2661,6 @@
 +.32.sub-75-195-114.myvzw.com
 +.32.sub-75-219-44.myvzw.com
 +.3214r214r12412-50274.portmap.io
-+.32192.vip
 +.321kiwanis.com
 +.321naturelikefurfuroid.com
 +.3221dkf7m2.com
@@ -3413,6 +3412,7 @@
 +.4ffecd1ee4.com
 +.4fgsma.jik.thetreecentre.com
 +.4fk.net
++.4fpl.it.com
 +.4fs3r.icu
 +.4fudux.pulty.multiversemechanics.info
 +.4fwhtq.nt.nativetrees.co.uk
@@ -14971,6 +14971,7 @@
 +.allegrolokalnie.id978.pl
 +.allegrolokalnie.id982410.shop
 +.allegrolokalnie.index-8744.rest
++.allegrolokalnie.ioferty-0150292.sbs
 +.allegrolokalnie.ix48-7va-831-va9.click
 +.allegrolokalnie.kategore-dom-l-ogrod-892011.top
 +.allegrolokalnie.kategoria-narzedzia-budowlane-14.xyz
@@ -15214,6 +15215,7 @@
 +.allegrolokalnie.plss5ljjrltda29gjk.icu
 +.allegrolokalnie.plss5ljjrltda33gjk.icu
 +.allegrolokalnie.plss5ljjrltda34gjk.icu
++.allegrolokalnie.plss5ljjrltda59gjk.icu
 +.allegrolokalnie.polecane-dzis.shop
 +.allegrolokalnie.polecane-kategorie-inne.shop
 +.allegrolokalnie.polecany-sprzedawca.shop
@@ -27397,6 +27399,7 @@
 +.bientanlenze.com
 +.bienvenidomiami.com
 +.bienvenidoperezlora.kozow.com
++.bieotkdv.top
 +.bierkellerhotspotlounge.com
 +.bierlaube.de
 +.bietdoipokemonicefr.firebaseapp.com
@@ -58322,6 +58325,7 @@
 +.enledger-livedesktop-app.webflow.io
 +.enledgercom--start.webflow.io
 +.enlib2w9g8mze.x.pipedream.net
++.enlightenbrazil.com
 +.enlightencentury.com
 +.enlightenedstring.pro
 +.enlinea-bn-auth.weebly.com
@@ -69237,6 +69241,7 @@
 +.germlesslukewarmmold.com
 +.germoesist.pro
 +.geroikolip4.top
++.gerona-agromarket.com
 +.geroplmertunerd.weebly.com
 +.gershonconsulting.com
 +.gershop.com
@@ -103166,6 +103171,7 @@
 +.mircrosoft.fr
 +.miredindeedeisas.info
 +.mirepa.weebly.com
++.miretosy.top
 +.mirfakpersei.top
 +.mirflectgain.net
 +.mirflectgainapp.com
@@ -109016,6 +109022,7 @@
 +.new-access802.net
 +.new-assignment.weeblysite.com
 +.new-balance.fr
++.new-bgpost.icu
 +.new-bill.weeblysite.com
 +.new-bllog-i.com
 +.new-cracked-softwares.info
@@ -121247,6 +121254,7 @@
 +.pl-rezerwacja9112893.shop
 +.pl-store.ru
 +.pl-ticketmaster.shop
++.pl-topgame.top
 +.pl-trichomist-forte-lotion.visage-shops.com
 +.pl-vider.pl
 +.pl-vnu39rvn3.icu
@@ -121689,6 +121697,7 @@
 +.playtomic.com
 +.playtopuk.com
 +.playukinternet.com
++.playunicorn.com
 +.playverseonline.com
 +.playvideoclub.com
 +.playvideodirect.com
