@@ -1,9 +1,9 @@
-# Version: 202505302307
+# Version: 202505310007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181291
-# Last modified: 2025-05-30T23:07:52+0000
+# Entries: 181287
+# Last modified: 2025-05-31T00:07:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -39093,7 +39093,6 @@
 +.clifads.com
 +.cliffestablishedcrocodile.com
 +.cliffgown.com
-+.cliffhaven.online
 +.clifolink.online
 +.clikerz.net
 +.cliks.org
@@ -43824,7 +43823,6 @@
 +.cqaqwekgzvkek.tech
 +.cqc.ru
 +.cqcounter.com
-+.cqddf.top
 +.cqddswpwncsxrqfcdxffyvvetxjbdc.s3.us-west-1.amazonaws.com
 +.cqdma.com
 +.cqioixyp2z2u6f-pages-dev.translate.goog
@@ -93130,7 +93128,6 @@
 +.lighttarsier.pro
 +.lightthehedgehog.blogspot.com
 +.lighttody.pro
-+.lightweightshield.autos
 +.liglomsoltuwhax.net
 +.ligne-communication-orange.weblium.site
 +.ligne-orange4.godaddysites.com
@@ -137264,7 +137261,6 @@
 +.safeguard.click
 +.safeguard.how
 +.safeguardaccept.com
-+.safeguardlightweightproactive.autos
 +.safeguardtrackerconversionhub.vercel.app
 +.safeguardtravel.com
 +.safegurad.app
