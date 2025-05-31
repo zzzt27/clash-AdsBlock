@@ -1,9 +1,9 @@
-# Version: 202505310411
+# Version: 202505310527
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21634
-# Last modified: 2025-05-31T04:11:35+0000
+# Last modified: 2025-05-31T05:27:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11154,6 +11154,7 @@
 +.missav.live
 +.missav.one
 +.missav.plus
++.missav.uno
 +.missav.video
 +.missav.ws
 +.missav123.com
@@ -17463,7 +17464,6 @@
 +.sunporno.com
 +.suomiporno.net
 +.suomivids.com
-+.superacompanhantes.com
 +.superad.cc
 +.superchat.live
 +.superchat.online
