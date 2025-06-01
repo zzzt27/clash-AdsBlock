@@ -1,9 +1,9 @@
-# Version: 202506010810
+# Version: 202506010908
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42308
-# Last modified: 2025-06-01T08:10:43+0000
+# Entries: 42302
+# Last modified: 2025-06-01T09:08:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18219,7 +18219,6 @@
 +.gecko.withclarify.com
 +.gecl.xyz
 +.geejetag.com
-+.geejofeecher.top
 +.geek-nerd-server.firebaseapp.com
 +.geggeewrossle.com
 +.geghlyrecomemu.com
@@ -26491,7 +26490,6 @@
 +.nlrsrx.xyz
 +.nlytcs.idfnet.net
 +.nlztpmhcxyzwh.vip
-+.nlzyp.cn
 +.nmajjhzqyckro.icu
 +.nmanateex.top
 +.nmcdn.us
@@ -28600,7 +28598,6 @@
 +.perr.l-agent.me
 +.perr.l-err.biz
 +.perryvolleyball.com
-+.persecutenosypajamas.com
 +.persetoenail.com
 +.persistarcticthese.com
 +.persistsaid.com
@@ -29682,7 +29679,6 @@
 +.processpardon.com
 +.processsky.com
 +.proclean.club
-+.procuredsheet.com
 +.prod-analytics.royal.drmgms.com
 +.prod-collector.bigbasket.com
 +.prod-mhaa.mhtr.be
@@ -35473,7 +35469,6 @@
 +.strtgic.com
 +.strvvmpu.com
 +.stt.nimbusweb.me
-+.stt6.cfd
 +.stteeruptowind.com
 +.stthykerewasn.com
 +.stucktimeoutvexed.com
@@ -41605,7 +41600,6 @@
 +.xy33.smallable.com
 +.xycdn.com
 +.xygliwhawu.com
-+.xyjfulkiqiaolsr.com
 +.xylidichiatus.shop
 +.xylzwamxxshgw.click
 +.xytcboyz.icu
