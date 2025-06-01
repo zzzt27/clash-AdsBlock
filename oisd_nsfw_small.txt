@@ -1,9 +1,9 @@
-# Version: 202506011114
+# Version: 202506011314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21678
-# Last modified: 2025-06-01T11:14:11+0000
+# Entries: 21679
+# Last modified: 2025-06-01T13:14:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3779,6 +3779,7 @@
 +.craveu.ai
 +.cravingmilfs.com
 +.cravingwives.com
++.crazedns.ru
 +.crazedporn.com
 +.crazedsexy.com
 +.crazedxxx.com
@@ -7026,6 +7027,7 @@
 +.grand-casino.com
 +.grandmammamovies.com
 +.grandmasluts.com
++.grannarium.com
 +.grannflirten.com
 +.granniessex.net
 +.granniestomeet.com
@@ -12947,7 +12949,6 @@
 +.phatpussypics.com
 +.phe18.co
 +.phe18.vip
-+.pheclip.vip
 +.phevkl.fun
 +.phica.eu
 +.phil-flash.com
