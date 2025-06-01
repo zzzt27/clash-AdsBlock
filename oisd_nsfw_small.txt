@@ -1,9 +1,9 @@
-# Version: 202506011815
+# Version: 202506011914
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21683
-# Last modified: 2025-06-01T18:15:29+0000
+# Entries: 21684
+# Last modified: 2025-06-01T19:14:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15658,6 +15658,7 @@
 +.samusar.com
 +.sanedistram.com
 +.sangetods.net
++.sangetube.pw
 +.sangetube.shop
 +.sankaku.plus
 +.sankakucomplex.com
