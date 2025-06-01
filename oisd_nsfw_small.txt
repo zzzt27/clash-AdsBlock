@@ -1,9 +1,9 @@
-# Version: 202506010913
+# Version: 202506011013
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21679
-# Last modified: 2025-06-01T09:13:46+0000
+# Last modified: 2025-06-01T10:13:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11399,6 +11399,7 @@
 +.movs18plus.com
 +.movzer.com
 +.mozaka.com
++.mozakin.com
 +.mp4.center
 +.mp4hentai.com
 +.mp4porn.rip
@@ -18905,7 +18906,6 @@
 +.ukswingersparties.co.uk
 +.ulive.chat
 +.ulla.com
-+.ulluprime.com
 +.ulluuncut.in
 +.ulmf.org
 +.uloversdoll.com
