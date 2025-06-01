@@ -1,9 +1,9 @@
-# Version: 202506012008
+# Version: 202506012108
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42235
-# Last modified: 2025-06-01T20:08:45+0000
+# Entries: 42228
+# Last modified: 2025-06-01T21:08:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7082,7 +7082,6 @@
 +.awaps.yandex.net
 +.awaps.yandex.ru
 +.award.sitekeuring.net
-+.awardchirpingenunciate.com
 +.awarecatching.com
 +.awarenesstack.com
 +.awareunique.pro
@@ -9965,7 +9964,6 @@
 +.cdnvideo3.com
 +.cdnware.com
 +.cdnware.io
-+.cdnweb2analytics.com
 +.cdnweb3.pages.dev
 +.cdp.asia
 +.cdp.yna.co.kr
@@ -17328,7 +17326,6 @@
 +.fixozfzcu.com
 +.fixpass.net
 +.fixtapedam.live
-+.fizzysquirtbikes.com
 +.fjacrmtgm.com
 +.fjaqxtszakk.com
 +.fjikgr.dennmart.com
@@ -19232,7 +19229,6 @@
 +.gunft.com
 +.gunggo.com
 +.gunzblazingpromo.com
-+.guofbdtsgepvjh.com
 +.guppy.ausowned.com.au
 +.guppy.ironmic.fm
 +.guppy.omana.me
@@ -24054,7 +24050,6 @@
 +.luloffer.com
 +.lumaktoys.com
 +.luminosoocchio.com
-+.luminousstickswar.com
 +.lumnstoodthe.info
 +.lumpenscrcao.click
 +.lumpy-skirt.pro
@@ -26764,7 +26759,6 @@
 +.nurewsawaninc.info
 +.nurhagstackup.com
 +.nurobi.info
-+.nurserysurvivortogether.com
 +.nuseek.com
 +.nuskt.directory
 +.nut.cc
@@ -38795,7 +38789,6 @@
 +.upsloperoyalet.com
 +.upstairswellnewest.com
 +.upstats.yadro.ru
-+.upstirmutes.shop
 +.upsups.click
 +.uptafashib.com
 +.uptherefortowat.org
