@@ -1,9 +1,9 @@
-# Version: 202506011314
+# Version: 202506011414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21679
-# Last modified: 2025-06-01T13:14:57+0000
+# Last modified: 2025-06-01T14:14:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4069,6 +4069,7 @@
 +.deeper.com
 +.deepfades.com
 +.deepfake.com
++.deepfakeporn.app
 +.deepfakeporn.net
 +.deepfakeporn.to
 +.deepfaker.app
@@ -19479,7 +19480,6 @@
 +.voyeurzz.com
 +.voyeyrist.com
 +.voysex.ru
-+.vphimsexviet.com
 +.vpopke.com
 +.vporn.com
 +.vporn.fun
