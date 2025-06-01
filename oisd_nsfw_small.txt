@@ -1,9 +1,9 @@
-# Version: 202505312220
+# Version: 202506010012
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21650
-# Last modified: 2025-05-31T22:20:09+0000
+# Entries: 21652
+# Last modified: 2025-06-01T00:12:29+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3007,7 +3007,6 @@
 +.camdolls.com
 +.camdownload.net
 +.camdudes.com
-+.camentertain.com
 +.camera.com
 +.cameraboys.com
 +.cameraprive.com
@@ -9913,6 +9912,7 @@
 +.lauvette.ph
 +.lavaplace.com
 +.lavideodujourjetm.net
++.law.blog
 +.lazerdist.ru
 +.lbanez.net
 +.lbgasm.com
@@ -15607,6 +15607,8 @@
 +.safeboy.net
 +.saggytits.pics
 +.saggytitsporn.com
++.saint2.cr
++.saint2.su
 +.sakaryadabugun.com
 +.sakugabo.net
 +.sakuhentai.net

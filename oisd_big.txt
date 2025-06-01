@@ -1,9 +1,9 @@
-# Version: 202505312215
+# Version: 202506010007
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181733
-# Last modified: 2025-05-31T22:15:08+0000
+# Entries: 181736
+# Last modified: 2025-06-01T00:07:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7541,6 +7541,7 @@
 +.accountwow.net
 +.accpstf.yolasite.com
 +.accreditedquite.com
++.accreravvi.com
 +.accreteprocess.click
 +.accrevalen.pro
 +.accscdn.m.taobao.com
@@ -62132,6 +62133,7 @@
 +.fastmediaservice.com
 +.fastmediaz.com
 +.fastmor.com
++.fastmorkers.xyz
 +.fastnativead.com
 +.fastndio.s3.eu-central-1.amazonaws.com
 +.fastnewstoday.click
@@ -121192,6 +121194,7 @@
 +.pl-oferta4618665.top
 +.pl-oferta4759181.shop
 +.pl-oferta4759182.shop
++.pl-oferta4832671.icu
 +.pl-oferta5095356.shop
 +.pl-oferta5182631.shop
 +.pl-oferta5202863.shop
