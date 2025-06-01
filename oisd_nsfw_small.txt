@@ -1,9 +1,9 @@
-# Version: 202506012113
+# Version: 202506012213
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21685
-# Last modified: 2025-06-01T21:13:32+0000
+# Last modified: 2025-06-01T22:13:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2372,6 +2372,7 @@
 +.bignaturaltits.pics
 +.bignicetits.com
 +.bigo.tv
++.bigone.dating
 +.bigpenisguide.com
 +.bigporn.cc
 +.bigporn.com
@@ -13020,7 +13021,6 @@
 +.phimsextrungquoc.lol
 +.phimsextrungquoc.vip
 +.phimsextv.com
-+.phimsexvietnam.co
 +.phimsexvietnam24h.com
 +.phimsexvn123.net
 +.phimsexxsub.biz
