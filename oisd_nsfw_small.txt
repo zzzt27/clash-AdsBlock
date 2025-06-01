@@ -1,9 +1,9 @@
-# Version: 202506011414
+# Version: 202506011514
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21679
-# Last modified: 2025-06-01T14:14:34+0000
+# Entries: 21680
+# Last modified: 2025-06-01T15:14:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -21381,6 +21381,7 @@
 +.yiffspot.com
 +.yiffverse.com
 +.yihaporn.com
++.yildirimescortgo.xyz
 +.ymlporn.net
 +.ymlporn5.net
 +.ymlporn6.net
