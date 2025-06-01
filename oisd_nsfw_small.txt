@@ -1,9 +1,9 @@
-# Version: 202506011013
+# Version: 202506011114
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21679
-# Last modified: 2025-06-01T10:13:53+0000
+# Entries: 21678
+# Last modified: 2025-06-01T11:14:11+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18486,7 +18486,6 @@
 +.travchat.fr
 +.travestichat.fr
 +.travesticomlocal.com.br
-+.travestiscaba.com
 +.travestismexico.com
 +.traxvideos.com
 +.traxvideos2.com
