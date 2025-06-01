@@ -1,9 +1,9 @@
-# Version: 202506010412
+# Version: 202506010513
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21671
-# Last modified: 2025-06-01T04:12:52+0000
+# Last modified: 2025-06-01T05:13:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3302,6 +3302,7 @@
 +.celibest.com
 +.celibook.com
 +.cemiocw.com
++.centerblog.net
 +.centerfold.com
 +.centoxcento.net
 +.centoxcento.social
@@ -10868,6 +10869,7 @@
 +.meanworld.com
 +.meatspin.com
 +.meatyhunks.com
++.mecidiyekoymarka.com
 +.mecoporn.com
 +.mediapemersatubangsa.com
 +.mediavoice.com
@@ -16657,7 +16659,6 @@
 +.sexx-tube.com
 +.sexxarabx.com
 +.sexxcup.com
-+.sexxhanquoc.pro
 +.sexxmilf.com
 +.sexxmy.pro
 +.sexxprm.me
@@ -16673,7 +16674,6 @@
 +.sexxxhay.com
 +.sexxxhd.com
 +.sexxxlife.com
-+.sexxxmsk.com
 +.sexxxmurmansk.life
 +.sexxxnhatban.com
 +.sexxxnsk.one
