@@ -1,9 +1,9 @@
-# Version: 202506020609
+# Version: 202506020813
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42206
-# Last modified: 2025-06-02T06:09:30+0000
+# Entries: 42195
+# Last modified: 2025-06-02T08:13:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -310,7 +310,6 @@
 +.17180d187e.com
 +.17199874.xyz
 +.171c856581.com
-+.1721553824.rsc.cdn77.org
 +.1736253261.rsc.cdn77.org
 +.173726e958.com
 +.176edb63a6.1a9d1ca12a.com
@@ -10359,7 +10358,6 @@
 +.cigar.pt
 +.cigarette-online.com
 +.cigfhaztaqu.com
-+.cigoadrouz.com
 +.ciiecknd.com
 +.ciizxsdr.com
 +.cijoorsairgusa.com
@@ -16017,7 +16015,6 @@
 +.epersaonwhois.com
 +.eph-adsjutarnji.cdn.sysbee.net
 +.ephebedori.life
-+.ephraimguntub.com
 +.epicalyx3452.fun
 +.epicclicks.net
 +.epicgameads.com
@@ -19089,7 +19086,6 @@
 +.grskayynfqwfe.space
 +.grt02.com
 +.grtexch.com
-+.grubsnuchale.com
 +.grudgewallet.com
 +.gruesome1x.xyz
 +.gruffsleighrebellion.com
@@ -19612,7 +19608,6 @@
 +.heardaccumulatebeans.com
 +.heardsoppy.com
 +.heartachegrabbedlaunching.com
-+.heartbeat.crackle.com
 +.heartbeat.pmd.444.hu
 +.heartbeats.prd.data.s.joyn.de
 +.heartbreakslotserpent.com
@@ -20695,7 +20690,6 @@
 +.iloptrex.com
 +.ilovemakingpics.com
 +.ilovemobi.com
-+.iluemvh.com
 +.ilumtoux.net
 +.ilvnkzt.com
 +.ilxhsgd.com
@@ -21319,7 +21313,6 @@
 +.isatisodalisk.shop
 +.isatonabench.com
 +.isawthenews.com
-+.isbcynskb.com
 +.isbnrs.com
 +.isboost.co.jp
 +.isbycgqyhsze.world
@@ -35521,7 +35514,6 @@
 +.superclix.de
 +.superfastcdn.com
 +.superficial-work.com
-+.superfluousexecutivefinch.com
 +.superfolder.net
 +.superggood.com
 +.superiorickyfreshen.com
@@ -36168,7 +36160,6 @@
 +.tastemynews.com
 +.tastiesfoods.com
 +.tatersbilobed.com
-+.tatgcqzkiolgg.com
 +.tationalhedgelnha.com
 +.tationseleauks.com
 +.tatrack.thinkyeah.com
@@ -38619,7 +38610,6 @@
 +.unkinpigsty.com
 +.unl1zvy2zuyn.franchiseplus.nl
 +.unleanmyrrhs.shop
-+.unlikelymoscow.com
 +.unloadeasier.com
 +.unlockads.com
 +.unlockcontent.org
@@ -39891,7 +39881,6 @@
 +.wcuxkyjwndqxj.top
 +.wcwijbtqgajxf.global
 +.wdcwmeklhgnfc.xyz
-+.wdhufqjt.com
 +.wdibwgllvzies.love
 +.wdig.vo.llnwd.net
 +.wdohhlagnjzi.com
