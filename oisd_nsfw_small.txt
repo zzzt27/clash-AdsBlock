@@ -1,9 +1,9 @@
-# Version: 202506020013
+# Version: 202506020213
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21687
-# Last modified: 2025-06-02T00:13:02+0000
+# Entries: 21688
+# Last modified: 2025-06-02T02:13:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4408,6 +4408,7 @@
 +.doeda.com
 +.doeda.one
 +.doeda.video
++.doeingit.com
 +.dofantasy.com
 +.dofap.com
 +.dogcumshot.net

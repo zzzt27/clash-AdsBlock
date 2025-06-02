@@ -1,9 +1,9 @@
-# Version: 202506020007
+# Version: 202506020208
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181032
-# Last modified: 2025-06-02T00:07:46+0000
+# Entries: 180973
+# Last modified: 2025-06-02T02:08:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2467,6 +2467,7 @@
 +.2motor.ru
 +.2mouses.com
 +.2msl.com
++.2msma0.lat
 +.2mycomputer.com
 +.2mydns.net
 +.2n2qlh5hqcwrvo.net
@@ -3922,7 +3923,6 @@
 +.56.sub-70-223-218.myvzw.com
 +.5603.net
 +.5616799786.sbs
-+.5623.web-stats.org
 +.562i7aqkxu.com
 +.562z75s3bp.click
 +.563639804d.13e63e2dea.com
@@ -5624,7 +5624,6 @@
 +.9wad.com
 +.9wee.com
 +.9x4yujhb0.com
-+.9x9o.com
 +.9xckerswa-faceb0ok.emochila.com
 +.9xeqynu3gt7c.com
 +.9xj3uo.pulty.multiversemechanics.info
@@ -7510,7 +7509,6 @@
 +.accountsettingnew-supportcenter-verifypages.pages.dev
 +.accountsettingup.weebly.com
 +.accountsfacebok.start.page
-+.accountsguru.info
 +.accountshierarchyprice.com
 +.accountsinsight.com
 +.accountsintuitappsigninappgroupqboassetaliasintuitaccounting.square.site
@@ -13055,7 +13053,6 @@
 +.afvahmqacjc.com
 +.afwaz.com
 +.afwe72332.weebly.com
-+.afxjwyg.com
 +.afxn1.weblium.site
 +.afy.agency
 +.afy11.net
@@ -14948,7 +14945,6 @@
 +.allegrolokalnie.ix48-7va-831-va9.click
 +.allegrolokalnie.ixyc038c56-39c7b.xyz
 +.allegrolokalnie.kategore-dom-l-ogrod-892011.top
-+.allegrolokalnie.kategoria-narzedzia-budowlane-14.xyz
 +.allegrolokalnie.kategoria-ogrodowe-szklarnie-2462.top
 +.allegrolokalnie.kategoria-ogrodowe-wszystko-143.top
 +.allegrolokalnie.kategoria-wyprzedaz-rozne-2.sbs
@@ -16469,7 +16465,6 @@
 +.amyloses.com
 +.amylriteale.pro
 +.amylsturkdom.com
-+.amynx.com
 +.amyserves.com
 +.amyu.org
 +.amz-dropshipping.com
@@ -18603,7 +18598,6 @@
 +.apimwebapp1engv1jdwqwny9e3.scm.p.azurewebsites.net
 +.apinas.nct.vn
 +.apinchcab.life
-+.apioeks.icu
 +.apioeses.icu
 +.apiphframm.pro
 +.apipub.oumma.com
@@ -19394,7 +19388,6 @@
 +.approved-shooting.gl.at.ply.gg
 +.approved-versus.gl.at.ply.gg
 +.approved.website
-+.approvedautoinsurance.com
 +.approvedlinks.com
 +.approvelongestrepel.com
 +.approvisionnement-lbc.fr
@@ -19680,7 +19673,6 @@
 +.arab-crack.com
 +.arab-tbamange.com
 +.arabcuff.com
-+.arabianshiba.com
 +.arabiasystems.bubaglobal.com
 +.arabicfoodexpress.com
 +.arabichereandnow.com
@@ -23401,7 +23393,6 @@
 +.awknrdy.handipants.com
 +.awkos.com
 +.awkwardemergency.com
-+.awkwardsuperstition.com
 +.awlaxvnpyf.com
 +.awldcupu.com
 +.awley.com
@@ -24062,7 +24053,6 @@
 +.backstrasc.pro
 +.backtension.com
 +.backup-authkey-refresh-encrypted-token-soulation-storage.codeanyapp.com
-+.backup-info.space
 +.backup.awarfaregaming.com
 +.backup212.duckdns.org
 +.backup419.duckdns.org
@@ -32954,7 +32944,6 @@
 +.caickricoc.pro
 +.caicme.xyz
 +.caicshop.com
-+.caidume1368.ddns.net
 +.caigoastito.com
 +.caihongxuan.com
 +.caimancafe.com
@@ -33517,7 +33506,6 @@
 +.canossa.ac.tz
 +.canottowa.112.2o7.net
 +.canroyastrol.click
-+.canshivaminc.com
 +.canshowcase.112.2o7.net
 +.canstrm.com
 +.cantact.chat
@@ -35404,7 +35392,6 @@
 +.cedarfrost.site
 +.cedarips.com.co
 +.cedarlake.org
-+.cedarloom.site
 +.cedarrapidscabinets.com
 +.cedarstream.online
 +.cedartreegroup.com
@@ -37794,7 +37781,6 @@
 +.chuongtrinhgionghaatvietnhii2021.weebly.com
 +.chuongtrinhgionghatvietnamnhi2021.weebly.com
 +.chuopayzo.blogspot.com
-+.chupacabraestavivo.duckdns.org
 +.chupl.icu
 +.church-converted.gl.at.ply.gg
 +.churcheventmarketing.com
@@ -44058,7 +44044,6 @@
 +.creativesparkz.co.in
 +.creativeteam.it
 +.creativeturtles.in
-+.creativewebnet.com
 +.creativezone.pro
 +.creativhelp.de
 +.creativisensibili.it
@@ -44427,7 +44412,6 @@
 +.crouchingstallion.pro
 +.crouchingtrogon.pro
 +.crouchingvulture.pro
-+.crouchyearbook.com
 +.croupepenitis.shop
 +.croupsdorsals.top
 +.crousmontpellier.fr
@@ -47599,7 +47583,6 @@
 +.daisyglobal.com
 +.daisywink.pro
 +.daithangloi.com
-+.daivxppvng.com
 +.daiwashoken.112.2o7.net
 +.daiyxtaki.firebaseapp.com
 +.daiyxtaki.web.app
@@ -53666,6 +53649,7 @@
 +.dpd-pomoc.nasneeq.com
 +.dpd-projekt.fadnas.com
 +.dpd-projekt.pykczx.com
++.dpd-projekt.qkdgh.com
 +.dpd-projekt.zfgyzz.com
 +.dpd-prosic.cyfyyck.com
 +.dpd-prosic.eqspark.com
@@ -62676,7 +62660,6 @@
 +.festeinsol.pro
 +.festerbutor.hu
 +.festfive.online
-+.festibalazos.com
 +.festinecourses.shop
 +.festival-five-teal.vercel.app
 +.festivaldescons.fr
@@ -63869,7 +63852,6 @@
 +.firsthorizonswiss.com
 +.firsthotelplanetstaden.world
 +.firstimpression.io
-+.firstleak.com
 +.firstlightera.com
 +.firstline.cc
 +.firstload.de
@@ -64707,7 +64689,6 @@
 +.fm3cafe.hu
 +.fm6w.com
 +.fmads.osdn.com
-+.fmanslaq9t1.duckdns.org
 +.fmaservicios.com.ar
 +.fmasters.io
 +.fmbnc-acctservices.firebaseapp.com
@@ -66910,7 +66891,6 @@
 +.fundingzone.info
 +.fundivision.com.au
 +.fundlink.icu
-+.fundoralaba.com
 +.fundpass.icu
 +.fundraisingwithskyhigh.com
 +.fundrescuetech.com
@@ -69290,7 +69270,6 @@
 +.getui.com
 +.getupmodx.digital
 +.getuptodate.komi.io
-+.getuwebsite.com
 +.getvbucks.xyz
 +.getverino.top
 +.getvideochatbot.com
@@ -76700,7 +76679,6 @@
 +.hnssyhbkj.com
 +.hntengyi.com
 +.hntldgk.com
-+.hntymg.com
 +.hnygjirnnakja.one
 +.hnyny.com
 +.hnzmg8.com
@@ -78687,7 +78665,6 @@
 +.hydrangeao.com
 +.hydraruzdspnew4ag.com
 +.hydrat48.duckdns.org
-+.hydrationessentials.com
 +.hydraulicpowerpack.com
 +.hydrecsatered.pro
 +.hydro-ma-proxy.akamaized.net
@@ -79557,7 +79534,6 @@
 +.identitymarrket.com
 +.identityprotector.co
 +.identitypxl.app
-+.identitypxl.com
 +.identityrudimentarymessenger.com
 +.identityupdate-pagescenter.com
 +.identityupdatecenter.com
@@ -81765,7 +81741,6 @@
 +.infoburst.cfd
 +.infoburstdaily.com
 +.infocab888.life
-+.infocast.info
 +.infocenter.meizu.com
 +.infocentroidtech.com
 +.infochangement.fr
@@ -82299,7 +82274,6 @@
 +.inpost-pl.opelakzna.cfd
 +.inpost-pl.pl-conformation58.shop
 +.inpost-pl.tyahznen.sbs
-+.inpost-plshop.top
 +.inpost-trackingsk.vip
 +.inpost.4738833.click
 +.inpost.dielekobd.sbs
@@ -82360,7 +82334,6 @@
 +.inpostpl.bond
 +.inpostpl.life
 +.inpostplll.vip
-+.inpostsss.top
 +.inpostt.xyz
 +.inpostxua.top
 +.inppsyat.top
@@ -85200,7 +85173,6 @@
 +.jebkhata.com
 +.jebrhb.icu
 +.jebul.info
-+.jebyjyi.icu
 +.jecherchedieu.fr
 +.jecomms.com
 +.jecromaha.info
@@ -88793,7 +88765,6 @@
 +.kixfuvmhibuk.com
 +.kiyara-beauty.com
 +.kiyarabeauty.com
-+.kiyaralapeau.com
 +.kiynew.com
 +.kiyo.ooo
 +.kiyucoinlxogin.webflow.io
@@ -90151,7 +90122,6 @@
 +.kvona.com
 +.kvozsayiewspf.rocks
 +.kvsadman.com
-+.kvsdf11.top
 +.kvskvnv.com
 +.kvtgl4who.com
 +.kvum-bpelzw.icu
@@ -95811,7 +95781,6 @@
 +.loveju.net
 +.lovelgripp.pro
 +.loveling.info
-+.lovelove-on-line.site
 +.lovelove2.net
 +.lovelovekore.com
 +.lovely-lovely.com
@@ -99426,7 +99395,6 @@
 +.matenom.com
 +.matenzekinagnal.firebaseapp.com
 +.matenzekinagnal.web.app
-+.mateolah.com
 +.materdunst.com
 +.materiaali.stailaus.fi
 +.material-my.gl.at.ply.gg
@@ -103454,7 +103422,6 @@
 +.mnxtu.com
 +.mo-gov.cloud
 +.mo-goveba.win
-+.mo-govecd.win
 +.mo-govjwe.win
 +.mo-govkjv.win
 +.mo-govomf.win
@@ -106504,7 +106471,6 @@
 +.myhealthabout.com
 +.myhealthdiet.com
 +.myhealthmeds.com
-+.myhealthoneplace.com
 +.myheartbuild.com
 +.myhelpfuldownloads.com
 +.myhemorrhoidtreatment.com
@@ -109268,7 +109234,6 @@
 +.nexmisttradeai.net
 +.nexoenlinea.x10.bz
 +.nexonixprofit.net
-+.nexopedia.info
 +.nexoracheat.com
 +.nexorledger.com
 +.nexorledger.net
@@ -110037,7 +110002,6 @@
 +.nl-nl.faceboek.com
 +.nl-perf-werk.de
 +.nl-rcd.iqiyi.com
-+.nl-stores.com
 +.nl-template-bakker-1732135598597.onepage.website
 +.nl-template-bloemist-17316667085316.onepage.website
 +.nl-ventures.com
@@ -112438,6 +112402,7 @@
 +.oferta-1576868.shop
 +.oferta-163959.shop
 +.oferta-1894361.shop
++.oferta-2021922.pl
 +.oferta-202822.sbs
 +.oferta-21789.shop
 +.oferta-2381959.shop
@@ -113077,7 +113042,6 @@
 +.ok202088.com
 +.ok365.com
 +.ok88okg.infinityscans.net
-+.oka7iz.lat
 +.okai.work
 +.okaidsotsah.com
 +.okaka.duckdns.org
@@ -113374,6 +113338,7 @@
 +.olx-pl.niakzlo.cfd
 +.olx-pl.omernivk.cfd
 +.olx-pl.pl-conformation13.shop
++.olx-pl.pl-conformation77.shop
 +.olx-pl.ponzukai.cfd
 +.olx-pl.stywapol.cfd
 +.olx-pl.tfaznikalo.cfd
@@ -116055,7 +116020,6 @@
 +.ovwhukdwo.com
 +.ovyyszfod.fun
 +.ovz.abhik.net
-+.ow.lyzyf.ru
 +.ow.s1.shuhuangge.org
 +.ow.s2.shuhuangge.org
 +.ow0493040343.firebaseapp.com
@@ -118736,7 +118700,6 @@
 +.pensijotchy.com
 +.pension-fohlenhof.de
 +.pension-helene.cz
-+.pensionboarding.com
 +.pensionhotel.cz
 +.pensionhotel.de
 +.pensionportalsantaarrivacheckin.com
@@ -120861,6 +120824,7 @@
 +.pl-oferta9338303.sbs
 +.pl-oferta9378696.shop
 +.pl-oferta941274.rest
++.pl-oferta947262.top
 +.pl-oferta9528675.shop
 +.pl-oferta9573722.shop
 +.pl-oferta9813475.cfd
@@ -120877,6 +120841,7 @@
 +.pl-ogloszenia78517.shop
 +.pl-ogloszenie-921830.rest
 +.pl-ogloszenie-952019.rest
++.pl-ogloszenie-firmowe-91230.icu
 +.pl-ogloszenie-firmowe-92149.shop
 +.pl-ogloszenie2562.shop
 +.pl-ogloszenie542364.live
@@ -121023,7 +120988,6 @@
 +.placidperson.com
 +.placingharassment.com
 +.placoganoidean.com
-+.pladdress.icu
 +.plagesvuot.pro
 +.plagiprima.pro
 +.plagiracca.pro
@@ -122738,7 +122702,6 @@
 +.portalolhe.com
 +.portalrandkowy.c.pl
 +.portalsphere.free.fr
-+.portaltelehealth.com
 +.portalverificacionbp.azurewebsites.net
 +.portalvivoligado.com.br
 +.portarumma.pro
@@ -127878,7 +127841,6 @@
 +.pundix.eu
 +.pundr.esexa.online
 +.pundr.shemrec.cc
-+.pungar85.shop
 +.pungentobservationwhispering.com
 +.pungepropo.pro
 +.pungosfebb.pro
@@ -128463,7 +128425,6 @@
 +.q35.nwnrd.cn
 +.q36.cn
 +.q511.wpbf.com
-+.q5n3xi.cc
 +.q5sn40kmp2.com
 +.q5x.ru
 +.q6idnawboy7g.com
@@ -129634,7 +129595,6 @@
 +.qwlpert.com
 +.qwmsz.yt
 +.qwoaq.yt
-+.qwoyfys.com
 +.qwpsgqyzrzcr.life
 +.qwqnvhnqepymjaduaxih.com
 +.qwqoo.com
@@ -130146,7 +130106,6 @@
 +.ragapa.com
 +.ragebotnet.duckdns.org
 +.rageoffshore.com
-+.raggabyroots.com
 +.raggedbijou.com
 +.raggedstriking.com
 +.raggerdough.com
@@ -133263,7 +133222,6 @@
 +.revelationschemes.com
 +.revelco.co.za
 +.revelurina.pro
-+.revengeremarksrank.com
 +.revengine-tracker.remp.dailymaverick.co.za
 +.revenue.com
 +.revenue.net
@@ -135074,7 +135032,6 @@
 +.rookinews.com
 +.rooksreused.website
 +.rookstashrif.shop
-+.roolegoos.top
 +.room-doors.ru
 +.room2021.net
 +.roomadditionplans.com
@@ -137366,7 +137323,6 @@
 +.salomonchaussuress.fr
 +.salomonoutletstoresusa.com
 +.salomonpascher2017.fr
-+.salomonsiteofficiel.fr
 +.salon-ezhik.ru
 +.salon-gabriela.pl
 +.salon-nv.store
@@ -138293,7 +138249,6 @@
 +.sbisec-co-jp-vlhhscbsgmiwgaanvcwqhifumpluiqdjthlm.myvsf.asia
 +.sbisec-co-jp-xnnznhtgqkjnkeafnvlvuotmfkqbbqjgzoce.xztmzw.asia
 +.sbisec-co-jp-xwdtdzoywstatrearrxvozlstpgdjokfecvr.ufxb.asia
-+.sbisec-co-jp-ytdfbeootnqyrwusbubryostuouppzaajakw.kwhpgs.asia
 +.sbisec-co.3jrpb.com
 +.sbisec-co.yu8cy.com
 +.sbisec-gvc.top
@@ -138325,7 +138280,6 @@
 +.sbisec3-co-jp-zqftnwkeuoxcaofhvbfkwgyzjeaycainw.mkgwrs.asia
 +.sbjr.com
 +.sbl-hershvan.com
-+.sbl-info.sbimnc.shop
 +.sbl-securitea.com
 +.sblhp.com
 +.sblsec-axineao.com
@@ -145582,7 +145536,6 @@
 +.smgroup-kundendienst.de
 +.smgtc.com
 +.smi-engineering.com
-+.smiar.ru
 +.smibs.112.2o7.net
 +.smichovbike.cz
 +.smidotribu.pro
@@ -148883,9 +148836,11 @@
 +.st1.bhol.co.il
 +.st1.hit.gemius.pl
 +.st123.info
++.st1ttpl1t.top
 +.st2pl1.top
 +.st2z3e.blogspot.tw
 +.st5.surf-town.net
++.st7ll1t3.top
 +.sta.ganji.com
 +.sta.haloall.com
 +.sta.play.ifeng.com
@@ -149101,7 +149056,6 @@
 +.starbase.pro
 +.starbase.tech
 +.starblog.org
-+.starbreeze.online
 +.starbutter.com
 +.starcasino1.fr
 +.starcleaningservice.com.au
@@ -151361,7 +151315,6 @@
 +.streamcommunity.ru
 +.streamcomunitly.com
 +.streamereasy.click
-+.streamfact.info
 +.streamform.online
 +.streamfullmoviehd.com
 +.streamfy.net
@@ -151801,7 +151754,6 @@
 +.subeihm.com
 +.suberdisob.pro
 +.suberste.weebly.com
-+.subeseeds.com
 +.subetchapt.pro
 +.subfrontier.duckdns.org
 +.subfun.uiiumovie.fun
@@ -152499,7 +152451,6 @@
 +.superiorityroundinhale.com
 +.superiorsurfacings.com
 +.superiortradingsa.com
-+.superjj.online
 +.superlativegland.com
 +.superleetty.weebly.com
 +.superlinescasino.fr
@@ -154108,7 +154059,6 @@
 +.t1a.jp
 +.t1amo.jp
 +.t1fkp6.lat
-+.t1pl.lat
 +.t2.a.market.xiaomi.com
 +.t2.hulu.com
 +.t2.huluim.com
@@ -157540,7 +157490,6 @@
 +.thirdads.me
 +.thirdgas.com
 +.thirdmethod.com
-+.thirdpreferred.com
 +.thirdrespect.com
 +.thirsty-curran.85-215-173-244.plesk.page
 +.thirsty-one.netlify.app
@@ -162364,7 +162313,6 @@
 +.ts28ll0tk23t2n9pl0n327.xyz
 +.ts6.net
 +.ts61.duckdns.org
-+.ts9.cc
 +.tsadvisors.com
 +.tsapphires.buzz
 +.tsapphiresand.info
@@ -162658,7 +162606,6 @@
 +.tukj.net
 +.tukvtuasw.com
 +.tula831.top
-+.tulapribor.ru
 +.tulclqxikva.icu
 +.tuld.ru
 +.tulibroen3dias.com
@@ -162837,7 +162784,6 @@
 +.turnstileunavailablesite.com
 +.turntableslab.com
 +.turpesuppo.pro
-+.turquiaviagem.com
 +.turquoise-lucina-37.tiiny.site
 +.turquoisetody.pro
 +.turrisfortis.com
@@ -165269,7 +165215,6 @@
 +.updatesfeedchange.com
 +.updatesonlinebestnews.com
 +.updatestream.live
-+.updatesunshinepane.com
 +.updateswissmailorgg.weebly.com
 +.updatesync.com
 +.updateu84.weebly.com
@@ -172910,7 +172855,6 @@
 +.werwolf.altervista.org
 +.werxwer.pl
 +.weryfikacjakontapoczty.top
-+.weryfikacjakonto.top
 +.weryvai4.pro
 +.wes8.com
 +.wesdiomplayrut.weebly.com
@@ -177284,7 +177228,6 @@
 +.xn--monespace-info-rgularisation-qrc.fr
 +.xn--monkitrentre-leb.fr
 +.xn--msccroisire-69a.fr
-+.xn--mssant-gva.fr
 +.xn--mta-phone-b4a.fr
 +.xn--mtorama-byab.fr
 +.xn--mts60is5y5uk.com
@@ -177465,7 +177408,6 @@
 +.xpertase1.firebaseapp.com
 +.xpertase1.web.app
 +.xpertiseservices.com
-+.xpfsmgxc.com
 +.xpj08.oss-cn-beijing.aliyuncs.com
 +.xpjcg.oss-accelerate.aliyuncs.com
 +.xplbxx.icu
@@ -177518,7 +177460,6 @@
 +.xravengames.com
 +.xray.mail.ru
 +.xraystaples.com
-+.xrehxiuglsxrrxh.com
 +.xrenovate.com
 +.xrkhmmciufag-10d3d68.ingress-bonde.ewp.live
 +.xrmsuite.com
