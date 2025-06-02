@@ -1,9 +1,9 @@
-# Version: 202506020615
+# Version: 202506020818
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21690
-# Last modified: 2025-06-02T06:15:05+0000
+# Entries: 21692
+# Last modified: 2025-06-02T08:18:58+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3857,6 +3857,7 @@
 +.cuddlecompanions.org
 +.cuecaporno.xxx
 +.cuentarelatos.com
++.cuentorelatos.com
 +.cukilanyok.hu
 +.culonas.best
 +.culonastetonas.com
@@ -11747,6 +11748,7 @@
 +.mzporn.com
 +.mztesto.com
 +.n1internet.com
++.n3.net
 +.naaktkrant.nl
 +.nacionalporno.com
 +.nacknaija.com
