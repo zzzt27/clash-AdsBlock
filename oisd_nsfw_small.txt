@@ -1,9 +1,9 @@
-# Version: 202506020312
+# Version: 202506020412
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21689
-# Last modified: 2025-06-02T03:12:39+0000
+# Entries: 21688
+# Last modified: 2025-06-02T04:12:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6737,6 +6737,7 @@
 +.getdare.com
 +.getfleshy.com
 +.getflixxx.com
++.gethotporn.net
 +.getindiansex.cc
 +.getiton.com
 +.getlivesex.com
@@ -10559,7 +10560,6 @@
 +.mamaisinok.com
 +.mamapornovideo.org
 +.mamapornovideo.top
-+.mamashki.vip
 +.mamba-games.com
 +.mamefutute.com
 +.mammetroie.org
@@ -12484,7 +12484,6 @@
 +.olo.cool
 +.olp.xyz
 +.olympine.com
-+.omahbokep.me
 +.omaporno.pics
 +.omasex.com
 +.omasex.tv
