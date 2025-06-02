@@ -1,9 +1,9 @@
-# Version: 202506022117
+# Version: 202506022222
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21711
-# Last modified: 2025-06-02T21:17:50+0000
+# Entries: 21712
+# Last modified: 2025-06-02T22:22:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19701,6 +19701,7 @@
 +.webstarterz.com
 +.webtoon.xyz
 +.webtoonscan.com
++.webwave.dev
 +.webxmaza.com
 +.webxsites.com.br
 +.webzmegz.com
