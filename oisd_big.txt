@@ -1,9 +1,9 @@
-# Version: 202506020208
+# Version: 202506020307
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180973
-# Last modified: 2025-06-02T02:08:04+0000
+# Entries: 180918
+# Last modified: 2025-06-02T03:07:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3079,7 +3079,6 @@
 +.4-equip.com
 +.4-health.us
 +.4-links.net
-+.4-slovo.ru
 +.4-travel.mystrikingly.com
 +.4.dlevo.com
 +.4.e-why.net
@@ -13250,7 +13249,6 @@
 +.agmtrk.com
 +.agn.aty.snmsohu.aisee.tv
 +.agnateswhummle.shop
-+.agnes-ruaux.com
 +.agnqolfmjebpk.icu
 +.agnr8.l68z.workers.dev
 +.agnvbmaus.112.2o7.net
@@ -14982,7 +14980,6 @@
 +.allegrolokalnie.oferta-84752.cfd
 +.allegrolokalnie.oferta-8593402.icu
 +.allegrolokalnie.oferta-86024.cfd
-+.allegrolokalnie.oferta-86491.cfd
 +.allegrolokalnie.oferta-87529.cfd
 +.allegrolokalnie.oferta136564.world
 +.allegrolokalnie.oferta192102.icu
@@ -22987,7 +22984,6 @@
 +.autoridadpc.com
 +.autoridadweb.com
 +.autoriqueza.com
-+.autos.duckdns.org
 +.autosalon1.ru
 +.autosaurea.pro
 +.autoscaut24.fr
@@ -23201,7 +23197,6 @@
 +.avoadsservices.com
 +.avocasino.fr
 +.avocatafangbedji.com
-+.avocatcapitanumagdalena.com
 +.avocet.io
 +.avoda-mehabait.co.il
 +.avodart2017.us.com
@@ -24497,7 +24492,6 @@
 +.ballaratintegratedhealth.com.au
 +.ballaratpainters.com
 +.ballasttheir.com
-+.balldomohone.com
 +.ballesia.com
 +.balletdancer.ru
 +.balletstudiobogota.com
@@ -25926,7 +25920,6 @@
 +.become-winners.gl.at.ply.gg
 +.becomeapartner.io
 +.becomefriendswithshedletsky.weebly.com
-+.becomesfusionpriority.com
 +.becomessamish.top
 +.becomingsara.com
 +.becon-21768.firebaseapp.com
@@ -26992,7 +26985,6 @@
 +.bexarmg.com
 +.bextra-store.shengen.ru
 +.beyanmaan.com
-+.beyfinans.xyz
 +.beyondborders254.com
 +.beyondcase.net
 +.beyondcompare.cc
@@ -31543,7 +31535,6 @@
 +.buildminez.com
 +.buildmypack.com
 +.buildnaq91.site
-+.buildneighbouringteam.com
 +.buildownrobots.com
 +.builds.cngkitwala.com
 +.buildstrongfitness.com
@@ -35493,7 +35484,6 @@
 +.celionisnetworks.com
 +.celishaj.com
 +.cell-state.gl.at.ply.gg
-+.cellaplasm.pro
 +.cellar-analytics.mapion.co.jp
 +.cellaraudacityslack.com
 +.cellardestiny.com
@@ -38779,7 +38769,6 @@
 +.clickfa.com
 +.clickfa.ir
 +.clickfam.com
-+.clickfinders.com
 +.clickfirex.com
 +.clickflarex.com
 +.clickforcez.com
@@ -38850,7 +38839,6 @@
 +.clicksgear.com
 +.clicksgrow.com
 +.clickshiftz.com
-+.clicksmint.site
 +.clicksmrtofr.com
 +.clicksms.ru
 +.clicksor.com
@@ -39113,7 +39101,6 @@
 +.closebit.co.uk
 +.closebit.com
 +.closecall.us
-+.closecaption.duckdns.org
 +.closecufre.com
 +.closed-peach-garage.glitch.me
 +.closedferallag.com
@@ -41898,7 +41885,6 @@
 +.converseparis.fr
 +.conversepolska.com
 +.conversepolskasklep.pl
-+.conversesfrance.fr
 +.converseshomme.fr
 +.conversesparis.fr
 +.conversionprosblockpage.vercel.app
@@ -42207,7 +42193,6 @@
 +.coreplays.com
 +.coreproject.cz
 +.corerealitysolutions.com
-+.coretechpulse.com
 +.coreysuiter.com
 +.corg.co
 +.corgibaiti.com
@@ -48577,7 +48562,6 @@
 +.dcshoecousa.fr
 +.dcshoeparis.fr
 +.dcshoes-fr.fr
-+.dcshoes-paris.fr
 +.dcshoesfr.fr
 +.dcshoeshomme.fr
 +.dcshoesparis.fr
@@ -48894,7 +48878,6 @@
 +.decentraland.pro
 +.decentralbridge.pages.dev
 +.deceptionhastyejection.com
-+.decetfuign.pro
 +.decetsopra.pro
 +.dechatlon.fr
 +.decide.dev
@@ -62921,7 +62904,6 @@
 +.fictiononfire.org
 +.fid.agkn.com
 +.fidajbhta.com
-+.fidapeste.duckdns.org
 +.fidar.site
 +.fidelity-help-kucoin.webflow.io
 +.fidelity-media.com
@@ -64768,7 +64750,6 @@
 +.focojuridico.com.br
 +.focus-burn.gl.at.ply.gg
 +.focus-hub.info
-+.focus-track.info
 +.focus-water.gl.at.ply.gg
 +.focusbrand.cn
 +.focusclinic.co.il
@@ -67323,7 +67304,6 @@
 +.g-submit.gl.at.ply.gg
 +.g-xtqrgag.rocks
 +.g.163.com
-+.g.3lian.com
 +.g.6sfg.com
 +.g.adnxs.com
 +.g.adspeed.net
@@ -70326,7 +70306,6 @@
 +.glounugeepse.xyz
 +.gloupa.com
 +.glouseer.net
-+.gloussowu.xyz
 +.gloutanacard.com
 +.gloutchi.com
 +.gloutstutu.click
@@ -76615,7 +76594,6 @@
 +.hm7.xyz
 +.hmafhczsos.com
 +.hmai.jp
-+.hmapi.com
 +.hmas.mx
 +.hmaxpifak.com
 +.hmazuxhikosj.com
@@ -79952,7 +79930,6 @@
 +.iiqcrulsiqo.firebaseapp.com
 +.iiqcrulsiqo.web.app
 +.iirrrrrrii.wixsite.com
-+.iisabujdtg.com
 +.iisol.pk
 +.iit-cnr--it.weebly.com
 +.iiwm70qvjmee.com
@@ -81595,10 +81572,10 @@
 +.infinitybet.fr
 +.infinitybitwave-oficjalne.com
 +.infinitycasinos.fr
++.infinitydesk.info
 +.infinitydownline.com
 +.infinityexpanding.pro
 +.infinityid.condenastdigital.com
-+.infinityserve.life
 +.infinitysoftwares.com
 +.infinitytasker.com
 +.infinitytrade-3.com
@@ -82298,7 +82275,6 @@
 +.inpost.pl-bytfdgukj.top
 +.inpost.pl-check.click
 +.inpost.pl-check.cyou
-+.inpost.pl-exbdx.top
 +.inpost.pl-ezvxg.top
 +.inpost.pl-find.fit
 +.inpost.pl-hjugsaw.top
@@ -82785,7 +82761,6 @@
 +.integrativehealthpartners.com
 +.integris.uz
 +.integritybusinessvaluation.com
-+.integritypurposesolutions.com
 +.intel-ark.com
 +.intel-mail53.info
 +.intela.com
@@ -87134,7 +87109,6 @@
 +.jwuazngiqap.com
 +.jwuobtag.com
 +.jwyatt.ca
-+.jwympcc.com
 +.jwz.3conline.com
 +.jwzvfjur.work
 +.jx1999.com
@@ -90388,7 +90362,6 @@
 +.labepei.com
 +.labersa.com
 +.labgenix.com
-+.labgrownnet.com
 +.labiamelol.pro
 +.labijoe.live
 +.labirra.eu
@@ -92755,7 +92728,6 @@
 +.lidertakipci.com
 +.liderus.ru
 +.lidfitnesgym.com
-+.lidfitness.shop
 +.lidfitnesseu.com
 +.lidform.com
 +.lidgatepro.info
@@ -95017,7 +94989,6 @@
 +.login.daycaheating.com
 +.login.docaccountdownloadvesbestlinojneviewer.nboatclub.com
 +.login.dognet.sk
-+.login.dtxplatform.net
 +.login.exploradsteam.com
 +.login.exploradstech.com
 +.login.felixads.com
@@ -96102,7 +96073,6 @@
 +.lucepropertiesofrockport.com
 +.lucfoto.be
 +.lucgryxiw.com
-+.luchod.duckdns.org
 +.luciaaerial.com
 +.luciafrena.pro
 +.luciagregoire.com
@@ -97006,7 +96976,6 @@
 +.m.sofseo.cn
 +.m.sswelding.top
 +.m.swujhkc.cn
-+.m.sxkecaiwenhua.cn
 +.m.sztjdz.com.cn
 +.m.trb.com
 +.m.tsgyg.cn
@@ -98901,7 +98870,6 @@
 +.mark3.wuaze.com
 +.markabcinfo.dynamicdns.me.uk
 +.markadmesteamworkspace.myclickfunnels.com
-+.markahouse.com
 +.markallenconstruction.com
 +.markasmac.com
 +.markbarkpace.pro
@@ -100011,7 +99979,6 @@
 +.mdwzdvbjkixim.site
 +.mdxh.com.cn
 +.mdy.trill-ikkr.jp
-+.mdzfinder.com
 +.me-loud.gl.at.ply.gg
 +.me-plus.gl.at.ply.gg
 +.me-teams.gl.at.ply.gg
@@ -101032,7 +100999,6 @@
 +.merlinlroyoutlet.myshopify.com
 +.merlinwebsites.com
 +.merpil.com
-+.merrell-france.fr
 +.merrellfrance.fr
 +.merrellsandalenschweiz.com
 +.merrellsandalet.com
@@ -102340,7 +102306,6 @@
 +.migrantspiteconnecting.com
 +.migrate-galxe.com
 +.migration-galxe.com
-+.migviepxbkj.com
 +.migylay5.pro
 +.mihephypty.com
 +.mihird.com
@@ -105569,7 +105534,6 @@
 +.mulato.info
 +.mulberry-puddle-nightshade.glitch.me
 +.mulberrybagsoutlet2uk.com
-+.mulchfacts.com
 +.mule.caddyserver.com
 +.mule.pricelessai.com
 +.mulecleared.com
@@ -106730,7 +106694,6 @@
 +.mysbicojpsecoojapan.com
 +.mysbiseccojpeta.com
 +.mysbisecjpeta.com
-+.mysbisecojapan.com
 +.mysbisejapan.com
 +.myscontactonlines.com
 +.myscrapnook.com
@@ -112362,7 +112325,6 @@
 +.oeth-handicapurssaf.fr
 +.oetsont.com
 +.oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
-+.oeuwiqfdjr.com
 +.oevll.com
 +.oew9spasa.appspot.com
 +.oewa.at
@@ -112392,6 +112354,7 @@
 +.ofdomjzpix.com
 +.ofenge.com
 +.ofert463751.shop
++.oferta-015282262.sbs
 +.oferta-0159282.sbs
 +.oferta-0218262.sbs
 +.oferta-10212145.shop
@@ -113348,7 +113311,6 @@
 +.olx-pl.txiwanol.cfd
 +.olx-pl.tyahznal.cfd
 +.olx-pl.tyhadoli.cfd
-+.olx-pl.tyhalepsz.cfd
 +.olx-pl.uiaoples.cfd
 +.olx-pl.vneklamo.cfd
 +.olx-pl.weakzola.cfd
@@ -116363,7 +116325,6 @@
 +.p455w0rd.blackhatethicalhacking.com
 +.p48.lublin.eu
 +.p4h1f6.hbg.hebdenbridgedental.co.uk
-+.p4jwit.hair
 +.p4man.com.br
 +.p4p.sina.com.cn
 +.p4psearch.china.alibaba.com
@@ -118829,7 +118790,6 @@
 +.perfa.pk
 +.perfactiv.fr
 +.perfasoftn.pro
-+.perfecser.com
 +.perfect-cleaner.com
 +.perfect-itsolutions.com
 +.perfect-ringtones.gl.at.ply.gg
@@ -120655,6 +120615,7 @@
 +.pl-kategorie17327154123.icu
 +.pl-kategorie31283461284.icu
 +.pl-kategorie35588419463.icu
++.pl-kategorie712366154821.icu
 +.pl-kategorie7263974163.icu
 +.pl-kategorie728948414.icu
 +.pl-kategorie8183217153.icu
@@ -120762,6 +120723,7 @@
 +.pl-oferta5737518.shop
 +.pl-oferta5747749.shop
 +.pl-oferta57856785.shop
++.pl-oferta58392.sbs
 +.pl-oferta59347.top
 +.pl-oferta5940259.shop
 +.pl-oferta5950406.shop
@@ -136698,7 +136660,6 @@
 +.s0cool.net
 +.s0htr.codesandbox.io
 +.s0licitud-virtual-enlinea.top
-+.s0pl.lat
 +.s0sazanman.com
 +.s0urapp1e.so-pink.org
 +.s1.2mdn.net
@@ -139472,7 +139433,6 @@
 +.seasonshare.net
 +.seasonvintage.com
 +.seastock24.com
-+.seasx.cfd
 +.seat1atravel.net
 +.seatbus.myportfolio.com
 +.seatrackingdomain.com
@@ -146015,7 +145975,6 @@
 +.soaneefooy.net
 +.soanxn.bitbucket.io
 +.soap.iovation.com
-+.soapdhun.com
 +.soaperdeils.com
 +.soapsudkerfed.com
 +.soaptrip.nl
@@ -147554,13 +147513,11 @@
 +.specialistdatarecovery.com
 +.specialized-sale.shop
 +.specialoffers.aol.com
-+.specialsaucer.com
 +.specialscissors.com
 +.specialsnake.com
 +.specialtymedicalsearch.com
 +.specialtysanitaryinaccessible.com
 +.specialtyservicesolutions.com
-+.specialworse.com
 +.specidiroz.pro
 +.specific-ibm.gl.at.ply.gg
 +.specificallycries.com
@@ -151071,7 +151028,6 @@
 +.store-trust.gl.at.ply.gg
 +.store-ugg.fr
 +.store.claimgenie.top
-+.store.communitydevbuild.com
 +.store.communityshopgame.com
 +.store.communityshopsource.com
 +.store.communityworkartcs.com
@@ -155568,7 +155524,6 @@
 +.teknologia.co
 +.teknolojihaber.net
 +.teknomasa.com
-+.teknopars.ir
 +.teknosurf2.com
 +.teknosurf3.com
 +.teknotown.com
@@ -161110,7 +161065,6 @@
 +.transginn.pro
 +.transglobalcouriers.com
 +.transglobalxpress.com
-+.transglobepowertech.com
 +.transgym.com
 +.transientblobexaltation.com
 +.transincan.pro
@@ -162441,7 +162395,6 @@
 +.ttplayer.qianqian.com
 +.ttpp3h.s3.us-east-005.backblazeb2.com
 +.ttps3a2f2foidcidpcloginattcom2fmga2fsps2fo-108400.weeblysite.com
-+.ttpsa-0rg-tw.com
 +.ttpsdk.info
 +.ttquix.xyz
 +.ttrezcrwalletie.webflow.io
@@ -165322,7 +165275,6 @@
 +.uponarticunoer.com
 +.uponatree.com
 +.uponflannelsworn.com
-+.uponnidoranom.net
 +.uponomanytetor.com
 +.uponpanpourchan.net
 +.uponrimking.live
@@ -166732,7 +166684,6 @@
 +.valentispizza.com.ni
 +.valeri.in
 +.valerianglobal.org
-+.valerianobritoieufsasd.duckdns.org
 +.valeriepalazzo.fr
 +.valerodiaz.com
 +.valesweetheartconditions.com
@@ -167949,7 +167900,6 @@
 +.veyltron-pulseapp.com
 +.veyso.com
 +.veytjpxr.elementor.cloud
-+.veyzq.cn
 +.vezetmne.ru
 +.vezonda.com
 +.vezuseo.com
@@ -171504,7 +171454,6 @@
 +.web.pzvhelp.top
 +.web.qxfhelp.top
 +.web.raihelp.top
-+.web.rbcpllatform77.com
 +.web.rwbhelp.top
 +.web.shares-holdingltd.com
 +.web.svhhelp.top
@@ -173751,7 +173700,6 @@
 +.wildflowervista.pro
 +.wildflowerwhispers.pro
 +.wildflowerwonders.pro
-+.wildfortune.fr
 +.wildfortunecasino.fr
 +.wildfowl.getmoneyoff.com
 +.wildhookups.com
@@ -173941,7 +173889,6 @@
 +.windlebrogues.com
 +.windlregol.pro
 +.windmeltice.pro
-+.windmuhle.com.ar
 +.windomstatetheater.com
 +.window-prize.gl.at.ply.gg
 +.window-replacement.live
@@ -180382,7 +180329,6 @@
 +.zloweb.me
 +.zlp6s.pw
 +.zls.xz6d.com
-+.zltsqxio.com
 +.zludz.cn
 +.zlukajfilm.pl
 +.zlviiaom.space
@@ -180403,7 +180349,6 @@
 +.zmedtipp.live
 +.zmenatralix.net
 +.zmien-motyw.blogspot.com
-+.zmienaktualizacje.win
 +.zmienienie-koloru.blogspot.com
 +.zmienkolorfejsazafree.blogspot.com
 +.zmienkolory.blogspot.com

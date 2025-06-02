@@ -1,9 +1,9 @@
-# Version: 202506020213
+# Version: 202506020312
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21688
-# Last modified: 2025-06-02T02:13:24+0000
+# Entries: 21689
+# Last modified: 2025-06-02T03:12:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8202,6 +8202,7 @@
 +.house-porn.com
 +.housewifepics.com
 +.houstonmaturesingles.com
++.how-to-kill-yourself.com
 +.hoxnif.com
 +.hpjav.in
 +.hpyjmp.com
