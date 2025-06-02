@@ -1,9 +1,9 @@
-# Version: 202506012213
+# Version: 202506020013
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21685
-# Last modified: 2025-06-01T22:13:50+0000
+# Entries: 21687
+# Last modified: 2025-06-02T00:13:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -100,6 +100,7 @@
 +.18matureporn.cc
 +.18moviesonline.org
 +.18porn.biz
++.18porn.cc
 +.18porn.in
 +.18porn.sex
 +.18porn.wtf
@@ -5429,6 +5430,7 @@
 +.fapello-leaks.com
 +.fapello.cam
 +.fapello.com
++.fapello.is
 +.fapello.pics
 +.fapello.ru
 +.fapello.su
@@ -12738,6 +12740,7 @@
 +.packspormega.store
 +.packsxxx.net
 +.pagalworld.asia
++.pages03.net
 +.pagina.nl
 +.paginelucirosse.it
 +.paheal.net
@@ -12998,7 +13001,6 @@
 +.phimsexhentai.lol
 +.phimsexhentai.vip
 +.phimsexhiepdam.lol
-+.phimsexhot.bet
 +.phimsexkhung.net
 +.phimsexkoche.fun
 +.phimsexlauxanh.cc
