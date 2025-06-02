@@ -1,9 +1,9 @@
-# Version: 202506022019
+# Version: 202506022117
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21710
-# Last modified: 2025-06-02T20:19:40+0000
+# Entries: 21711
+# Last modified: 2025-06-02T21:17:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11221,6 +11221,7 @@
 +.mkiska.cc
 +.mkiska.name
 +.mkiska.xyz
++.mkt932.com
 +.mlive8.com
 +.mlivevk.com
 +.mlookalporno.com
