@@ -1,9 +1,9 @@
-# Version: 202506021014
+# Version: 202506021213
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21693
-# Last modified: 2025-06-02T10:14:41+0000
+# Entries: 21698
+# Last modified: 2025-06-02T12:13:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2947,6 +2947,7 @@
 +.cafecomyaoi.com.br
 +.cafecoquin.com
 +.cafedesire.com
++.caffmoscommunity.com
 +.cairnsadult.com.au
 +.caitlin.top
 +.caiunanet.ws
@@ -3658,6 +3659,7 @@
 +.collegerules.com
 +.colliderporn.com
 +.colsex.com
++.com.mp
 +.comcontent.net
 +.comewithdaddy.com
 +.comicless.com
@@ -13280,6 +13282,7 @@
 +.poonamdas.com
 +.poop.onl
 +.poop.rip
++.poopee-puke.com
 +.poopeegirls.com
 +.poophd.com
 +.pooprip.com
@@ -15404,6 +15407,7 @@
 +.rmlivecams.com
 +.rmshqa.com
 +.rmzsglng.com
++.rnk.bio
 +.rnopo.com
 +.ro89.co
 +.ro89.com
@@ -18006,6 +18010,7 @@
 +.thefappening.pro
 +.thefappening.so
 +.thefappening.wiki
++.thefappening2.com
 +.thefappening2015.com
 +.thefappeningblog.com
 +.thefappeningnew.com
