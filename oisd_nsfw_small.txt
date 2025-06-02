@@ -1,9 +1,9 @@
-# Version: 202506020818
+# Version: 202506020913
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21692
-# Last modified: 2025-06-02T08:18:58+0000
+# Entries: 21690
+# Last modified: 2025-06-02T09:13:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1647,7 +1647,6 @@
 +.avdodee.com
 +.avdonna.com
 +.avelip.com
-+.avemmy.net
 +.avenue-x.com
 +.avfhd.com
 +.avgle.com
@@ -21303,7 +21302,6 @@
 +.xxxzootube.com
 +.xyouxxx.com
 +.xyzcomics.com
-+.xyzpic.cyou
 +.xyzporncomics.com
 +.xzhentai.net
 +.xzooz.su
