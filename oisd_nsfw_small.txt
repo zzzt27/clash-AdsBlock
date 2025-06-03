@@ -1,9 +1,9 @@
-# Version: 202506031015
+# Version: 202506031215
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21724
-# Last modified: 2025-06-03T10:15:32+0000
+# Entries: 21723
+# Last modified: 2025-06-03T12:15:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4506,7 +4506,6 @@
 +.dosug32.net
 +.dosug33.net
 +.dosug39.com
-+.dosug39.net
 +.dosug69.net
 +.dosugbarbel.com
 +.dosugbarchi.com
