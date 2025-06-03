@@ -1,9 +1,9 @@
-# Version: 202506031615
+# Version: 202506031729
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21727
-# Last modified: 2025-06-03T16:15:47+0000
+# Entries: 21726
+# Last modified: 2025-06-03T17:29:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6699,7 +6699,6 @@
 +.gazikentescort.com
 +.gcbt.net
 +.gedecomix.com
-+.geef.nl
 +.geile-sexverhalen.be
 +.geilefrage.com
 +.geilefrauen.info
