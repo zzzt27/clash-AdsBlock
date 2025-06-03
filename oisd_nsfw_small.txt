@@ -1,9 +1,9 @@
-# Version: 202506031416
+# Version: 202506031515
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21725
-# Last modified: 2025-06-03T14:16:22+0000
+# Entries: 21726
+# Last modified: 2025-06-03T15:15:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -140,6 +140,7 @@
 +.1escorts.net
 +.1hanime.com
 +.1hentai.org
++.1ka.com
 +.1passforallsites.com
 +.1plus1tv.com
 +.1plus1tv.ru
