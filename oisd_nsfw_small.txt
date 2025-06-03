@@ -1,9 +1,9 @@
-# Version: 202506030313
+# Version: 202506030414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21714
-# Last modified: 2025-06-03T03:13:43+0000
+# Last modified: 2025-06-03T04:14:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6925,6 +6925,7 @@
 +.godaddysites.com
 +.goddess247.com
 +.godesiporn.com
++.godfatherxxx.com
 +.godkc.com
 +.godlikeproductions.com
 +.godzillaporno.com
@@ -7134,7 +7135,6 @@
 +.guystricked.com
 +.guywh.com
 +.gvdblog.cc
-+.gvdblog.net
 +.gvideos.net
 +.gwasi.com
 +.gylsx028.com
