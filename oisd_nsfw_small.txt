@@ -1,9 +1,9 @@
-# Version: 202506030414
+# Version: 202506030614
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21714
-# Last modified: 2025-06-03T04:14:01+0000
+# Entries: 21716
+# Last modified: 2025-06-03T06:14:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -610,6 +610,7 @@
 +.adult66.net
 +.adultadlist.com
 +.adultasianporn.com
++.adultavenue.tattoo
 +.adultbloglisting.com
 +.adultcamlover.com
 +.adultcamslover.com
@@ -1606,6 +1607,7 @@
 +.auntmia.com
 +.auroraescort.com
 +.aus99forum.com
++.aussiematchzone.com
 +.aussiematematch.com
 +.aussiflirtz.com
 +.autoblow.com
@@ -4852,6 +4854,7 @@
 +.epornleak.com
 +.epornnew.com
 +.eporno.ro
++.eporno.sk
 +.epornrec.com
 +.epornz.com
 +.erettszex.com
@@ -12445,7 +12448,6 @@
 +.ohsexi.com
 +.ohsexu.com
 +.ohueli.net
-+.oikotiecdn.fi
 +.oiobbs.com
 +.oje.pt
 +.ojiz.net
