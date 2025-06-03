@@ -1,9 +1,9 @@
-# Version: 202506031316
+# Version: 202506031416
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21724
-# Last modified: 2025-06-03T13:16:00+0000
+# Entries: 21725
+# Last modified: 2025-06-03T14:16:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8921,6 +8921,7 @@
 +.iyalc.com
 +.izaberime.com
 +.ize.hu
++.izhgay.ru
 +.izispicy.com
 +.izmena.cc
 +.izmirescortgo.com

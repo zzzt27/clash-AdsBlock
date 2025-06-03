@@ -1,9 +1,9 @@
-# Version: 202506031409
+# Version: 202506031509
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 180430
-# Last modified: 2025-06-03T14:09:35+0000
+# Entries: 180388
+# Last modified: 2025-06-03T15:09:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1855,7 +1855,6 @@
 +.20popup.com
 +.20tracks.com
 +.20wx.com
-+.21-05-0lx-pl.help
 +.21-bets.fr
 +.21-domain.biz
 +.21.fh21static.com
@@ -4818,7 +4817,6 @@
 +.7qjjcy6vg835x.life
 +.7re7.face-book.cc
 +.7rtv.com
-+.7s3r7q.lat
 +.7serv.top
 +.7sipxslhd.localto.net
 +.7siyowaw.square.site
@@ -8454,7 +8452,6 @@
 +.ad.m-arata.com
 +.ad.ma.doubleclick.net
 +.ad.mail.ru
-+.ad.mail.sohu.com
 +.ad.mailo.com
 +.ad.mangareader.net
 +.ad.mdmd.info
@@ -13157,7 +13154,6 @@
 +.agile-support.net
 +.agilean.in
 +.agilebars.com
-+.agilebiodetection.com
 +.agileformer.com
 +.agilemedia.jp
 +.agileprogram.com
@@ -32236,7 +32232,6 @@
 +.bzgmcqqfxd.com
 +.bzhqku.com
 +.bzhualin.com
-+.bzidp.com
 +.bzilcoese.firebaseapp.com
 +.bzilcoese.web.app
 +.bzjxpfuuqpkzs.club
@@ -38082,7 +38077,6 @@
 +.ckite.handipants.com
 +.ckitwlmqy-c.today
 +.ckkvwmnsngci.com
-+.cklh.org
 +.ckmmrkvshzbqx.world
 +.cko25i67ngyrq0u.nirpowia.pl
 +.ckoalloxwad.com
@@ -38338,7 +38332,6 @@
 +.clear-info.info
 +.clear-quota.onrender.com
 +.clear-request.com
-+.clear-stats.info
 +.clearac.com
 +.clearadnetwork.com
 +.clearancejoinjavelin.com
@@ -39717,7 +39710,6 @@
 +.coffeemakersadvisor.com
 +.coffeemugsandmore.com
 +.coffeesidehustle.com
-+.coffeetutress.com
 +.coffeol.com
 +.coffiesasp.pro
 +.coffingfannies.top
@@ -42280,7 +42272,6 @@
 +.council-wars.gl.at.ply.gg
 +.counciladvertising.net
 +.councilbluffscabinets.com
-+.councilmandavid.com
 +.counsellingsupervisor.com
 +.counsellor.gov.cn
 +.counselschambers.co.uk
@@ -44644,7 +44635,6 @@
 +.ctldl.windowsupdate.lflinkup.com
 +.ctm-media.com
 +.ctn-ctn.com
-+.ctnclegal.com
 +.ctnetwork.hu
 +.ctnsnet.com
 +.ctobsnssdk.com
@@ -47787,7 +47777,6 @@
 +.data-failover.eroadvertising.com
 +.data-formula.com
 +.data-gorillas.com
-+.data-harbor.info
 +.data-ingestion.flowgpt.com
 +.data-logdelivery.wconcept.co.kr
 +.data-optout-service.uca.cloud.unity3d.com
@@ -50289,7 +50278,6 @@
 +.diapedesfepun.pro
 +.diaperdollrelevant.com
 +.diapermaster.com
-+.diaphan-events.com
 +.diapngadde.pro
 +.diaque.cn
 +.diariooficialdauniao.com.de
@@ -50812,7 +50800,6 @@
 +.dirbg.hit.gemius.pl
 +.dircode.ru
 +.dirdoophounu.net
-+.direccionindustrial.com
 +.direcompulsion.com
 +.direct-accepting.gl.at.ply.gg
 +.direct-collect.dy-api.com
@@ -51724,7 +51711,6 @@
 +.diw-joce.win
 +.diw-khcb.win
 +.diw-mxsy.win
-+.diw-mzyg.win
 +.diw-oykx.win
 +.diw-pbmu.win
 +.diw-plah.win
@@ -59032,7 +59018,6 @@
 +.ethweirs.com
 +.ethylwitmi.pro
 +.etia.ru
-+.etiasvisaapplicationeu.com
 +.eticketsclub.com
 +.eticketshop.fr
 +.etihadtechnology.com.np
@@ -67111,7 +67096,6 @@
 +.g2.112.2o7.net
 +.g2.doubleclick.net
 +.g2.ganjing.world
-+.g20fjktqb3ezpi5.nirpowia.pl
 +.g29q69.nt.nativetrees.co.uk
 +.g2afse.com
 +.g2pivmz5jm.w0sjkfrwzz.chproperties.com
@@ -71392,7 +71376,6 @@
 +.gov-xbdcs.win
 +.gov-xbdea.win
 +.gov-xbdhgd.win
-+.gov-xbhds.win
 +.gov-xbhdsx.win
 +.gov-xcaas.win
 +.gov-xcasf.win
@@ -71400,7 +71383,6 @@
 +.gov-xchea.win
 +.gov-xcvvb.win
 +.gov-xczez.win
-+.gov-xeqagh.win
 +.gov-xeqax.win
 +.gov-xhjed.win
 +.gov-xksxe.win
@@ -76490,7 +76472,6 @@
 +.hoefbakery.com
 +.hoehn594.github.io
 +.hoelscher1.com
-+.hoemathdating.com
 +.hoerbird.net
 +.hof-sommerberg.de
 +.hofbakery.com
@@ -77580,7 +77561,6 @@
 +.hoverstyle.com
 +.hovertown.com
 +.hovezerifre.pro
-+.hovinoa.icu
 +.hovno.tobim6.eu
 +.how-t0-wtch.com
 +.how-to-mommy.com
@@ -79614,7 +79594,6 @@
 +.iguana.cypressridge-pca.org
 +.iguana.delbaoliveira.com
 +.iguana.indigospot.com
-+.iguazueventsusa.com
 +.igum.net
 +.iguu.com
 +.igv-sellers.com
@@ -85446,7 +85425,6 @@
 +.jjcwq.site
 +.jjdksw.weebly.com
 +.jjdscda.top
-+.jjfaflmldwi.com
 +.jjfufv.icu
 +.jjgkqv.pro
 +.jjhouse.fr
@@ -85512,12 +85490,9 @@
 +.jkl-niko.win
 +.jkl-nohw.win
 +.jkl-ohap.win
-+.jkl-ornz.win
 +.jkl-ovtq.win
 +.jkl-pghf.win
-+.jkl-pivx.win
 +.jkl-qonz.win
-+.jkl-rhun.win
 +.jkl-sqgh.win
 +.jkl-suft.win
 +.jkl-svnd.win
@@ -97894,7 +97869,6 @@
 +.majiainc.com
 +.majile.vip
 +.majlkj.live
-+.majoagna.com
 +.major-europe.gl.at.ply.gg
 +.major.dvanadva.ru
 +.majorcharacter.com
@@ -102059,7 +102033,6 @@
 +.mikeydope.click
 +.mikeyloveyousef-47779.portmap.io
 +.mikeysphising3.duckdns.org
-+.mikhaelporter.com
 +.mikhail-lermontov.com
 +.mikist.glitch.me
 +.mikit44.fr
@@ -105249,7 +105222,6 @@
 +.multiclick.ru
 +.multiculturalcakelimited.com
 +.multifbpixels.website
-+.multifilmy.pl
 +.multifixesdapps.firebaseapp.com
 +.multifixesdapps.web.app
 +.multigiftcards.com
@@ -110460,7 +110432,6 @@
 +.notw5h.super.spx.co.uk
 +.notyetaeasteluserverifynow.weebly.com
 +.notyetaverifiedkosuserloginhere.weebly.com
-+.nougacoush.com
 +.nougatdimetry.com
 +.noughttrustthreshold.com
 +.noujoumtounes.com
@@ -111274,7 +111245,6 @@
 +.nxtestdomain.com
 +.nxtfdata.xyz
 +.nxtpsh.top
-+.nxturndev.com
 +.nxwugnuqhwxta.world
 +.nxxkxr.xyz
 +.nxymehwu.com
@@ -115160,7 +115130,6 @@
 +.ouglauster.net
 +.ouglook.fr
 +.ougrauty.com
-+.ougribot.net
 +.ouiokaq.top
 +.ouiyg.mefound.com
 +.ouiyriaeoji.pages.dev
@@ -137827,7 +137796,6 @@
 +.sblsec-elvinaie.com
 +.sblsec-esmone.com
 +.sblsec-mander.com
-+.sblsec-orraine.com
 +.sblsec-smerud.com
 +.sbmhqe.xyz
 +.sbmiller3.com
@@ -138485,7 +138453,6 @@
 +.scrapebust.com
 +.scrapejav128.fun
 +.scrapesleep.com
-+.scrapilue.com
 +.scrapingapi.com
 +.scrapixo.live
 +.scrapixt.live
@@ -145152,7 +145119,6 @@
 +.smobiholop.com
 +.smobiili-spankki.com
 +.smobiimpai.pro
-+.smobilliilaafipnkki.com
 +.smocceromp.pro
 +.smoccortod.pro
 +.smoggysnakes.com
@@ -145163,13 +145129,11 @@
 +.smokepipes.net
 +.smokersopinionpoll.com
 +.smokesonstate.com
-+.smokify.org
 +.smokingeverywhere.122.2o7.net
 +.smokinggun.122.2o7.net
 +.smokinhotsolos.com
 +.smokymountainchurchofchrist.com
 +.smokywoodpecker.pro
-+.smollpush.com
 +.smolmaw5.beget.tech
 +.smooth-marriage.com
 +.smoothjourney.online
@@ -156141,7 +156105,6 @@
 +.thankyouattandsbc.weebly.com
 +.thankyousmiles.com
 +.thanosofcos5.com
-+.thatbeefysit.com
 +.thatharo.com
 +.thatkindacrunchylife.com
 +.thatnewapp.com
@@ -161247,7 +161210,6 @@
 +.trichmense.pro
 +.trichomist.store
 +.tricitiescabinets.org
-+.trickedouttrains.com
 +.trickfile.com
 +.tricklesmartdiscourage.com
 +.tricksex.net
@@ -169527,7 +169489,6 @@
 +.vryarrqcyta.com
 +.vryndolar.pro
 +.vryosxnm.com
-+.vryxopoder.net
 +.vs-00catin-redirectautheticate.pages.dev
 +.vs-funded.net
 +.vs-lb.com
@@ -169550,7 +169511,6 @@
 +.vsfbvsfatt.weebly.com
 +.vsfcua.weebly.com
 +.vsftsyriv.com
-+.vsfvi.cn
 +.vsgdtq.vip
 +.vsgyfixkbow.com
 +.vsiogladko.pro
@@ -170744,7 +170704,6 @@
 +.wealth-revolution.com
 +.wealth-rolian-ai.com
 +.wealthbuilderpro.org
-+.wealthedugroups.com
 +.wealthestored.icu
 +.wealthextend.com
 +.wealthgrace.ddns.me
@@ -178834,7 +178793,6 @@
 +.zabavazaodrasle.com
 +.zabawkowo.fun
 +.zabi-zkrys.formstack.com
-+.zabka.casino-play-game-max-top.com
 +.zabkaapp.site
 +.zabo.0x504.com
 +.zabpgtjh.icu
