@@ -1,9 +1,9 @@
-# Version: 202506030910
+# Version: 202506031015
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21723
-# Last modified: 2025-06-03T09:10:06+0000
+# Entries: 21724
+# Last modified: 2025-06-03T10:15:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15551,6 +15551,7 @@
 +.rules34.ru
 +.rulet-18.com
 +.ruletka-888.com
++.rumahjav.com
 +.rumahporno.com
 +.rumporn.com
 +.run.porn
