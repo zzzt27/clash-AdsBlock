@@ -1,9 +1,9 @@
-# Version: 202506040715
+# Version: 202506040900
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21656
-# Last modified: 2025-06-04T07:15:59+0000
+# Entries: 21659
+# Last modified: 2025-06-04T09:00:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1033,6 +1033,7 @@
 +.amatube.tv
 +.amatura.com
 +.amaturetube.com
++.amaturpicsteen.site
 +.amazingindiansex.com
 +.amazingjokes.com
 +.amazingoffersforyou.com
@@ -1229,7 +1230,6 @@
 +.annyaurora19.com
 +.anon-v.com
 +.anon-v.xyz
-+.anonib.to
 +.anonib2.org
 +.anonibx.com
 +.anonimageboards.com
@@ -10148,6 +10148,7 @@
 +.lindafeed.com
 +.lindaprofiles.com
 +.lindascandals.com
++.lindavideos.com
 +.linduu.com
 +.linduu.fr
 +.lingayatmatrimony.com
@@ -11118,6 +11119,7 @@
 +.milfxl.com
 +.milfxteen.biz
 +.milfxteen.info
++.milfxteen.lol
 +.milfy.com
 +.milfzr.com
 +.milkboys.net
@@ -17326,6 +17328,7 @@
 +.starsze.net
 +.startapro.hu
 +.startbewijs.nl
++.startje.com
 +.startkabel.nl
 +.startkwartier.nl
 +.startpagina.be
