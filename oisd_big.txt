@@ -1,9 +1,9 @@
-# Version: 202506041510
+# Version: 202506041545
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 181198
-# Last modified: 2025-06-04T15:10:14+0000
+# Entries: 181186
+# Last modified: 2025-06-04T15:45:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -23843,7 +23843,6 @@
 +.b2c.com
 +.b2corp.com.br
 +.b2g.saxmson.com
-+.b2hub.online
 +.b2link.com.br
 +.b2ln8d9cr.webcindario.com
 +.b2pk.com
@@ -50041,7 +50040,6 @@
 +.dewahoras.com
 +.dewaltfrance.fr
 +.dewanahbos.com
-+.dewanhome.com
 +.dewanni.page.link
 +.dewartplink.com
 +.dewatembus.net
@@ -56878,7 +56876,6 @@
 +.electricfeminine.com
 +.electricidadmiguel.com.ar
 +.electricistaplasencia.com
-+.electrictulsa.com
 +.electro-az.net
 +.electrocorner.com
 +.electrodepot-lille.fr
@@ -70994,7 +70991,6 @@
 +.golddisco.top
 +.golden-bet-casino.fr
 +.golden-gateway.com
-+.golden-gooses.fr
 +.golden-interior.com
 +.golden-panda1.fr
 +.golden-pandaa.fr
@@ -85834,7 +85830,6 @@
 +.jkl-afgr.win
 +.jkl-awgy.win
 +.jkl-drfg.win
-+.jkl-gqja.win
 +.jkl-lgtq.win
 +.jkl-niko.win
 +.jkl-ohap.win
@@ -89362,7 +89357,6 @@
 +.koikckzlogbn.webflow.io
 +.koikoi-51.jp
 +.koikuonlogen.webflow.io
-+.koikyisgesgqaksa.xyz
 +.koinalk.com
 +.koinarczero.company
 +.koinbaseepro-logii.godaddysites.com
@@ -104186,7 +104180,6 @@
 +.mondiai-suivis.com
 +.mondiai-tentative.com
 +.mondiaiexpress.com
-+.mondiaimove.com
 +.mondiairelais-livraison.com
 +.mondiairelay-tracking.com
 +.mondiairetard.com
@@ -104768,7 +104761,6 @@
 +.motheringinmind.com
 +.motherlodebulldogclub.com
 +.mothermeetsworld.com
-+.mothermicronesia.org
 +.mothersdining.com
 +.mothershelpers.net
 +.mothersofmatriarchy.club
@@ -113191,7 +113183,6 @@
 +.okmgy.cn
 +.okmido8m.beget.tech
 +.okmmm.com
-+.okmsgksikmgeawee.xyz
 +.okna-43.ru
 +.oknarai.ru
 +.oknoplastik.sk
@@ -114173,7 +114164,6 @@
 +.onlinesse-cures.0hi.me
 +.onlinessoap.com
 +.onlinestatementamz.net
-+.onlinestatus.live
 +.onlinestlouiscommunitycu.weebly.com
 +.onlinestoreoutlet.com
 +.onlinesupporthelp-kyoto-u.weebly.com
@@ -115723,7 +115713,6 @@
 +.ourtshipanditlas.info
 +.ourwebmaill.com
 +.ourweekendparty.com
-+.ousccykuwsauaumg.xyz
 +.ouseanleav.top
 +.ouseanviu.top
 +.oushaury.com
@@ -140903,7 +140892,6 @@
 +.septuplesunsets.pro
 +.sepuhanu.com
 +.sepykaa.com
-+.sepyohro.com
 +.ser-revendedora-avon.pt
 +.ser.adjw.co.kr
 +.ser.everydayporn.co
