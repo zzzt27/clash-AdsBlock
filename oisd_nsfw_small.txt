@@ -1,9 +1,9 @@
-# Version: 202506032217
+# Version: 202506040014
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21638
-# Last modified: 2025-06-03T22:17:20+0000
+# Entries: 21641
+# Last modified: 2025-06-04T00:14:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3760,7 +3760,6 @@
 +.cougarillo.com
 +.cougars-infideles.com
 +.cougars.com
-+.cougarukdating.co.uk
 +.counter4me.com
 +.coupleslookingforsexmen.com
 +.cowanimalsex.fun
@@ -10442,6 +10441,7 @@
 +.lxax.com
 +.lxtube.com
 +.lxxlxx.com
++.lyrics.com.br
 +.m-hentai.net
 +.m-porn.xxx
 +.m-zh.ru
@@ -15699,6 +15699,7 @@
 +.scharfeliebhaber.com
 +.schjmp.com
 +.schloka.com
++.schmoozecom.net
 +.schokoladies.de
 +.schoolescorts.com
 +.scopamici.com
@@ -16179,6 +16180,7 @@
 +.sexhihiz.bz
 +.sexhihiz.org
 +.sexhihizz.com
++.sexhihizz.net
 +.sexhihizz.pro
 +.sexhindisex.com
 +.sexhocsinh.info
@@ -19618,6 +19620,7 @@
 +.webchoc.com
 +.webdoujin.com
 +.webgata.com
++.webgidsje.nl
 +.webgoodeta.com
 +.webkam-sex.com
 +.webmaal.cfd
