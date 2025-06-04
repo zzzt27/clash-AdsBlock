@@ -7,7 +7,7 @@ NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
 [oisd_small](#small) | **04-06-25** | 42009
 [oisd_big](#big) | **04-06-25** | 180137
-[oisd_nsfw🔞](#nsfw) | **04-06-25** | 416330
+[oisd_nsfw🔞](#nsfw) | **04-06-25** | 416340
 [oisd_nsfw_small🔞](#nsfw-small) | **04-06-25** | 21656
 
 

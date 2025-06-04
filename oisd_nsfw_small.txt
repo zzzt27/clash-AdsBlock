@@ -1,9 +1,9 @@
-# Version: 202506040514
+# Version: 202506040715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21656
-# Last modified: 2025-06-04T05:14:28+0000
+# Last modified: 2025-06-04T07:15:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16600,7 +16600,6 @@
 +.sexvideosxxx.mobi
 +.sexvideotelugu.net
 +.sexvideoxx.com
-+.sexviet.blog
 +.sexviet.men
 +.sexviet1.lol
 +.sexviet68.blog
@@ -18903,6 +18902,7 @@
 +.ultraweb.hu
 +.umblr.com
 +.umd.net
++.unblog.fr
 +.uncams.com
 +.uncen.org
 +.uncensored-films.com
