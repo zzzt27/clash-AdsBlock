@@ -1,9 +1,9 @@
-# Version: 202506040214
+# Version: 202506040314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21650
-# Last modified: 2025-06-04T02:14:08+0000
+# Entries: 21652
+# Last modified: 2025-06-04T03:14:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3299,6 +3299,7 @@
 +.celibest.com
 +.celibook.com
 +.cemiocw.com
++.centerblog.net
 +.centerfold.com
 +.centoxcento.net
 +.centoxcento.social
@@ -7642,6 +7643,7 @@
 +.hentaitvn.net
 +.hentaiukr.com
 +.hentaivc.com
++.hentaiverse.org
 +.hentaivideos.net
 +.hentaivideoworld.com
 +.hentaivietsub.com
