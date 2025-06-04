@@ -1,9 +1,9 @@
-# Version: 202506040900
+# Version: 202506040931
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21659
-# Last modified: 2025-06-04T09:00:31+0000
+# Entries: 21661
+# Last modified: 2025-06-04T09:31:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1587,6 +1587,7 @@
 +.atoananet.com.br
 +.atopporn.com
 +.atrocidades18.net
++.attendify.com
 +.attractivetube.com
 +.attrazionesegreta.it
 +.atube.sex
@@ -3466,6 +3467,7 @@
 +.chohanpohan.com
 +.choiceporn.ru
 +.cholitas.top
++.cholitas.xyz
 +.cholitaseroticas.com
 +.cholotube.com.pe
 +.cholotube.org
