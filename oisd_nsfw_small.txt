@@ -1,9 +1,9 @@
-# Version: 202506041317
+# Version: 202506041517
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21663
-# Last modified: 2025-06-04T13:17:17+0000
+# Entries: 21665
+# Last modified: 2025-06-04T15:17:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9392,6 +9392,7 @@
 +.josporn.com
 +.jotsex.com
 +.joujizz.com
++.jouwpagina.be
 +.jouwpagina.nl
 +.jovencitas.gratis
 +.joybear.com
@@ -11202,6 +11203,7 @@
 +.mkiska.cc
 +.mkiska.name
 +.mkiska.xyz
++.mkt61.net
 +.mkt932.com
 +.mlive8.com
 +.mlivevk.com
@@ -16444,6 +16446,7 @@
 +.sexru.xyz
 +.sexrura.pl
 +.sexs-photo.com
++.sexs-xxxl.com
 +.sexs.site
 +.sexsagar.com
 +.sexsalami.com
@@ -21147,7 +21150,6 @@
 +.xxxslam.com
 +.xxxsnatch.com
 +.xxxspace.top
-+.xxxstayhome.com
 +.xxxstreams.org
 +.xxxsxxx.com
 +.xxxtabor.com
