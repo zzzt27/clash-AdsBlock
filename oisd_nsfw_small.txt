@@ -1,9 +1,9 @@
-# Version: 202506040314
+# Version: 202506040414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21652
-# Last modified: 2025-06-04T03:14:25+0000
+# Entries: 21655
+# Last modified: 2025-06-04T04:14:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11133,6 +11133,7 @@
 +.mindcontroltheatre.com
 +.minden-egyben.com
 +.mindik.com
++.mindmix.ru
 +.minet.club
 +.minet.vip
 +.mineti.biz
@@ -11827,6 +11828,7 @@
 +.napoleonhof.at
 +.naralsex.com
 +.narezki-podborki.one
++.narod.ru
 +.narodnoeporno.pro
 +.narutohentaidb.com
 +.narutopixxx.com
@@ -21540,6 +21542,7 @@
 +.zo3x.link
 +.zo3x.vip
 +.zoazoa28.me
++.zoekvinden.nl
 +.zoig.com
 +.zoig1.com
 +.zolacams.com
