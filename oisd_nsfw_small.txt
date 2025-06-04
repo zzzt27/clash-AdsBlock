@@ -1,9 +1,9 @@
-# Version: 202506040414
+# Version: 202506040514
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21655
-# Last modified: 2025-06-04T04:14:25+0000
+# Entries: 21656
+# Last modified: 2025-06-04T05:14:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18281,6 +18281,7 @@
 +.toonsfucks.com
 +.toonx.net
 +.toopla.com
++.top-100.pl
 +.top-modelz.org
 +.top-porn-sites-18.com
 +.top100nudism.com
