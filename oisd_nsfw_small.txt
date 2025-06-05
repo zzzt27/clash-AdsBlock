@@ -1,9 +1,9 @@
-# Version: 202506050414
+# Version: 202506050614
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21675
-# Last modified: 2025-06-05T04:14:01+0000
+# Entries: 21676
+# Last modified: 2025-06-05T06:14:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2376,6 +2376,7 @@
 +.bigporn.org
 +.bigpornhd.mom
 +.bigpornovideo.net
++.bigslapparty.com
 +.bigtitavenue.com
 +.bigtitbitches.com
 +.bigtitmilfs.com
@@ -3208,7 +3209,6 @@
 +.cartoonvideos247.com
 +.casadasexibidas.com
 +.casadoscontos.com.br
-+.cascosporn.com
 +.caserosxxx.org
 +.cashcallgirls.com
 +.casino-backend.com
@@ -4609,6 +4609,7 @@
 +.durex.com
 +.durexusa.com
 +.dusk-tv.com
++.dutasex.digital
 +.dutrai.com
 +.dvdempire.com
 +.dvderotik.com
