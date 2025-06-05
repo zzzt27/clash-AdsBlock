@@ -1,9 +1,9 @@
-# Version: 202506051018
+# Version: 202506051216
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21685
-# Last modified: 2025-06-05T10:18:01+0000
+# Entries: 21684
+# Last modified: 2025-06-05T12:16:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -650,7 +650,6 @@
 +.adultfilmstarcontent.com
 +.adultfinder-friend.com
 +.adultfishdating.com.au
-+.adultflingdating.co.uk
 +.adultfolio.com
 +.adultfriendfinder.com
 +.adultfriendfinder.onl
@@ -17208,6 +17207,7 @@
 +.sohuxxx.com
 +.soiboy.com
 +.soichat.com
++.sokkan.net
 +.sokkann.com
 +.solarium.tv
 +.solidcams.com
@@ -18915,7 +18915,6 @@
 +.ukswingersparties.co.uk
 +.ulive.chat
 +.ulla.com
-+.ulluprime.com
 +.ulluuncut.in
 +.ulmf.org
 +.uloversdoll.com
