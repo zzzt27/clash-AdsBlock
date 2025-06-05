@@ -1,9 +1,9 @@
-# Version: 202506050314
+# Version: 202506050414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21667
-# Last modified: 2025-06-05T03:14:40+0000
+# Entries: 21675
+# Last modified: 2025-06-05T04:14:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1643,6 +1643,7 @@
 +.avdodee.com
 +.avdonna.com
 +.avelip.com
++.avemmy.net
 +.avfhd.com
 +.avgle.com
 +.avgle.mobi
@@ -3007,6 +3008,7 @@
 +.camdolls.com
 +.camdownload.net
 +.camdudes.com
++.camentertain.com
 +.camera.com
 +.cameraboys.com
 +.cameraprive.com
@@ -4493,6 +4495,7 @@
 +.dosug32.net
 +.dosug33.net
 +.dosug39.com
++.dosug39.net
 +.dosug69.net
 +.dosugbarbel.com
 +.dosugbarchi.com
@@ -6612,6 +6615,7 @@
 +.gaysex.monster
 +.gaysexdates.app
 +.gaysexfarm.com
++.gaysexhookup.net
 +.gaysexhot.info
 +.gaysexhothq.com
 +.gaysexphotos.com
@@ -10155,7 +10159,6 @@
 +.lindafeed.com
 +.lindaprofiles.com
 +.lindascandals.com
-+.lindavideos.com
 +.linduu.com
 +.linduu.fr
 +.lingayatmatrimony.com
@@ -10554,6 +10557,7 @@
 +.mamaisinok.com
 +.mamapornovideo.org
 +.mamapornovideo.top
++.mamashki.vip
 +.mamba-games.com
 +.mamefutute.com
 +.mammetroie.org
@@ -18480,6 +18484,7 @@
 +.travchat.fr
 +.travestichat.fr
 +.travesticomlocal.com.br
++.travestiscaba.com
 +.travestismexico.com
 +.traxvideos.com
 +.traxvideos2.com
@@ -18900,6 +18905,7 @@
 +.ukswingersparties.co.uk
 +.ulive.chat
 +.ulla.com
++.ulluprime.com
 +.ulluuncut.in
 +.ulmf.org
 +.uloversdoll.com
@@ -21091,6 +21097,7 @@
 +.xxxperevod.com
 +.xxxpersian.com
 +.xxxphimxxx.com
++.xxxphoto.xyz
 +.xxxpicsarchive.com
 +.xxxpicss.com
 +.xxxpicz.com
@@ -21280,6 +21287,7 @@
 +.xxxzootube.com
 +.xyouxxx.com
 +.xyzcomics.com
++.xyzpic.cyou
 +.xyzporncomics.com
 +.xzhentai.net
 +.xzooz.su
