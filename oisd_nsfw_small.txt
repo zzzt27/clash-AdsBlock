@@ -1,9 +1,9 @@
-# Version: 202506050213
+# Version: 202506050314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21665
-# Last modified: 2025-06-05T02:13:18+0000
+# Entries: 21667
+# Last modified: 2025-06-05T03:14:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3077,6 +3077,7 @@
 +.camsexcity.com
 +.camsexgirls.club
 +.camsfinder.com
++.camsho.ws
 +.camshowdownload.com
 +.camshowrecord.net
 +.camshowrecordings.com
@@ -5089,6 +5090,7 @@
 +.escortbayanumraniye.com
 +.escortboard.de
 +.escortbodrum.org
++.escortbook.com
 +.escortdex.com
 +.escortdimension.net
 +.escortdirectory.com
