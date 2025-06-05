@@ -1,9 +1,9 @@
-# Version: 202506051003
+# Version: 202506051018
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21684
-# Last modified: 2025-06-05T10:03:29+0000
+# Entries: 21685
+# Last modified: 2025-06-05T10:18:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17801,6 +17801,7 @@
 +.teenpies.com
 +.teenporn.ws
 +.teenporn24.net
++.teenporncum.com
 +.teenporngallery.net
 +.teenpornlike.com
 +.teenporno.casa
