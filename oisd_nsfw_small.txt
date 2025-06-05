@@ -1,9 +1,9 @@
-# Version: 202506042117
+# Version: 202506050013
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21665
-# Last modified: 2025-06-04T21:17:25+0000
+# Entries: 21664
+# Last modified: 2025-06-05T00:13:51+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15457,7 +15457,6 @@
 +.rtvlive.com
 +.ru-porn.site
 +.ru-webcam.com
-+.ru-webcam.top
 +.ru-xvideos.com
 +.rua69.com
 +.ruangbokep.co

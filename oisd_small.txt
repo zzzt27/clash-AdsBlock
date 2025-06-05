@@ -1,9 +1,9 @@
-# Version: 202506042309
+# Version: 202506050008
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 41887
-# Last modified: 2025-06-04T23:09:35+0000
+# Entries: 41871
+# Last modified: 2025-06-05T00:08:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -940,7 +940,6 @@
 +.48654012.xyz
 +.487ed86ea3.com
 +.4885e2e6f7.com
-+.48a16802.site
 +.49333767.xyz
 +.49706204.xyz
 +.49709796.xyz
@@ -4066,7 +4065,6 @@
 +.adtima-static.zadn.vn
 +.adtima-static.zascdn.me
 +.adtima-video.zadn.vn
-+.adtima-video.zascdn.me
 +.adtima.net.vn
 +.adtima.org
 +.adtima.vn
@@ -8502,7 +8500,6 @@
 +.bnlif.com
 +.bnmjjwinf292.com
 +.bnmkl.com
-+.bnmnkib.com
 +.bnmqtggqjoqic.buzz
 +.bnmtgboouf.com
 +.bnp3.com
@@ -9962,7 +9959,6 @@
 +.ced.sascdn.com
 +.ced843cd18.com
 +.cedeimprovise.com
-+.cedhoinle.com
 +.cedricfaces.shop
 +.cedrt6.pro
 +.cee1.iteye.com
@@ -10425,7 +10421,6 @@
 +.clam.mglaman.dev
 +.clambakefreenessunclasp.com
 +.clammyendearedkeg.com
-+.clampalarmlightning.com
 +.clanker-events.squarespace.com
 +.clankexpelledidentification.com
 +.clapnetackeys.shop
@@ -11463,7 +11458,6 @@
 +.cosmo202.top
 +.cosponsorgarnetmorphing.com
 +.costco-adbutler.com
-+.costranchill.com
 +.costumefilmimport.com
 +.cotchaug.com
 +.coticoffee.com
@@ -13774,7 +13768,6 @@
 +.ddmuiijrdvv0s.cloudfront.net
 +.ddns.info
 +.ddns.name
-+.ddodvlbtbgf.com
 +.ddqmlfu.icu
 +.ddrsemxv.com
 +.ddrvjrfwnij7n.cloudfront.net
@@ -13923,7 +13916,6 @@
 +.delightspiritedtroop.com
 +.deliman.net
 +.deliriousglowing.com
-+.deliriumalbumretreat.com
 +.deliriumswarthybeginner.com
 +.deliv12.com
 +.deliver.oztam.com.au
@@ -14241,7 +14233,6 @@
 +.dimmerlingowashable.com
 +.dimmosit.live
 +.dimnaamebous.com
-+.dimnessinvokecorridor.com
 +.dimufywhy.com
 +.dindeedtheriver.com
 +.dinecogitateaffections.com
@@ -16605,7 +16596,6 @@
 +.f90ddcd551.2ab7df2de3.com
 +.f95nkry2nf8o.com
 +.f97c68bed0.0a10a1bb7b.com
-+.f983cf2155.com
 +.f9d3dca725.b291310c77.com
 +.f9f62da9a0.com
 +.f9gv87zoq2.com
@@ -21236,7 +21226,6 @@
 +.italianexpecting.com
 +.italianforesee.com
 +.italianhackwary.com
-+.italianout.com
 +.itblisseyer.com
 +.itcameruptr.com
 +.itchhandwritingimpetuous.com
@@ -25819,7 +25808,6 @@
 +.naljjd.top
 +.nalraughaksie.net
 +.nalyticaframeofm.com
-+.nalyxg.top
 +.nameads.com
 +.namel.net
 +.nameoaj.xyz
@@ -26319,7 +26307,6 @@
 +.noawanincreasein.com
 +.noblelevityconcrete.com
 +.nobleypanacea.shop
-+.nobodylightenacquaintance.com
 +.noconversationh.com
 +.node.aibeacon.jp
 +.nodeclaim.com
@@ -28259,7 +28246,6 @@
 +.peer39.com
 +.peer39.net
 +.peeredplanned.com
-+.peeringinvasion.com
 +.peerlesshallucinate.com
 +.peethobo.com
 +.peewhouheeku.net
@@ -33557,7 +33543,6 @@
 +.small-discussion.com
 +.smallerfords.com
 +.smallestexpectedspecialty.com
-+.smallestspoutmuffled.com
 +.smallfunnybears.com
 +.smapp.work
 +.smarf.icu
@@ -37162,7 +37147,6 @@
 +.tracker.softcube.com
 +.tracker.sqreemtech.com
 +.tracker.srta.spectrum.com
-+.tracker.ssl0d.com
 +.tracker.stats.in.th
 +.tracker.str-nrg.com
 +.tracker.thichxemphim.net
