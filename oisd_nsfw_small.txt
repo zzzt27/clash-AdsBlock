@@ -1,9 +1,9 @@
-# Version: 202506061118
+# Version: 202506061317
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21694
-# Last modified: 2025-06-06T11:18:27+0000
+# Entries: 21695
+# Last modified: 2025-06-06T13:17:11+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18869,6 +18869,7 @@
 +.uaa003.com
 +.uaa004.com
 +.uaa005.com
++.uaa202410.com
 +.uabrides.com
 +.uaporn.net
 +.uaprostitute.com

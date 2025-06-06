@@ -1,9 +1,9 @@
-# Version: 202506061111
+# Version: 202506061310
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42110
-# Last modified: 2025-06-06T11:11:26+0000
+# Entries: 42109
+# Last modified: 2025-06-06T13:10:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4720,7 +4720,6 @@
 +.aiservice.vn
 +.aisiteanalytics.com
 +.aisleovershoe.com
-+.aiso.live
 +.aistat.net
 +.aistekso.net
 +.aitarsou.com
