@@ -1,9 +1,9 @@
-# Version: 202506061916
+# Version: 202506062022
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21743
-# Last modified: 2025-06-06T19:16:18+0000
+# Entries: 21745
+# Last modified: 2025-06-06T20:22:11+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2163,6 +2163,7 @@
 +.bestandfree.com
 +.bestasianp.com
 +.bestasianporn.cc
++.bestasianwomen.com
 +.bestbbwp.com
 +.bestbisexualdating.com
 +.bestbondagevideos.com
@@ -3668,6 +3669,7 @@
 +.colitahentai.su
 +.collarspace.com
 +.collectionofbestporn.com
++.collegehdsex.com
 +.collegehumor.com
 +.collegeporn.xxx
 +.collegerules.com
