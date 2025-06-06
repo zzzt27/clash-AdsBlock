@@ -1,9 +1,9 @@
-# Version: 202506060014
+# Version: 202506060214
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21685
-# Last modified: 2025-06-06T00:14:44+0000
+# Entries: 21686
+# Last modified: 2025-06-06T02:14:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19041,6 +19041,7 @@
 +.uzbek-sex.click
 +.uzbeklar-porn2.click
 +.uzbekseks.info
++.uzbekseks.site
 +.uzbekskiy.com
 +.uzbekskoe-porno.icu
 +.uzbekskoe.mobi
