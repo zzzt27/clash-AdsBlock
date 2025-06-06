@@ -1,9 +1,9 @@
-# Version: 202506061417
+# Version: 202506061517
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21696
-# Last modified: 2025-06-06T14:17:19+0000
+# Last modified: 2025-06-06T15:17:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1645,7 +1645,6 @@
 +.avdodee.com
 +.avdonna.com
 +.avelip.com
-+.avemmy.net
 +.avfhd.com
 +.avgle.com
 +.avgle.mobi
@@ -11733,6 +11732,7 @@
 +.myveryfirsttime.com
 +.myvideo.ge
 +.myvideos.club
++.myvideos.pro
 +.myvidster.com
 +.mywape.com
 +.mywebcamroom.com
