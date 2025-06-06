@@ -1,9 +1,9 @@
-# Version: 202506062022
+# Version: 202506062115
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21745
-# Last modified: 2025-06-06T20:22:11+0000
+# Entries: 21748
+# Last modified: 2025-06-06T21:15:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2937,6 +2937,7 @@
 +.bylki.info
 +.bylki.me
 +.bysex.click
++.bysex.live
 +.bysex.mobi
 +.bysex.net
 +.bysexc1.top
@@ -8339,6 +8340,7 @@
 +.hulkporn.net
 +.humaniplex.com
 +.humidorshop.at
++.humor-blog.com
 +.humoron.com
 +.humpaki.com
 +.humpinglife.com
@@ -18552,6 +18554,7 @@
 +.travestichat.fr
 +.travesticomlocal.com.br
 +.travestismexico.com
++.travestisvip.com.br
 +.traxvideos.com
 +.traxvideos2.com
 +.traxvideos3.com
