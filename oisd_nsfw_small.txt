@@ -1,9 +1,9 @@
-# Version: 202506060918
+# Version: 202506061057
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21689
-# Last modified: 2025-06-06T09:18:44+0000
+# Entries: 21692
+# Last modified: 2025-06-06T10:57:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1197,6 +1197,7 @@
 +.animehentaivideos2cn.com
 +.animeidhentai.com
 +.animelayer.ru
++.animember.net
 +.animemotivation.com
 +.animenation.net
 +.animeotk.com
@@ -7134,6 +7135,7 @@
 +.gvideos.net
 +.gwasi.com
 +.gylsx028.com
++.gyrls.com
 +.gyutto.com
 +.h-ani.com
 +.h-flash.com
@@ -17148,6 +17150,7 @@
 +.sm3ha.mx
 +.sm3na.com
 +.smalltits.pics
++.smartetc.eu
 +.smattermost.com
 +.smaxim.com.ua
 +.smaxim.net

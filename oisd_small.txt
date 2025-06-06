@@ -1,9 +1,9 @@
-# Version: 202506060829
+# Version: 202506061051
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 42115
-# Last modified: 2025-06-06T08:29:43+0000
+# Last modified: 2025-06-06T10:51:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -26080,6 +26080,7 @@
 +.needfulazafrin.shop
 +.needyscarcasserole.com
 +.neegreez.com
++.neekstore.com
 +.neephougroo.net
 +.negateacted.com
 +.negatebogfern.com
@@ -32599,7 +32600,6 @@
 +.satisfactoryhustlebands.com
 +.satisfactorymetalrub.com
 +.satlockspa.live
-+.satmon.neekstore.com
 +.sattiostiounper.com
 +.saturatemadman.com
 +.saturdaymarryspill.com
