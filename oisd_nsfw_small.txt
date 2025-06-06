@@ -1,9 +1,9 @@
-# Version: 202506061057
+# Version: 202506061118
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21692
-# Last modified: 2025-06-06T10:57:50+0000
+# Entries: 21694
+# Last modified: 2025-06-06T11:18:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7954,6 +7954,7 @@
 +.hornyjav.com
 +.hornyjerk.com
 +.hornyjourney.com
++.hornyleak.tv
 +.hornylines.com
 +.hornylips.com
 +.hornylust.com
@@ -11220,6 +11221,7 @@
 +.mkiska.cc
 +.mkiska.name
 +.mkiska.xyz
++.mkt1340.com
 +.mkt61.net
 +.mkt932.com
 +.mlive8.com

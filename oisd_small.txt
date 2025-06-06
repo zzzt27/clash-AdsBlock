@@ -1,9 +1,9 @@
-# Version: 202506061051
+# Version: 202506061111
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42115
-# Last modified: 2025-06-06T10:51:25+0000
+# Entries: 42110
+# Last modified: 2025-06-06T11:11:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9277,7 +9277,6 @@
 +.c12c813990.com
 +.c1595223cf.com
 +.c172a66e69.com
-+.c19ef6cf49.com
 +.c1exchange.com
 +.c2-eu.piano.io
 +.c22x1.xcdn.ovh
@@ -17295,7 +17294,6 @@
 +.fishermanslush.com
 +.fisheyeskimmed.click
 +.fishmenkabbala.com
-+.fisnogaferine.com
 +.fistevasionjoint.com
 +.fistofzeus.com
 +.fitbiomie.com
@@ -19726,6 +19724,7 @@
 +.heyzap.com
 +.hf5rbejvpwds.com
 +.hfdfyrqj-ws.club
++.hfdhrtca.com
 +.hfeoveukrn.info
 +.hffxc.com
 +.hfhppxseee.com
@@ -19750,7 +19749,6 @@
 +.hggcovkyhosxz.click
 +.hghit.com
 +.hgo06060uyi.com
-+.hgo06061uyi.com
 +.hgub2polye.com
 +.hh.jiankang.com
 +.hh9uc8r3.xyz
@@ -26229,6 +26227,7 @@
 +.newsformuse.com
 +.newsforyourmood.com
 +.newsfrompluto.com
++.newshentux.shop
 +.newsiesherbose.top
 +.newsignites.com
 +.newsinform.net
@@ -30244,7 +30243,6 @@
 +.qatsbesagne.com
 +.qavgacsmegav.com
 +.qavhivvcex.com
-+.qawzwkvqayelw.top
 +.qazjpdzhatxaw.vip
 +.qazrvobkmqvmr.top
 +.qbrth.ezcontacts.com
@@ -30281,7 +30279,6 @@
 +.qdoshby.top
 +.qdrmui.com
 +.qdvkgjfculfmr.site
-+.qdwmdikzudq.com
 +.qdxpid-bxcy.today
 +.qdzyspjx.com
 +.qebpwkxjz.com
@@ -39531,7 +39528,6 @@
 +.vv8h9vyjgnst.com
 +.vvadz.cc
 +.vvdrhe.win
-+.vvewkblbvezmq.top
 +.vvprcztaw.com
 +.vvttpn.xyz
 +.vvv.ieduw.com
@@ -40313,7 +40309,6 @@
 +.wkjvzljmxdzni.top
 +.wkoocuweg.com
 +.wktyyxtvwthxp.one
-+.wkwqljwjvkooz.top
 +.wkzw.me
 +.wl-analytics.tsp.li
 +.wl-cornholio.com
