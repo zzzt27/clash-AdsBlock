@@ -1,9 +1,9 @@
-# Version: 202506060835
+# Version: 202506060918
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21688
-# Last modified: 2025-06-06T08:35:35+0000
+# Entries: 21689
+# Last modified: 2025-06-06T09:18:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19832,6 +19832,7 @@
 +.worldsex.com
 +.worldshemalep.com
 +.worldstarhiphop.com
++.worldtraffic.trade
 +.worldtwinkp.com
 +.worldvintagep.com
 +.wow-mature.com
