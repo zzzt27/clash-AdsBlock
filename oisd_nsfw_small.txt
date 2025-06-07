@@ -1,9 +1,9 @@
-# Version: 202506071128
+# Version: 202506071627
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21760
-# Last modified: 2025-06-07T11:28:07+0000
+# Entries: 21763
+# Last modified: 2025-06-07T16:27:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -593,6 +593,7 @@
 +.adonismale.com
 +.adorableshot.com
 +.adoreo.com
++.adresmedikal.net
 +.adrt.ru
 +.adscontrol.link
 +.adsencounters.com
@@ -5834,6 +5835,7 @@
 +.flibzee.com
 +.flickporn.fun
 +.fling.com
++.flingradar.com
 +.flingster.com
 +.flipfucking.com
 +.flirt-spiel.de
@@ -19888,6 +19890,7 @@
 +.world-escort-guide.com
 +.worldasianp.com
 +.worldbbwp.com
++.worldbdsmp.com
 +.worldescortindex.com
 +.worldfreshp.com
 +.worldgayp.com
