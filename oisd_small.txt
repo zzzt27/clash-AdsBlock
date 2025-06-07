@@ -1,9 +1,9 @@
-# Version: 202506071221
+# Version: 202506072022
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42104
-# Last modified: 2025-06-07T12:21:21+0000
+# Entries: 42103
+# Last modified: 2025-06-07T20:22:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8983,7 +8983,6 @@
 +.btr.domywife.com
 +.btrace.qq.com
 +.btrack.homedy.com
-+.btrem.site
 +.bts-la.ucweb.com
 +.btstats.devtribu.fr
 +.bttrack.com
