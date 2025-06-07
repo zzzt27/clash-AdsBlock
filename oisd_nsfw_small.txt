@@ -1,9 +1,9 @@
-# Version: 202506071107
+# Version: 202506071128
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21758
-# Last modified: 2025-06-07T11:07:50+0000
+# Entries: 21760
+# Last modified: 2025-06-07T11:28:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14367,6 +14367,7 @@
 +.pornosveta112.com
 +.pornosvid.com
 +.pornotag.com
++.pornotagir.com
 +.pornotales.net
 +.pornotales.ru
 +.pornotane.net
@@ -20960,6 +20961,7 @@
 +.xxx-torrent.net
 +.xxx-tube-list.com
 +.xxx-tube-movie.com
++.xxx-vid.ink
 +.xxx-video.cc
 +.xxx-video.live
 +.xxx-videos.blog
