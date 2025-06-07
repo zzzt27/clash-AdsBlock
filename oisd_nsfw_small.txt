@@ -1,9 +1,9 @@
-# Version: 202506072027
+# Version: 202506072126
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21766
-# Last modified: 2025-06-07T20:27:36+0000
+# Entries: 21769
+# Last modified: 2025-06-07T21:26:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3390,6 +3390,7 @@
 +.chatib.us
 +.chatki.com
 +.chatlocali.com
++.chatmate.tv
 +.chatovka.net
 +.chatpiccanti.com
 +.chatplace.com
@@ -5970,6 +5971,7 @@
 +.fpkmgppu.ru
 +.fpo.xxx
 +.fptplay.net
++.fptplay.net.vn
 +.fr.nf
 +.france-vidcaps.org
 +.francexe.com
@@ -17472,6 +17474,7 @@
 +.strangercam.com
 +.strangercamchat.com
 +.strangercamgirls.com
++.strangervideochat.tv
 +.straplez.com
 +.straponscreen.com
 +.straponsfemdom.com
