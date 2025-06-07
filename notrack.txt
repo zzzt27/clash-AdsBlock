@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 07 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15765
+# Domain Count: 15764
 #===============================================================
 
 +.0i0i0i0.com
@@ -1974,7 +1974,6 @@
 +.loopaautomate.com
 +.loopme.me
 +.lotame.com
-+.louchees.net
 +.loxitdat.com
 +.lp4.io
 +.lpsnmedia.net
