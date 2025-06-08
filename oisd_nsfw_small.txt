@@ -1,9 +1,9 @@
-# Version: 202506080526
+# Version: 202506080625
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21773
-# Last modified: 2025-06-08T05:26:11+0000
+# Entries: 21774
+# Last modified: 2025-06-08T06:25:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9630,6 +9630,7 @@
 +.kasualapp.com
 +.kasurbokep.com
 +.kasut.org
++.kat.cr
 +.kat40.ru
 +.katawa-shoujo.com
 +.katestube.com
