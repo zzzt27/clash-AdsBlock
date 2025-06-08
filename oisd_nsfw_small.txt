@@ -1,9 +1,9 @@
-# Version: 202506081527
+# Version: 202506081727
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21779
-# Last modified: 2025-06-08T15:27:01+0000
+# Entries: 21780
+# Last modified: 2025-06-08T17:27:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10228,6 +10228,7 @@
 +.linkdolls.com
 +.linkgoed.nl
 +.linkgp.com.br
++.linkhotel.nl
 +.linkmetoporn.com
 +.linknet.be
 +.linkoverzicht.be
