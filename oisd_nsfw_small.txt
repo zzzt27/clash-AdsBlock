@@ -1,9 +1,9 @@
-# Version: 202506081727
+# Version: 202506081827
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21780
-# Last modified: 2025-06-08T17:27:43+0000
+# Entries: 21781
+# Last modified: 2025-06-08T18:27:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8948,6 +8948,7 @@
 +.iwexxx.com
 +.iwillcum.com
 +.ixiporn.foo
++.ixiporn.fyi
 +.ixiporn.info
 +.ixiporn8.com
 +.ixspublic.com
