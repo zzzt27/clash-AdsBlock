@@ -1,9 +1,9 @@
-# Version: 202506080326
+# Version: 202506080425
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21771
-# Last modified: 2025-06-08T03:26:56+0000
+# Entries: 21772
+# Last modified: 2025-06-08T04:25:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18868,6 +18868,7 @@
 +.turkcedublajporno.com
 +.turkeyescortgirls.com
 +.turkifsatube.com
++.turkifsatube.pro
 +.turnosweb.app
 +.tuscl.net
 +.tushy.com
