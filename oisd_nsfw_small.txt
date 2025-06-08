@@ -1,9 +1,9 @@
-# Version: 202506081827
+# Version: 202506081927
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21781
-# Last modified: 2025-06-08T18:27:34+0000
+# Entries: 21782
+# Last modified: 2025-06-08T19:27:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3846,6 +3846,7 @@
 +.crossiety.app
 +.crot.cam
 +.crouchserf.com
++.croxy.red
 +.crsspxl.com
 +.crueldommes.com
 +.cruisingforsex.com
@@ -17156,6 +17157,7 @@
 +.sisterporn.tv
 +.sisurl.com
 +.sisurl.net
++.site123.me
 +.sitedesex.com
 +.siterips.org
 +.siteripz.cc
@@ -21395,7 +21397,6 @@
 +.xxxzootube.com
 +.xyouxxx.com
 +.xyzcomics.com
-+.xyzpic.cyou
 +.xyzporncomics.com
 +.xzhentai.net
 +.xzooz.su
