@@ -1,9 +1,9 @@
-# Version: 202506081207
+# Version: 202506081426
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21776
-# Last modified: 2025-06-08T12:07:37+0000
+# Entries: 21778
+# Last modified: 2025-06-08T14:26:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5090,6 +5090,7 @@
 +.eroxxxvids.cc
 +.erozero.org
 +.erozona.cc
++.erozone.com
 +.errio.net
 +.errotica-archives.com
 +.errrotica.com
@@ -11309,6 +11310,7 @@
 +.mobifcuk.com
 +.mobile-xnxx.com
 +.mobile-xvideos.com
++.mobilelegends.com
 +.mobilepornmovies.com
 +.mobiporno.info
 +.mobisony.ru
