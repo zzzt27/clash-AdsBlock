@@ -1,9 +1,9 @@
-# Version: 202506080025
+# Version: 202506080326
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21770
-# Last modified: 2025-06-08T00:25:29+0000
+# Entries: 21771
+# Last modified: 2025-06-08T03:26:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -407,6 +407,7 @@
 +.777partner.com
 +.78in.net
 +.792xxx.com
++.7ba.ru
 +.7dak.com
 +.7mmtv.me
 +.7mmtv.sx
