@@ -1,9 +1,9 @@
-# Version: 202506080948
+# Version: 202506081026
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21773
-# Last modified: 2025-06-08T09:48:29+0000
+# Entries: 21775
+# Last modified: 2025-06-08T10:26:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10267,6 +10267,7 @@
 +.livefeeds.club
 +.livefreecamx.com
 +.livefreshporn.com
++.livegirls-news.com
 +.livegirls-secrets.com
 +.livegore.com
 +.livehdcams.com
@@ -18480,6 +18481,7 @@
 +.totallynsfw.com
 +.totemcash.com
 +.totempole666.com
++.totohentai.com
 +.totporno.com
 +.touchmymelons.com
 +.touchmywife.com
