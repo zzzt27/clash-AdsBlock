@@ -1,9 +1,9 @@
-# Version: 202506092126
+# Version: 202506092226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21776
-# Last modified: 2025-06-09T21:26:50+0000
+# Entries: 21775
+# Last modified: 2025-06-09T22:26:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3100,6 +3100,7 @@
 +.camhub.world
 +.camillaaraujo.net
 +.camjoie.com
++.camliveshows.com
 +.camloo.com
 +.camloop.com
 +.camlovers.tv
@@ -11805,7 +11806,6 @@
 +.mypornstarblogs.com
 +.mypornstarbook.net
 +.myporntape.com
-+.mypornu.com
 +.mypovcams.com
 +.myprivatefling.com
 +.mypussypics.com
@@ -13151,7 +13151,6 @@
 +.phimsexmax.com
 +.phimsexne.me
 +.phimsexs.cc
-+.phimsexsub.dev
 +.phimsexsub.forum
 +.phimsexsub.host
 +.phimsexsubs.com
@@ -13602,6 +13601,7 @@
 +.pornbay.org
 +.pornbay.tv
 +.pornbb.org
++.pornbb.xyz
 +.pornbest.co
 +.pornbest.org
 +.pornbestpics.com
@@ -16140,6 +16140,7 @@
 +.sex8.cc
 +.sexabc.ch
 +.sexable.tv
++.sexacartoon.com
 +.sexadept.com
 +.sexadultcomics.com
 +.sexadvisor.com
@@ -18706,7 +18707,6 @@
 +.trypornotube.com
 +.trypornsite.com
 +.tryprn.com
-+.trysexdolls.top
 +.tryshemalesex.com
 +.tryst.link
 +.trystagency.com
@@ -19211,7 +19211,6 @@
 +.vamateur.com
 +.vampire69blog.com
 +.vamvideo.com
-+.vanderlindemedia.nl
 +.vanessadelriomovies.com
 +.varishangout.net
 +.vastserve.com
