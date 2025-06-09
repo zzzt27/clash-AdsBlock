@@ -1,9 +1,9 @@
-# Version: 202506092027
+# Version: 202506092126
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21775
-# Last modified: 2025-06-09T20:27:55+0000
+# Entries: 21776
+# Last modified: 2025-06-09T21:26:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -783,6 +783,7 @@
 +.ahbul.com
 +.ahegao.online
 +.ahentaitv.com
++.ahh.az
 +.ahindian.com
 +.ahlamontada.com
 +.ahlamontada.net
@@ -8953,7 +8954,6 @@
 +.isoporno.com
 +.isotope.com
 +.israel-lady.co.il
-+.israelnightclub.com
 +.israelxclub.co.il
 +.isratv.ru
 +.ist34ajans3.com
@@ -10217,7 +10217,6 @@
 +.letsporn.com
 +.letspostit.com
 +.letsxnxx.com
-+.letzte-chance.link
 +.levelsex.com
 +.lewd.ninja
 +.lewdchat.com
@@ -11086,7 +11085,6 @@
 +.melapelocondibujos.com
 +.melapelogays.com
 +.melayupanas.com
-+.melayuseksvideo.org
 +.melkormancin.com
 +.meloncams.com
 +.melonsclips.com
@@ -15746,6 +15744,8 @@
 +.rusvideos.porn
 +.rusvideos.pro
 +.rusxy.com
++.rutor.info
++.rutor.is
 +.rutubet.info
 +.ruvideos.net
 +.ruxvideos.com
@@ -18056,6 +18056,7 @@
 +.thaigirlswild.com
 +.thaihotmodels.com
 +.thaihubx.tv
++.thailandredcat.com
 +.thaimassagejasmine.com
 +.thaipornhd.com
 +.thaiporntv.com
