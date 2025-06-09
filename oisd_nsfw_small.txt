@@ -1,9 +1,9 @@
-# Version: 202506090826
+# Version: 202506090926
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21902
-# Last modified: 2025-06-09T08:26:27+0000
+# Entries: 21903
+# Last modified: 2025-06-09T09:26:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -422,6 +422,7 @@
 +.85po.com
 +.85st.us
 +.870.jp
++.8888.porn
 +.888companions.com
 +.88av.one
 +.88p2p.com
@@ -582,6 +583,7 @@
 +.adanaescortbayan.com.tr
 +.adanaescorthot.com
 +.adanaescortportal.com
++.adanatuningclup.com
 +.adasha.co.il
 +.add-porn.com
 +.addescorts.com
@@ -3796,7 +3798,6 @@
 +.coolgaymovies.com
 +.coolinet.me
 +.coolinet.net
-+.cooliris.com
 +.coollesbianporn.com
 +.coolporns.com
 +.coolsexnew.com
@@ -4703,7 +4704,6 @@
 +.dvderotik.com
 +.dvdgayonline.com
 +.dvdl.net
-+.dvdrev.com
 +.dvdvideosoft.net
 +.dvir.ru
 +.dwporn.com
@@ -7165,7 +7165,6 @@
 +.grand-casino.com
 +.grandmammamovies.com
 +.grandmasluts.com
-+.grannarium.com
 +.grannflirten.com
 +.granniessex.net
 +.granniestomeet.com
@@ -8413,6 +8412,7 @@
 +.hqtube.xxx
 +.hqtubebank2.com
 +.hqvintagetube.com
++.hqwo.cc
 +.hriesnetuzby.com
 +.hrifunesguesthouse.is
 +.hrvatskiporno.com
@@ -11652,6 +11652,7 @@
 +.msktelki.net
 +.mssboard.com
 +.msyaronline.com
++.mtav.art
 +.mtree.com
 +.muah.ai
 +.muarab.net
@@ -14756,6 +14757,7 @@
 +.pornvide.net
 +.pornviden.com
 +.pornvideo.cam
++.pornvideo.fans
 +.pornvideo.rodeo
 +.pornvideo.wtf
 +.pornvideo4.com
@@ -15959,7 +15961,6 @@
 +.scortrio.com
 +.scout69.com
 +.scouted-today.me
-+.scribblehub.com
 +.scriptbin.works
 +.scrolller.com
 +.scrolller.online
