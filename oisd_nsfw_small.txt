@@ -1,9 +1,9 @@
-# Version: 202506091357
+# Version: 202506091428
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21900
-# Last modified: 2025-06-09T13:57:41+0000
+# Entries: 21901
+# Last modified: 2025-06-09T14:28:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1790,7 +1790,6 @@
 +.babeherder.com
 +.babeimpact.com
 +.babeland.com
-+.babepedia.com
 +.babeporn.org
 +.baberankings.com
 +.baberas.com
@@ -4541,7 +4540,6 @@
 +.domporno.tv
 +.domywife.com
 +.don-m.com
-+.doncolombia.com
 +.donkparty.com
 +.donmai.us
 +.donnecercauomo.xxx
@@ -8280,6 +8278,7 @@
 +.hotpornpile.com
 +.hotpornslut.com
 +.hotporntube.co
++.hotporntube.sbs
 +.hotporntube.xyz
 +.hotporntubes.com
 +.hotpornvideos.tv
@@ -15985,6 +15984,7 @@
 +.secretfriends.com
 +.secrethostess.com
 +.secretloversnearby.com
++.secrettantric.com
 +.sectorvip.cl
 +.seduced.com
 +.seductionspa.ca
@@ -16872,6 +16872,7 @@
 +.sexwithmuslims.com
 +.sexworld3d.com
 +.sexx-tube.com
++.sexxcommunity.com
 +.sexxcup.com
 +.sexxmilf.com
 +.sexxmy.pro
