@@ -1,9 +1,9 @@
-# Version: 202506100526
+# Version: 202506100626
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21782
-# Last modified: 2025-06-10T05:26:35+0000
+# Last modified: 2025-06-10T06:26:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -169,7 +169,6 @@
 +.21naturals.com
 +.21sextreme.com
 +.21sextury.com
-+.21vv.me
 +.22cam.com
 +.236avporn.com
 +.24-video.com
@@ -5880,6 +5879,7 @@
 +.fitnakedgirls.com
 +.fitting-room.com
 +.fivestarpornsites.com
++.fixed-staging.co.uk
 +.fkbae.to
 +.fkk-museum.de
 +.flagrasamadores.net
@@ -7831,7 +7831,6 @@
 +.heyzo.com
 +.hgays.com
 +.hgsitebuilder.com
-+.hh-panda.com
 +.hhentai.fr
 +.hhmanga.com
 +.hi-wife.com
@@ -12879,6 +12878,7 @@
 +.packspormega.store
 +.packsxxx.net
 +.pagalworld.asia
++.pageprotect.net
 +.pages03.net
 +.paginelucirosse.it
 +.paheal.net
