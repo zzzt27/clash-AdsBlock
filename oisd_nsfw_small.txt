@@ -1,9 +1,9 @@
-# Version: 202506100626
+# Version: 202506100726
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21782
-# Last modified: 2025-06-10T06:26:34+0000
+# Entries: 21783
+# Last modified: 2025-06-10T07:26:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2554,6 +2554,7 @@
 +.bloglag.com
 +.blogofsex.com
 +.blogs.fr
++.blogsport.com
 +.blogspost.com
 +.blogvporn.com
 +.blovjob.com
@@ -3351,7 +3352,6 @@
 +.celebsporno.com
 +.celebsroulette.com
 +.celebsunmasked.com
-+.celebuzz.com
 +.celibatairesaproximite.com
 +.celibatairesduweb.com
 +.celibest.com
@@ -3886,6 +3886,7 @@
 +.crushwithaneighbor.com
 +.cruxforums.com
 +.crxs.me
++.crystalmilfpics.com
 +.csakporno.hu
 +.csaladinet.hu
 +.css.edu
@@ -7758,6 +7759,7 @@
 +.hentaivn.dev
 +.hentaivn.info
 +.hentaivn.shop
++.hentaivn.skin
 +.hentaivn.world
 +.hentaivnx.art
 +.hentaivnx.autos
@@ -9899,7 +9901,6 @@
 +.koptim-sami.ru
 +.korean-sex.com
 +.koreanbj.club
-+.koreanfakes.com
 +.koreanpornmovie.com
 +.koreansex.tv
 +.koreaporn.tv
@@ -13196,7 +13197,6 @@
 +.photosdefillesporno.com
 +.photosex.biz
 +.photosexx.ru
-+.phpremium.com
 +.phrendly.com
 +.phun.org
 +.phunuonline.com.vn
@@ -13571,6 +13571,7 @@
 +.pornadept.com
 +.pornado.co
 +.pornado.xxx
++.pornadult.info
 +.pornai.chat
 +.pornalia.xxx
 +.pornalien.com
@@ -16310,7 +16311,6 @@
 +.sexgifs.me
 +.sexgify.com
 +.sexgirlfriend.com
-+.sexgolpo.org
 +.sexgps.net
 +.sexgr.net
 +.sexhardtubes.com
@@ -17726,6 +17726,7 @@
 +.sxyprn.net
 +.sxyprnxxx.com
 +.sxyspy.top
++.szex-tortenetek.com
 +.szex.tube
 +.szex24.hu
 +.szexaruhaz.hu
