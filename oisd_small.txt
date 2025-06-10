@@ -1,9 +1,9 @@
-# Version: 202506101145
+# Version: 202506101221
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42460
-# Last modified: 2025-06-10T11:45:58+0000
+# Entries: 42457
+# Last modified: 2025-06-10T12:21:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14083,7 +14083,6 @@
 +.dentiststockunsoiled.com
 +.denudeobarni.com
 +.denydrughim.live
-+.deobp.com
 +.deostr.com
 +.dep.hmgroup.com
 +.depart.trinitymedia.ai
@@ -19814,7 +19813,6 @@
 +.hetnu.com
 +.heukmsactivator.com
 +.heukpiroot.com
-+.hewomenentail.com
 +.hexagon-analytics.com
 +.hexarchotto.shop
 +.hexusads.fluent.ltd.uk
@@ -39621,7 +39619,6 @@
 +.visitping.rossel.be
 +.visitpipe.com
 +.visitstats.com
-+.visitswigspittle.com
 +.visitweb.com
 +.visor.sberbank.ru
 +.vistoolr.net
