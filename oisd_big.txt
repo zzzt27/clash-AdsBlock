@@ -1,9 +1,9 @@
-# Version: 202506111458
+# Version: 202506111520
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184892
-# Last modified: 2025-06-11T14:58:49+0000
+# Entries: 184905
+# Last modified: 2025-06-11T15:20:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2195,6 +2195,7 @@
 +.24smi.site
 +.24smi.ws
 +.24smi.xyz
++.24specailnews.online
 +.24start.com
 +.24stranrdwfrikacja.167079.com
 +.24support.cc
@@ -13011,6 +13012,7 @@
 +.affnamzwon.com
 +.affocvendi.pro
 +.affolglyco.pro
++.affondisul.com
 +.affordablefacades.com
 +.affordablehousingaid.com
 +.affordableukholidays.com
@@ -31705,6 +31707,7 @@
 +.btbventuresprod.112.2o7.net
 +.btc-06-bumex.net
 +.btc-11x-lexipro.com
++.btc-11x-lexipro.net
 +.btc-bumex-6a.com
 +.btc-bumex.net
 +.btc-electrum.com
@@ -45945,6 +45948,7 @@
 +.currenthivescoop.com
 +.currenthotstories.click
 +.currenthubconnects.com
++.currentinfocuriosities.com
 +.currentinfofeed.com
 +.currentinfohub.info
 +.currentiyattyahoocom.boxmode.io
@@ -55082,6 +55086,7 @@
 +.drwiiuogwlu.com
 +.drxrc.com
 +.dry.beyondk12surveys.com
++.dryanchor.biz
 +.dryazilim.com
 +.drydesertsandscorch.pro
 +.drydwezfas.com
@@ -63761,6 +63766,7 @@
 +.few-peppermint-dungeon.glitch.me
 +.few-politics.com
 +.fewergkit.com
++.fewhubs.com
 +.fewjuice.com
 +.fewkittens.com
 +.fewo-buchenblick.de
@@ -68174,6 +68180,7 @@
 +.funny-over.com
 +.funnygoldfish.pro
 +.funnymanatee.pro
++.funnypigs.website
 +.funnyreign.com
 +.funnysearch.net
 +.funnysignage.com
@@ -111180,6 +111187,7 @@
 +.newsadst.com
 +.newsagsfont.top
 +.newsalchemyonline.com
++.newsalchemyspotlight.com
 +.newsalertnl.click
 +.newsarticlenorus.com
 +.newsatads.com
@@ -111329,6 +111337,7 @@
 +.newspolandinvestgovtokeninf.com
 +.newsportalforthright.online
 +.newsprofin.com
++.newspub24.website
 +.newspulse24.life
 +.newspush.sinajs.cn
 +.newsquenchweb.com
@@ -135425,6 +135434,7 @@
 +.repealsyapping.shop
 +.repeated-even-windshield.glitch.me
 +.repeatsweater.com
++.repellatfugiat.top
 +.repellen.com
 +.repelmedia.com
 +.repentant-plant.pro
@@ -139966,6 +139976,7 @@
 +.sadiqfeeds.com
 +.sadjk.com
 +.sadloaf.com
++.sadnews.website
 +.sadobeanalytics.geico.com
 +.sadobeanalytics.medline.com
 +.sadobemetrics.dr.dk
@@ -154296,6 +154307,7 @@
 +.story-story.life
 +.story.brookviewassociates.com
 +.story.politikinsider.pro
++.storyfeedstream.com
 +.storyforgefeed.com
 +.storygize.net
 +.storyhaven.pro
@@ -162024,6 +162036,7 @@
 +.todayspeaks.com
 +.todayswigcontagious.com
 +.todaytime.net
++.todaytrendtracker.com
 +.toddb007.myportfolio.com
 +.toddhayes.com
 +.toddlecausebeeper.com
