@@ -1,9 +1,9 @@
-# Version: 202506112020
+# Version: 202506112120
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42459
-# Last modified: 2025-06-11T20:20:56+0000
+# Entries: 42451
+# Last modified: 2025-06-11T21:20:21+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -682,7 +682,6 @@
 +.2waky.com
 +.2wink.com.au
 +.2wu0m0ms098w7148.xyz
-+.2xs4eumlc.com
 +.2ydian.com
 +.3.5646.cn
 +.3.cjcp.cn
@@ -23307,7 +23306,6 @@
 +.lishibu.com
 +.lispaircraftcraziness.com
 +.listenedarsonproceedings.com
-+.listenedmusician.com
 +.listenerhooter.com
 +.listhugdab.live
 +.listoukectivetr.com
@@ -23528,7 +23526,6 @@
 +.locpikbb.icu
 +.locusflourishgarlic.com
 +.locust.ausrebellion.earth
-+.lodgesweet.com
 +.lofqvl.icu
 +.loftsbaacad.com
 +.log-ana.h3z.jp
@@ -25078,7 +25075,6 @@
 +.mfadsrvr.com
 +.mfbvgcjkqpxup.xyz
 +.mfkfkhfhmfkfkhfh.top
-+.mfrgfuaq.com
 +.mfuodmpu.com
 +.mfyavsmiha.com
 +.mfyktikuvq.com
@@ -28658,7 +28654,6 @@
 +.perhapsdrivewayvat.com
 +.perigshfnon.com
 +.perilastronaut.com
-+.periodspoppyrefuge.com
 +.perksyringefiring.com
 +.perky-method.com
 +.perkyexcitedlyscenario.com
@@ -30114,7 +30109,6 @@
 +.pubfeed.linkby.com
 +.pubfruitlesswording.com
 +.pubfuture-ad.com
-+.pubfutureads.com
 +.pubgalaxy.com
 +.pubguru.net
 +.pubhipvuvrc.com
@@ -31124,7 +31118,6 @@
 +.receptiongrimoddly.com
 +.receptivity.io
 +.recessionspeaksanybody.com
-+.rechanque.com
 +.recharsemiarc.com
 +.recipientmuseumdismissed.com
 +.recitalscallop.com
@@ -32923,7 +32916,6 @@
 +.scatulalactate.com
 +.scavelbuntine.life
 +.scenbe.com
-+.scendho.com
 +.scenedaybreakpatronize.com
 +.scenegaitlawn.com
 +.scenescrockery.com
