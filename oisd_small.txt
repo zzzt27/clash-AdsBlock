@@ -1,9 +1,9 @@
-# Version: 202506111320
+# Version: 202506111459
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42541
-# Last modified: 2025-06-11T13:20:41+0000
+# Entries: 42526
+# Last modified: 2025-06-11T14:59:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3553,7 +3553,6 @@
 +.ads.imbc.com
 +.ads.imgdesu.art
 +.ads.imgur.com
-+.ads.imovideo.ru
 +.ads.impulsosocial.online
 +.ads.inegolonline.com
 +.ads.inetgroup.vn
@@ -4312,8 +4311,6 @@
 +.adx-dre.op.hicloud.com
 +.adx-exchange.toast.com
 +.adx-open-service.youku.com
-+.adx-os.bridgeoos.com
-+.adx-sg-req.bridgeoos.com
 +.adx.36kr.com
 +.adx.ads.heytapmobi.com
 +.adx.appsdk.com.cn
@@ -6160,7 +6157,6 @@
 +.api.blackcrow.ai
 +.api.bluerunningshadow.com
 +.api.boclinkads.com
-+.api.bridgeoos.com
 +.api.brs.intl.miui.com
 +.api.bugsnag.com
 +.api.bytebrew.io
@@ -8908,6 +8904,7 @@
 +.bridalplums.com
 +.bridegaspjustification.com
 +.bridgearchly.com
++.bridgeoos.com
 +.bridlealacrityleak.com
 +.brief-secret.com
 +.briefaccusationaccess.com
@@ -13794,7 +13791,6 @@
 +.datingtopgirls.com
 +.datingvr.ru
 +.datjwuqifa.com
-+.datk.bridgeoos.com
 +.datlngllfes.net
 +.datqagdkurce.com
 +.datrmuazno.com
@@ -16905,7 +16901,6 @@
 +.fasder12.store
 +.fasfsv-sli.love
 +.fasgazazxvi.com
-+.fashionablegangsterexplosion.com
 +.fastad.beepworld.de
 +.fastapi.net
 +.fastcdn.info
@@ -22384,7 +22379,6 @@
 +.kihudevo.pro
 +.kiklazopnqce.com
 +.kikmpahfaj.com
-+.kikoucuy.net
 +.killconvincing.com
 +.kiloh.ovh
 +.kiltcusks.shop
@@ -22528,7 +22522,6 @@
 +.knitfuseactor.com
 +.knittedcourthouse.com
 +.knivesprincessbitterness.com
-+.knivessimulatorherein.com
 +.knkkpmtdesg.com
 +.knlympeye.com
 +.knobbedlevator.top
@@ -22748,7 +22741,6 @@
 +.kypjzznihczh.online
 +.kyyfsw.xyz
 +.kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
-+.kzcxpsgytvfy.com
 +.kzfslblsahnou.life
 +.kzgwhioswkztt.one
 +.kzt2afc1rp52.com
@@ -25279,7 +25271,6 @@
 +.mischiefrealizationbraces.com
 +.miserable-physical.com
 +.miserable-thing.pro
-+.miserly-phone.com
 +.miseryclevernessusage.com
 +.miskenish.com
 +.misknewrerow.shop
@@ -25911,7 +25902,6 @@
 +.mutipugly.com
 +.mutsjeamenism.com
 +.mutteredadisa.com
-+.muwgqcms.com
 +.muwmedia.com
 +.muzarabeponym.website
 +.muzoohat.net
@@ -27047,7 +27037,6 @@
 +.oahvmrbvqsuey.online
 +.oainternetservices.com
 +.oainzuo.xyz
-+.oakapsot.com
 +.oakbustrp.com
 +.oakchokerfumes.com
 +.oaklesy.com
@@ -27270,7 +27259,6 @@
 +.offerwall.yandex.net
 +.offfurreton.com
 +.office1266.fun
-+.officerdiscontentedalley.com
 +.officetablntry.org
 +.officialkmspico.com
 +.offinfernaper.com
@@ -30369,7 +30357,6 @@
 +.pushprofit.net
 +.pushqwer.com
 +.pushrase.com
-+.pushrb.pro
 +.pushsar.com
 +.pushserve.xyz
 +.pushtimize.com
@@ -31797,7 +31784,6 @@
 +.rixengine.com
 +.rixibe.xyz
 +.rjmjflkndiqxw.site
-+.rjokawzwvryra.top
 +.rjowzlkaz.today
 +.rjvzjn.top
 +.rjw4obbw.com
@@ -40104,7 +40090,6 @@
 +.watchtower.graindata.com
 +.waterboa.midu.dev
 +.waterboa.nighttrain.co
-+.waterfallchequeomnipotent.com
 +.waterfrontdisgustingvest.com
 +.waterfrontfewersuccessive.com
 +.waterwithhiswing.com
