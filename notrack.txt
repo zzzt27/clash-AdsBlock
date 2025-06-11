@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 11 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15762
+# Domain Count: 15760
 #===============================================================
 
 +.0i0i0i0.com
@@ -14197,7 +14197,6 @@
 +.salesfire.co.uk
 +.salesloft.com
 +.salesmanago.pl
-+.samsungadhub.com
 +.samsungads.com
 +.sanalytics.disneyplus.com
 +.sanalytics.verizon.com
@@ -15532,7 +15531,6 @@
 +.useinsider.com
 +.useitbetter.com
 +.usemessages.com
-+.user-api.com
 +.usermetrics.lidlplus.com
 +.userreplay.net
 +.userreport.com
