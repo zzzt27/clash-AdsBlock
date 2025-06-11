@@ -1,9 +1,9 @@
-# Version: 202506110620
+# Version: 202506110720
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42432
-# Last modified: 2025-06-11T06:20:21+0000
+# Entries: 42421
+# Last modified: 2025-06-11T07:20:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1293,7 +1293,6 @@
 +.75003826de.8619047757.com
 +.75114620.xyz
 +.75264920.xyz
-+.75357f7aec.f5ea66a9f7.com
 +.75485667.xyz
 +.75690049.xyz
 +.75h4x7992.com
@@ -3679,7 +3678,6 @@
 +.ads.travelaudience.com
 +.ads.trinitymirror.co.uk
 +.ads.tripod.com
-+.ads.tripod.lycos.co.uk
 +.ads.tripod.lycos.de
 +.ads.tripod.lycos.es
 +.ads.tripod.lycos.nl
@@ -10107,7 +10105,6 @@
 +.cfivfadtlr.com
 +.cfpushsdevpw.com
 +.cftpolished1.top
-+.cftpolished2.top
 +.cftpolished4.top
 +.cftpolished5.top
 +.cfuonmexmmewy.fun
@@ -23286,7 +23283,6 @@
 +.litpluming.com
 +.litrefloored.com
 +.litteracywing.pro
-+.littlecdn.com
 +.littlecutecats.com
 +.littlecutelions.com
 +.littlegirlies.org
@@ -23964,7 +23960,6 @@
 +.lorswhowishe.com
 +.lorybnfh.com
 +.losingoldfry.com
-+.losingtiger.com
 +.lost-beyond.pro
 +.lostinfuture.com
 +.lotreal.com
@@ -25214,7 +25209,6 @@
 +.misstrends.com
 +.missyesera.live
 +.misterbangingfancied.com
-+.misterdefrostale.com
 +.mistletoeethicleak.com
 +.mistletoejobless.com
 +.misty-eyed.boats
@@ -26223,7 +26217,6 @@
 +.negyuk.com
 +.neighborhood268.fun
 +.neighboringoatmeal.com
-+.neitherpennylack.com
 +.neladyhe.com
 +.nelhon.com
 +.nellads.com
@@ -29226,7 +29219,6 @@
 +.pmzer.com
 +.pmzlnt.xyz
 +.pn.ybp.yahoo.com
-+.pncvaoh.com
 +.pnd.gs
 +.pnekru6pxrum-a.akamaihd.net
 +.pnhorlcjtrfau.vip
@@ -32308,7 +32300,6 @@
 +.rts.mobula.sdk.duapps.com
 +.rttr2.zaycev.net
 +.rtty.in
-+.rtuew.xyz
 +.rtuinrjezwkj.love
 +.rtxfeed.com
 +.rtxpx-a.akamaihd.net
@@ -33731,7 +33722,6 @@
 +.simmeringsuitableunwoven.com
 +.simple-store.pro
 +.simpli.fi
-+.simpunok.com
 +.simqirrzao.com
 +.simrreop.com
 +.sinatraquonset.click
@@ -33801,7 +33791,6 @@
 +.sjgtsqnmrqswz.space
 +.sjluuom.icu
 +.sjqgmtyxlrjlc.top
-+.sjrejapufeaixvr.com
 +.sjsabb.com
 +.sjtactic.com
 +.sk.429men.com
