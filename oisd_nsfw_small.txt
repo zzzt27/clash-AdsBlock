@@ -1,9 +1,9 @@
-# Version: 202506122126
+# Version: 202506122226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20836
-# Last modified: 2025-06-12T21:26:23+0000
+# Entries: 20843
+# Last modified: 2025-06-12T22:26:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -201,6 +201,7 @@
 +.24xxx.in
 +.24xxx.love
 +.24xxx.me
++.24xxx.men
 +.24xxx.porn
 +.24yed.com
 +.250free.com
@@ -3284,6 +3285,7 @@
 +.chatsexne.com
 +.chatspin.com
 +.chattercams.net
++.chattijd.nl
 +.chatubate.me
 +.chatubate.net
 +.chatulmeulocal.com
@@ -3582,6 +3584,7 @@
 +.commissie.online
 +.commonsupport.com
 +.completeporndatabase.com
++.compositeenvisions.com
 +.compressorair.ru
 +.conejitashot.com
 +.conejox.com
@@ -4156,6 +4159,7 @@
 +.dhs.org
 +.dial.to
 +.dialog-mebel.ru
++.diamondsexshop.hu
 +.dianxiatrads.com
 +.diaper-bois.com
 +.diaper.community
@@ -4931,6 +4935,7 @@
 +.escortbayanlariz.net
 +.escortbayanumraniye.com
 +.escortboard.de
++.escortbook.com
 +.escortdex.com
 +.escortdimension.net
 +.escortdirectory.com
@@ -11015,6 +11020,7 @@
 +.movies07prime.com
 +.movies123-online.me
 +.moviesarena.com
++.moviesonlinefree.site
 +.moviessexscenes.com
 +.moviexxx.pro
 +.movilhentai.com
@@ -16600,6 +16606,7 @@
 +.spizoo.com
 +.spnati.net
 +.spornox.page
++.sport.blog
 +.sportbud.org
 +.spr.ru
 +.spreee.name
@@ -16621,7 +16628,6 @@
 +.squirtingclips.com
 +.srbam.com
 +.srecniljudi.com
-+.srganzo.com
 +.srpacks.com
 +.ssis.vip
 +.sslkn.club
@@ -20327,6 +20333,7 @@
 +.xxxsexzoo.com
 +.xxxshake.com
 +.xxxshame.com
++.xxxsharks.com
 +.xxxshemaleporn.com
 +.xxxshow.org
 +.xxxsnatch.com
