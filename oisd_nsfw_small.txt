@@ -1,9 +1,9 @@
-# Version: 202506121629
+# Version: 202506121728
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20811
-# Last modified: 2025-06-12T16:29:17+0000
+# Entries: 20825
+# Last modified: 2025-06-12T17:28:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -72,6 +72,7 @@
 +.18adultgames.com
 +.18asiansex.com
 +.18asiantube.com
++.18avx.com
 +.18candygirls.com
 +.18ccc.tv
 +.18comic.org
@@ -589,6 +590,7 @@
 +.adultchat.pro
 +.adultchatdatingsites.com
 +.adultcomixxx.com
++.adultcrush.com
 +.adultdatelink.org
 +.adultdatingaustralia.net
 +.adultdatingfriends.biz
@@ -3462,6 +3464,7 @@
 +.clipesdesexo.com
 +.clipf.com
 +.cliphot102.com
++.cliphotnew19.com
 +.cliphotvietnam.com
 +.cliphotvl.com
 +.cliphotvn.blog
@@ -3824,6 +3827,7 @@
 +.czechvr.com
 +.czechvrfetish.com
 +.czechvrnetwork.com
++.czin.eu
 +.d0g.dog
 +.d0g.monster
 +.d0g.space
@@ -5431,6 +5435,7 @@
 +.fetischpartner.com
 +.fetish-games.com
 +.fetish-island.com
++.fetish-master.net
 +.fetish-matters.com
 +.fetish-matters.net
 +.fetish-porn.xyz
@@ -5454,6 +5459,7 @@
 +.fetoo.com
 +.fetside.com
 +.fetster.com
++.fevergame.net
 +.fevian.org
 +.fewmovies.com
 +.fewporn.pro
@@ -5967,6 +5973,7 @@
 +.freyalist.com
 +.frezeporn.site
 +.frictionparties.com
++.fridae.asia
 +.friendfinder-x.com
 +.friendfinder.com
 +.friends-with-benefits.com
@@ -9025,6 +9032,7 @@
 +.jezebelcams.com
 +.jfsexy.com.br
 +.jieav.com
++.jigidi.com
 +.jigporn.com
 +.jikuw.org
 +.jil-hub.com
@@ -11423,6 +11431,7 @@
 +.napiszar.hu
 +.napiszex.com
 +.napiszex.hu
++.napoleonhof.at
 +.naralsex.com
 +.narezki-podborki.one
 +.narod.ru
@@ -11565,6 +11574,7 @@
 +.newmilfpornpics.com
 +.newmodim.com
 +.newnaughtyneighbors.com
++.newonlineporn.com
 +.newpcollection.com
 +.newporn.xyz
 +.newporn69.com
@@ -11579,6 +11589,7 @@
 +.newsexwap.com
 +.newshemalemodels.com
 +.newshemaletube.com
++.newstudio.tv
 +.newtransnudes.com
 +.newtwinkporn.com
 +.newvideochats.com
@@ -12406,7 +12417,6 @@
 +.peladas69.xxx
 +.peliculaseroticasonline.net
 +.peliculaseroticass.com
-+.peliculaspornonline.com
 +.pelisplus.today
 +.pelisxporno.net
 +.pelotok.net
@@ -12802,6 +12812,7 @@
 +.popunder.ru
 +.popxo.com
 +.porapoparam.com
++.porcore.com
 +.poreo.tv
 +.porevohd.com
 +.porevorusskoe369.com
@@ -18053,6 +18064,7 @@
 +.tvporntube.com
 +.tvrezka.net
 +.tvsexe.com
++.tvsquad.com
 +.tvto.ru
 +.tvtuga.org
 +.twanal.com
@@ -19946,6 +19958,7 @@
 +.xwwx.com
 +.xx-cel.com
 +.xx-videos.online
++.xx.pl
 +.xxam.org
 +.xxarxx.co
 +.xxav.one
@@ -20067,6 +20080,7 @@
 +.xxx69tube.com
 +.xxx8.me
 +.xxx888porn2.com
++.xxx888porn3.com
 +.xxxadd.com
 +.xxxahlam.com
 +.xxxalarab.com
