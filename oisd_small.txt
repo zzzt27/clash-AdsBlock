@@ -1,9 +1,9 @@
-# Version: 202506121921
+# Version: 202506122021
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42361
-# Last modified: 2025-06-12T19:21:49+0000
+# Entries: 42351
+# Last modified: 2025-06-12T20:21:14+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -359,7 +359,6 @@
 +.1bm3n8sld.de
 +.1buo.icu
 +.1c0c3fde9d.com
-+.1c7cf19baa.com
 +.1ca6e3e357.a8ca394de0.com
 +.1cbd637d10.2c8eb505eb.com
 +.1ccbt.com
@@ -16587,7 +16586,6 @@
 +.experience.contextly.com
 +.experienceabdomen.com
 +.experiencesunny.com
-+.experimentalpersecute.com
 +.experiments.sparanoid.net
 +.expertnifg.com
 +.experttrafficcounter.com
@@ -17110,7 +17108,6 @@
 +.fidar.site
 +.fidelity-media.com
 +.fidhkhqccgqkh.website
-+.fidk.cn
 +.fidtaswiw.com
 +.fiefsgnarled.top
 +.fiehff.com
@@ -27581,7 +27578,6 @@
 +.openad.tf1.fr
 +.openad.travelnow.com
 +.openads.friendfinder.com
-+.openerkey.com
 +.openersbens.com
 +.openfpcdn.io
 +.opengalaxyapps.monster
@@ -28909,7 +28905,6 @@
 +.pitshopsat.com
 +.pityneedsdads.com
 +.pitysuffix.com
-+.piumligjgm.com
 +.piuyt.com
 +.pivotrunner.com
 +.pivxkeppgtc.life
@@ -30496,7 +30491,6 @@
 +.qjmlmaffrqj.com
 +.qjoges.xyz
 +.qjvksieybn.vip
-+.qjvsrmfoybyt.com
 +.qjwvwu.xyz
 +.qkbjclwirtotj.vip
 +.qkgllif.icu
@@ -34182,7 +34176,6 @@
 +.souvamoo.net
 +.souvenirsconsist.com
 +.sovietcontaminate.com
-+.sovietransom.com
 +.soviettreasures.com
 +.sowfootsolent.com
 +.sowrevisionwrecking.com
@@ -35556,7 +35549,6 @@
 +.suchanalytik.hideandsec.sh
 +.suchasricew.info
 +.suckae.xyz
-+.suckfaintlybooking.com
 +.sucnaegzvbrhu.site
 +.sucocune.com
 +.suctionpoker.com
@@ -37965,7 +37957,6 @@
 +.trioecsdespeed.top
 +.tripl3a.com
 +.tripledeliveryinstance.com
-+.triplescrubjenny.com
 +.triplewhale-pixel.web.app
 +.tripsthorpelemonade.com
 +.trisectgomuti.top
@@ -42238,7 +42229,6 @@
 +.zoachops.com
 +.zoagajethathoo.net
 +.zoagremo.net
-+.zoaheeth.com
 +.zoawufoy.net
 +.zodiacdinner.com
 +.zoeaegyral.com
