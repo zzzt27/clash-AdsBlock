@@ -1,9 +1,9 @@
-# Version: 202506121600
+# Version: 202506121621
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184475
-# Last modified: 2025-06-12T16:00:12+0000
+# Entries: 184469
+# Last modified: 2025-06-12T16:21:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -25762,7 +25762,6 @@
 +.bcm.interactives.dk
 +.bcmediagroup.com
 +.bcnccustom.com
-+.bcni.net
 +.bcnproduction.com
 +.bcode-wallet.firebaseapp.com
 +.bcode-wallet.web.app
@@ -26006,6 +26005,7 @@
 +.beaconcdn.qq.com
 +.beaconfyldra.com
 +.beaconin2.notinote.me
++.beaconloop.cfd
 +.beaconplanning.net
 +.beacons.digital.disneyadvertising.com
 +.beacons.hottraffic.nl
@@ -26879,7 +26879,6 @@
 +.bestellung-sicher.com.de
 +.bestellungrezeptfrei.de
 +.besteonlineapotheke.de
-+.besterezensionen.com
 +.bestes-leben.com.de
 +.bestes-liebesleben.com.de
 +.bestesgrous.firebaseapp.com
@@ -49645,7 +49644,6 @@
 +.deepseekapp.download
 +.deepseeklogin.com
 +.deepseeklogins.com
-+.deepswan.store
 +.deeptack.com
 +.deepvion.info
 +.deepwebsearchengine.org
@@ -65199,7 +65197,6 @@
 +.flaxconfession.com
 +.flaxierfilmset.com
 +.flbhwgoibnoku.space
-+.fld.e11ty.shop
 +.fld.e11ty.top
 +.fld.e1ity.cyou
 +.fld.e1ity.qpon
@@ -72729,7 +72726,6 @@
 +.gouzoogoosoa.com
 +.gov-aabb.vip
 +.gov-aabn.vip
-+.gov-aanb.vip
 +.gov-aanm.vip
 +.gov-aavc.vip
 +.gov-aavv.vip
@@ -80207,7 +80203,6 @@
 +.i65wsmrj5.com
 +.i7.mayoblast.com
 +.i79o.glitch.me
-+.i7ece0xrg4nx.com
 +.i8.mayoblast.com
 +.i867.journal-advocate.com
 +.i8xkjci7nd.com
@@ -85228,6 +85223,7 @@
 +.ipitel.com
 +.ipko-bp.pl-verif.com
 +.ipko-pl.bp-pl.com
++.ipko-secure.skiopening.rs
 +.ipko.110299.com
 +.ipko.294731.com
 +.ipko.bp-pl.com
@@ -110384,7 +110380,6 @@
 +.netinswebmail0765.weebly.com
 +.netizen.co
 +.netizennepal.com
-+.netizenspace.com
 +.netking.duckdns.org
 +.netlens.com.br
 +.netlify-rum.netlify.app
@@ -140860,7 +140855,6 @@
 +.sbfw.work
 +.sbhight.com
 +.sbi-sberbank-9443.ru
-+.sbiab.top
 +.sbiac.top
 +.sbiad.top
 +.sbiae.top
@@ -147096,6 +147090,7 @@
 +.skillerszone.com
 +.skilleservices.com
 +.skilletperonei.com
++.skillevo.info
 +.skillfuldrop.com
 +.skillhr.com
 +.skillpropulsion.com
@@ -164507,7 +164502,6 @@
 +.trcksp.cordial.io
 +.trd.absolute-glltd.com
 +.trd.bprofit-ai.com
-+.trd.cabtml.com
 +.trd.rate1taker.com
 +.trd.stockwise.life
 +.trdad.zeabur.app
@@ -180491,6 +180485,7 @@
 +.xn--albilet-b9a.pl-oferta3452784.pl
 +.xn--albilet-b9a.pl-oferta5102958.top
 +.xn--albilet-b9a.pl-oferta9325917.top
++.xn--albilet-b9a.pl-oferta9799704.top
 +.xn--allyspin-casin-job.fr
 +.xn--allyspincasin-8kb.fr
 +.xn--alterna-nergie-ikb.fr
@@ -181513,7 +181508,6 @@
 +.yceleb.com
 +.ycestebanleather.com
 +.ycflyfishing.com
-+.ycgmnpp.icu
 +.ychildrenasthey.com
 +.ychynt.com
 +.yci416ame.5b0qyh1qd.xyz

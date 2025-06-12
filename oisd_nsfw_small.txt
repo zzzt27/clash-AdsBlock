@@ -1,9 +1,9 @@
-# Version: 202506121607
+# Version: 202506121629
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20808
-# Last modified: 2025-06-12T16:07:31+0000
+# Entries: 20811
+# Last modified: 2025-06-12T16:29:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2007,6 +2007,7 @@
 +.beeg.porn
 +.beeg.tv
 +.beeg.works
++.beeg.world
 +.beeg1.net
 +.beeg24.org
 +.beegcom.pro
@@ -6994,6 +6995,7 @@
 +.hath.network
 +.hayat-schutz.de
 +.hayav.com
++.haylinkgame.com
 +.haysex.ai
 +.haysex.day
 +.haysex.us
@@ -15625,6 +15627,7 @@
 +.sexkontakty.cz
 +.sexkras.club
 +.sexkrd.love
++.sexkupon.com
 +.sexkursk.club
 +.sexkzn.love
 +.sexlaguna.eu
