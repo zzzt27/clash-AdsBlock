@@ -1,9 +1,9 @@
-# Version: 202506121352
+# Version: 202506121428
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20782
-# Last modified: 2025-06-12T13:52:13+0000
+# Entries: 20786
+# Last modified: 2025-06-12T14:28:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3601,6 +3601,7 @@
 +.contoseroticoscnn.com
 +.contoseroticosgratis.com
 +.contrib-amateurs.net
++.convenzioniaziendali.it
 +.conviviocm.pt
 +.conxxx.pro
 +.cooch.tv
@@ -5411,6 +5412,7 @@
 +.fessestivites.com
 +.festaprive.com
 +.festzeit.ch
++.fet-app.com
 +.fet.fun
 +.fetegoale.top
 +.feti072.com
@@ -5433,6 +5435,7 @@
 +.fetishnetwork.com
 +.fetishp.com
 +.fetishpapa.com
++.fetishscroller.com
 +.fetishshrine.com
 +.fetishspace.com
 +.fetishz.com
@@ -14579,6 +14582,7 @@
 +.rbreezy.xyz
 +.rcmodells.com.br
 +.rcporn.com
++.rddantes.com
 +.rdv-libertins.fr
 +.rdv-secret.com
 +.reachporn.com
