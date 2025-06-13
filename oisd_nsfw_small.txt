@@ -1,9 +1,9 @@
-# Version: 202506130424
+# Version: 202506130525
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20882
-# Last modified: 2025-06-13T04:24:56+0000
+# Entries: 20888
+# Last modified: 2025-06-13T05:25:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -155,6 +155,7 @@
 +.1tubehd.com
 +.1vag.com
 +.1wum.ru
++.1xbet.com
 +.1xnxx.net
 +.1xxx.tv
 +.2018porn.pro
@@ -5605,6 +5606,7 @@
 +.findmate.app
 +.findmeadultdates.co.uk
 +.findmyflings.com
++.findsav.com
 +.findtubes.com
 +.fineporn.net
 +.finevids.com
@@ -6306,6 +6308,7 @@
 +.gayconnect.com
 +.gaycowboydating.com
 +.gaydaddy.com
++.gaydar.net
 +.gaydatingireland.com
 +.gaydatingsites.com.au
 +.gaydemon.com
@@ -8439,6 +8442,7 @@
 +.indoporn.mobi
 +.indoporn.pro
 +.indosex21.com
++.indosex21.net
 +.indoxvideos.com
 +.indsex.in
 +.indxxx.com
@@ -9517,6 +9521,7 @@
 +.kumcams.com
 +.kumppaniaetsin.com
 +.kundun1069.com
++.kunmanga.com
 +.kupid.ai
 +.kupujemprodajem.com
 +.kurakura21.com
@@ -12767,6 +12772,7 @@
 +.platynum.info
 +.playa-games.com
 +.playav.xyz
++.playblog.ws
 +.playblue.ie
 +.playbokep.ltd
 +.playbokep.monster
@@ -16392,6 +16398,7 @@
 +.single-chats.com
 +.singleflirt.com
 +.singlelogin.re
++.singlesmokers.co.uk
 +.sinkkuseuraa.com
 +.sinnesfeuer.de
 +.sinparty.com
@@ -18719,7 +18726,6 @@
 +.vn22phimsexhay.com
 +.vn26phimsexhay.com
 +.vn6phimsexhay.com
-+.vn6phimsexviet.com
 +.vn8phimsexhay.com
 +.vn8phimsexviet.com
 +.vndb.org
