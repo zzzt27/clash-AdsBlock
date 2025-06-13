@@ -1,9 +1,9 @@
-# Version: 202506131447
+# Version: 202506131527
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20976
-# Last modified: 2025-06-13T14:47:37+0000
+# Entries: 20982
+# Last modified: 2025-06-13T15:27:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6892,6 +6892,7 @@
 +.grindr.com
 +.grometsplaza.net
 +.grooby.com
++.groobyforum.com
 +.groobygirls.com
 +.groupsexxx.com
 +.grupaseksa.com
@@ -8653,6 +8654,7 @@
 +.iuphimsex.com
 +.ivenue.com
 +.ivfree.asia
++.ivseek.com
 +.ivworld.net
 +.ivx.gallery
 +.ivy.com
@@ -11136,6 +11138,7 @@
 +.msexviet.com
 +.mshago.com
 +.msk-prostitutok.net
++.mskgirls.sex
 +.mskprostitutok.net
 +.msktelki.net
 +.mtav.art
@@ -11164,6 +11167,7 @@
 +.multibrend.net
 +.multiporn.me
 +.multivitaminaid.com
++.multporn.com
 +.multporn.net
 +.multporn.xxx
 +.mumbaiescortss.net
@@ -16773,6 +16777,7 @@
 +.steamygamer.com
 +.steamyloves.com
 +.steamymatches.com
++.steamyplay.com
 +.steezylist.com
 +.stellaplus.xyz
 +.step-xxx-videos.com
@@ -17268,6 +17273,7 @@
 +.tellyplay.com
 +.telochki.org
 +.telrock.net
++.telrock.org
 +.telugu-xxx.com
 +.telugu.cyou
 +.telugu.icu
