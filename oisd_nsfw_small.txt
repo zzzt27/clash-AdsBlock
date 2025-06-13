@@ -1,9 +1,9 @@
-# Version: 202506131704
+# Version: 202506131727
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20992
-# Last modified: 2025-06-13T17:04:32+0000
+# Entries: 20993
+# Last modified: 2025-06-13T17:27:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2670,6 +2670,7 @@
 +.bot3.ai
 +.botfap.com
 +.botinok.porn
++.bouncebridge.com
 +.boundhub.com
 +.boundmusclejocks.com
 +.boundstories.net

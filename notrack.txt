@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 13 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15760
+# Domain Count: 15759
 #===============================================================
 
 +.0i0i0i0.com
@@ -15732,7 +15732,6 @@
 +.yeahdsp.com
 +.yellgroup.com
 +.yellowblue.io
-+.yemonisoni.com
 +.yesware.com
 +.yext-pixel.com
 +.yieldify.com
