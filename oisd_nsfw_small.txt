@@ -1,9 +1,9 @@
-# Version: 202506130325
+# Version: 202506130424
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20877
-# Last modified: 2025-06-13T03:25:18+0000
+# Entries: 20882
+# Last modified: 2025-06-13T04:24:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1609,6 +1609,7 @@
 +.avfhd.com
 +.avgle.com
 +.avgle.mobi
++.avgle.pro
 +.avhbo.com
 +.avhd101.com
 +.avhdfree.com
@@ -4761,6 +4762,7 @@
 +.erodougazo.com
 +.erodoujinlog.com
 +.eroero.one
++.eroeronews.com
 +.erofights.com
 +.erofound.com
 +.erofullsets.com
@@ -4815,6 +4817,7 @@
 +.eropho.org
 +.eropic.cc
 +.eroplay.ai
++.eropolis.hu
 +.eroporn.club
 +.eroprofile.com
 +.eropron.com
@@ -9623,6 +9626,7 @@
 +.laufhaus-splash.at
 +.laufhaus-valentin.at
 +.laufhaus-zeltweg.at
++.lauvette.ph
 +.lavaplace.com
 +.lavideodujourjetm.net
 +.law.blog
@@ -13431,6 +13435,7 @@
 +.porno365.garden
 +.porno365.guide
 +.porno365.hiphop
++.porno365.icu
 +.porno365.in
 +.porno365.la
 +.porno365.land
@@ -14309,7 +14314,6 @@
 +.prostitutki--chelyabinsk.com
 +.prostitutki-balashiha.com
 +.prostitutki-domodedovo.co
-+.prostitutki-ekat.net
 +.prostitutki-ekaterinburga.biz
 +.prostitutki-himki.co
 +.prostitutki-kalugi.ru
@@ -18239,6 +18243,7 @@
 +.undress.cc
 +.undress.love
 +.undress.vip
++.undressaitool.com
 +.undressbaby.com
 +.undressher.app
 +.uniform-porn.net
