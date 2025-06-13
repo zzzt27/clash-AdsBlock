@@ -1,9 +1,9 @@
-# Version: 202506132126
+# Version: 202506132227
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20999
-# Last modified: 2025-06-13T21:26:37+0000
+# Entries: 21007
+# Last modified: 2025-06-13T22:27:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -682,7 +682,6 @@
 +.adultsitedating.com
 +.adultsiteranking.com
 +.adultsites.co
-+.adultsites.top
 +.adultstuffonly.com
 +.adultsvideo.net
 +.adultswingconnection.com
@@ -1542,6 +1541,7 @@
 +.asswallpapers.com
 +.assylum.com
 +.astalavr.com
++.astratex.hu
 +.atasehirescortlari.com
 +.atasehirmos.com
 +.atb4cn.com
@@ -5853,6 +5853,7 @@
 +.freefplace.com
 +.freefuckbook.app
 +.freefuckporno.com
++.freefucktube.net
 +.freefuckvids.com
 +.freefvideos.com
 +.freegaydatingapps.com
@@ -6721,6 +6722,7 @@
 +.gloryholesecrets.com
 +.gloryholeswallow.com
 +.gloryshole.com
++.gmxhome.de
 +.gnoccaforum.com
 +.gnoccatravels.com
 +.gntai.net
@@ -7396,6 +7398,7 @@
 +.hentaila.tv
 +.hentaileague.com
 +.hentailegendado.com
++.hentaili.com
 +.hentailib.me
 +.hentailib.net
 +.hentailib.org
@@ -8494,6 +8497,7 @@
 +.indxxx.com
 +.ineed.porn
 +.infernalrestraints.com
++.infinitehentai.com
 +.infinitetube.com
 +.infinityfreeapp.com
 +.influencerchicks.com
@@ -9191,6 +9195,7 @@
 +.joysporn.club
 +.joysporn.com
 +.joystick.tv
++.joziporn.com
 +.jp-loveless.com
 +.jp-sex.com
 +.jp-voyeur.net
@@ -9580,6 +9585,7 @@
 +.kurakura21.net
 +.kurochikubi.com
 +.kurvi.net
++.kusadasibasakemlak.com
 +.kusadasiescortbayanlar.com
 +.kusowanka.com
 +.kussladies.de
@@ -12858,6 +12864,7 @@
 +.playmeow.com
 +.playnaughty.com
 +.playporn.xxx
++.playporngames.com
 +.playsexgames.xxx
 +.playtube.pk
 +.playtube.tv
@@ -20996,6 +21003,7 @@
 +.zvraceny.cz
 +.zwaremetalen.com
 +.zwhitelabel.com
++.zwinkr.de
 +.zwjate.com
 +.zxctube.com
 +.zxt.in
