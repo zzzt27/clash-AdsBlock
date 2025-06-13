@@ -1,9 +1,9 @@
-# Version: 202506131827
+# Version: 202506131927
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20997
-# Last modified: 2025-06-13T18:27:30+0000
+# Entries: 21001
+# Last modified: 2025-06-13T19:27:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6403,6 +6403,7 @@
 +.gaymes.net
 +.gaymobile.fr
 +.gaymovievids.com
++.gaynsk.club
 +.gaynsk1.xyz
 +.gayoglasi.com
 +.gayomsk3.xyz
@@ -11001,6 +11002,7 @@
 +.mommysgirl.com
 +.mommysgirl.net
 +.mommywhore.com
++.momoiro-ch.com
 +.momoiroadult.com
 +.momon-ga.com
 +.momoniji.com
@@ -11663,6 +11665,7 @@
 +.newdudenudes.com
 +.newestxnxx.com
 +.newfaceporn.com
++.newhalf.net
 +.newhdxxx.com
 +.newindiantube.mobi
 +.newindianxxx.com
@@ -13823,6 +13826,7 @@
 +.pornona.net
 +.pornond.biz
 +.pornond.info
++.pornond.name
 +.pornond.net
 +.pornone.com
 +.pornonecams.com
@@ -15595,7 +15599,6 @@
 +.sexcamts.com
 +.sexcartoontube.com
 +.sexcash.com
-+.sexcelebrity.ai
 +.sexcelebrity.net
 +.sexcelebrity.tv
 +.sexchat.com
@@ -21005,6 +21008,7 @@
 +.zzcartoon.com
 +.zzgays.com
 +.zzhentai.com
++.zzpornozz.xyz
 +.zzup.com
 +.zzxxtra.com
 +.zzztube.com
