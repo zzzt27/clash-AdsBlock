@@ -1,9 +1,9 @@
-# Version: 202506130819
+# Version: 202506130920
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 42238
-# Last modified: 2025-06-13T08:19:50+0000
+# Entries: 42221
+# Last modified: 2025-06-13T09:20:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2035,7 +2035,6 @@
 +.abc.cda-hd.co
 +.abc.colayun.cn
 +.abc.douguo.com
-+.abc.esprit.de
 +.abc.hkepc.com
 +.abc.hkepc.net
 +.abc.ruodian360.com
@@ -3404,7 +3403,6 @@
 +.ads.as4x.tmcs.ticketmaster.com
 +.ads.aspalliance.com
 +.ads.baoangiang.com.vn
-+.ads.baobinhduong.vn
 +.ads.baobinhthuan.com.vn
 +.ads.baocamau.vn
 +.ads.baocantho.com.vn
@@ -3534,7 +3532,6 @@
 +.ads.ibest.com.br
 +.ads.icloseli.cn
 +.ads.icq.com
-+.ads.ictnews.vn
 +.ads.idiscountmall.net
 +.ads.ign.com
 +.ads.imbc.com
@@ -7953,7 +7950,6 @@
 +.beemolgator.com
 +.beeperdecisivecommunication.com
 +.beepoowotheloda.net
-+.beepoven.com
 +.beergeneralization.com
 +.beeshooloap.net
 +.beestark.com
@@ -8530,7 +8526,6 @@
 +.bmrg.reflected.net
 +.bmucuzdho.com
 +.bmudhianrfat.com
-+.bmufqfnqgfh.com
 +.bmwebm.org
 +.bmycupptafr.com
 +.bmzgcv-eo.rocks
@@ -9201,7 +9196,6 @@
 +.bwoqusogsrar.com
 +.bwp.download.com
 +.bwsddrebfiwvu.store
-+.bwstatistics.sapoapps.vn
 +.bwtcilgll.com
 +.bwuotrwahsij.com
 +.bwz4e.icu
@@ -17505,8 +17499,6 @@
 +.fmiqcupku.com
 +.fmksnfjldgpls.buzz
 +.fmlabsonline.com
-+.fmljbodtnweou.com
-+.fmnxeqgs.com
 +.fmoezqerkepc.com
 +.fmpub.net
 +.fmsads.com
@@ -18413,7 +18405,6 @@
 +.ggxwb.miguvideo.com
 +.gh.fanatical.com
 +.ghaityastajib.store
-+.ghawtysdv.com
 +.ghaytebanc.store
 +.ghghgf.51dongshi.com
 +.ghghgf.xuexiwa.com
@@ -22261,7 +22252,6 @@
 +.kidsdiedefer.com
 +.kiestercentry.com
 +.kifaunsu.com
-+.kigaphuby.pro
 +.kihudevo.pro
 +.kiklazopnqce.com
 +.kikmpahfaj.com
@@ -28154,7 +28144,6 @@
 +.palibzh.tech
 +.palliwaklgz.com
 +.pallorirony.com
-+.palmfulvisitsbalk.com
 +.palmkindnesspee.com
 +.palmmalice.com
 +.palofvqp.com
@@ -28779,7 +28768,6 @@
 +.pileaaboded.shop
 +.pileatesauld.top
 +.pilespaua.com
-+.pilgrimarduouscorruption.com
 +.pillsofecho.com
 +.pillspaciousgive.com
 +.piloteegazy.com
@@ -28964,7 +28952,6 @@
 +.pkhhyool.com
 +.pki87n.pro
 +.pknh27a7j.com
-+.pknqfgmdfp.com
 +.pkoplink.com
 +.pkoqeg.com
 +.pktfla.top
@@ -29804,7 +29791,6 @@
 +.protustescuatize.com
 +.provenperch.com
 +.provexia.com
-+.providedovernight.com
 +.provisionskiss.com
 +.prowlenthusiasticcongest.com
 +.proxena-images.reviveservers.com
@@ -30366,7 +30352,6 @@
 +.qelqlunebz.com
 +.qepfogmvvwyyk.site
 +.qepytatzudtum.life
-+.qerkbejkbqykw.top
 +.qerkbejqwqjkr.top
 +.qevmhghuyoqva.store
 +.qevseeymcpxby.click
@@ -30859,7 +30844,6 @@
 +.rbift.icu
 +.rbighouse.ru
 +.rbjpti.top
-+.rbmcnf.pro
 +.rbnt.org
 +.rbone.link
 +.rboyqkyrwrvkq.top
@@ -38662,7 +38646,6 @@
 +.untrendenam.com
 +.untried-manager.com
 +.untriedcause.pro
-+.untrk.xyz
 +.untropiuson.com
 +.untruecharacterizepeople.com
 +.unusedframe.com
