@@ -1,9 +1,9 @@
-# Version: 202506140524
+# Version: 202506140625
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21040
-# Last modified: 2025-06-14T05:24:24+0000
+# Entries: 21044
+# Last modified: 2025-06-14T06:25:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6741,6 +6741,7 @@
 +.gnoccatravels.com
 +.gntai.net
 +.gnula.nu
++.gnulahd.nu
 +.gnulaseries.nu
 +.go-gaytube.com
 +.go.porn
@@ -9660,6 +9661,7 @@
 +.lang.live
 +.langtrees.com
 +.lankasri.com
++.lap.hu
 +.lapkjogos.com
 +.lapkzone.com
 +.laplayaescort.cl
@@ -11141,6 +11143,7 @@
 +.movs18plus.com
 +.movzer.com
 +.mozaka.com
++.mp4.center
 +.mp4hentai.com
 +.mp4porn.rip
 +.mp4porn.space
@@ -13640,6 +13643,7 @@
 +.pornobolt.tv
 +.pornobolt.vip
 +.pornobomba.club
++.pornobomba.co
 +.pornobomba.in
 +.pornobomba.link
 +.pornobomba.lol
