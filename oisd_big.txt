@@ -1,9 +1,9 @@
-# Version: 202506142119
+# Version: 202506142220
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184585
-# Last modified: 2025-06-14T21:19:55+0000
+# Entries: 184583
+# Last modified: 2025-06-14T22:20:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15200,7 +15200,6 @@
 +.allegrolokalnie.pl-89124.shop
 +.allegrolokalnie.pl-89251221.cfd
 +.allegrolokalnie.pl-89610513.icu
-+.allegrolokalnie.pl-9005315.cfd
 +.allegrolokalnie.pl-912082.shop
 +.allegrolokalnie.pl-919482.cfd
 +.allegrolokalnie.pl-927482.cfd
@@ -91612,7 +91611,6 @@
 +.kucoin-login-access-your-account-easily.webflow.io
 +.kucoin-loginx.godaddysites.com
 +.kucoin-logon.webflow.io
-+.kucoin-pol.org
 +.kucoin0101.com
 +.kucoinbylogin-on.webflow.io
 +.kucoindlugenhs.webflow.io
