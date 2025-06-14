@@ -1,9 +1,9 @@
-# Version: 202506140025
+# Version: 202506140225
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21011
-# Last modified: 2025-06-14T00:25:00+0000
+# Entries: 21027
+# Last modified: 2025-06-14T02:25:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1511,6 +1511,7 @@
 +.aslust.com
 +.asmhentai.com
 +.asmr.one
++.asmrgay.com
 +.asmrhentai.net
 +.asmroger.top
 +.asoti.net
@@ -1961,6 +1962,8 @@
 +.bdsmmansion.com
 +.bdsmmonster.com
 +.bdsmpeople.live
++.bdsmpeople.org
++.bdsmpeople.ru
 +.bdsmpornbook.com
 +.bdsmpornc.com
 +.bdsmpornp.com
@@ -3146,6 +3149,7 @@
 +.cartoonvideos247.com
 +.casadasexibidas.com
 +.casadoscontos.com.br
++.cascosporn.com
 +.caserosxxx.org
 +.cashcallgirls.com
 +.casino-backend.com
@@ -3475,7 +3479,6 @@
 +.classificadosx.com
 +.classificadosx.net
 +.classificadosxbr.com
-+.classluxo.com.br
 +.clickandflirt.com
 +.clickbdsm.com
 +.clickfap.com
@@ -3508,6 +3511,7 @@
 +.clipsexquaylen.blog
 +.clipsexsub3x.net
 +.clipsextoico.net
++.clipsexviet.icu
 +.cliptrend.com
 +.clipx.tv
 +.clipx16.com
@@ -3678,6 +3682,7 @@
 +.cosplaytele.com
 +.cosplaythots.com
 +.cospuri.com
++.costacruise.com
 +.cosxplay.com
 +.cotaiescorts.com
 +.cotigolpo.com
@@ -4841,6 +4846,7 @@
 +.eromotors.com
 +.eromovie-s.com
 +.eronity.com
++.erooups.com
 +.eropasture.com
 +.eropho.org
 +.eropic.cc
@@ -5732,6 +5738,7 @@
 +.folieporno.fr
 +.follamigas.es
 +.fookkat.net
++.fooma.live
 +.foorum69.org
 +.foot-fetish-dating.org
 +.foot-orgies.com
@@ -8775,6 +8782,7 @@
 +.jasmin.com
 +.jasmr.net
 +.jasonsbiggs.com
++.jastusa.com
 +.jav-angel.net
 +.jav-fetish.com
 +.jav-forum.com
@@ -10008,6 +10016,7 @@
 +.localadultcams.com
 +.localbabefinder.com
 +.localbangclub.com
++.localbooties.com
 +.localchicks.com
 +.localflirt.com
 +.localfuckbook.org
@@ -10748,6 +10757,7 @@
 +.meuscontoseroticos.eco.br
 +.meusdesabafos.com
 +.meusexogay.com
++.mex.tl
 +.mexican-woman.com
 +.meyvidal.com
 +.meyzo.mobi
@@ -13546,6 +13556,7 @@
 +.porno365.store
 +.porno365.style
 +.porno365.team
++.porno365.tokyo
 +.porno365.tools
 +.porno365.trade
 +.porno365.tw
@@ -14572,7 +14583,6 @@
 +.pvideo.cz
 +.pvip.se
 +.pvt.sexy
-+.pvvstream.pro
 +.pwerta.com
 +.pwetan.gg
 +.pwetan.me
@@ -15401,6 +15411,7 @@
 +.seniorsexpartner.com
 +.seniorsforsex.com.au
 +.seniorsizzle.com
++.sense.info
 +.sensitivecontent.info
 +.sensualagenda.com
 +.sensualgirls.org
@@ -15521,6 +15532,7 @@
 +.sex103.com
 +.sex1x.com
 +.sex2fun.com
++.sex2n8.com
 +.sex3.com
 +.sex303.com
 +.sex3d.pro
@@ -17480,6 +17492,7 @@
 +.theplace.ru
 +.theplace2.ru
 +.thepleasurechest.com
++.theporn.cc
 +.theporn.how
 +.thepornapp.com
 +.thepornarea.com
@@ -18326,6 +18339,7 @@
 +.ultimoporn.com
 +.ultrafilms.com
 +.ultrafilms.xxx
++.ultrahorny.com
 +.ultrahqporn.com
 +.ultrathots.com
 +.umd.net
@@ -20338,6 +20352,7 @@
 +.xxxfanke.com
 +.xxxfap.me
 +.xxxfast.com
++.xxxfetishforum.com
 +.xxxfile.org
 +.xxxfiles.com
 +.xxxfilm.pro
@@ -20428,6 +20443,7 @@
 +.xxxnawak.com
 +.xxxnd.com
 +.xxxnu.com
++.xxxnung.tv
 +.xxxnx.icu
 +.xxxnxx.org
 +.xxxnxxx.org
