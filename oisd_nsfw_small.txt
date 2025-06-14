@@ -1,9 +1,9 @@
-# Version: 202506140424
+# Version: 202506140524
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21033
-# Last modified: 2025-06-14T04:24:39+0000
+# Entries: 21040
+# Last modified: 2025-06-14T05:24:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4538,6 +4538,7 @@
 +.dyspraxicadults.org.uk
 +.e-hentai.org
 +.e-hentai.tube
++.e-kei.pl
 +.e621.net
 +.e6ai.net
 +.e926.net
@@ -5770,6 +5771,7 @@
 +.foropirata.com
 +.foroporno.com
 +.foroprepagoscolombia.com
++.forquickies.com
 +.forrokalandok.com
 +.forshemale.com
 +.forttroff.com
@@ -6446,6 +6448,7 @@
 +.gaypornparty.com
 +.gaypornplanet.com
 +.gaypornq.com
++.gaypornstarharem.com
 +.gayporntube.com
 +.gayporntube.tv
 +.gayporntwink.com
@@ -9453,6 +9456,7 @@
 +.kindnudist.com
 +.kinescomplacientes.net
 +.kinesiologasenperu.com
++.kingbokep.pro
 +.kingcomix.com
 +.kinghost.com
 +.kingofhup.com
@@ -18476,6 +18480,7 @@
 +.v-anale.best
 +.v2ph.com
 +.v2ph.ru
++.v66av.xyz
 +.v902.cc
 +.vador.com
 +.vagabundasdoorkut.net
@@ -20500,6 +20505,7 @@
 +.xxxpornxxx.net
 +.xxxpostpic.org
 +.xxxproud.com
++.xxxpussy.fun
 +.xxxpussy.net
 +.xxxrange.com
 +.xxxrapid.in
@@ -20911,6 +20917,7 @@
 +.zishy.com
 +.zkwu.lol
 +.zlovedoll.com
++.zmarsa.com
 +.zmaxxx.com
 +.zmero.com
 +.zmut.com
