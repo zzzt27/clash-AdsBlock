@@ -1,9 +1,9 @@
-# Version: 202506140625
+# Version: 202506140725
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21044
-# Last modified: 2025-06-14T06:25:16+0000
+# Entries: 21047
+# Last modified: 2025-06-14T07:25:15+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5807,6 +5807,7 @@
 +.foxybingo.com
 +.foxygf.com
 +.foxysmut.com
++.foxytemptation.com
 +.foxytubes.com
 +.foxytv.org
 +.fpkmgppu.ru
@@ -10142,6 +10143,7 @@
 +.lovetowank.com
 +.lovetoyed.com
 +.lovetransex.com
++.lovingsiren.com
 +.low-ya.com
 +.loyalfans.com
 +.lpbbs.al
@@ -10210,6 +10212,7 @@
 +.lxax.com
 +.lxtube.com
 +.lxxlxx.com
++.lyla.ch
 +.lyrics.com.br
 +.m-hentai.net
 +.m-porn.xxx
