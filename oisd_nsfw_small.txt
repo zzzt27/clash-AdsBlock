@@ -1,9 +1,9 @@
-# Version: 202506140925
+# Version: 202506141025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21054
-# Last modified: 2025-06-14T09:25:02+0000
+# Entries: 21059
+# Last modified: 2025-06-14T10:25:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1038,6 +1038,7 @@
 +.amurer.com
 +.amurz.com
 +.an4lporn.com
++.ana.sk
 +.anacams.com
 +.anadiasphotography.com
 +.anal-angels.com
@@ -7764,6 +7765,7 @@
 +.hornybabes.club
 +.hornybank.com
 +.hornybhabhiporn.com
++.hornybutlonely.com
 +.hornycase.com
 +.hornycontacts.com
 +.hornyfap.tv
@@ -9711,6 +9713,7 @@
 +.latinwomendating.com
 +.laufhaus-gt.at
 +.laufhaus-hasenohr.at
++.laufhaus-liezen.at
 +.laufhaus-neunkirchen.at
 +.laufhaus-splash.at
 +.laufhaus-valentin.at
@@ -10476,6 +10479,7 @@
 +.massagerepublic.com
 +.massagerepublic.tk
 +.massaggioit.com
++.masseurfinder.com
 +.massierendeladies.de
 +.massivecams.com
 +.massivecams.tv
@@ -15729,6 +15733,7 @@
 +.sexgeschichten-gratis.net
 +.sexgeschichten-klub.de
 +.sexgeschichten.tv
++.sexgeschichten.xyz
 +.sexgifs.me
 +.sexgify.com
 +.sexgirlfriend.com
@@ -18285,6 +18290,7 @@
 +.twmilf.com
 +.two-elfs.com
 +.twomance.com
++.twonfans.com
 +.twpornstars.com
 +.twteens.com
 +.twtiktoks.com
@@ -18423,7 +18429,6 @@
 +.upforit.com
 +.upfy.org
 +.upicsz.com
-+.upjav.org
 +.uplooti.com
 +.uporn.plus
 +.upornia.com
