@@ -1,9 +1,9 @@
-# Version: 202506142220
+# Version: 202506150018
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184583
-# Last modified: 2025-06-14T22:20:20+0000
+# Entries: 184595
+# Last modified: 2025-06-15T00:18:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15166,6 +15166,7 @@
 +.allegrolokalnie.pl-2929.shop
 +.allegrolokalnie.pl-31310.cfd
 +.allegrolokalnie.pl-319586.cfd
++.allegrolokalnie.pl-34960792.icu
 +.allegrolokalnie.pl-37292.cfd
 +.allegrolokalnie.pl-38848.shop
 +.allegrolokalnie.pl-3934.cfd
@@ -15200,6 +15201,7 @@
 +.allegrolokalnie.pl-89124.shop
 +.allegrolokalnie.pl-89251221.cfd
 +.allegrolokalnie.pl-89610513.icu
++.allegrolokalnie.pl-9005315.sbs
 +.allegrolokalnie.pl-912082.shop
 +.allegrolokalnie.pl-919482.cfd
 +.allegrolokalnie.pl-927482.cfd
@@ -24347,6 +24349,7 @@
 +.bafkraiel2aylqwqzrj3evobzkslbtjrjdcf2c7j65teevcqzxlhd5dmcoq.glitch.me
 +.bafkreia6xrm6o4ostewlwwhbn5ccmgrxokg3u7p37wdvx6mi3m7rl2pfma.ipfs.dweb.link
 +.bafkreiabf4tr62cpdhuxjn5xxfljx66utkfxyfruiu4xq2xjyn2saxj3sy.ipfs.dweb.link
++.bafkreiabtsovihysqhhubwfysrngo2lihtiydkeatrcivyjms5i26rzwoy.ipfs.dweb.link
 +.bafkreiaemiaoe3s6gn6xior5tuy3i2ovsp5yplgbhggt2durufnotoj52i.ipfs.dweb.link
 +.bafkreiaeznnj2lecrfidivlkn5jkngnljhkgcomczikqp35uczufywi2ny.ipfs.dweb.link
 +.bafkreiaj3re3z4vwsjzdsepngnywk4624jizydc4tnfchn2k3dfz5vlvi4.ipfs.dweb.link
@@ -24361,6 +24364,7 @@
 +.bafkreibsgtzfyklmsvlapd7ia5tbe3v3e323zubxzvtepkvq7kixapyr4u.ipfs.dweb.link
 +.bafkreiburw5smfvrgla5ph2brsti5mfolorbskwmtsdxx3gqrxmt3i4v5q.ipfs.dweb.link
 +.bafkreiby65mpko6naibnsfrd6sujsbo7sguq3eiaprdqvwhjcjwzfegtai.ipfs.dweb.link
++.bafkreibyqs4eq3hztmme5eyw42fesrvdjwq5f4ekclulyahaa6jaz6ibii.ipfs.dweb.link
 +.bafkreibzh2f7x2cnjdtfjdpzxpaa44fvufstbd6p6gm5piznlbgrqshgmy.ipfs.dweb.link
 +.bafkreiccpbu46e3u7vhvh4y6d3sf2ksbau2mw4q2ipxncaqybyx35b76ly.ipfs.dweb.link
 +.bafkreicfs5kd2sujjkyuouhgbcsx2vesaqdseue3i4xuurpqlgp6kqs4ou.ipfs.dweb.link
@@ -24412,13 +24416,16 @@
 +.bafkreigncckxf56wemtlxrrxs66csmkk4f2h7giibzrra7jjtkxtf33kw4.ipfs.dweb.link
 +.bafkreigydfmhypvnhhgnz4to3jfe4s572r7ljk5dob5ppv4dp3ohko3u6e.ipfs.dweb.link
 +.bafkreigzu2lviimykex3t7j6v7g7rr2limyaqlj2rbtm3ws2grooxkj6iq.ipfs.dweb.link
++.bafkreih6wk4uwgtu3nxz7fz3zfsfikekg72zmficr2uehbhmvtqi3jmdfe.ipfs.dweb.link
 +.bafkreihanifu2khj7ha5h2g5owjwegmmdrguna3zshetpdaqedtrshkkti.ipfs.dweb.link
 +.bafkreihb3vw52dinyr3kpwmy4ym4smnqqf4osesbp5yatkjyegjezwieci.ipfs.dweb.link
 +.bafkreihbuaki4ahvu2skacwydrjhqr2sjknwxevwj7rbx7mvs2xk3lelcm.ipfs.dweb.link
 +.bafkreihbvrdzotm6ue2z5qq7keyf65jkqzzff2dsv5vxu4qwrthu3fkve4.ipfs.dweb.link
++.bafkreihfobpt74h62ysdro2ekuili3nsdkkvz67vsir3o63wjcivqb33ma.ipfs.dweb.link
 +.bafkreihhctl6thjm5w7xk52xiyiaffkoi3ardg6atcp6rpdiiqkk27kcdi.ipfs.dweb.link
 +.bafkreihitaduxmdqk3n72qdzcqjuds2jbl3zahhib6kdp233tm35zkxl34.ipfs.dweb.link
 +.bafkreihoncx735fuumihtpr5e6ngzvoiv7gs4jc63i4fpmiuqp5nqoqx5q.ipfs.dweb.link
++.bafkreihz56iqmzrigwird475wmjbe2sxfj5n7zqqqxqijleyo5ocqmn45m.ipfs.dweb.link
 +.bafybeia37aijcmncpbru77cq5jqlhs4wdm55ah4n52ywr72y7t6shbsx2e.ipfs.dweb.link
 +.bafybeia6bulyrhm2hajcg2tcl7dvsrvfc5a47hlnxifr6a6i4n4ebvxwki.ipfs.dweb.link
 +.bafybeiaa2wna74mfiecgfrq5oyspsx5ftb5ikekcmnijwqt2u7ollndxrm.ipfs.dweb.link
@@ -65858,6 +65865,7 @@
 +.foirede-paris.fr
 +.fojbd.yt
 +.fojjk.yt
++.fojuca-nugafu.site
 +.fokeniz.com
 +.folamsan.kovo.vn
 +.folawau.com
@@ -122857,6 +122865,7 @@
 +.pl-kategorie-ogrod-id-359487.sbs
 +.pl-kategorie-ogrod-oferty-id87721.sbs
 +.pl-kategorie-polecane-82839.shop
++.pl-kategorie1471247671274.icu
 +.pl-kategorie62692641836.icu
 +.pl-kategorie7255972657398.icu
 +.pl-kategorie7256986151942.icu
@@ -183948,6 +183957,9 @@
 +.zlx.com.br
 +.zlzgfj.icu
 +.zlzwhrhkavos.xyz
++.zm-meeting0pa8-l6webmail-1sgm8my6g-mike-vernamines-projects.vercel.app
++.zm-meetinga6b-ay1webmail-i4wjjc058-mike-vernamines-projects.vercel.app
++.zm-meetingtnx-en9webmail-3hu7rqqfr-mike-vernamines-projects.vercel.app
 +.zm232.com
 +.zm9dui4x.duckdns.org
 +.zmail-auth.weebly.com
