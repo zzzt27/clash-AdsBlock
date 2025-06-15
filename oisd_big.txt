@@ -1,9 +1,9 @@
-# Version: 202506150920
+# Version: 202506151020
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184677
-# Last modified: 2025-06-15T09:20:09+0000
+# Entries: 184675
+# Last modified: 2025-06-15T10:20:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6281,6 +6281,7 @@
 +.a4f074a2f8.com
 +.a4rphu.hbg.hebdenbridgedental.co.uk
 +.a4uatro.com.br
++.a4vkoa.net
 +.a4y.top
 +.a5-17-2-app1ent.datadoghq.com
 +.a5-2-1-app1ent.datadoghq.com
@@ -16557,6 +16558,7 @@
 +.ams3.gossipbuzzworld.com
 +.ams3.gossipchathub.xyz
 +.ams3.gossippodtalk.com
++.ams3.newtraveljourneys.live
 +.ams3.ultimatefitnessvision.com
 +.ams3.unraveledtraveldestinations.com
 +.ams3.urbandesignhaven.com
@@ -22499,7 +22501,6 @@
 +.auburn-unicu-acc-sc.weebly.com
 +.auburn9819.com
 +.auburncabinets.com
-+.aubxktrpbesh.com
 +.auc.ca-conv.jp
 +.aucahn.fr
 +.auchab.fr
@@ -46497,7 +46498,6 @@
 +.czxjx.cn
 +.czystypowiat.pl
 +.czyszczeniekrakow.pl
-+.czytam-pl.shop
 +.czytampol.pl
 +.czytooszustwo.pl
 +.d-098ybui-hgf-1324992141.cos.ap-bangkok.myqcloud.com
@@ -48371,7 +48371,6 @@
 +.dangerouscrane.pro
 +.dangersfluentnewsletter.com
 +.dangerzona.com
-+.dangnhapf88.com
 +.dangol-v2.web.app
 +.dangtienluc.com
 +.daniel159.no-ip.org
@@ -58233,7 +58232,6 @@
 +.embanet.vo.llnwd.net
 +.embankmentbrand.com
 +.embarkvision.top
-+.embarrassment2.fun
 +.embassades.info
 +.embeamratline.top
 +.embed.bannerboo.com
@@ -63522,7 +63520,6 @@
 +.ferding.com
 +.ferdzo.con.mk
 +.fereservesystemgroup.com
-+.ferialaunidad.com
 +.feriapeati.pro
 +.feriassaimiri.com
 +.ferien-datenbank.de
@@ -70583,7 +70580,6 @@
 +.ggoffo.co.in
 +.ggoofgg.s3-website.us-east-2.amazonaws.com
 +.ggooogle.com
-+.ggpickups.com
 +.ggr.yxdown.com
 +.ggreatshow.com
 +.ggreatstuff.com
@@ -101508,6 +101504,7 @@
 +.maudau.com
 +.maufusjiop.com
 +.mauiexpokennel.com
++.maulequipollences.com
 +.maulupoa.com
 +.maunfof.weebly.com
 +.mauphiph.net
@@ -115568,6 +115565,7 @@
 +.olympecasinoenligne.fr
 +.olympecasinofrance.fr
 +.olympecasinos.fr
++.olympiadhistory.com
 +.olympianhorizon.pro
 +.olympicmyths.com
 +.olympicpeninsulacabinets.com
@@ -117393,7 +117391,6 @@
 +.orionember.com
 +.oriongroup.in
 +.orionmarketing.ru
-+.oritaln.com
 +.oritooep.win
 +.orixon.org
 +.orjfun.com
@@ -122975,6 +122972,7 @@
 +.pl-oferta2784529.shop
 +.pl-oferta3102817.shop
 +.pl-oferta3109197.shop
++.pl-oferta3253125.icu
 +.pl-oferta3339534.shop
 +.pl-oferta3477213.shop
 +.pl-oferta3621798.icu
@@ -125415,6 +125413,7 @@
 +.powrledger.io
 +.powzers.lol
 +.pox23.io
++.poxewiy0.pro
 +.poxyqey.com
 +.poyang.com
 +.poyday.com
@@ -127424,7 +127423,6 @@
 +.proxena-images.reviveservers.com
 +.proxena-secure.reviveservers.com
 +.proxima.midjourney.com
-+.proximabnq.fr
 +.proximic.com
 +.proximityads.flipcorp.com
 +.proximus-me.com
@@ -149447,6 +149445,7 @@
 +.solotravelsmarts.com
 +.solovair-france.fr
 +.solowyy.com
++.solplaza.lat
 +.solprozip.com
 +.solsniper.eu
 +.solsoftt.digital
@@ -160374,7 +160373,6 @@
 +.thesisadornpathetic.com
 +.thesleepercar.com
 +.theslowarchitecture.com
-+.theslytoad.com
 +.thesmarttteam.com
 +.thesnapprint.com
 +.thesocialhire.in
@@ -172970,6 +172968,7 @@
 +.vodytia.com
 +.voegol.my.site.com
 +.vofolie.pro
++.vofudio6.pro
 +.vog168.top
 +.vogac.com
 +.vogate.com
@@ -182593,7 +182592,6 @@
 +.yt-hn.com
 +.yt-zhuce.com
 +.yt.mmstat.com
-+.yt.service-hel.com
 +.yt118.com
 +.yt3cvkj43ws.pages.dev
 +.yt54dsxaz.appspot.com
