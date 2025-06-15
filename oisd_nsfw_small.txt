@@ -1,9 +1,9 @@
-# Version: 202506150625
+# Version: 202506150725
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20233
-# Last modified: 2025-06-15T06:25:24+0000
+# Entries: 20240
+# Last modified: 2025-06-15T07:25:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1166,6 +1166,7 @@
 +.annunci69.it
 +.annyaurora19.com
 +.anon-v.com
++.anon-v.xyz
 +.anonib.pk
 +.anonib2.org
 +.anonimageboards.com
@@ -2626,6 +2627,7 @@
 +.boyztube.com
 +.bporncity.com
 +.bpornd.com
++.bpornhq.com
 +.bporno.net
 +.bpornplanet.com
 +.bporntv.com
@@ -9050,6 +9052,7 @@
 +.keciorenescortgo.xyz
 +.keekass.com
 +.keencams.com
++.keenetic.name
 +.keep2porn.net
 +.keezmovies.com
 +.keilabacellar.com
@@ -13304,6 +13307,7 @@
 +.pornomedia.com
 +.pornomesto.me
 +.pornomesto.net
++.pornomesto.tv
 +.pornomico.com
 +.pornomilf.click
 +.pornomilf.site
@@ -13710,6 +13714,7 @@
 +.pornxp.me
 +.pornxp.net
 +.pornxp.network
++.pornxp.online
 +.pornxp.org
 +.pornxp.quest
 +.pornxp.sbs
@@ -15199,6 +15204,7 @@
 +.sexlog.com
 +.sexloveero.net
 +.sexm.xxx
++.sexmagazin.at
 +.sexmaharim.com
 +.sexmahrams.com
 +.sexmalt.com
@@ -18354,6 +18360,7 @@
 +.webstarterz.com
 +.webtoon.xyz
 +.webtoonscan.com
++.webwave.dev
 +.webxmaza.com
 +.webxsites.com.br
 +.webzmegz.com

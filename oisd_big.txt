@@ -1,9 +1,9 @@
-# Version: 202506150619
+# Version: 202506150719
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184574
-# Last modified: 2025-06-15T06:19:19+0000
+# Entries: 184582
+# Last modified: 2025-06-15T07:19:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2171,6 +2171,7 @@
 +.24lov.ru
 +.24masr.com
 +.24moviess.blogspot.com
++.24news-hot.online
 +.24news-press.net
 +.24newstech.com
 +.24ora.eu
@@ -23146,6 +23147,7 @@
 +.autopolicyshop.com
 +.autoportgen.space
 +.autopreneur.fr
++.autoprofithubapp.com
 +.autoprofitx.net
 +.autopsyextendedyou.com
 +.autopsyjam.com
@@ -23168,6 +23170,7 @@
 +.autosense.bitauto.com
 +.autoservis-sindrak.com
 +.autoshere.fr
++.autoshowgya.com
 +.autosknowledge.com
 +.autosystem.org
 +.autotrack.studyquicks.com
@@ -24388,6 +24391,7 @@
 +.bafkreie7t6yeifa37pqlly6gwucvfgdjgqyhnbpg2alnz5nrzbh33o67wm.ipfs.dweb.link
 +.bafkreieabbam4px65fdysyaxvilhn7viqnuda5oe4qgnqkwqwysqxlyugi.ipfs.dweb.link
 +.bafkreied7pp6e5x2myujigverxvcdsq4ts7xfv65bu2j526fixseocfpti.ipfs.dweb.link
++.bafkreiedfusy6wgiupm4uy3alsdarir6lrw2ffybfvjlctysyo7dt7532q.ipfs.dweb.link
 +.bafkreiek54ci7oxpcjmpah5hl6zsya4vl2lxsv76fhfmwy7izz5wt5rg3m.ipfs.dweb.link
 +.bafkreiekwwzkeycsjeadsbrhpsovuitejox6wl3oqt3pplqx7qjhzedy7i.ipfs.dweb.link
 +.bafkreielkq7bv6myw26b7zkww3gyzagez5hr4rz6ul7wcg7xxuxoj73mhi.ipfs.dweb.link
@@ -27988,6 +27992,7 @@
 +.biodanzaholidays.com
 +.biodymerca.pro
 +.biodynamic5ps.com
++.biofaosped.com
 +.biofastprox.com
 +.biofasttrack.com
 +.biofocuslabprozone.com
@@ -28149,6 +28154,7 @@
 +.bit-gpt-app.com
 +.bit-gpt-app.net
 +.bit-gpt.app
++.bit-gptai.com
 +.bit-indexai.com
 +.bit-indexprime.app
 +.bit-indexprime.com
@@ -31132,6 +31138,7 @@
 +.brokercomparatif.com
 +.brokergesture.com
 +.brokeroconnorhmybroker.com
++.brokerplan.top
 +.brokersash.weebly.com
 +.brokertraffic.com
 +.brokerunity.com
@@ -31899,6 +31906,7 @@
 +.budgetmove.icu
 +.budgeton.digital
 +.budgetone.icu
++.budgetplanner.top
 +.budgetwizard.io
 +.budhavis.com
 +.budhump.com
@@ -34396,6 +34404,7 @@
 +.carolinafederation.com
 +.caroline-bell.com
 +.carolroth.com
++.carolyngharper.com
 +.carolynmoots.com
 +.carolynrichards.net
 +.carp.acda.app
@@ -34979,6 +34988,7 @@
 +.catherinetaylor.co.nz
 +.catherineventura.com
 +.catholicprevalent.com
++.catholicstockphotos.com
 +.cathological.com
 +.cathrynslues.com
 +.cathudnete.click
@@ -36146,6 +36156,7 @@
 +.centrequ.cc
 +.centrfiocc.pro
 +.centrocasalbenga.com
++.centrodedermatologiademonterrey.com
 +.centrodepsicologiamartinezyfumero.com
 +.centrolinguisticorobert.com
 +.centropoliscastelbuono.it
@@ -39011,6 +39022,7 @@
 +.cleaningmystical.com
 +.cleaningpro.top
 +.cleaninsure.com
++.cleankey.top
 +.cleanlatif.pro
 +.cleanledgerscartstaging.com
 +.cleanmakassar.com
@@ -44492,7 +44504,6 @@
 +.creation-referencement-sites.com
 +.creationstoucom.com
 +.creative-bars1.com
-+.creative-climate.com
 +.creative-digital.co
 +.creative-geniuslab.com
 +.creative-hypnotherapy.com
@@ -48763,6 +48774,7 @@
 +.datapage-hcucoopindex.web.app
 +.datapoint.cfd
 +.datarankz.com
++.datarayy.top
 +.datarayz.click
 +.datareco.com
 +.datarecoveryservicis.com
@@ -50811,6 +50823,7 @@
 +.devondale.com.cn
 +.devone.site
 +.devonenergyltd.wixsite.com
++.devopsdeviants.com
 +.devoremediallc.com
 +.devorix-mel.net
 +.devotecausson.click
@@ -51021,7 +51034,6 @@
 +.dgfoodsnet.myportfolio.com
 +.dggaenaawxe8z.cloudfront.net
 +.dgghhhh.painaa.web.id
-+.dggrxhqnpybuls.eu
 +.dghjnmed.weebly.com
 +.dgifpencaissement.fr
 +.dgit.com
@@ -53309,6 +53321,7 @@
 +.doctor-martenss.com
 +.doctor-spravka.ru
 +.doctor1.ch.vu
++.doctoradil.com
 +.doctoradopensamientocomplejo.org
 +.doctorart.ru
 +.doctoraxis.com
@@ -53351,6 +53364,7 @@
 +.doctorshe.com
 +.doctorsnob.com
 +.doctorsorgtuuk.weebly.com
++.doctorsoumya.com
 +.doctorspin.ru
 +.doctorsuser2025new.weebly.com
 +.doctortrf.com
@@ -53831,6 +53845,7 @@
 +.doo9gpa5xdov2.cloudfront.net
 +.doodiwom.com
 +.doodleap.pro
++.doodlebo.com
 +.doodlenest.pro
 +.doodlenesters.pro
 +.doodlesunshinecamp.com
@@ -56872,6 +56887,7 @@
 +.edadmy.xyz
 +.edaightutaitlastwe.info
 +.edalloverwiththinl.info
++.edaproz.top
 +.edarah.com.eg
 +.edatasales.com
 +.edavki-8a186.firebaseapp.com
@@ -57411,7 +57427,6 @@
 +.egbay.it
 +.egd2402.appspot.com
 +.egeemsob.com
-+.egegeg.duckdns.org
 +.egestdebil.pro
 +.egeszsegespont.hu
 +.egfollow.com
@@ -58796,7 +58811,6 @@
 +.engineering360.info
 +.engineeringtime.com
 +.engineermade.com
-+.engineerprof.com
 +.engineersclubindia.com
 +.engineertrick.com
 +.engineeryx.com
@@ -59456,6 +59470,7 @@
 +.erickmcgregor.com
 +.ericlindstrom.com
 +.ericmaddox.us
++.ericrbarrett.com
 +.ericzworkz.free.fr
 +.eriecabinets.org
 +.eriegentsfse.info
@@ -60240,6 +60255,7 @@
 +.etstemizlik.com
 +.etsy.assert.help
 +.etsy.form64271.world
++.etsy.ratification.help
 +.ettc-online.com
 +.etu-amse.fr
 +.etu-nantes.fr
@@ -75227,7 +75243,6 @@
 +.halcyoncanyon.com
 +.halcyonsculpture.com
 +.hale-jewish-community.org.uk
-+.haleleeh8iuoty1.duckdns.org
 +.haleleeh8iuoty2.duckdns.org
 +.haletone.com
 +.halex.waw.pl
@@ -82628,7 +82643,6 @@
 +.inappi.co
 +.inappi.me
 +.inappritor.pro
-+.inappropriate2.fun
 +.inappropriatejessamycookery.com
 +.inapps.appsflyer.com
 +.inapps.appsflyersdk.com
@@ -84628,7 +84642,6 @@
 +.interrecel.pro
 +.interreklame.de
 +.interrinfu.pro
-+.interrogationpeepchat.com
 +.interruptchalkedlie.com
 +.interruptimpendingdetrimental.com
 +.interrusty.pro
@@ -89926,7 +89939,6 @@
 +.keymedia.hu
 +.keymedicare.com
 +.keyne-in.com.cn
-+.keynotefool.com
 +.keyofhealth.com
 +.keypush.net
 +.keyrates.org
@@ -104365,7 +104377,6 @@
 +.milestoneinstallation.com
 +.milffinder.pl
 +.milfordslow.top
-+.milfs4free.info
 +.milfunsource.com
 +.milibao.com
 +.milifrontiers.com
@@ -118622,7 +118633,6 @@
 +.packs-special.info
 +.packsaddlefellowship.com
 +.packsofgood.com
-+.packto.duckdns.org
 +.packwaxtoner.shop
 +.pacontainer.s3.amazonaws.com
 +.pacoursup.fr
@@ -132064,7 +132074,6 @@
 +.qxfly.com
 +.qxhspimg.com
 +.qxjdlf.com
-+.qxlejekibi.com
 +.qxozluyvvyabw.online
 +.qxrbu.com
 +.qxwls.rocks
@@ -145232,7 +145241,6 @@
 +.shbzngs.cn
 +.shbznkj.cn
 +.shbzogs.cn
-+.shbzokj.cn
 +.shbzpgs.cn
 +.shbzqgs.cn
 +.shbzqkj.cn
@@ -169826,6 +169834,7 @@
 +.vaavroomoutdoors.com
 +.vaay.ru
 +.vabawyy.info
++.vabejao1.pro
 +.vaboz.icu
 +.vacade.com
 +.vacanceespagne.fr
@@ -174838,7 +174847,6 @@
 +.web.w300.vhostgo.com
 +.web.wlphelp.top
 +.web.xbvhelp.top
-+.web.xohhelp.top
 +.web.xvbhelp.top
 +.web.ydhjs4.top
 +.web0.eu
