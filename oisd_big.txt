@@ -1,9 +1,9 @@
-# Version: 202506150519
+# Version: 202506150619
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184584
-# Last modified: 2025-06-15T05:19:51+0000
+# Entries: 184574
+# Last modified: 2025-06-15T06:19:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3201,7 +3201,6 @@
 +.4497e71924.com
 +.449928-coinbase.com
 +.44b6d66394.a2e5b82fea.com
-+.44dosp65.lat
 +.44e29c19ac.com
 +.44emac-looks.weebly.com
 +.44fc128918.com
@@ -16103,7 +16102,6 @@
 +.amazon.idgai.com
 +.amazon.wii-info.fr
 +.amazon34.duckdns.org
-+.amazon34.linkpc.net
 +.amazon8898.com
 +.amazonamc.co
 +.amazonawsreplay.com
@@ -24393,6 +24391,7 @@
 +.bafkreiek54ci7oxpcjmpah5hl6zsya4vl2lxsv76fhfmwy7izz5wt5rg3m.ipfs.dweb.link
 +.bafkreiekwwzkeycsjeadsbrhpsovuitejox6wl3oqt3pplqx7qjhzedy7i.ipfs.dweb.link
 +.bafkreielkq7bv6myw26b7zkww3gyzagez5hr4rz6ul7wcg7xxuxoj73mhi.ipfs.dweb.link
++.bafkreieo23mvei4hp5akkpj3sxs6pewc55xmxpacwaddkkyden2zwby53q.ipfs.dweb.link
 +.bafkreieti7yk7oz2gq3vobxm7wbe42wtgqtkv6ibai4xjudeaisp6neysa.ipfs.dweb.link
 +.bafkreiexjrowz4slizrct5vq76pod4f5zykryszuhvei2udi5ekuhuz2li.ipfs.dweb.link
 +.bafkreiez5fruf76wbn4zuz2mrdg5rbop7ws5qj5zv47vf4325scrvya6by.ipfs.dweb.link
@@ -33942,7 +33941,6 @@
 +.cannetstoups.click
 +.canniguide.pro
 +.canningpajamastint.com
-+.canningwalker.com
 +.cannonchange.com
 +.cannonclam.com
 +.cannonkit.com
@@ -48396,6 +48394,7 @@
 +.dante.vl.ru
 +.dantocmiennui-log.baotintuc.vn
 +.dantri.live
++.danudu.moneyrafflegift.com
 +.danuunlimited.com
 +.danv01ao0kdr2.cloudfront.net
 +.danylevych.com
@@ -60954,7 +60953,6 @@
 +.example.servidor.world
 +.examplecom.112.2o7.net
 +.exampleshake.com
-+.examsupdatesupple.com
 +.exarthynature.run
 +.exasked.com
 +.exasperationincorporate.com
@@ -63122,7 +63120,6 @@
 +.fd7c.com
 +.fd7nnk.pulty.multiversemechanics.info
 +.fdagenplasg.firebaseapp.com
-+.fdata.io
 +.fdating.fr
 +.fdbdo.com
 +.fdelphaswcealifornica.com
@@ -78658,6 +78655,7 @@
 +.horizonmeadow.org
 +.horizonnudge.pro
 +.horizonpeak.info
++.horizonpulse.my
 +.horizonriddle.store
 +.horizontallypolluteembroider.com
 +.horizontiaenergia.com
@@ -85322,7 +85320,6 @@
 +.iptvhddechile.com
 +.iptvmerkez.com
 +.iptvpro-france.fr
-+.iptvsmarters-tv.com
 +.iptvstart10.com
 +.iptvyo.com
 +.ipv4.kkmh.com
@@ -86205,7 +86202,6 @@
 +.izumi-sv.f5.si
 +.izumi-test.f5.si
 +.izusep.weebly.com
-+.izvtmrynby.com
 +.izzicasino.fr
 +.izzylogz.nn.r.appspot.com
 +.j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
@@ -87178,7 +87174,6 @@
 +.jhgfdgf774.w3spaces.com
 +.jhghjjhjkj.w3spaces.com
 +.jhghjkljmn.weebly.com
-+.jhgj.njxwang.com
 +.jhgku.com
 +.jhgrealty.com
 +.jhguspszurn.com
@@ -89243,7 +89238,6 @@
 +.kaohej.com
 +.kaohej.info
 +.kaolinoleous.com
-+.kaorpyqtjjld.com
 +.kaoshaven.com
 +.kapaass.com
 +.kapatelu.clan.su
@@ -110304,7 +110298,6 @@
 +.net.drillrp.com
 +.net.egravure.com
 +.net.flix-app.info
-+.net.flix-pago.com
 +.net.fuckxstream.com
 +.net.iberia.com
 +.net.lsipes.com
@@ -117022,7 +117015,6 @@
 +.or-ipo.com
 +.or-observed.gl.at.ply.gg
 +.or-replication.gl.at.ply.gg
-+.or.rawth.pro
 +.or73.com
 +.ora-0-web.com
 +.ora-dental.com
@@ -122936,6 +122928,7 @@
 +.pl-oferta4124403.icu
 +.pl-oferta4277662.shop
 +.pl-oferta4330509.shop
++.pl-oferta4423618.icu
 +.pl-oferta443532.rest
 +.pl-oferta4474710.shop
 +.pl-oferta4500446.shop
@@ -137355,6 +137348,7 @@
 +.robuxfree.co
 +.robuxhelp.com
 +.robuxtools.me
++.robuxyzafree.edu.pl
 +.robv25.oss-ap-southeast-1.aliyuncs.com
 +.roby-casinos.fr
 +.robycasinos.fr
@@ -167100,7 +167094,6 @@
 +.uiysbadge.info
 +.uiysfr-espace.com
 +.uiysfrance.com
-+.uiystelepeage.com
 +.uiytrygyu.pages.dev
 +.uizjfyakmsawn.site
 +.uj244k.de
@@ -178318,7 +178311,6 @@
 +.worldtxix.top
 +.worldusa.com
 +.worldvaluation.com
-+.worldview360.info
 +.worldviewbooks.com
 +.worldwide-cash.net
 +.worldwide-contributor.gl.at.ply.gg
@@ -181158,7 +181150,6 @@
 +.xxi.ss.la
 +.xxinealonbd.webcindario.com
 +.xxivzamarra.shop
-+.xxjfbm-v6d-sv47--3-8bf.rogerss.site
 +.xxju61.hbg.hebdenbridgedental.co.uk
 +.xxkhh.com
 +.xxlargepop.com
@@ -182894,7 +182885,6 @@
 +.zachandblue.com
 +.zacharryblogs.com
 +.zaciwii.com
-+.zackerybennett.com
 +.zacleporis.com
 +.zacovou.pro
 +.zaczaraowane-ogrody.com
