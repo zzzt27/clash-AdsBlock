@@ -1,9 +1,9 @@
-# Version: 202506151903
+# Version: 202506151927
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20374
-# Last modified: 2025-06-15T19:03:42+0000
+# Entries: 20378
+# Last modified: 2025-06-15T19:27:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7480,6 +7480,7 @@
 +.hoodamateurs.com
 +.hookup.net
 +.hookupapp.org
++.hookupdaddy.net
 +.hookupdates.net
 +.hookupdatingtactics.com
 +.hookupeasytonight.com
@@ -8998,6 +8999,7 @@
 +.jzzo.com
 +.k-y.com
 +.k2s.club
++.k2sporn.com
 +.k2sporn.net
 +.k9lady.com
 +.k9monster.net
@@ -16073,6 +16075,7 @@
 +.smotri.ru
 +.smpixie.com
 +.smplace.com
++.smut.com
 +.smutboy.com
 +.smutindia.net
 +.smutjunkies.com
@@ -18612,6 +18615,7 @@
 +.worldpornguru.com
 +.worldsex.com
 +.worldshemalep.com
++.worldtwinkp.com
 +.worldvintagep.com
 +.wow-mature.com
 +.wow-xxx-videos.com
