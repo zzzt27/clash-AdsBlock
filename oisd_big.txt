@@ -1,9 +1,9 @@
-# Version: 202506150119
+# Version: 202506150419
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184600
-# Last modified: 2025-06-15T01:19:32+0000
+# Entries: 184606
+# Last modified: 2025-06-15T04:19:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15166,6 +15166,7 @@
 +.allegrolokalnie.pl-2929.shop
 +.allegrolokalnie.pl-31310.cfd
 +.allegrolokalnie.pl-319586.cfd
++.allegrolokalnie.pl-3219.cfd
 +.allegrolokalnie.pl-34960792.icu
 +.allegrolokalnie.pl-37292.cfd
 +.allegrolokalnie.pl-38848.shop
@@ -24402,6 +24403,7 @@
 +.bafkreif2sunx4qedipj243j4gtyh2u2lt7yolego7tun64gwhejwglqxve.ipfs.dweb.link
 +.bafkreif5k7m3u4tlonk2z3a2duabbsce4qrjbz4l7o4xxhooe3piyxueq4.ipfs.dweb.link
 +.bafkreifadqmb2z7nmzzdjhfklljpznmudwq6icy5ex7xj5oelsooa47tea.ipfs.dweb.link
++.bafkreifamspoargkmoldazpffc6t5uc4nycjjo5efbngt6rcyxwf5qwdou.ipfs.dweb.link
 +.bafkreifboouw4pecx3v2v6wldkrbkaywjpzmwts3juhhn54dvai6esmlma.ipfs.dweb.link
 +.bafkreifbppp4cmq4vmgu33uz3oebm7umu6cmst7t4od26eolltjqzgb7ji.ipfs.dweb.link
 +.bafkreifjlmuimst4zln65akk3dawdek5uesgvqkq4jo3fzbmsb6oteegb4.ipfs.dweb.link
@@ -122987,6 +122989,7 @@
 +.pl-oferta6274875.icu
 +.pl-oferta627512.shop
 +.pl-oferta6291420.icu
++.pl-oferta6324120.icu
 +.pl-oferta634.top
 +.pl-oferta634653.live
 +.pl-oferta6449004.shop
@@ -144271,6 +144274,7 @@
 +.serwer2526573.home.pl
 +.serwer2532409.home.pl
 +.serwer2537704.home.pl
++.serwer2575341.home.pl
 +.serwer2583293.home.pl
 +.serwis-laptopow24.pl
 +.serwisbialystok.pl
@@ -154740,6 +154744,7 @@
 +.subsidyoffice.com
 +.subsiliodev1.com
 +.subskyp-maal.com
++.subssirption.com
 +.substancemove.info
 +.substantialequilibrium.com
 +.substantialgrade.com
@@ -181906,6 +181911,7 @@
 +.yimemediatesup.com
 +.yin1.zgpingshu.com
 +.yincestealthiness.com
++.yingchangdlht1111.com
 +.yingjiachuwei.com
 +.yingkebao.top
 +.yini8.com
