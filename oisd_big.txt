@@ -1,9 +1,9 @@
-# Version: 202506151544
+# Version: 202506151620
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184745
-# Last modified: 2025-06-15T15:44:51+0000
+# Entries: 184739
+# Last modified: 2025-06-15T16:20:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -79628,7 +79628,6 @@
 +.humansuch.net
 +.humanverify.net
 +.humatecortin.com
-+.humbergosi.xyz
 +.humble-gap.com
 +.humblebenefit.com
 +.humbleframe.online
@@ -116809,7 +116808,6 @@
 +.openweb.com.ar
 +.openwhoelai.com
 +.openwidedentalmarketing.com
-+.openworldnews.online
 +.openworldreport.online
 +.openwq.digital
 +.openx.angelsgroup.org.uk
@@ -125365,7 +125363,6 @@
 +.pottierneronic.top
 +.pottiottang.pro
 +.potvaporizer.com
-+.potwierdzenie-konta.top
 +.potwm.com
 +.pouchedathelia.com
 +.poufaini.com
@@ -130287,7 +130284,6 @@
 +.pumlikemm.bentoweb.com
 +.pumod.com
 +.pump-follow.com
-+.pump-fun-airdrop.online
 +.pump.fun.ong
 +.pumpati.de
 +.pumpbead.com
@@ -136200,7 +136196,6 @@
 +.rgvsf.stressamp.com
 +.rgyun.com
 +.rh.qq.com
-+.rhaein.com
 +.rhamnappla.pro
 +.rhbgroup.net
 +.rhcg.gulfhirings.com
@@ -178180,7 +178175,6 @@
 +.wonderanticipateclear.com
 +.wonderberrys.com
 +.wonderbow.fr
-+.wonderchristmas.store
 +.wonderdash.pro
 +.wonderfleet.com
 +.wonderfox.fr

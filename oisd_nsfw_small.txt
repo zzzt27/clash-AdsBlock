@@ -1,9 +1,9 @@
-# Version: 202506151551
+# Version: 202506151627
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20348
-# Last modified: 2025-06-15T15:51:43+0000
+# Entries: 20352
+# Last modified: 2025-06-15T16:27:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1840,6 +1840,7 @@
 +.bbcsurprise.com
 +.bblivecams.com
 +.bboutique.co
++.bbpeoplemeet.com
 +.bbrdbr.com
 +.bbs-tw.com
 +.bbsex.org
@@ -5090,6 +5091,7 @@
 +.fantasyasian.com
 +.fantasyasianp.com
 +.fantasyescortblogs.com
++.fantasyfeeder.com
 +.fantasygayp.com
 +.fantasygf.ai
 +.fantasygirlpass.com
@@ -10852,6 +10854,7 @@
 +.musclegrowth.net
 +.musculoduro.net
 +.mushusei4.top
++.music.blog
 +.mustvideos.com
 +.mutantporn.com
 +.mutekimuteki.com
@@ -15368,6 +15371,7 @@
 +.sexoperm.sex
 +.sexoporno.blog
 +.sexoral.net
++.sexorama.eu
 +.sexorb.io
 +.sexoro.com
 +.sexorostov.online
