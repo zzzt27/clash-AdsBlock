@@ -1,9 +1,9 @@
-# Version: 202506150827
+# Version: 202506150926
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20255
-# Last modified: 2025-06-15T08:27:01+0000
+# Entries: 20271
+# Last modified: 2025-06-15T09:26:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -160,6 +160,7 @@
 +.22cam.com
 +.236avporn.com
 +.24-video.com
++.24-video.ru
 +.247analsex.com
 +.247asiansex.com
 +.247bigboobs.com
@@ -2373,6 +2374,7 @@
 +.bleachbooru.org
 +.bleachmyeyes.com
 +.blissbox.com
++.blog.hu
 +.blog4ever.com
 +.blogbugs.org
 +.blogdefolie.com
@@ -2930,6 +2932,7 @@
 +.camshowrecord.net
 +.camshowrecordings.com
 +.camshowsrecorded.com
++.camshq.info
 +.camslib.com
 +.camsloveaholics.com
 +.camsmut.com
@@ -5462,6 +5465,7 @@
 +.firstpornotube.com
 +.firstporntubes.com
 +.firstpornvideos.cc
++.firstsexonline.com
 +.firsttimeporn.website
 +.fishmpegs.com
 +.fistingplanet.com
@@ -6294,6 +6298,7 @@
 +.gayxx.net
 +.gayxxx.cc
 +.gayxxxperv.com
++.gaziantepescort.net
 +.gaziantepescortara.com
 +.gaziantepescortgo.com
 +.gaziantepgazetesi.com
@@ -7446,6 +7451,7 @@
 +.hookupranking.com
 +.hookups.co.za
 +.hookupschat.com
++.hookupsearch.org
 +.hookupseeker.org
 +.hookupslesbian.com
 +.hookupsource.com
@@ -8305,6 +8311,7 @@
 +.isaimini.meme
 +.iseekgirls.com
 +.isekaitube.com
++.isexsex.com
 +.isexychat.com
 +.isexychat.in
 +.isexychat.org
@@ -11379,6 +11386,7 @@
 +.nokephub.com
 +.nolur.com
 +.nomi.ai
++.noname.chat
 +.nonktube.com
 +.nonnetroie.com
 +.nonnetroie.org
@@ -14877,6 +14885,7 @@
 +.severesexfilms.com
 +.severstroysnab.ru
 +.sex
++.sex-animals.site
 +.sex-arabi.co
 +.sex-arbada.com
 +.sex-arebe.com
@@ -16548,6 +16557,7 @@
 +.teen-erotic.net
 +.teen-porno.ru
 +.teen-pussy-tube.com
++.teen-tube-18.com
 +.teen-tube-19.com
 +.teen-tube-20.com
 +.teen-tube-21.com
@@ -17238,6 +17248,7 @@
 +.transg.porn
 +.transgenderdate.com
 +.transgirls.com
++.transgirls.de
 +.transharder.com
 +.transhero.com
 +.transjizz.com
@@ -17514,6 +17525,7 @@
 +.tuboff.com
 +.tuboporno.net
 +.tubuz.com
++.tubxporn.com
 +.tudungporn.site
 +.tufos.com.br
 +.tukif.club
@@ -18010,6 +18022,7 @@
 +.vidzmix.com
 +.viejas.icu
 +.viejitas.top
++.viet69.meme
 +.viet69.net
 +.viet69.porn
 +.viet69.sb
@@ -19693,6 +19706,7 @@
 +.xxxn.me
 +.xxxn.rocks
 +.xxxn.tv
++.xxxnaja.com
 +.xxxnakedpics.com
 +.xxxnaughtycams.com
 +.xxxnawak.com
@@ -20120,6 +20134,7 @@
 +.zbporn.com
 +.zbporn.net
 +.zbporn.tv
++.zceleb.com
 +.zebawy.com
 +.zedporn.com
 +.zeenite.com
@@ -20195,6 +20210,7 @@
 +.zooporn.blog
 +.zooporn.club
 +.zooporn.org
++.zooporn.pro
 +.zooporn.show
 +.zooporn.stream
 +.zooporn.video
