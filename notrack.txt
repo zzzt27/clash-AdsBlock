@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 15 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15759
+# Domain Count: 15758
 #===============================================================
 
 +.0i0i0i0.com
@@ -1024,7 +1024,6 @@
 +.clouderrorreporting.googleapis.com
 +.cloudservice14.kingsoft-office-service.com
 +.cluep.com
-+.cluodlfare.com
 +.cmail1.com
 +.cmail19.com
 +.cmail2.com

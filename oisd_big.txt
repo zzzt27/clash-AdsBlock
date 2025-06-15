@@ -1,9 +1,9 @@
-# Version: 202506151620
+# Version: 202506151721
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184739
-# Last modified: 2025-06-15T16:20:40+0000
+# Entries: 184765
+# Last modified: 2025-06-15T17:21:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4382,6 +4382,7 @@
 +.67s8hhd.taplink.ws
 +.67t98889sa-dry-wind-3a19.accounts-payable.workers.dev
 +.67trackdomain.com
++.67yhs9my.lat
 +.67ytfffyt.ddns.net
 +.6803490767.sbs
 +.68261736.xyz
@@ -23212,7 +23213,6 @@
 +.av-douga.net
 +.av-mov.com
 +.av.ddns.us
-+.av.ira-labs.network
 +.av.sharktube.net
 +.av2.sozcu.com.tr
 +.av356.com
@@ -29593,7 +29593,6 @@
 +.bokesahotele2025.world
 +.bokhoreshonline.com
 +.bokimmujemyze.pl
-+.bokofoa7.pro
 +.boksy.dir.onet.pl
 +.boksy.onet.pl
 +.bolan.com.np
@@ -32061,7 +32060,6 @@
 +.bulletemail.com
 +.bulletiner.life
 +.bulletinmoonoral.com
-+.bulletist.com
 +.bulletproof.squirly.info
 +.bullfeeding.com
 +.bullgame.net
@@ -37730,6 +37728,7 @@
 +.chewstore.com
 +.chexdomiki.ru
 +.chexirbeld.net
++.chexirbeldai.com
 +.chez-davia.fr
 +.chezoams.com
 +.chghowardjohnson.112.2o7.net
@@ -45827,6 +45826,7 @@
 +.curraninvestments.net
 +.currantsummary.com
 +.currencyconverterbanking.weebly.com
++.currencyhub.online
 +.currencysolutionsservices.com
 +.currencytracker.click
 +.current-today-1-16-24.weeblysite.com
@@ -50840,6 +50840,7 @@
 +.devopsdeviants.com
 +.devoremediallc.com
 +.devorix-mel.net
++.devorixmelai.com
 +.devotecausson.click
 +.devotedspree.com
 +.devoteegibberishsinister.com
@@ -55224,7 +55225,6 @@
 +.duara.ru
 +.duatienday1.netlify.app
 +.dubai-wealth-hub.co.uk
-+.dubai.network.cloud.doc-shared.linkpc.net
 +.dubaicapitalbank.com
 +.dubaiclean1.com
 +.dubaiescortsgirl.com
@@ -67376,6 +67376,7 @@
 +.freshmarketone.com
 +.freshmood-holding.firebaseapp.com
 +.freshnews-nl.click
++.freshnews1710.online
 +.freshnewsanalysis.com
 +.freshnewscast.com
 +.freshnewsfeedonline.com
@@ -68642,7 +68643,6 @@
 +.gabzara.com
 +.gac.mn
 +.gaciwhemsaz.net
-+.gaconstructora.com
 +.gacor98s.org
 +.gacraft.jp
 +.gacz.hit.gemius.pl
@@ -69660,6 +69660,7 @@
 +.gebinue3.pro
 +.gebrauchtkaufen24.de
 +.gebrauchtwagen.sportsontheweb.net
++.gebroluxpro.com
 +.gebroluxproapp.net
 +.gebromex.com
 +.gebronex.com
@@ -72194,6 +72195,7 @@
 +.goldandglory.net
 +.goldassetsolutions.com
 +.goldaxfin.net
++.goldaxfinapp.com
 +.goldbach.hit.gemius.pl
 +.goldbell.info
 +.goldbotcyanweb.pro
@@ -74003,6 +74005,7 @@
 +.growthbuddy.app
 +.growthcourse.com
 +.growthkaro.com
++.growthnews.online
 +.growthpartnersyer.pro
 +.growthpic.weishi.qq.com
 +.growthrx.in
@@ -82411,7 +82414,6 @@
 +.impenballo.pro
 +.imperappas.pro
 +.imperblowi.pro
-+.imperexperto.com
 +.imperialcountycabinets.com
 +.imperialcoyote.pro
 +.imperialgrup.es
@@ -84152,6 +84154,7 @@
 +.installer.filebulldog.com
 +.installer.zutrack.com
 +.installerleading.com
++.installextremelystrongthe-file.top
 +.installfree.pro
 +.installmac.com
 +.installnow.pro
@@ -91239,6 +91242,7 @@
 +.korgiejoinyou.com
 +.korion.com.br
 +.korkipilkarskie.com
++.kormouch.com
 +.korntdiroc.pro
 +.korobov.net
 +.korodrogerie.fr
@@ -91308,6 +91312,7 @@
 +.koyab0099.github.io
 +.koyee.no-ip.org
 +.kozaka.net
++.kozakcoin.com
 +.kozefau.com
 +.kozetuy.top
 +.kozm.gulfhirings.com
@@ -91441,6 +91446,7 @@
 +.kreopbkabsit.com
 +.kreport.com
 +.kreuzberg.ru
++.krevska.com
 +.krgroup.com
 +.kriegerspub.com
 +.kriergroup.co.za
@@ -91463,11 +91469,13 @@
 +.krishivtiwari.com
 +.krishnakulam.com
 +.krista-carpediem.blogspot.com
++.kristaldiamond.com
 +.kristalzemin.com
 +.kristianumajero.top
 +.kristinee.com
 +.kristydeephoto.com
 +.krisydark.com
++.krivbassprom.com
 +.krjxhvyyzp.com
 +.krknnlogen.webflow.io
 +.krkstrk.com
@@ -91595,6 +91603,7 @@
 +.kstream.xyz
 +.ksumnole.org
 +.ksusyt8.weebly.com
++.ksycake.com
 +.kt1zpdc26avtr.life
 +.kt220.com
 +.kt54.com
@@ -91777,6 +91786,7 @@
 +.kukovuinlogon.webflow.io
 +.kukrosti.com
 +.kukuionlogion.webflow.io
++.kukuist.com
 +.kukunslogenio.webflow.io
 +.kukuoeinlogen.webflow.io
 +.kukuoin-loghin.godaddysites.com
@@ -91837,6 +91847,7 @@
 +.kunyu.csdn.net
 +.kuolkoola.com
 +.kup-labubu.shop
++.kupisha.com
 +.kupmoda.com
 +.kuponbri03.bubbleapps.io
 +.kuponbri2.bubbleapps.io
@@ -91962,7 +91973,6 @@
 +.kwbgmufi.com
 +.kwcapitalgroup.com
 +.kwdbtrmww.web.app
-+.kwgkkhcv.com
 +.kwhcgsqn2f.com
 +.kwhogdsq.shop
 +.kwiep-doel.net
@@ -92138,6 +92148,7 @@
 +.l2beauty.com
 +.l2conect.at.ua
 +.l2mfle649s080425l.cfd
++.l2multiverse.com
 +.l2s.pet
 +.l2xh2ov6ux3un-pages-dev.translate.goog
 +.l3ellmts.s3.us-east-005.backblazeb2.com
@@ -92372,6 +92383,7 @@
 +.lafarfouille.fr
 +.lafastnews.com
 +.lafiesta-casino.fr
++.lafleur-salon.com
 +.laflurla.com
 +.lafnac.fr
 +.lagalerie.de
@@ -93460,6 +93472,7 @@
 +.learned-frg.surge.sh
 +.learnedmarket.com
 +.learnemoaning.cyou
++.learnenglishkz.com
 +.learnfew.com
 +.learnfirsthand.com
 +.learniebee.com
@@ -93702,6 +93715,7 @@
 +.ledggerlivedesktop.webflow.io
 +.ledggger-hub.webflow.io
 +.ledggr-livweellet.webflow.io
++.ledgigroup.com
 +.ledgiirstart.webflow.io
 +.ledginoplus.com
 +.ledgiurstatrtedd.webflow.io
@@ -94775,6 +94789,7 @@
 +.lightningly.co
 +.lightningstrikesfast.pro
 +.lightnodemedia.com
++.lightofdakini.com
 +.lightscafe.com
 +.lightseeker.com.au
 +.lightsight.ddns.net
@@ -95015,9 +95030,11 @@
 +.lingkaran.com.my
 +.lingosurveys.com
 +.lingscrm.my.site.com
++.lingualetics.com
 +.linguantic.pro
 +.lingui.fr
 +.lingvisticastn.com
++.linia-molodosti.com
 +.linimpirss.pro
 +.liningdoimmigrant.com
 +.linir.ru
@@ -95350,6 +95367,7 @@
 +.lithosiidyn.info
 +.lithotrafu.pro
 +.lithovito.pro
++.lithuaniablow.com
 +.liticismov.xyz
 +.liticismoverneme.org
 +.litige-paypai.com
@@ -97041,6 +97059,7 @@
 +.logontoaccessweb.weebly.com
 +.logopaedie-tisch.homepage.t-online.de
 +.logoshejishi.com
++.logotoria.com
 +.logototo.com
 +.logowanie-pl.de
 +.logoworksdev.112.2o7.net
@@ -97475,6 +97494,7 @@
 +.losemywrinkles.com
 +.losingoldfry.com
 +.losittooday.info
++.losjuegos-peru.com
 +.losmercantes.com
 +.losnahuales.com
 +.losnews.ru
@@ -97644,6 +97664,7 @@
 +.lovelove2.net
 +.lovelovekore.com
 +.lovely-lovely.com
++.lovely-news.com
 +.lovely4u.nl
 +.lovelybingo.com
 +.lovelydatenights.com
@@ -99060,7 +99081,6 @@
 +.ma-t-chy.link
 +.ma-toddler.gl.at.ply.gg
 +.ma-ville.fr
-+.ma.ljywbx6.sa.com
 +.ma.meqqpb0.sa.com
 +.ma.news.naver.com
 +.ma.tgdd.vn
@@ -106934,7 +106954,6 @@
 +.movieta.com
 +.moviexe.com
 +.movii-loft.cn
-+.movimientoquantico.com
 +.movimx.com
 +.moving-aims.gl.at.ply.gg
 +.moving-companies.live
@@ -111380,6 +111399,7 @@
 +.nexovix-gpt-app.com
 +.nexpltd.com
 +.nexprice.com
++.nexrofundapp.com
 +.nexspace.co.th
 +.next-acg.com
 +.next-cji.com
@@ -115397,6 +115417,7 @@
 +.ol-xpaczka.nadaniapaczki7718.rest
 +.ol-xpaczka.onlinepaczka24.shop
 +.ol-xpaczka.paczkaweekend.world
++.ol-xpaczka.pobraniazaprzesylke.cfd
 +.ol-xpaczka.pocztowapaczka24.cyou
 +.ol-xpaczka.pocztowapaczka24.sbs
 +.ol-xpaczka.przekazpocztowy82737.cyou
@@ -115620,9 +115641,11 @@
 +.olympicpeninsulacabinets.com
 +.olympicpeninsulalife.com
 +.olympicrise.com
++.olympictraditions.com
 +.olympoption.com
 +.olymposheritage.com
 +.olymposmyths.com
++.olymposrebirth.com
 +.olympusgo.com
 +.olyssa-france.fr
 +.olythar.com
@@ -116347,6 +116370,7 @@
 +.onlinetopchoice.com
 +.onlinetrackinrecovery.weebly.com
 +.onlinetradetraining.com
++.onlinetrending.online
 +.onlinetribun.com
 +.onlinetroubledike.com
 +.onlinevegasslot.com
@@ -116780,7 +116804,6 @@
 +.openoffice.de
 +.openofflce.com
 +.openoverflow.com
-+.openquick.site
 +.openrate.aweber.com
 +.openrcv.baidu.com
 +.openrtb-banner.com
@@ -121027,7 +121050,6 @@
 +.pentos.ru
 +.pentrue.com
 +.penupea.com
-+.penxiangge.com
 +.penzovivuc.pro
 +.peoniesskincare.com
 +.peonyflowerdesign.com
@@ -122954,6 +122976,7 @@
 +.pl-kategoria-garaz-i-narzedzia-13.click
 +.pl-kategoria-inne231787346.rest
 +.pl-kategoria-prasy-hydrauliczne-2.sbs
++.pl-kategoria726982755183.icu
 +.pl-kategorie-inne-9812.shop
 +.pl-kategorie-inne-98124.rest
 +.pl-kategorie-ogrod-id-359487.sbs
@@ -123072,6 +123095,7 @@
 +.pl-oferta5737518.shop
 +.pl-oferta5747749.shop
 +.pl-oferta57856785.shop
++.pl-oferta579062.cfd
 +.pl-oferta5808451.icu
 +.pl-oferta59347.top
 +.pl-oferta5940259.shop
@@ -125908,6 +125932,7 @@
 +.premieryonline.blogspot.com
 +.premievalet.se
 +.premifomax.com
++.premioshow.com
 +.premipro.com
 +.premium-browsing.fly.storage.tigris.dev
 +.premium-cheats.net
@@ -127341,6 +127366,7 @@
 +.proteincalculate.com
 +.proteinfrivolousfertilised.com
 +.proteininnovationpioneer.com
++.proteinlicense.com
 +.protejseg.com.br
 +.protektnow.com
 +.protenanis.pro
@@ -131412,6 +131438,7 @@
 +.qrapp-dce00.web.app
 +.qrar.duckdns.org
 +.qrarxngrqtmioqnawg.com
++.qrbom.com
 +.qrcodes.at
 +.qrdfibtn.xfbly.online
 +.qreenquickpro.com
@@ -132640,7 +132667,6 @@
 +.radogio.com
 +.radoms.com
 +.radonwyoming.com
-+.radosne-kupowanie.xyz
 +.radpak.com
 +.rads.msn.com
 +.radshedmisrepu.info
@@ -138441,7 +138467,6 @@
 +.rtb-eu.prertbdir.com
 +.rtb-eu.pubsfusion.com
 +.rtb-eu.rankortbdirect.com
-+.rtb-eu.revlift.io
 +.rtb-eu.rnkclkres.com
 +.rtb-eu.rtbflairads.com
 +.rtb-eu.saroadexchange.com
@@ -139893,6 +139918,7 @@
 +.safedrugstock.com
 +.safeextra.com
 +.safefiles2.oss-cn-beijing.aliyuncs.com
++.safefraudguard.com
 +.safeglimmerlongitude.com
 +.safeguard-page.pages.dev
 +.safeguard.click
@@ -147255,7 +147281,6 @@
 +.skijosbrec.pro
 +.skill-education-centre.com
 +.skill-game-ifood.vercel.app
-+.skill-succes.com
 +.skillandtechnics.com
 +.skillbeach.com
 +.skillbeast.site
@@ -159542,7 +159567,6 @@
 +.tetyerecently.com
 +.teuniteably.info
 +.teutoriacc.abbocstron.com
-+.tevaesoldes.fr
 +.tevafranceboutique.fr
 +.teveofrancestore.fr
 +.teveoleggings.fr
@@ -161827,11 +161851,13 @@
 +.toblog.snssdk.com
 +.toblog.tobsnssdk.com
 +.toboads.com
++.tobolenko.online
 +.tobyluther.com
 +.tocaloma.com
 +.tocarpetcleaning.com
 +.toccaspurg.pro
 +.tocchaara.pro
++.tochilnyak.online
 +.tochkasborkivlg.online
 +.tocion.com
 +.tock.pwnyfarm.com
@@ -162862,6 +162888,7 @@
 +.tpush.html5.qq.com
 +.tpvmdlxpvcenz.vip
 +.tpwelectrical.co.uk
++.tpwki1.online
 +.tpyhelp.top
 +.tq-apac.klmretul.online
 +.tq-eu.boardpress-a.online
@@ -164118,6 +164145,7 @@
 +.tradethir.tradplxx.com
 +.tradetooth.com
 +.tradetwo.tradplxx.com
++.tradeupdate.online
 +.tradev9avita.com
 +.tradevanta41.com
 +.tradevector-aiapp.com
@@ -169547,7 +169575,6 @@
 +.usr.interactiveone.com
 +.usr9rr-g9302-login-zimbra-user.mes-communiques.com
 +.usrfyjueaneumqx.com
-+.usrmm.com
 +.uss-pid.lenovomm.com
 +.ussa1.biz
 +.ussconcept.com
@@ -178384,7 +178411,6 @@
 +.worksassociation.com
 +.worksharpculinaryemail.com
 +.worksharpemail.com
-+.workshop-users.com
 +.workshopcolor.com
 +.workshopcurator.com
 +.workshopj.com
@@ -178438,6 +178464,7 @@
 +.worldlinefr.fr
 +.worldlovers.ru
 +.worldmediaone.com
++.worldnews1710.online
 +.worldnewsarticles.co.cc
 +.worldnewscreative.com
 +.worldnewsnetwork.co
@@ -180708,7 +180735,6 @@
 +.xn--adminiistracin-xob.weebly.com
 +.xn--albilet-b9a.pl-oferta3452784.pl
 +.xn--albilet-b9a.pl-oferta7217591.top
-+.xn--albilet-b9a.pl-oferta8978707.top
 +.xn--albilet-b9a.pl-oferta982671.pl
 +.xn--allyspin-casin-job.fr
 +.xn--allyspincasin-8kb.fr
