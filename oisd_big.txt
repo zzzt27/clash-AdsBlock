@@ -1,9 +1,9 @@
-# Version: 202506160019
+# Version: 202506160219
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 184595
-# Last modified: 2025-06-16T00:19:12+0000
+# Entries: 184562
+# Last modified: 2025-06-16T02:19:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -519,7 +519,6 @@
 +.1.jushtong.com
 +.1.kuaidiwo.cn
 +.1.lvshi567.com
-+.1.mgff.com
 +.1.proewildfire.cn
 +.1.psfree.pay.clickbank.net
 +.1.qjhm.net
@@ -6513,7 +6512,6 @@
 +.aatttagtewebmaill.weebly.com
 +.aattttttttwebmail.boxmode.io
 +.aauedwmoofyox.buzz
-+.aaukqiooaseseuke.org
 +.aauth--page-crypto-sso.webflow.io
 +.aauth-my-sso-crspto--app.webflow.io
 +.aauth-sso-kucoinlogin.webflow.io
@@ -7848,7 +7846,6 @@
 +.acquaintance213.fun
 +.acquaintance423.fun
 +.acquaintanceinsaneinaudible.com
-+.acquaintcollaboratefruitless.com
 +.acquaintedpostman.com
 +.acquaintplentifulemotions.com
 +.acquaseman.pro
@@ -14642,7 +14639,6 @@
 +.alienateappetite.com
 +.alienatebarnaclemonstrous.com
 +.alienatecommit.com
-+.alienaterepellent.com
 +.aliendivan.pro
 +.alienlol.com
 +.alienmade.com
@@ -14920,7 +14916,6 @@
 +.allegrolokalnie.182.rest
 +.allegrolokalnie.1829412.shop
 +.allegrolokalnie.189723520-vsa87a-1398124.shop
-+.allegrolokalnie.20-sd-53845.xyz
 +.allegrolokalnie.20646390.shop
 +.allegrolokalnie.220525.shop
 +.allegrolokalnie.2841-94219-48124.shop
@@ -16572,10 +16567,10 @@
 +.ams3.gardeningjoyfuljourney.xyz
 +.ams3.goldenpeakdesign.com
 +.ams3.gossipbuzzworld.com
-+.ams3.gossipchathub.xyz
 +.ams3.gossippodtalk.com
 +.ams3.newtraveljourneys.live
 +.ams3.perfectzenfitness.run
++.ams3.powermindfitness.run
 +.ams3.ultimatefitnessvision.com
 +.ams3.whimsicalweddingsday.com
 +.ams3.whisperlightdesign.com
@@ -23818,7 +23813,6 @@
 +.ayrshiregraphics.com
 +.ayrt2.duckdns.org
 +.aysaoto.com
-+.aysotogaziantep.com
 +.aytugay123.duckdns.org
 +.ayturk.world
 +.ayudadirecta.org
@@ -30360,7 +30354,6 @@
 +.bqmbams.com
 +.bqpthdh.cc
 +.bqrdoilvhadpq.vip
-+.bqrjmulwnxynr.website
 +.bqrwuokdkdmcdlopanbbxvvsgdhjzmzmcnbcvjfie.glitch.me
 +.bqsnmpwxwd.buzz
 +.bquildna43.site
@@ -30780,7 +30773,6 @@
 +.brevitychestprocess.com
 +.brewebizan.pro
 +.brewingjoie.com
-+.brewskiebros.com
 +.brewsuper.com
 +.brezzgelat.pro
 +.brf--b2cdev.sandbox.my.site.com
@@ -42881,7 +42873,6 @@
 +.cosmic6flow.top
 +.cosmic7wave.top
 +.cosmic9vibes.top
-+.cosmicbread.online
 +.cosmicdelights.pro
 +.cosmicdreamglow.pro
 +.cosmicexplorations.pro
@@ -43339,7 +43330,6 @@
 +.coyuremuriate.top
 +.cozamosa13.com
 +.cozkeu.shop
-+.cozohi-heyapu.site
 +.cozsmicjo.top
 +.cozumeltoday.com
 +.cozuvyu0.pro
@@ -46112,7 +46102,6 @@
 +.cuycoinloginn.webflow.io
 +.cuymmmdeot.weebly.com
 +.cuzakoba.com
-+.cuzapi-buwuha.site
 +.cuznjkc.com
 +.cuzqazdi.com
 +.cuzrkugucdu.com
@@ -49388,7 +49377,6 @@
 +.deariededradekker.cloud
 +.dearnuniti.pro
 +.dearscesti.pro
-+.deathscroll.com
 +.deathtesti.pro
 +.deb-bed.github.io
 +.debadrita1203.github.io
@@ -50821,7 +50809,6 @@
 +.deximedia.com
 +.dexino.top
 +.dexinosy.top
-+.dexkit.top
 +.dexofinance.com
 +.dexogid.com
 +.dexolve.info
@@ -53728,7 +53715,6 @@
 +.doncartel.nl
 +.doncu2029.duckdns.org
 +.dondigidon.com
-+.dondodovn.com
 +.dondotires.pro
 +.done-cashiers.gl.at.ply.gg
 +.done.events
@@ -55433,6 +55419,7 @@
 +.duumvirkeach.top
 +.duusuu.com
 +.duvuerxuiw.com
++.duweqif.com
 +.duxogea3.pro
 +.duxte.net
 +.duyendangaodaivietnam2021.weebly.com
@@ -57259,7 +57246,6 @@
 +.efaxfastweb.weebly.com
 +.efc04b0016686e5b9c1b54af55e8a208.uatider.com
 +.efdilokulu.com
-+.efectiosleep.com
 +.efectivo-zykar.net
 +.efectivozykar.com
 +.efecto7.com
@@ -60290,7 +60276,6 @@
 +.euphoricflights.pro
 +.euphoricjourneys.pro
 +.euploadatt.pro
-+.eupornstar.info
 +.eur-agriculture.gl.at.ply.gg
 +.eur-norway.gl.at.ply.gg
 +.eura-cell.com
@@ -66361,7 +66346,6 @@
 +.forzachiod.com
 +.forzubatr.com
 +.fosbfngs.elementor.cloud
-+.foscoredevelopment.org
 +.fosfoperve.pro
 +.fosforinfi.pro
 +.fosight.com
@@ -71972,7 +71956,6 @@
 +.gocekhaber.com
 +.gochainwallet.github.io
 +.gocheewimtie.xyz
-+.gochub.com
 +.gocitytext.com
 +.goclick.com
 +.goclouder.com
@@ -72747,7 +72730,6 @@
 +.gouzhibao.cn
 +.gouzoogoosoa.com
 +.gov-aanm.vip
-+.gov-abim.vip
 +.gov-atuy.vip
 +.gov-au.cloud
 +.gov-aws.cloud
@@ -73974,7 +73956,6 @@
 +.gruntremoved.com
 +.gruopama.fr
 +.grup-waviral2021.duckdns.org
-+.grupapocztowa.top
 +.grupbokepindo.freeddns.com
 +.grupbokepindo.www1.biz
 +.grupec.com.co
@@ -83149,6 +83130,7 @@
 +.info-note.com
 +.info-notifications.com
 +.info-novo.info
++.info-pathgrid.info
 +.info-pelatihan.com
 +.info-pilotx.info
 +.info-placement.fr
@@ -84968,7 +84950,6 @@
 +.ioadmdymevvyoe.com
 +.ioadserve.com
 +.ioaindia.com
-+.ioanawimpernverlangerung.com
 +.ioann-apostol.ru
 +.iobit.pro
 +.iociley.com
@@ -85266,7 +85247,6 @@
 +.ipsfwrw.com
 +.ipsite.ir
 +.ipsowrite.com
-+.ipsumtenetur.xyz
 +.ipswichvehiclerefinishers.co.uk
 +.iptautup.com
 +.iptckm8axh4up.life
@@ -89713,7 +89693,6 @@
 +.kelolacode2849.duckdns.org
 +.kelopronto.com
 +.kelotecnologia.com
-+.keloththaravadu.com
 +.kelowuh.com
 +.kelpiesregna.com
 +.kelticsully.guru
@@ -90005,7 +89984,6 @@
 +.khanqahemoazzmia.com
 +.khanshop.com
 +.khaosanroad.com.au
-+.kharagpur.in
 +.khatexcepeded.info
 +.khattarshorthandinstitute.com
 +.khatulistiwapress.com
@@ -90095,6 +90073,7 @@
 +.kiddostoysclub.com
 +.kiddykk.xyz
 +.kiddyphisicallypr.xyz
++.kide.metaengisignal.com
 +.kidge.de
 +.kidimportant.com
 +.kidjackson.com
@@ -91399,7 +91378,6 @@
 +.krobyuncre.pro
 +.krocodilemedia.com
 +.krogstadaquavit.com
-+.krokiicoor.pro
 +.krolarlekin.com.pl
 +.kromaticaprodesign.com
 +.kromtech.net
@@ -94277,7 +94255,6 @@
 +.lexoro-byte-app.com
 +.lexoro-byte.net
 +.lexorobyte.net
-+.lexskytaxi.com
 +.lextrim.com
 +.leyesparatodos.com
 +.lezbiyanki.net
@@ -95503,7 +95480,6 @@
 +.livelyorbit.pro
 +.livelyponder.pro
 +.livelyquesterty.pro
-+.livelyreward.com
 +.livelyspark.pro
 +.livelyspirits.pro
 +.livelysprout.pro
@@ -105116,7 +105092,6 @@
 +.mkwiseman.com
 +.mkwodalinio.com
 +.ml-company.com
-+.ml0z14azlflr.com
 +.ml314.com
 +.ml4xbwg73.top
 +.mladedda.net
@@ -109454,6 +109429,7 @@
 +.nas.nct.vn
 +.nasa138.com
 +.nasadude12.zapto.org
++.nasahokoha.com
 +.nasawbbag.com
 +.nascdileg.pro
 +.nascenttechnologies.co.za
@@ -111911,7 +111887,6 @@
 +.nintendobro.com
 +.ninth-mewing-mockingbird.glitch.me
 +.ninthdecimal.com
-+.ninwhjlkkelrw.com
 +.nio.xyz
 +.nioliclimited.com
 +.nip-booking0128512.world
@@ -114800,7 +114775,6 @@
 +.offonedrivevoicemailwithsharepoint.weebly.com
 +.offoonguser.com
 +.offpichuan.com
-+.offre-gdd.fr
 +.offrekarcher.fr
 +.offres-annonces-lbc-6214097305.fr
 +.offres-annonces-lbc-8932140539.fr
@@ -115107,7 +115081,6 @@
 +.oikuyhtrewq.w3spaces.com
 +.oil-calculated.gl.at.ply.gg
 +.oil-profit-app.net
-+.oil-profit.app
 +.oil-resilient-baritone.glitch.me
 +.oil-veltrix.net
 +.oil.sogoforms.com
@@ -119060,7 +119033,6 @@
 +.palibs.tech
 +.palibzh.tech
 +.palikakolika.wpenginepowered.com
-+.palikastore.com
 +.palikricom.pro
 +.palimimonet.pro
 +.palimsoppr.pro
@@ -120750,7 +120722,6 @@
 +.pedicelliformet.com
 +.pedido477745905correios.buscapacotesonline.biz.ua
 +.pedidocorreios.produtotaxabrasil.co.ua
-+.pedimillanel.com
 +.pedo.ws
 +.pedohoi.com
 +.pedokinetika.si
@@ -125864,7 +125835,6 @@
 +.premiumhackgames.com
 +.premiumkawa.com
 +.premiumklientasupport.com
-+.premiumkonto.pl
 +.premiumproductsonline.com
 +.premiumprotectiondis.org
 +.premiumprovide.com
@@ -126791,7 +126761,6 @@
 +.programdiag.com
 +.programmation-livraison-dhl.fr
 +.programmation-relivraison.fr
-+.programmermalivraison.fr
 +.programming-identifying.gl.at.ply.gg
 +.programs-criticism.gl.at.ply.gg
 +.programschoolwar14534.weebly.com
@@ -130841,6 +130810,7 @@
 +.qaadv.com
 +.qaawdx.cn
 +.qabbala.com
++.qadeqon.com
 +.qadota.com
 +.qadoxeravo.com
 +.qadozit.com
@@ -133073,6 +133043,7 @@
 +.rastreofedex.com
 +.rastrobel.com.br
 +.rastrong.com
++.rasubev.com
 +.rasuljon.ydns.eu
 +.rasunalo20.firebaseapp.com
 +.rasunalo20.web.app
@@ -138030,7 +138001,6 @@
 +.rovilane.ru
 +.rovindimin.pro
 +.rovion.com
-+.roviyo-wasihu.site
 +.rovno.xyz
 +.row.volksstimme.de
 +.rowagames.com
@@ -145266,14 +145236,12 @@
 +.shbzgkj.cn
 +.shbzhgs.cn
 +.shbzhkj.cn
-+.shbzigs.cn
 +.shbzikj.cn
 +.shbzjgs.cn
 +.shbzjkj.cn
 +.shbzkgs.cn
 +.shbzkkj.cn
 +.shbzlkj.cn
-+.shbzngs.cn
 +.shbznkj.cn
 +.shbzogs.cn
 +.shbzpgs.cn
@@ -150739,6 +150707,7 @@
 +.spiritualmag.com
 +.spiritualreaderbonnie.com
 +.spiritualsambar.pro
++.spiritvibes.info
 +.spirketgoofily.com
 +.spiroappro.pro
 +.spirodistr.pro
@@ -150779,6 +150748,7 @@
 +.spl9t1ts.top
 +.splash-ad.classting.com
 +.splashimgbssdl.yun.kugou.com
++.splegelnewsde.com
 +.splendid-concert.com
 +.splendidanimations.pro
 +.splendidkakapo.pro
@@ -158791,7 +158761,6 @@
 +.telfozucch.pro
 +.teliad.com
 +.teliad.de
-+.telibi-tabepa.site
 +.telkom-logiin-page.weebly.com
 +.telkom.online
 +.telkomdataserver.weebly.com
@@ -168361,7 +168330,6 @@
 +.upchiletif.pro
 +.upclipper.com
 +.upcoipalet.pro
-+.upcomingmonkeydolphin.com
 +.upcrafty.com
 +.upcreditrepair.com
 +.upcurlsreid.website
@@ -173925,7 +173893,6 @@
 +.wagrupsexnew.a5z.club
 +.wahdaszb.blogspot.ch
 +.wahed-koudsi2001.github.io
-+.wahiboeducation.com
 +.wahoha.com
 +.wahyufian.zoomshare.com
 +.waiads.com
@@ -177512,7 +177479,6 @@
 +.winolot.fr
 +.winonexd.b-cdn.net
 +.winoramacasino1.fr
-+.winori.xyz
 +.winoui1.fr
 +.winpay.cn
 +.winpbn.com
@@ -177734,6 +177700,7 @@
 +.wivacoe.info
 +.wivedom.ddns.net
 +.wivko.cn
++.wivujusa.com
 +.wivy.yt
 +.wiwarrkazg.com
 +.wiwosxoszabb.com
@@ -179062,7 +179029,6 @@
 +.wwwbanrisul.com
 +.wwwbet.net
 +.wwwblancheporte.fr
-+.wwwc1oudflare.com
 +.wwwcaissedepargne.fr
 +.wwwcartedepeche.fr
 +.wwwceeqwek-cewek-bookingan-faceb0ok.emochila.com
@@ -184561,6 +184527,7 @@
 +.zyrnbh.xyz
 +.zyro-blyx.net
 +.zyro-blyxai.com
++.zysknaplus.sa.com
 +.zysuboi.com
 +.zythuspium.pro
 +.zytpirwai.net
