@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jun 2025 00:02 UTC
-# Version: 2025.0617.0002.31
+# Last modified: 17 Jun 2025 12:09 UTC
+# Version: 2025.0617.1209.11
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1445
 #
@@ -516,7 +516,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -534,6 +533,7 @@ DOMAIN-SUFFIX,arashi.eu.org
 DOMAIN-SUFFIX,armorrush.eu.org
 DOMAIN-SUFFIX,dns.fullaccesstointernet.jp.eu.org
 DOMAIN-SUFFIX,dns.mayx.eu.org
+DOMAIN-SUFFIX,arashi.net.eu.org
 DOMAIN-SUFFIX,sukidayo.eu.org
 DOMAIN-SUFFIX,dns.extrawdw.net
 DOMAIN-SUFFIX,fra1.eyecay.xyz
@@ -609,6 +609,7 @@ DOMAIN-SUFFIX,doh-primary-pool.goodbyegambling.com
 DOMAIN-SUFFIX,dns.google.com
 DOMAIN-SUFFIX,google-public-dns-a.google.com
 DOMAIN-SUFFIX,google-public-dns-b.google.com
+DOMAIN-SUFFIX,performance.gosami.xyz
 DOMAIN-SUFFIX,dnsblock.grisumedia.de
 DOMAIN-SUFFIX,dns.grqu.de
 DOMAIN-SUFFIX,dns.guard.io
@@ -901,7 +902,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
