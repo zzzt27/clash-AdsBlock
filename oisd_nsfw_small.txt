@@ -1,9 +1,9 @@
-# Version: 202506180025
+# Version: 202506180230
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20824
-# Last modified: 2025-06-18T00:25:05+0000
+# Entries: 20834
+# Last modified: 2025-06-18T02:30:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1122,6 +1122,7 @@
 +.animalporn.app
 +.animalporn.dog
 +.animalporn.in
++.animalporn.life
 +.animalporn.me
 +.animalporn.stream
 +.animalporn.tube
@@ -4753,6 +4754,7 @@
 +.eroguide.dk
 +.erohd.icu
 +.erohive.com
++.eroigra.com
 +.eroinasekai.com
 +.eroist.site
 +.erojobs.biz
@@ -7650,6 +7652,7 @@
 +.hookupranking.com
 +.hookups.co.za
 +.hookupschat.com
++.hookupscout.net
 +.hookupsearch.org
 +.hookupseeker.org
 +.hookupslesbian.com
@@ -10037,6 +10040,7 @@
 +.lpsg.com
 +.lsl.com
 +.lslinks.pw
++.ltalk.ru
 +.lubed.com
 +.lubetube.com
 +.lucah.stream
@@ -11808,6 +11812,7 @@
 +.nudejet.com
 +.nudekenya.com
 +.nudelas.com
++.nudeleaks.tv
 +.nudeleaksteens.com
 +.nudeleted.com
 +.nudelive.com
@@ -14092,6 +14097,7 @@
 +.pornxp.me
 +.pornxp.net
 +.pornxp.network
++.pornxp.one
 +.pornxp.online
 +.pornxp.org
 +.pornxp.quest
@@ -14264,6 +14270,7 @@
 +.prostitutki.bar
 +.prostitutki.beer
 +.prostitutki.buzz
++.prostitutki.farm
 +.prostitutki.fit
 +.prostitutki.gift
 +.prostitutki.help
@@ -15219,6 +15226,7 @@
 +.seksfilmsgratis.top
 +.seksibhidio.org
 +.seksibiepha.com
++.seksitreffit.fi
 +.sekskontakt-hr.com
 +.sekskontakt-rs.com
 +.sekslar.link
@@ -16206,6 +16214,7 @@
 +.shemalepornb.com
 +.shemalepornmovie.com
 +.shemalepornq.com
++.shemalepornsex.com
 +.shemaleporntube.tv
 +.shemalepplanet.com
 +.shemalepreality.com
@@ -19182,6 +19191,7 @@
 +.xchina.co
 +.xchina.store
 +.xcity.jp
++.xclip.vip
 +.xconfessions.com
 +.xculazos.com
 +.xcum.com
