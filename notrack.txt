@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 25 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15754
+# Domain Count: 15752
 #===============================================================
 
 +.0i0i0i0.com
@@ -70,7 +70,6 @@
 +.aax-us-iad.amazon.com
 +.aaxads.com
 +.abmr.net
-+.absolveparticlesanti.com
 +.abtasty.com
 +.abtest.mistat.xiaomi.com
 +.ac24horas.com
@@ -1896,7 +1895,6 @@
 +.linkis.com
 +.linkonclick.com
 +.linksynergy.com
-+.linktrack.co.nz
 +.lipperhey.com
 +.liqwid.net
 +.listrakbi.com
