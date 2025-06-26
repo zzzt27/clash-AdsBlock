@@ -1,9 +1,9 @@
-# Version: 202506252246
+# Version: 202506260025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21273
-# Last modified: 2025-06-25T22:46:44+0000
+# Entries: 21270
+# Last modified: 2025-06-26T00:25:19+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14547,7 +14547,6 @@
 +.proportion2009.jp
 +.prostasex.cc
 +.prostasex.org
-+.prosti-tutki16.top
 +.prostitutki--chelyabinsk.com
 +.prostitutki-balashiha.com
 +.prostitutki-domodedovo.co
@@ -15559,7 +15558,6 @@
 +.seksoeb.com
 +.seksohub.com
 +.sekspl.icu
-+.sekspornofilm.com
 +.sekspornofilmovi.sbs
 +.seksprice.com
 +.seksvidea.com
@@ -15751,7 +15749,6 @@
 +.sexarabawy.com
 +.sexarabii.com
 +.sexarabporno.com
-+.sexarabs.org
 +.sexarabsex.com
 +.sexarabvideos.com
 +.sexarabx.com
