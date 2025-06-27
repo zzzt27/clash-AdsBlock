@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 00:08 UTC
-# Version: 2025.0627.0008.09
+# Last modified: 26 Jun 2025 08:04 UTC
+# Version: 2025.0626.0804.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1438
+# Number of entries: 1442
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,0ms.dev
 DOMAIN-SUFFIX,dns.0ooo.icu
 DOMAIN-SUFFIX,dns.0x55.net
 DOMAIN-SUFFIX,123000123.xyz
+DOMAIN-SUFFIX,dns.13evl.com
 DOMAIN-SUFFIX,cloud.198.games
 DOMAIN-SUFFIX,1and1-dns.de
 DOMAIN-SUFFIX,233py.com
@@ -290,6 +291,7 @@ DOMAIN-SUFFIX,dns.csa-rz.de
 DOMAIN-SUFFIX,dns.csaonline.de
 DOMAIN-SUFFIX,dns.csswg.org
 DOMAIN-SUFFIX,cubedns.com
+DOMAIN-SUFFIX,qual.cuprum.ru
 DOMAIN-SUFFIX,dns.cwlys.com
 DOMAIN-SUFFIX,dns.cybertonic.tech
 DOMAIN-SUFFIX,cynntex.fun
@@ -514,7 +516,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -558,7 +559,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -585,6 +585,7 @@ DOMAIN-SUFFIX,dns.gamban.com
 DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,adg.geili.me
+DOMAIN-SUFFIX,geshido.vpn.geshido.ru
 DOMAIN-SUFFIX,getdnsapi.net
 DOMAIN-SUFFIX,gibblets.top
 DOMAIN-SUFFIX,adguard.maison.gifino.fr
@@ -656,6 +657,7 @@ DOMAIN-SUFFIX,dns.huyhoangit.net
 DOMAIN-SUFFIX,dns.hypercute.eu
 DOMAIN-SUFFIX,opennic.i2pd.xyz
 DOMAIN-SUFFIX,opennic2.i2pd.xyz
+DOMAIN-SUFFIX,vd.i81.ru
 DOMAIN-SUFFIX,dns.iamanuragh.in
 DOMAIN-SUFFIX,dns.iamninja.ru
 DOMAIN-SUFFIX,mask.icloud.com
@@ -768,6 +770,7 @@ DOMAIN-SUFFIX,agh.kyusang.win
 DOMAIN-SUFFIX,dns.l337.site
 DOMAIN-SUFFIX,doh.lacontrevoie.fr
 DOMAIN-SUFFIX,dns.lars-lehmann.net
+DOMAIN-SUFFIX,dns.lashes-brow.ru
 DOMAIN-SUFFIX,lastentarvike.fi
 DOMAIN-SUFFIX,eu1.dns.lavate.ch
 DOMAIN-SUFFIX,us1.dns.lavate.ch
@@ -804,6 +807,7 @@ DOMAIN-SUFFIX,doh.phdns2.lonet.org
 DOMAIN-SUFFIX,doh.phdns3.lonet.org
 DOMAIN-SUFFIX,doh.phdns4.lonet.org
 DOMAIN-SUFFIX,doh.phdns5.lonet.org
+DOMAIN-SUFFIX,n5.lsasss.com
 DOMAIN-SUFFIX,lukscasino-479-tr.xyz
 DOMAIN-SUFFIX,lukscasino-542-tr.xyz
 DOMAIN-SUFFIX,lukscasino-929-tr.xyz
@@ -898,7 +902,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1009,6 +1012,7 @@ DOMAIN-SUFFIX,dns.odinpl.com
 DOMAIN-SUFFIX,dns.ofdoom.net
 DOMAIN-SUFFIX,okado.online
 DOMAIN-SUFFIX,dns.olpploiopkuyhiopsfrt.info
+DOMAIN-SUFFIX,adguard.oms-ctr.ru
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,doh.onedns.net
 DOMAIN-SUFFIX,doh-pure.onedns.net
