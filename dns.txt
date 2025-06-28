@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 12:09 UTC
-# Version: 2025.0628.1209.22
+# Last modified: 28 Jun 2025 18:06 UTC
+# Version: 2025.0628.1806.55
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1441
 #
@@ -287,7 +287,6 @@ DOMAIN-SUFFIX,crypto.sx
 DOMAIN-SUFFIX,dns.cryptomize.com
 DOMAIN-SUFFIX,dotdns.cryptroute.com
 DOMAIN-SUFFIX,dns.crystalyx.net
-DOMAIN-SUFFIX,dns.csa-rz.de
 DOMAIN-SUFFIX,dns.csaonline.de
 DOMAIN-SUFFIX,dns.csswg.org
 DOMAIN-SUFFIX,cubedns.com
@@ -902,6 +901,7 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
+DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
