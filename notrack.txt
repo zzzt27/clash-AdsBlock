@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 30 Jun 2025
 # LatestVersion 24.01
-# Domain Count: 15750
+# Domain Count: 15749
 #===============================================================
 
 +.0i0i0i0.com
@@ -13947,7 +13947,6 @@
 +.primis.tech
 +.privacy.aol.com
 +.privacymanager.io
-+.privacytrck.com
 +.privatestats.whatsapp.net
 +.privy.com
 +.privymktg.com
