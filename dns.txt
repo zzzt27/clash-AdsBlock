@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 18:04 UTC
-# Version: 2025.0630.1804.13
+# Last modified: 01 Jul 2025 06:08 UTC
+# Version: 2025.0701.0608.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1440
+# Number of entries: 1437
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -515,7 +515,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -539,6 +538,7 @@ DOMAIN-SUFFIX,dns.extrawdw.net
 DOMAIN-SUFFIX,fra1.eyecay.xyz
 DOMAIN-SUFFIX,dns.f4a.fun
 DOMAIN-SUFFIX,jp1.f7b6h9.tk
+DOMAIN-SUFFIX,dns.f97.xyz
 DOMAIN-SUFFIX,pdns.faelix.net
 DOMAIN-SUFFIX,rdns.faelix.net
 DOMAIN-SUFFIX,dns.faked.org
@@ -558,7 +558,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -613,7 +612,6 @@ DOMAIN-SUFFIX,performance.gosami.xyz
 DOMAIN-SUFFIX,dnsblock.grisumedia.de
 DOMAIN-SUFFIX,dns.grqu.de
 DOMAIN-SUFFIX,dns.guard.io
-DOMAIN-SUFFIX,dns.guardmydns.com
 DOMAIN-SUFFIX,dns2.guidocioni.it
 DOMAIN-SUFFIX,dns.gutwe.in
 DOMAIN-SUFFIX,gztech.me
@@ -901,7 +899,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
