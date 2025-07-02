@@ -6,8 +6,8 @@
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
 [oisd_small](#small) | **02-07-25** | 41994
-[oisd_big](#big) | **02-07-25** | 192622
-[oisd_nsfw🔞](#nsfw) | **02-07-25** | 417205
+[oisd_big](#big) | **02-07-25** | 192635
+[oisd_nsfw🔞](#nsfw) | **02-07-25** | 417261
 [oisd_nsfw_small🔞](#nsfw-small) | **02-07-25** | 21092
 
 
