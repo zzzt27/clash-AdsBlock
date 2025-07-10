@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jul 2025 16:05 UTC
-# Version: 2025.0710.1605.21
+# Last modified: 10 Jul 2025 20:04 UTC
+# Version: 2025.0710.2004.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1438
+# Number of entries: 1429
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -492,13 +492,6 @@ DOMAIN-SUFFIX,dns.dremaxx.de
 DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
-DOMAIN-SUFFIX,home27.duckdns.org
-DOMAIN-SUFFIX,jurre-home.duckdns.org
-DOMAIN-SUFFIX,krtekvpn.duckdns.org
-DOMAIN-SUFFIX,osefcorp.duckdns.org
-DOMAIN-SUFFIX,punono.duckdns.org
-DOMAIN-SUFFIX,tuandns.duckdns.org
-DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
@@ -514,7 +507,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -582,7 +574,6 @@ DOMAIN-SUFFIX,doh.futa.gg
 DOMAIN-SUFFIX,cluster-0.gac.edu
 DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
-DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,adg.geili.me
 DOMAIN-SUFFIX,geshido.vpn.geshido.ru
