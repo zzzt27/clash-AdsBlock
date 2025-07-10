@@ -1,9 +1,9 @@
-# Version: 202507092227
+# Version: 202507100025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20910
-# Last modified: 2025-07-09T22:27:16+0000
+# Entries: 20915
+# Last modified: 2025-07-10T00:25:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7723,6 +7723,7 @@
 +.hotgirlchina.com
 +.hotgirlsboard.com
 +.hotgirlsporn.com
++.hotgirlsxxx.net
 +.hotgo.tv
 +.hotgoo.com
 +.hotgrannyworld.com
@@ -8654,6 +8655,7 @@
 +.jaquemateateos.com
 +.jariosas.com
 +.jaskaur.in
++.jasmin.ai
 +.jasmin.com
 +.jasmr.net
 +.jastusa.com
@@ -10770,6 +10772,7 @@
 +.mixedwrestling.video
 +.mixfemdomcc.com
 +.mixh.jp
++.mixixxx000000.cyou
 +.mixixxx111111.cyou
 +.mixputaria.blog
 +.mixputaria.com
@@ -11587,6 +11590,7 @@
 +.nichost.ru
 +.nick20.com
 +.nickfinder.com
++.nickporno.com
 +.nicobronipago.com
 +.nigged.com
 +.night-lady.co.il
@@ -19137,6 +19141,7 @@
 +.www-xnxx-com.homes
 +.www-xnxx-com.ink
 +.www-xnxx-com.life
++.www-xnxx-com.lol
 +.www-xnxx-com.my
 +.www-xnxx-com.online
 +.www-xnxx-com.quest
