@@ -1,9 +1,9 @@
-# Version: 202507102327
+# Version: 202507110226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20886
-# Last modified: 2025-07-10T23:27:48+0000
+# Entries: 20883
+# Last modified: 2025-07-11T02:26:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15174,7 +15174,6 @@
 +.seepornteen.com
 +.seex.cz
 +.seexh.com
-+.seexh1.com
 +.seexh2.com
 +.seexxxnow.net
 +.seeyou.co.il
@@ -15537,7 +15536,6 @@
 +.sexgps.net
 +.sexgr.net
 +.sexhay69.mobi
-+.sexhay88.net
 +.sexhaynet.net
 +.sexhd.ink
 +.sexhd.pics
@@ -17658,7 +17656,6 @@
 +.tporn.tube
 +.tporn.xxx
 +.tracysdog.com
-+.traduzionipremium.com
 +.traffic-gate.com
 +.trafl.org
 +.trah.info
