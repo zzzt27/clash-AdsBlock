@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 12 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15750
+# Domain Count: 15746
 #===============================================================
 
 +.0i0i0i0.com
@@ -414,7 +414,6 @@
 +.ahalogy.com
 +.aiactiv.io
 +.aidata.io
-+.aidspectacle.com
 +.aiir.net
 +.aimatch.com
 +.aimtell.com
@@ -636,9 +635,7 @@
 +.api64.com
 +.apien.ldmnq.com
 +.apnanalytics.com
-+.app-analytics-us.huami.com
 +.app-analytics-v2.snapchat.com
-+.app-analytics.huami.com
 +.app-analytics.snapchat.com
 +.app-measurement.com
 +.app.link
@@ -692,7 +689,6 @@
 +.asia-vcode-od.vivoglobal.com
 +.assemblyexchange.com
 +.assets.emarsys.net
-+.astutemetrics.com
 +.at-o.net
 +.atdmt.com
 +.atemda.com
