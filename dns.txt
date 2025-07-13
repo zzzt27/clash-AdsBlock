@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 08:02 UTC
-# Version: 2025.0713.0802.38
+# Last modified: 13 Jul 2025 16:04 UTC
+# Version: 2025.0713.1604.03
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1440
 #
@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,dns-unfiltered.adguard.com
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,dns.adrianlam.com
 DOMAIN-SUFFIX,aerodrorne.vip
+DOMAIN-SUFFIX,affcdn.net
 DOMAIN-SUFFIX,affsoft.cc
 DOMAIN-SUFFIX,shield.afixer.app
 DOMAIN-SUFFIX,ahadns.net
@@ -903,7 +904,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
