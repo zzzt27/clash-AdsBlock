@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jul 2025 00:02 UTC
-# Version: 2025.0715.0002.49
+# Last modified: 15 Jul 2025 08:08 UTC
+# Version: 2025.0715.0808.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1438
+# Number of entries: 1437
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -1446,7 +1446,6 @@ DOMAIN-SUFFIX,zdn.ro
 DOMAIN-SUFFIX,dns.zemows.industries
 DOMAIN-SUFFIX,adguard-kartoffel.zernico.de
 DOMAIN-SUFFIX,doh.zknt.org
-DOMAIN-SUFFIX,zougloub.eu
 DOMAIN-SUFFIX,dns.zzuhacker.cn
 IP-CIDR,1.0.0.1/32
 IP-CIDR,1.0.0.2/32
