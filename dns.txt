@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jul 2025 20:13 UTC
-# Version: 2025.0717.2013.46
+# Last modified: 17 Jul 2025 00:10 UTC
+# Version: 2025.0717.0010.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1448
+# Number of entries: 1445
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -520,6 +520,7 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -1113,7 +1114,6 @@ DOMAIN-SUFFIX,polisitogel.hair
 DOMAIN-SUFFIX,polisitogel.limo
 DOMAIN-SUFFIX,polisitogel.living
 DOMAIN-SUFFIX,polisitogel.luxe
-DOMAIN-SUFFIX,polisitogel.show
 DOMAIN-SUFFIX,polisitogel.webcam
 DOMAIN-SUFFIX,doh.port53.dk
 DOMAIN-SUFFIX,dns.porteii.com
@@ -1212,11 +1212,9 @@ DOMAIN-SUFFIX,adguard.ruby.ci
 DOMAIN-SUFFIX,dns.rubyfish.cn
 DOMAIN-SUFFIX,ea-dns.rubyfish.cn
 DOMAIN-SUFFIX,uw-dns.rubyfish.cn
-DOMAIN-SUFFIX,adg.rueiliu.space
 DOMAIN-SUFFIX,rumpelsepp.org
 DOMAIN-SUFFIX,doh.runsel.id
 DOMAIN-SUFFIX,agh-yz.russel053.com
-DOMAIN-SUFFIX,drs.rustsword.com
 DOMAIN-SUFFIX,dns1.ryan-palmer.com
 DOMAIN-SUFFIX,dns1.saferbfc.org
 DOMAIN-SUFFIX,dns2.saferbfc.org
@@ -1456,7 +1454,6 @@ DOMAIN-SUFFIX,dns.zemows.industries
 DOMAIN-SUFFIX,adguard-kartoffel.zernico.de
 DOMAIN-SUFFIX,doh.zknt.org
 DOMAIN-SUFFIX,zougloub.eu
-DOMAIN-SUFFIX,dns.zui.lol
 DOMAIN-SUFFIX,dns.zzuhacker.cn
 IP-CIDR,1.0.0.1/32
 IP-CIDR,1.0.0.2/32
