@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 18 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15743
+# Domain Count: 15742
 #===============================================================
 
 +.0i0i0i0.com
@@ -1650,7 +1650,6 @@
 +.hscollectedforms.net
 +.hsforms.com
 +.hsleadflows.net
-+.hsms04.com
 +.hsstatic.net
 +.hstats.hepsiburada.com
 +.html5-ads.vk-apps.com
