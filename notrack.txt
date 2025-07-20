@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 20 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15742
+# Domain Count: 15738
 #===============================================================
 
 +.0i0i0i0.com
@@ -1348,7 +1348,6 @@
 +.engagio.com
 +.enginecorruptiontrice.com
 +.england365.gr
-+.enoughturtlecontrol.com
 +.enrichyummy.com
 +.ensighten.com
 +.eprize.com
@@ -1365,7 +1364,6 @@
 +.etahub.com
 +.etracker.de
 +.eum-appdynamics.com
-+.evasiondemandedlearning.com
 +.event-analytics-backend.skyeng.ru
 +.eventlog.willow.tv
 +.events.gfe.nvidia.com
@@ -1446,7 +1444,6 @@
 +.flagcounter.com
 +.flashtalking.com
 +.flat-ads.com
-+.flawerosion.com
 +.flexlinks.com
 +.flickerbridge.com
 +.flix360.com
@@ -14662,7 +14659,6 @@
 +.smetrics.kerry.com
 +.smetrics.keysight.com
 +.smetrics.kone.com
-+.smetrics.labaie.com
 +.smetrics.lakeshorelearning.com
 +.smetrics.lambweston.com
 +.smetrics.landa.com
