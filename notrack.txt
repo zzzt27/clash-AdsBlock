@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 21 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15738
+# Domain Count: 15736
 #===============================================================
 
 +.0i0i0i0.com
@@ -13715,7 +13715,6 @@
 +.omtrdc.net
 +.onaudience.com
 +.onautcatholi.xyz
-+.onclasrv.com
 +.onclickads.net
 +.onclickalgo.com
 +.onclickgenius.com
@@ -13781,7 +13780,6 @@
 +.p-cg64-slinganalytics.movetv.com
 +.p.typekit.net
 +.p.yotpo.com
-+.paas-vpc01-dms-edge-fk.easy4ipcloud.com
 +.padsims.com
 +.pagefair.com
 +.pages01.net
