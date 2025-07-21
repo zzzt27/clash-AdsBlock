@@ -1,9 +1,9 @@
-# Version: 202507211128
+# Version: 202507211328
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20719
-# Last modified: 2025-07-21T11:28:48+0000
+# Entries: 20722
+# Last modified: 2025-07-21T13:28:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4860,7 +4860,6 @@
 +.erotikportal-deutschland.net
 +.erotischefilmpjes.net
 +.erotischesexgeschichten.info
-+.erotismosexual.com
 +.erotixhub.com
 +.erotom.com
 +.erotoons.net
@@ -7290,6 +7289,7 @@
 +.hentaikisu.com
 +.hentaikuindo.me
 +.hentaikun.com
++.hentaila-tv.com
 +.hentaila.io
 +.hentaila.online
 +.hentaila.tv
@@ -8435,6 +8435,7 @@
 +.intimatlas1.com
 +.intimcity-msk.club
 +.intimcity.at
++.intimcity.top
 +.intimequebec.com
 +.intporn.com
 +.intrigue.dating
@@ -12617,6 +12618,7 @@
 +.pkadoras.com
 +.placelibertine.com
 +.placercams.com
++.placere.ro
 +.placeresdelperu.com
 +.plancul-gratuit.fr
 +.planet-liebe.com
@@ -18510,6 +18512,7 @@
 +.virtsexchat.com
 +.virtuallust3d.com
 +.virtualrealgay.com
++.virtualrealhub.com
 +.virtualrealporn.com
 +.virtualrealtrans.com
 +.virtualtaboo.com
