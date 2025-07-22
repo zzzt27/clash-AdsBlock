@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jul 2025 00:00 UTC
-# Version: 2025.0722.0000.14
+# Last modified: 21 Jul 2025 08:00 UTC
+# Version: 2025.0721.0800.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1450
+# Number of entries: 1446
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -503,7 +503,6 @@ DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
-DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,resolver1.dyndnsinternetguide.com
 DOMAIN-SUFFIX,gustamadh.dynv6.net
@@ -562,7 +561,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -589,7 +587,6 @@ DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
 DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
-DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
 DOMAIN-SUFFIX,geshido.vpn.geshido.ru
 DOMAIN-SUFFIX,getdnsapi.net
@@ -909,7 +906,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1345,7 +1341,6 @@ DOMAIN-SUFFIX,timedns.net
 DOMAIN-SUFFIX,timmes.nl
 DOMAIN-SUFFIX,adb.timnichollsphotography.com
 DOMAIN-SUFFIX,dns.tipsy.coffee
-DOMAIN-SUFFIX,tk31z.com
 DOMAIN-SUFFIX,dns.tls-data.de
 DOMAIN-SUFFIX,d.toairs.com
 DOMAIN-SUFFIX,dot.tooli.ca
@@ -1444,6 +1439,7 @@ DOMAIN-SUFFIX,lion.yazilimatolye.com
 DOMAIN-SUFFIX,ychen.cf
 DOMAIN-SUFFIX,ychen.gq
 DOMAIN-SUFFIX,sg.yepdns.com
+DOMAIN-SUFFIX,net01.youcef.io
 DOMAIN-SUFFIX,your-dns.run
 DOMAIN-SUFFIX,yovbak.com
 DOMAIN-SUFFIX,dns.yuu-g.net
