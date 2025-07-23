@@ -1,9 +1,9 @@
-# Version: 202507231429
+# Version: 202507231606
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20856
-# Last modified: 2025-07-23T14:29:47+0000
+# Entries: 20858
+# Last modified: 2025-07-23T16:06:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2800,7 +2800,6 @@
 +.buddyprofits.com
 +.bufazoo.com
 +.bufera.pro
-+.buffmuff.com
 +.bugilonly.com
 +.bukaporn.com
 +.bukaporn.net
@@ -10418,6 +10417,7 @@
 +.maturepie.com
 +.matureporn.com
 +.maturepornb.com
++.maturepornhard.cc
 +.maturepornpics.com
 +.maturepornq.com
 +.maturepornvideos.xxx
@@ -13399,6 +13399,7 @@
 +.porno365xxx.info
 +.porno49.com
 +.porno4ka.xyz
++.porno51.lol
 +.porno666.city
 +.porno666.la
 +.porno666.link
@@ -14680,6 +14681,7 @@
 +.redlightguide.com
 +.redlights.be
 +.redlights.nl
++.redlips.nl
 +.redneckjohn.com
 +.redpics.pro
 +.redporn.me
