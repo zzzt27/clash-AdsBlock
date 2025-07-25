@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 00:09 UTC
-# Version: 2025.0725.0009.04
+# Last modified: 24 Jul 2025 12:11 UTC
+# Version: 2025.0724.1211.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1447
+# Number of entries: 1445
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -515,6 +515,7 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -558,7 +559,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -1396,7 +1396,6 @@ DOMAIN-SUFFIX,darkness.is.my.waifu.cz
 DOMAIN-SUFFIX,megumin.is.my.waifu.cz
 DOMAIN-SUFFIX,yunyun.is.my.waifu.cz
 DOMAIN-SUFFIX,dns.wang.art
-DOMAIN-SUFFIX,wantaquddin.com
 DOMAIN-SUFFIX,dns.wargan.io
 DOMAIN-SUFFIX,abel.waringer-atg.de
 DOMAIN-SUFFIX,dns.warma.me
@@ -1426,7 +1425,6 @@ DOMAIN-SUFFIX,xholgm.top
 DOMAIN-SUFFIX,agh.xinfeng16m.top
 DOMAIN-SUFFIX,dns.xlion.tw
 DOMAIN-SUFFIX,xn--durhre-yxa.de
-DOMAIN-SUFFIX,xorbiadns.com
 DOMAIN-SUFFIX,dns.xuming.studio
 DOMAIN-SUFFIX,dns.xusqui.com
 DOMAIN-SUFFIX,dns.xwdmw.xyz
