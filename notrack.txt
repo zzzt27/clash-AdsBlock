@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 26 Jul 2025
 # LatestVersion 24.01
-# Domain Count: 15735
+# Domain Count: 15733
 #===============================================================
 
 +.0i0i0i0.com
@@ -85,7 +85,6 @@
 +.acscdn.com
 +.active-agent.com
 +.activeconversion.com
-+.actuallyhierarchyjudgement.com
 +.acuityplatform.com
 +.acxiom-online.com
 +.ad-delivery.net
@@ -13763,7 +13762,6 @@
 +.origunix.com
 +.ort-stsdk.vivo.com.cn
 +.os-code.shalltry.com
-+.ostlon.com
 +.ota.lokalise.co
 +.oth.eve.mdt.qq.com
 +.oth.str.mdt.qq.com
