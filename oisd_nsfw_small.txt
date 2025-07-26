@@ -1,9 +1,9 @@
-# Version: 202507252129
+# Version: 202507260033
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20883
-# Last modified: 2025-07-25T21:29:31+0000
+# Entries: 20892
+# Last modified: 2025-07-26T00:33:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3248,6 +3248,7 @@
 +.cephalokal.com
 +.cercoincontri.com
 +.cerdas.com
++.cerezamayorista.com
 +.ceske-kurvicky.cz
 +.ceskeporno.cz
 +.cfake.com
@@ -3622,6 +3623,7 @@
 +.conejox.com
 +.conexaomadura.com.br
 +.confessionstories.org
++.confluent.cloud
 +.confrariars.com.br
 +.congdongmassage.com
 +.contactetflirt.com
@@ -10578,6 +10580,7 @@
 +.mehrporn.com
 +.meidenvanholland.nl
 +.meijuntu.com
++.mein-check-in.de
 +.meine-perlen.com
 +.meinemuschibilder.com
 +.meinsex.video
@@ -10962,6 +10965,7 @@
 +.moneydomdirectory.com
 +.moneylove.de
 +.mongerinasia.com
++.monkey.app
 +.monkey.cool
 +.monroo.com
 +.monsnode.com
@@ -11602,6 +11606,7 @@
 +.ngheaudiotruyen.info
 +.ngonvl.org
 +.nhentai.com
++.nhentai.gg
 +.nhentai.io
 +.nhentai.moe
 +.nhentai.net
@@ -12848,6 +12853,7 @@
 +.porn-videos.fans
 +.porn-videos.net
 +.porn-videos.org
++.porn-videos.rodeo
 +.porn-w.org
 +.porn-xnxx.com
 +.porn-xxx-videos.com
@@ -16046,6 +16052,7 @@
 +.sexyads.com
 +.sexyakutsk.love
 +.sexyakutsk.red
++.sexyamateurfilms.com
 +.sexyandfunny.com
 +.sexyar.vip
 +.sexyasia.quest
@@ -16493,6 +16500,7 @@
 +.sohot.cyou
 +.sohuxxx.com
 +.soiboy.com
++.soichat.com
 +.sokkan.net
 +.sokkann.com
 +.solarium.tv
@@ -18557,6 +18565,7 @@
 +.viejas.icu
 +.viejitas.top
 +.viet-sex.com
++.viet69.adult
 +.viet69.net
 +.viet69hay.com
 +.vietimg.com
