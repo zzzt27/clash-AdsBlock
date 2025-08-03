@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 03 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15732
+# Domain Count: 15729
 #===============================================================
 
 +.0i0i0i0.com
@@ -561,7 +561,6 @@
 +.analytics.santander.co.uk
 +.analytics.schoolwires.com
 +.analytics.sendsafely.com
-+.analytics.site123.io
 +.analytics.sketchup.com
 +.analytics.skyscanner.net
 +.analytics.slashdotmedia.com
@@ -589,7 +588,6 @@
 +.analytics.xl.pt
 +.analytics.yahoo.com
 +.analytics.yinxiang.com
-+.analytics.yiyouliao.com
 +.analytics.yolacdn.net
 +.analytics64.techsmith.com
 +.analyticsmsp.com
@@ -1146,7 +1144,6 @@
 +.customerevents.dradis.netflix.com
 +.customerevents.netflix.com
 +.customize.cz
-+.customshirelingcrushing.com
 +.cxaff.com
 +.cxense.com
 +.d41.co
