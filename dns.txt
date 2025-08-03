@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 08:10 UTC
-# Version: 2025.0803.0810.03
+# Last modified: 03 Aug 2025 16:06 UTC
+# Version: 2025.0803.1606.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1453
+# Number of entries: 1441
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -502,7 +502,6 @@ DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
-DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -513,7 +512,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -557,6 +555,7 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
+DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -974,17 +973,6 @@ DOMAIN-SUFFIX,doh-random-upstream.nicolas-dorriere.fr
 DOMAIN-SUFFIX,nicsezcheckfbi.gov
 DOMAIN-SUFFIX,dns1.nielsdb.be
 DOMAIN-SUFFIX,dns.ningkelle.id
-DOMAIN-SUFFIX,adblock.any.dns.nixnet.xyz
-DOMAIN-SUFFIX,uncensored.any.dns.nixnet.xyz
-DOMAIN-SUFFIX,adblock.lux1.dns.nixnet.xyz
-DOMAIN-SUFFIX,uncensored.lux1.dns.nixnet.xyz
-DOMAIN-SUFFIX,adblock.lv1.dns.nixnet.xyz
-DOMAIN-SUFFIX,uncensored.lv1.dns.nixnet.xyz
-DOMAIN-SUFFIX,adblock.ny1.dns.nixnet.xyz
-DOMAIN-SUFFIX,uncensored.ny1.dns.nixnet.xyz
-DOMAIN-SUFFIX,lux1.nixnet.xyz
-DOMAIN-SUFFIX,lv1.nixnet.xyz
-DOMAIN-SUFFIX,ny1.nixnet.xyz
 DOMAIN-SUFFIX,doh.niyawe.de
 DOMAIN-SUFFIX,dns.njal.la
 DOMAIN-SUFFIX,pi1.node15.com
