@@ -1,9 +1,9 @@
-# Version: 202508041732
+# Version: 202508041933
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21025
-# Last modified: 2025-08-04T17:32:43+0000
+# Entries: 21037
+# Last modified: 2025-08-04T19:33:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1498,6 +1498,7 @@
 +.assporno.casa
 +.asstok.com
 +.asstomouth.guru
++.asstr.info
 +.asstr.org
 +.asstraffic.com
 +.assvideos.pro
@@ -3176,6 +3177,7 @@
 +.celeb-stalker.com
 +.celeb.cx
 +.celeb.tv
++.celeb2012.jp
 +.celebdeepfakes.net
 +.celebexposed.com
 +.celebfapper.com
@@ -8082,6 +8084,7 @@
 +.hujil.com
 +.hulkporn.net
 +.humaniplex.com
++.humor-blog.com
 +.humoron.com
 +.humpaki.com
 +.humpinglife.com
@@ -10159,6 +10162,7 @@
 +.m-hentai.net
 +.m-porn.xxx
 +.m-zh.ru
++.m1bar.com
 +.m1lfs.com
 +.m21.top
 +.m3pd.com
@@ -10901,8 +10905,11 @@
 +.mmm100.com
 +.mmporns.com
 +.mmsbee47.com
++.mmsdose.com
 +.mmsdose.us
++.mmshunt.com
 +.mmsmaza.org
++.mmstown.com
 +.mnaspm.com
 +.mnfclub.com
 +.mnogochat.com
@@ -12933,6 +12940,7 @@
 +.porn.biz
 +.porn.co
 +.porn.com
++.porn.com.gr
 +.porn.engineer
 +.porn.fit
 +.porn.fr
@@ -13462,6 +13470,7 @@
 +.porno365s.cc
 +.porno365s.name
 +.porno365x.info
++.porno365x.live
 +.porno365x.me
 +.porno365x.mobi
 +.porno365x.page
@@ -14136,6 +14145,7 @@
 +.pornxo.xxx
 +.pornxp.buzz
 +.pornxp.cc
++.pornxp.cfd
 +.pornxp.click
 +.pornxp.cloud
 +.pornxp.club
@@ -14939,6 +14949,7 @@
 +.rokuhentai.com
 +.role-me.ru
 +.rolemantic.com
++.roliki.cc
 +.roliki.tv
 +.rollosfaciles.com
 +.romance-manga.com
@@ -15826,7 +15837,6 @@
 +.sexosecreto.com
 +.sexosintabues30.com
 +.sexosochi.guru
-+.sexostav.com
 +.sexosur.cl
 +.sexother.com
 +.sexotomsk.com
@@ -19453,6 +19463,7 @@
 +.xhand.live
 +.xhand.net
 +.xhbig.com
++.xhblogger.life
 +.xhbranch4.com
 +.xhbranch5.com
 +.xhcdn.com
@@ -19950,6 +19961,7 @@
 +.xtubehentai.com
 +.xtubemovies.info
 +.xtubetv.xyz
++.xtusubs.com
 +.xtvporn.com
 +.xujan.com
 +.xukhd.name
