@@ -1,9 +1,9 @@
-# Version: 202508050028
+# Version: 202508050234
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21043
-# Last modified: 2025-08-05T00:28:08+0000
+# Entries: 21044
+# Last modified: 2025-08-05T02:34:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4058,6 +4058,7 @@
 +.desifakes.net
 +.desifakesedit.work
 +.desifetish.com
++.desifile.net
 +.desiflix.best
 +.desifreeporn.com
 +.desifuckxxx.com
@@ -4276,6 +4277,7 @@
 +.dirtypornvids.com
 +.dirtypriest.com
 +.dirtyroulette.com
++.dirtyroulette.io
 +.dirtyroulette.site
 +.dirtyroulette.vip
 +.dirtysancheztube.com
@@ -17199,7 +17201,6 @@
 +.teensalute.com
 +.teensandtaxes.com
 +.teensark.com
-+.teensbay.top
 +.teensex.sbs
 +.teensex.wiki
 +.teensexadd.com
@@ -18025,7 +18026,6 @@
 +.tube8k.com
 +.tube8videos.net
 +.tubeadultmovies.com
-+.tubeanalporn.com
 +.tubeasiancams.com
 +.tubebaba.com
 +.tubebay.net
@@ -18665,6 +18665,7 @@
 +.videox.info
 +.videoxnxx.cc
 +.videoxxx.best
++.videoxxx.diy
 +.videoxxx.mobi
 +.videoxxx.name
 +.videoxxx.sex
