@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Aug 2025 16:02 UTC
-# Version: 2025.0806.1602.43
+# Last modified: 06 Aug 2025 20:05 UTC
+# Version: 2025.0806.2005.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1437
+# Number of entries: 1448
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -495,6 +495,12 @@ DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
+DOMAIN-SUFFIX,jurre-home.duckdns.org
+DOMAIN-SUFFIX,krtekvpn.duckdns.org
+DOMAIN-SUFFIX,osefcorp.duckdns.org
+DOMAIN-SUFFIX,punono.duckdns.org
+DOMAIN-SUFFIX,tuandns.duckdns.org
+DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
@@ -552,6 +558,7 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
+DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -577,6 +584,7 @@ DOMAIN-SUFFIX,dns.futuredns.me
 DOMAIN-SUFFIX,cluster-0.gac.edu
 DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
+DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
@@ -898,6 +906,7 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
+DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1117,6 +1126,7 @@ DOMAIN-SUFFIX,hungary.privacy-dns.pw
 DOMAIN-SUFFIX,las-vegas.privacy-dns.pw
 DOMAIN-SUFFIX,luxembourg.privacy-dns.pw
 DOMAIN-SUFFIX,romania.privacy-dns.pw
+DOMAIN-SUFFIX,dns.privado.ovh
 DOMAIN-SUFFIX,orpi.privado.ovh
 DOMAIN-SUFFIX,de.dns.privex.io
 DOMAIN-SUFFIX,nl.dns.privex.io
@@ -1170,6 +1180,7 @@ DOMAIN-SUFFIX,dns.reitmeier.me
 DOMAIN-SUFFIX,renardbleu.dev
 DOMAIN-SUFFIX,dns.renardyre.com
 DOMAIN-SUFFIX,dns.repinger.com
+DOMAIN-SUFFIX,dns.repressoh.it
 DOMAIN-SUFFIX,dnspub.restena.lu
 DOMAIN-SUFFIX,dns.retakecs.com
 DOMAIN-SUFFIX,rethinkdns.com
