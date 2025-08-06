@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Aug 2025 12:04 UTC
-# Version: 2025.0806.1204.05
+# Last modified: 06 Aug 2025 16:02 UTC
+# Version: 2025.0806.1602.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1445
+# Number of entries: 1437
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,dns.aaflalo.me
 DOMAIN-SUFFIX,dns-gcp.aaflalo.me
 DOMAIN-SUFFIX,dns-nyc.aaflalo.me
 DOMAIN-SUFFIX,doh.dns.apple.com.v.aaplimg.com
+DOMAIN-SUFFIX,dns.aaytorr.com
 DOMAIN-SUFFIX,adguard.abd.ong
 DOMAIN-SUFFIX,dns.abdullahabas.de
 DOMAIN-SUFFIX,doh.abraservice.xyz
@@ -494,12 +495,6 @@ DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
 DOMAIN-SUFFIX,home27.duckdns.org
-DOMAIN-SUFFIX,jurre-home.duckdns.org
-DOMAIN-SUFFIX,krtekvpn.duckdns.org
-DOMAIN-SUFFIX,osefcorp.duckdns.org
-DOMAIN-SUFFIX,punono.duckdns.org
-DOMAIN-SUFFIX,tuandns.duckdns.org
-DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
@@ -514,7 +509,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -558,7 +552,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -584,7 +577,6 @@ DOMAIN-SUFFIX,dns.futuredns.me
 DOMAIN-SUFFIX,cluster-0.gac.edu
 DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
-DOMAIN-SUFFIX,adguard.gambini.org
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,gclouddns.com
 DOMAIN-SUFFIX,adg.geili.me
@@ -1178,7 +1170,6 @@ DOMAIN-SUFFIX,dns.reitmeier.me
 DOMAIN-SUFFIX,renardbleu.dev
 DOMAIN-SUFFIX,dns.renardyre.com
 DOMAIN-SUFFIX,dns.repinger.com
-DOMAIN-SUFFIX,dns.repressoh.it
 DOMAIN-SUFFIX,dnspub.restena.lu
 DOMAIN-SUFFIX,dns.retakecs.com
 DOMAIN-SUFFIX,rethinkdns.com
@@ -1326,6 +1317,7 @@ DOMAIN-SUFFIX,dns.thebuckners.org
 DOMAIN-SUFFIX,dns.thegoodsource.net
 DOMAIN-SUFFIX,dns.therifleman.name
 DOMAIN-SUFFIX,blocker.thethorsens.org
+DOMAIN-SUFFIX,doh.thio.me
 DOMAIN-SUFFIX,dns.thiz.top
 DOMAIN-SUFFIX,doh.tiar.app
 DOMAIN-SUFFIX,dot.tiar.app
