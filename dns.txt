@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 08:07 UTC
-# Version: 2025.0807.0807.18
+# Last modified: 07 Aug 2025 16:06 UTC
+# Version: 2025.0807.1606.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1443
+# Number of entries: 1445
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,blitz-setup.ahadns.com
 DOMAIN-SUFFIX,ahoj.email
 DOMAIN-SUFFIX,adguard.ajinga.net
 DOMAIN-SUFFIX,dns.albony.xyz
+DOMAIN-SUFFIX,dnsnl.alekberg.net
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
 DOMAIN-SUFFIX,alleesph.online
@@ -494,6 +495,10 @@ DOMAIN-SUFFIX,dns.dremaxx.de
 DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
+DOMAIN-SUFFIX,home27.duckdns.org
+DOMAIN-SUFFIX,jurre-home.duckdns.org
+DOMAIN-SUFFIX,krtekvpn.duckdns.org
+DOMAIN-SUFFIX,osefcorp.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tuandns.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
@@ -511,6 +516,7 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -554,7 +560,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -902,7 +907,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1176,6 +1180,7 @@ DOMAIN-SUFFIX,dns.reitmeier.me
 DOMAIN-SUFFIX,renardbleu.dev
 DOMAIN-SUFFIX,dns.renardyre.com
 DOMAIN-SUFFIX,dns.repinger.com
+DOMAIN-SUFFIX,dns.repressoh.it
 DOMAIN-SUFFIX,dnspub.restena.lu
 DOMAIN-SUFFIX,dns.retakecs.com
 DOMAIN-SUFFIX,rethinkdns.com
@@ -1342,9 +1347,6 @@ DOMAIN-SUFFIX,dot.tooli.ca
 DOMAIN-SUFFIX,nsc.torgues.net
 DOMAIN-SUFFIX,doh.totoro.pub
 DOMAIN-SUFFIX,dns.tracker.ink
-DOMAIN-SUFFIX,resolv1.trash.net
-DOMAIN-SUFFIX,resolv2.trash.net
-DOMAIN-SUFFIX,resolv3.trash.net
 DOMAIN-SUFFIX,ns.trcnet.fi
 DOMAIN-SUFFIX,tri-dns.net
 DOMAIN-SUFFIX,tributh.net
