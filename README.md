@@ -7,8 +7,8 @@ NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
 [oisd_small](#small) | **09-08-25** | 44435
 [oisd_big](#big) | **09-08-25** | 201486
-[oisd_nsfw🔞](#nsfw) | **09-08-25** | 424749
-[oisd_nsfw_small🔞](#nsfw-small) | **09-08-25** | 21030
+[oisd_nsfw🔞](#nsfw) | **09-08-25** | 424771
+[oisd_nsfw_small🔞](#nsfw-small) | **09-08-25** | 21031
 
 
 ### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
