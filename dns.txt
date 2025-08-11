@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2025 08:12 UTC
-# Version: 2025.0811.0812.03
+# Last modified: 11 Aug 2025 00:01 UTC
+# Version: 2025.0811.0001.41
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1448
 #
@@ -518,7 +518,6 @@ DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.editechstudio.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -856,6 +855,7 @@ DOMAIN-SUFFIX,testguard.meexx.de
 DOMAIN-SUFFIX,meganerd.nl
 DOMAIN-SUFFIX,httpdns.meituan.com
 DOMAIN-SUFFIX,dns.melvin2204.nl
+DOMAIN-SUFFIX,mendozasdelivery.com
 DOMAIN-SUFFIX,testaghome.meshkov.info
 DOMAIN-SUFFIX,dns.mestdag.fr
 DOMAIN-SUFFIX,dns.mh4ckt3mh4ckt1c4s.xyz
