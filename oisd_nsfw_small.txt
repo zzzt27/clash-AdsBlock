@@ -1,9 +1,9 @@
-# Version: 202508162139
+# Version: 202508162229
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21481
-# Last modified: 2025-08-16T21:39:04+0000
+# Entries: 21484
+# Last modified: 2025-08-16T22:29:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1731,6 +1731,7 @@
 +.babe8.net
 +.babeherder.com
 +.babehub.com
++.babehump.com
 +.babeimpact.com
 +.babeland.com
 +.babepedia.com
@@ -3341,6 +3342,7 @@
 +.chatbang.net
 +.chatblink.com
 +.chatbonga.com
++.chatcams.pl
 +.chatclimax.com
 +.chatdaseducao.com
 +.chatdate.app
@@ -19225,6 +19227,7 @@
 +.vn50phimsexhay.com
 +.vn52phimsexhay.com
 +.vn57phimsexhay.com
++.vn58phimsexhay.com
 +.vn59phimsexhay.com
 +.vnchatsex.com
 +.vndb.org
