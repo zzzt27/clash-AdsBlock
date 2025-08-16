@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2025 08:19 UTC
-# Version: 2025.0815.0819.05
+# Last modified: 15 Aug 2025 19:02 UTC
+# Version: 2025.0815.1902.12
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1440
 #
@@ -505,15 +505,16 @@ DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,resolver2.dyndnsinternetguide.com
+DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
 DOMAIN-SUFFIX,easyhandshake.com
 DOMAIN-SUFFIX,dns.eddi.net
 DOMAIN-SUFFIX,doh.eddi.net
-DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -900,7 +901,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,n0.eu
 DOMAIN-SUFFIX,dns.n23.io
@@ -1047,7 +1047,6 @@ DOMAIN-SUFFIX,dns.panszelescik.pl
 DOMAIN-SUFFIX,dns-ovh.panszelescik.pl
 DOMAIN-SUFFIX,paradise-human.shop
 DOMAIN-SUFFIX,dns.pari.network
-DOMAIN-SUFFIX,pashagame456.com
 DOMAIN-SUFFIX,a.passcloud.xyz
 DOMAIN-SUFFIX,i.passcloud.xyz
 DOMAIN-SUFFIX,dns.pccoach.nl
@@ -1405,6 +1404,7 @@ DOMAIN-SUFFIX,dns-1.wil.cloud
 DOMAIN-SUFFIX,dns-2.wil.cloud
 DOMAIN-SUFFIX,adguard.wirimij.nl
 DOMAIN-SUFFIX,home.wriedts.de
+DOMAIN-SUFFIX,ns2.wuyouss.com
 DOMAIN-SUFFIX,ns3.wuyouss.com
 DOMAIN-SUFFIX,wyx.cloud
 DOMAIN-SUFFIX,adb-home.xaoimoon.fr
