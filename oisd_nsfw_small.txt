@@ -1,9 +1,9 @@
-# Version: 202508170705
+# Version: 202508170730
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21489
-# Last modified: 2025-08-17T07:05:12+0000
+# Entries: 21493
+# Last modified: 2025-08-17T07:30:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -87,6 +87,7 @@
 +.18gifts.com
 +.18girlsporn.com
 +.18girlssex.com
++.18hentai.org
 +.18hlw.com
 +.18insta.com
 +.18j.tv
@@ -5033,6 +5034,7 @@
 +.erotikmix.dk
 +.erotikportal-deutschland.net
 +.erotikpur.de
++.erotiqlinks.com
 +.erotischefilmpjes.net
 +.erotischegeschichten.net
 +.erotischesexgeschichten.info
@@ -16598,6 +16600,7 @@
 +.shavedpics.com
 +.shavedpussypics.com
 +.shavve.co.il
++.shayarimints.in
 +.shayefpro.com
 +.sheam.buzz
 +.sheamateur.com
@@ -18710,6 +18713,7 @@
 +.uncuthub.com
 +.uncutjalwa.net
 +.uncutmasti.com
++.uncutmasti.my
 +.uncutmasti.org
 +.uncutmaza.org
 +.uncutmaza.tv
