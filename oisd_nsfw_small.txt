@@ -1,9 +1,9 @@
-# Version: 202508162229
+# Version: 202508162329
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21484
-# Last modified: 2025-08-16T22:29:27+0000
+# Entries: 21485
+# Last modified: 2025-08-16T23:29:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19464,6 +19464,7 @@
 +.webmodel.cam
 +.webpornhub.com
 +.webpussi.com
++.webself.net
 +.webseriessex.cam
 +.webseriessex.com
 +.websexfilms.com
