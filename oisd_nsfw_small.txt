@@ -1,9 +1,9 @@
-# Version: 202508170528
+# Version: 202508170705
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21486
-# Last modified: 2025-08-17T05:28:40+0000
+# Entries: 21489
+# Last modified: 2025-08-17T07:05:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1615,6 +1615,7 @@
 +.avbase.net
 +.avcar.vip
 +.avcilaravans2.com
++.avcindy.co
 +.avcollectors.com
 +.avcrack.com
 +.avdaisy.net
@@ -5838,6 +5839,7 @@
 +.flirtshop.kz
 +.flirtstad.com
 +.flirtstate.com
++.flirtsverige.se
 +.flirttisuomi.com
 +.flirturilocale.com
 +.flirtvicini.com
@@ -12390,6 +12392,7 @@
 +.omasex.com
 +.omasex.tv
 +.omatgp.com
++.omav.net
 +.ome.tv
 +.omegascans.org
 +.omegle.cc
