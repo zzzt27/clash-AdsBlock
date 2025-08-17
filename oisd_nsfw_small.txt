@@ -1,9 +1,9 @@
-# Version: 202508162329
+# Version: 202508170127
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21485
-# Last modified: 2025-08-16T23:29:08+0000
+# Entries: 21484
+# Last modified: 2025-08-17T01:27:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3041,7 +3041,6 @@
 +.camjke.com
 +.camjoie.com
 +.camleaks.net
-+.camliveshows.com
 +.camloo.com
 +.camlovers.tv
 +.cammatrix.live
