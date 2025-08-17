@@ -1,9 +1,9 @@
-# Version: 202508170428
+# Version: 202508170528
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21483
-# Last modified: 2025-08-17T04:28:34+0000
+# Entries: 21486
+# Last modified: 2025-08-17T05:28:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11965,6 +11965,7 @@
 +.nigged.com
 +.nightclub.eu
 +.nightdreambabe.com
++.nightescortsclub.com
 +.nightlifeporn.com
 +.nightmareporn.com
 +.nightsex.net
@@ -12871,6 +12872,7 @@
 +.phimsec.info
 +.phimsech.me
 +.phimsehay.com
++.phimsex-a1.com
 +.phimsex.bot
 +.phimsex.nl
 +.phimsex3.top
@@ -14023,6 +14025,7 @@
 +.pornomanoir.com
 +.pornomatter.com
 +.pornomedia.com
++.pornomesto.cc
 +.pornomesto.me
 +.pornomesto.tv
 +.pornomico.com
