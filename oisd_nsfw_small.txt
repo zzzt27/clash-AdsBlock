@@ -1,9 +1,9 @@
-# Version: 202508170127
+# Version: 202508170328
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21484
-# Last modified: 2025-08-17T01:27:38+0000
+# Entries: 21482
+# Last modified: 2025-08-17T03:28:37+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5962,7 +5962,6 @@
 +.free-wap-tube.com
 +.free-xhamster.cfd
 +.free-xxx-porn.org
-+.free-xxx-porn.yachts
 +.free-xxxcom.cfd
 +.free-xxxmovie.click
 +.free-xxxvideo.yachts
@@ -8845,7 +8844,6 @@
 +.italianoxxx.com
 +.itamilchat.com
 +.itchyforum.com
-+.itechankara.com
 +.itinyteens.com
 +.itnaked.com
 +.itnewst.com
