@@ -1,9 +1,9 @@
-# Version: 202508170822
+# Version: 202508170925
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44695
-# Last modified: 2025-08-17T08:22:17+0000
+# Entries: 44690
+# Last modified: 2025-08-17T09:25:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2428,7 +2428,6 @@
 +.acidmercy.com
 +.acidprolific.com
 +.acimo.com
-+.acinitarr.cyou
 +.ackcdn.net
 +.acknowledgecalculated.com
 +.acknowledgedlatest.com
@@ -17369,7 +17368,6 @@
 +.fastdntrk.com
 +.fasterinexperiencedsled.com
 +.fastgnmx.com
-+.fasticogit.cyou
 +.fastidiousilliteratehag.com
 +.fastincognitomode.com
 +.fastlane.rubiconproject.com
@@ -27753,7 +27751,6 @@
 +.northdownload.com
 +.northwestdiddived.com
 +.norymo.com
-+.nosilynursle.qpon
 +.nossairt.net
 +.nostalgia.onego.ru
 +.nostrilquarryprecursor.com
@@ -34210,7 +34207,6 @@
 +.sardonic-track.com
 +.sarkalmondy.click
 +.sarrowgrivois.com
-+.sarsencogs.help
 +.sartolutus.com
 +.sas.nsm-corp.com
 +.sashtrizone.com
@@ -37830,7 +37826,6 @@
 +.tahwox.com
 +.taijaphauhidoop.com
 +.taikmhgkfngjx.today
-+.tailertrs.help
 +.tailstories.biz
 +.tailsweep.com
 +.tailsweep.se
