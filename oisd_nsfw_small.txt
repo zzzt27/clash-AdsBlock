@@ -1,9 +1,9 @@
-# Version: 202508181430
+# Version: 202508181531
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21536
-# Last modified: 2025-08-18T14:30:49+0000
+# Entries: 21537
+# Last modified: 2025-08-18T15:31:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10682,6 +10682,7 @@
 +.masked.love
 +.massage-manhattan-club.com
 +.massage-xxx.su
++.massage123.ch
 +.massagehall.cz
 +.massageplanet.net
 +.massagerepublic.com
