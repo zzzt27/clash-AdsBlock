@@ -1,9 +1,9 @@
-# Version: 202508180928
+# Version: 202508181020
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 44937
-# Last modified: 2025-08-18T09:28:31+0000
+# Entries: 44933
+# Last modified: 2025-08-18T10:20:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10596,7 +10596,6 @@
 +.choargobsadsa.net
 +.chocolatine.apexlegendsstatus.com
 +.choconart.com
-+.chocootology.world
 +.choirflorian.qpon
 +.chokeweaknessheat.com
 +.cholatetapalos.com
@@ -10648,7 +10647,6 @@
 +.chyeqolaelmpo.site
 +.chyjobopse.pro
 +.chylerothe.com
-+.chylesbuilded.com
 +.chymestamales.click
 +.chymiaaxunge.top
 +.chytridaustral.com
@@ -21672,7 +21670,6 @@
 +.imbet.site
 +.imbfsidnchope.site
 +.imbuteresaws.cyou
-+.imbutewigtail.cyou
 +.imcdn.pro
 +.imdns.hpplay.cn
 +.imedia.cz
@@ -27281,7 +27278,6 @@
 +.nanigans.com
 +.nannieslamaic.com
 +.nannyirrationalacquainted.com
-+.nanoidcharas.click
 +.nanosecnobbily.click
 +.nanostats.nanopress.it
 +.nanouwho.com

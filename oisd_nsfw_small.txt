@@ -1,9 +1,9 @@
-# Version: 202508180938
+# Version: 202508181030
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21532
-# Last modified: 2025-08-18T09:38:18+0000
+# Entries: 21535
+# Last modified: 2025-08-18T10:30:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9737,6 +9737,7 @@
 +.kisiipoly.ac.ke
 +.kissasian.cam
 +.kisscos.net
++.kissjav.cc
 +.kissjav.com
 +.kissjav.li
 +.kisska.net
@@ -12219,6 +12220,7 @@
 +.nudes.cz
 +.nudes.life
 +.nudesboys.com
++.nudesdosfamososnus.com
 +.nudesexphotos.com
 +.nudesirens.com
 +.nudesmovie.com
@@ -20629,6 +20631,7 @@
 +.xxsex24sex.com
 +.xxsex24sex.ru
 +.xxsliv.com
++.xxthots.com
 +.xxtubesx.com
 +.xxu.mobi
 +.xxvi.net
