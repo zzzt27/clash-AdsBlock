@@ -1,9 +1,9 @@
-# Version: 202508180228
+# Version: 202508180328
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21489
-# Last modified: 2025-08-18T02:28:31+0000
+# Entries: 21490
+# Last modified: 2025-08-18T03:28:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5733,6 +5733,7 @@
 +.finance.blog
 +.find-singles-online.com
 +.find-your-slut.com
++.findadeath.com
 +.findadultlove.online
 +.findanir.com
 +.findasianwomen.net
