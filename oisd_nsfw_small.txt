@@ -1,9 +1,9 @@
-# Version: 202508180628
+# Version: 202508180807
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21492
-# Last modified: 2025-08-18T06:28:27+0000
+# Entries: 21495
+# Last modified: 2025-08-18T08:07:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7289,6 +7289,7 @@
 +.hdbigass.com
 +.hdblackass.com
 +.hdblackporn.com
++.hdblog.me
 +.hdbluefilm.com
 +.hdbooty.com
 +.hdbraze.com
@@ -19635,6 +19636,7 @@
 +.wowmasti.org
 +.wowne.ws
 +.wowoo.buzz
++.wowporn.lat
 +.wowsexytimes.com
 +.wowteenporno.com
 +.wowuncut.com
@@ -20148,6 +20150,7 @@
 +.xnxx-videos.xyz
 +.xnxx-vids.com
 +.xnxx-vn.cc
++.xnxx-xvideos.quest
 +.xnxx-xx.com
 +.xnxx-xxx.net
 +.xnxx-xxx.org
