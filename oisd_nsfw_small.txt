@@ -1,9 +1,9 @@
-# Version: 202508171230
+# Version: 202508172329
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21487
-# Last modified: 2025-08-17T12:30:15+0000
+# Entries: 21488
+# Last modified: 2025-08-17T23:29:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9378,6 +9378,7 @@
 +.joi.how
 +.joinforjoy.com
 +.joingy.com
++.joinwagroups.link
 +.jokesforadults.guru
 +.joombie.com
 +.jopa.tv
