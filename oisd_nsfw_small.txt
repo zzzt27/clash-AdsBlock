@@ -1,9 +1,9 @@
-# Version: 202508180328
+# Version: 202508180628
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21490
-# Last modified: 2025-08-18T03:28:35+0000
+# Entries: 21492
+# Last modified: 2025-08-18T06:28:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -76,6 +76,7 @@
 +.18asiantube.com
 +.18candygirls.com
 +.18ccc.tv
++.18comic.ink
 +.18comic.org
 +.18comic.vip
 +.18comix.org
@@ -20685,6 +20686,7 @@
 +.xxx4.pro
 +.xxx4hindi.com
 +.xxx4you.es
++.xxx55porn.me
 +.xxx5porn.me
 +.xxx6.pro
 +.xxx69night.com
