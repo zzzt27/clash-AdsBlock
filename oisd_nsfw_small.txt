@@ -1,9 +1,9 @@
-# Version: 202508181030
+# Version: 202508181430
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21535
-# Last modified: 2025-08-18T10:30:16+0000
+# Entries: 21536
+# Last modified: 2025-08-18T14:30:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9899,6 +9899,7 @@
 +.laidhub.com
 +.laiporn.com
 +.lamalinks.com
++.lamalinks.live
 +.lameladieva.net
 +.lanasbigboobs.com
 +.landrover.com
