@@ -1,9 +1,9 @@
-# Version: 202508172329
+# Version: 202508180228
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21488
-# Last modified: 2025-08-17T23:29:24+0000
+# Entries: 21489
+# Last modified: 2025-08-18T02:28:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17089,6 +17089,7 @@
 +.stellaplus.xyz
 +.stepdaughterporn.online
 +.stepsiblingscaught.com
++.stepsister.one
 +.stepsisterporntrends.com
 +.stepsmut.com
 +.sternporn.com
