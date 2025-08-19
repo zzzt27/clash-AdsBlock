@@ -1,9 +1,9 @@
-# Version: 202508191028
+# Version: 202508191120
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45208
-# Last modified: 2025-08-19T10:28:15+0000
+# Entries: 45200
+# Last modified: 2025-08-19T11:20:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8879,7 +8879,6 @@
 +.bombozzz.xyz
 +.bomdog.com
 +.bonafides.club
-+.bonderslollops.shop
 +.bondfondif.com
 +.bondleapedoasis.com
 +.bonecommittee.com
@@ -16556,7 +16555,6 @@
 +.eniza.site
 +.enjoygrandmothercaricature.com
 +.enkcyenrat.club
-+.enlargeboy.com
 +.enlightenedmountain.com
 +.enlightenelevatorboycott.com
 +.enlvbrhejiami.online
@@ -19648,7 +19646,6 @@
 +.gofimtaisa.net
 +.gofun.info
 +.gohere.pl
-+.goi08191kh.com
 +.goingplatinum.com
 +.goingtabific.com
 +.gojbtiqarctsc.life
@@ -23770,7 +23767,6 @@
 +.kurlkyja.com
 +.kurrhlwywpswg.site
 +.kursatarak.com
-+.kusampeckier.shop
 +.kutchpomps.help
 +.kuti8iar.xyz
 +.kuwoucaxoad.com
@@ -23831,7 +23827,6 @@
 +.kzqjctpvdjmwc.store
 +.kzt2afc1rp52.com
 +.kzvcggahkgm.com
-+.kzvnnqmvjajka.top
 +.l-iw.de
 +.l.cdn-fileserver.com
 +.l.da-te.jp
@@ -25072,7 +25067,6 @@
 +.logon.andbeyond.media
 +.logperf.vnexpress.net
 +.logql.yahoo.co.jp
-+.logr-ingest.com
 +.logru.vietnamplus.vn
 +.logs-api.shoprunner.com
 +.logs-ingress.svc.vinted.com
@@ -32308,7 +32302,6 @@
 +.quokka.oeshome.org
 +.quokkacheeks.com
 +.quokkasgraf.com
-+.quomodojuletta.shop
 +.quotationfirearmrevision.com
 +.quotes.com
 +.quwkke.xyz
@@ -43395,7 +43388,6 @@
 +.wxsnsdy.tc.qq.com
 +.wxsnsdythumb.wxs.qq.com
 +.wy12cewh4.com
-+.wyaoormajvjqv.top
 +.wybeqhmaohxmk.online
 +.wychesmeeter.digital
 +.wydeesunqvlsn.online
