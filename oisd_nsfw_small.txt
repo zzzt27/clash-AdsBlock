@@ -1,9 +1,9 @@
-# Version: 202508191130
+# Version: 202508191230
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21574
-# Last modified: 2025-08-19T11:30:54+0000
+# Entries: 21575
+# Last modified: 2025-08-19T12:30:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1688,6 +1688,7 @@
 +.avtub.net
 +.avtub.pet
 +.avtubflix.com
++.avtubs.com
 +.avventureinzona.com
 +.avventurepiccanti.com
 +.avwikidb.com
