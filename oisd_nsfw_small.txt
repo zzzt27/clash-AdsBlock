@@ -1,9 +1,9 @@
-# Version: 202508190328
+# Version: 202508190906
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 21539
-# Last modified: 2025-08-19T03:28:29+0000
+# Last modified: 2025-08-19T09:06:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3487,6 +3487,7 @@
 +.choosecams.com
 +.choosescorts.com
 +.chooseyourcrush.com
++.choothub.com
 +.choothub.net
 +.chop.one
 +.choti69.com
@@ -16623,7 +16624,6 @@
 +.shameless.com
 +.share-image.com
 +.share-nude.com
-+.share.center
 +.shareanynudes.com
 +.shareanynudes.net
 +.sharesome.com
