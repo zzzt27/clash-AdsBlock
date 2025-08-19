@@ -1,9 +1,9 @@
-# Version: 202508191230
+# Version: 202508191530
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21575
-# Last modified: 2025-08-19T12:30:35+0000
+# Entries: 21576
+# Last modified: 2025-08-19T15:30:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6804,6 +6804,7 @@
 +.ghettodoorway.com
 +.ghettogaggers.com
 +.ghettotube.com
++.giaduoc.com
 +.giantess.porn
 +.giantessa.net
 +.giantesscity.com
