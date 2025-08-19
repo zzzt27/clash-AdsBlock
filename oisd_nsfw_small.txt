@@ -1,9 +1,9 @@
-# Version: 202508181531
+# Version: 202508190328
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21537
-# Last modified: 2025-08-18T15:31:01+0000
+# Entries: 21539
+# Last modified: 2025-08-19T03:28:29+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15306,6 +15306,7 @@
 +.romeo.com
 +.romyk.ru
 +.roomster.com
++.rosa-rossa.com
 +.rosasidan.ws
 +.rosecastle.com.au
 +.rosemarydoll.com
@@ -20088,6 +20089,7 @@
 +.xn--5-5wfs0cq1gd9b9d2epci.com
 +.xn--72c0an1b3be2byb9f5c.com
 +.xn--72c0anj1fqa1a1lsa4fj.com
++.xn--72c9aajutf3dxcg5b6kmdwa.com
 +.xn--72c9abh1f8ad1lzc.online
 +.xn--72c9ah5d5a0h3a5a.com
 +.xn--72c9aha4c5a2bbd5ood.com
