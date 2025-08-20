@@ -1,9 +1,9 @@
-# Version: 202508200729
+# Version: 202508201010
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21589
-# Last modified: 2025-08-20T07:29:40+0000
+# Entries: 21590
+# Last modified: 2025-08-20T10:10:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3261,6 +3261,7 @@
 +.cdfling.com
 +.cdn-at.com
 +.cdn3x.com
++.cdnsexu.com
 +.cdntrex.com
 +.cec18.pro
 +.cechd.com
