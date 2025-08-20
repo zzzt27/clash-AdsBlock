@@ -1,9 +1,9 @@
-# Version: 202508201141
+# Version: 202508201231
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21602
-# Last modified: 2025-08-20T11:41:04+0000
+# Entries: 21603
+# Last modified: 2025-08-20T12:31:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7894,6 +7894,7 @@
 +.homenspeladosbr.com
 +.homeofpornstars.com
 +.homeorgy.party
++.homeorgy.sbs
 +.homepornbay.com
 +.homepornfilms.com
 +.homepornking.com
