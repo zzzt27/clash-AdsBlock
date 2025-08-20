@@ -1,9 +1,9 @@
-# Version: 202508201231
+# Version: 202508201437
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21603
-# Last modified: 2025-08-20T12:31:41+0000
+# Entries: 21604
+# Last modified: 2025-08-20T14:37:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9694,6 +9694,7 @@
 +.khalifa-escorts.com
 +.khanika.in
 +.khosextrung.com
++.kick.com
 +.kickass.com
 +.kidso.se
 +.kiev-girls.info
