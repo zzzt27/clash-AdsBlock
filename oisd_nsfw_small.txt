@@ -1,9 +1,9 @@
-# Version: 202508200528
+# Version: 202508200729
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21590
-# Last modified: 2025-08-20T05:28:26+0000
+# Entries: 21589
+# Last modified: 2025-08-20T07:29:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15272,7 +15272,6 @@
 +.rihana.co.in
 +.rijpemilfchat.nl
 +.rikitake.com
-+.riley-reid.cc
 +.rimsgay.com
 +.rintor.net
 +.rintor.org
