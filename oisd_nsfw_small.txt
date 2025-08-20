@@ -1,9 +1,9 @@
-# Version: 202508201733
+# Version: 202508202032
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21605
-# Last modified: 2025-08-20T17:33:19+0000
+# Entries: 21606
+# Last modified: 2025-08-20T20:32:12+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10640,6 +10640,7 @@
 +.manhwas.men
 +.manhwas.net
 +.manhwasex.net
++.manhwatoon.me
 +.manhwaus.net
 +.manhwavn.com
 +.maniacpass.com
