@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Aug 2025 01:58 UTC
-# Version: 2025.0821.0158.05
+# Last modified: 20 Aug 2025 16:19 UTC
+# Version: 2025.0820.1619.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1433
+# Number of entries: 1434
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -491,7 +491,6 @@ DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,ns1.dotls.org
 DOMAIN-SUFFIX,dns.dotnet.win
 DOMAIN-SUFFIX,family.dns.doubleangels.com
-DOMAIN-SUFFIX,dns.dremaxx.de
 DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
 DOMAIN-SUFFIX,agh.dshubham.xyz
@@ -515,6 +514,7 @@ DOMAIN-SUFFIX,dns.eddi.net
 DOMAIN-SUFFIX,doh.eddi.net
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -558,7 +558,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -734,6 +733,7 @@ DOMAIN-SUFFIX,dns.kastner-online.de
 DOMAIN-SUFFIX,kavkaz.monster
 DOMAIN-SUFFIX,dns.kawa.tf
 DOMAIN-SUFFIX,dns.kebree.fr
+DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
@@ -1050,6 +1050,7 @@ DOMAIN-SUFFIX,rpz-public-resolver1.rrdns.pch.net
 DOMAIN-SUFFIX,dns.peb-schmidt.de
 DOMAIN-SUFFIX,fuchur.pentament.de
 DOMAIN-SUFFIX,pepetio.xyz
+DOMAIN-SUFFIX,dns.pernika.net
 DOMAIN-SUFFIX,darya.persiannit.net
 DOMAIN-SUFFIX,dns.pesaventofilippo.com
 DOMAIN-SUFFIX,dns.petqa.ru
