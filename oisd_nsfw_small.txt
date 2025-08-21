@@ -1,9 +1,9 @@
-# Version: 202508211240
+# Version: 202508211331
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21595
-# Last modified: 2025-08-21T12:40:46+0000
+# Entries: 21596
+# Last modified: 2025-08-21T13:31:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -21582,6 +21582,7 @@
 +.zporno.sex
 +.zproxy.org
 +.zrelie.xyz
++.zrelki.fans
 +.zrelki.link
 +.zrelki.online
 +.zreloeporno.top
