@@ -1,9 +1,9 @@
-# Version: 202508211533
+# Version: 202508212056
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21597
-# Last modified: 2025-08-21T15:33:52+0000
+# Entries: 21596
+# Last modified: 2025-08-21T20:56:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9697,7 +9697,6 @@
 +.khalifa-escorts.com
 +.khanika.in
 +.khosextrung.com
-+.kick.com
 +.kickass.com
 +.kidso.se
 +.kiev-girls.info
@@ -14734,6 +14733,7 @@
 +.prostitutkisoy.com
 +.prostitutkisoy.info
 +.prostitutkitumeni-sexplanet.com
++.prostitutkivzad.com
 +.prostitutok-net.top
 +.prostitutoknet.top
 +.prostoporno.co
@@ -18616,7 +18616,6 @@
 +.tuoi69hd.com
 +.tuoilontv.org
 +.tuoinung.mom
-+.turbobdsm.ru
 +.turboindian.com
 +.turboporno.info
 +.turkifsa.xyz
