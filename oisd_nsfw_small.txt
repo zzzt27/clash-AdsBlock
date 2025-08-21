@@ -1,9 +1,9 @@
-# Version: 202508210931
+# Version: 202508211107
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21612
-# Last modified: 2025-08-21T09:31:03+0000
+# Entries: 21613
+# Last modified: 2025-08-21T11:07:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19141,6 +19141,7 @@
 +.videosz.com
 +.videoszoofilia.club
 +.videothegay.com
++.videotubeparty.com
 +.videotubepornclassic.com
 +.videotxxx.com
 +.videoupornia.com
