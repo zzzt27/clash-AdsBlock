@@ -1,9 +1,9 @@
-# Version: 202508211331
+# Version: 202508211533
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21596
-# Last modified: 2025-08-21T13:31:50+0000
+# Entries: 21597
+# Last modified: 2025-08-21T15:33:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -689,6 +689,7 @@
 +.adulttoymegastore.com.au
 +.adulttoys-india.com
 +.adulttv.org
++.adultvideocentral.top
 +.adultwebtoon.com
 +.adultwork.com
 +.adultworldq.com
