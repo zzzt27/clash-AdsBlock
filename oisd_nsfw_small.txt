@@ -1,9 +1,9 @@
-# Version: 202508220428
+# Version: 202508220528
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21593
-# Last modified: 2025-08-22T04:28:15+0000
+# Entries: 21592
+# Last modified: 2025-08-22T05:28:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -525,7 +525,6 @@
 +.acasadasbrasileirinhas.com.br
 +.acceed.jp
 +.accendimi.com
-+.accessiblepropertyregister.co.uk
 +.accompagnamento-focoso.com
 +.account-dorcel.com
 +.acgxmh.com
