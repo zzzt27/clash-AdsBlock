@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 23 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15694
+# Domain Count: 15691
 #===============================================================
 
 +.0i0i0i0.com
@@ -14730,8 +14730,6 @@
 +.smetrics.opsm.com.au
 +.smetrics.optimum.net
 +.smetrics.optum.com
-+.smetrics.orencia.com
-+.smetrics.otsuka-us.com
 +.smetrics.pacsun.com
 +.smetrics.pandora.net
 +.smetrics.payback.de
@@ -14793,7 +14791,6 @@
 +.smetrics.riteaid.com
 +.smetrics.robeco.com
 +.smetrics.rockandpop.cl
-+.smetrics.roland.com
 +.smetrics.rolex.com
 +.smetrics.roomandboard.com
 +.smetrics.royalcaribbean.com
