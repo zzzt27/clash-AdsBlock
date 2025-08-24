@@ -1,9 +1,9 @@
-# Version: 202508232225
+# Version: 202508240023
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 15173
-# Last modified: 2025-08-23T22:25:27+0000
+# Entries: 15350
+# Last modified: 2025-08-24T00:23:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -32,6 +32,7 @@
 +.11vids.com
 +.123av.com
 +.123doujin.com
++.123moviestv.net
 +.123video.nl
 +.123videos.top
 +.12jav.net
@@ -49,6 +50,7 @@
 +.16honeys.com
 +.171gifs.com
 +.177pica.com
++.18-xx.com
 +.189tutors.com
 +.18abused.com
 +.18adultgames.com
@@ -78,6 +80,7 @@
 +.18porn.in
 +.18porn.sex
 +.18porn.wtf
++.18porn2.biz
 +.18porncomic.com
 +.18pussy.porn
 +.18teen-tube.com
@@ -147,6 +150,8 @@
 +.24rolika.ru
 +.24russkoe.vip
 +.24wink.com
++.24xxx-x.com
++.24xxx.date
 +.24xxx.in
 +.24xxx.love
 +.24xxx.me
@@ -218,6 +223,7 @@
 +.3xxhamsters.com
 +.40somethingmag.com
 +.429men.com
++.4321property.com
 +.4545.to
 +.4based.com
 +.4chan.com
@@ -304,6 +310,7 @@
 +.85po.com
 +.85st.us
 +.870.jp
++.8888.porn
 +.8animal.com
 +.8chan.moe
 +.8coins.ru
@@ -423,6 +430,7 @@
 +.adult-hardcore-tube.com
 +.adult-hd-movies.com
 +.adult-home-videos.com
++.adult-live.com
 +.adult-movs.cc
 +.adult-sex-games.com
 +.adult-top-vids.com
@@ -434,6 +442,7 @@
 +.adultcamsuk.com
 +.adultcase.com
 +.adultchat.net
++.adultchat.pro
 +.adultchatdatingsites.com
 +.adultchatnow.com
 +.adultcomixxx.com
@@ -456,6 +465,7 @@
 +.adultfriendfinder.com
 +.adultfriendfinder.onl
 +.adultfuckhub.com
++.adultgalls.com
 +.adultgames.games
 +.adultgameson.com
 +.adultgamesxxx.com
@@ -465,6 +475,7 @@
 +.adulthd.info
 +.adulthdvideo.com
 +.adultiptv.net
++.adultism.com
 +.adultlook.com
 +.adultmagazinespdf.com
 +.adultmatchmaker.com.au
@@ -473,6 +484,7 @@
 +.adultmult.club
 +.adulto.vip
 +.adultpfree.com
++.adultphotosets.best
 +.adultporn.tv
 +.adultprime.com
 +.adultproductsindia.com
@@ -571,6 +583,7 @@
 +.akaihentai.com
 +.akeporn.com
 +.aki-h.com
++.aktrisi-porno.ru
 +.aktuell.ru
 +.alanam.com
 +.alarabsex.com
@@ -634,6 +647,7 @@
 +.allporncomic.io
 +.allporncomics.co
 +.allporncomix.com
++.allpornimages.com
 +.allpornstream.com
 +.allpornvids.com
 +.allproblog.com
@@ -683,6 +697,7 @@
 +.alxxnxxxsex.click
 +.alxxnxxxsex.homes
 +.alxxnxxxsex.rest
++.alypics.com
 +.alyzoo.org
 +.amabitch.com
 +.amadorasquentes.com
@@ -898,6 +913,7 @@
 +.apina.biz
 +.apollcomics.es
 +.aporn.pro
++.apornfactory.com
 +.apornor.art
 +.apornor.me
 +.apornotube.net
@@ -967,6 +983,7 @@
 +.arctica-sk.ru
 +.area51.porn
 +.area52.com
++.argentinasx.com
 +.arhivporno24.fans
 +.aristos-logistika.ru
 +.army.delivery
@@ -1049,6 +1066,7 @@
 +.asianporn.life
 +.asianporndorm.com
 +.asianporngif.com
++.asianpornone.com
 +.asianporntrends.com
 +.asianporntv.top
 +.asianpornxl.com
@@ -1090,6 +1108,7 @@
 +.asmr.one
 +.asmrfree.com
 +.asmrhentai.net
++.asmrpleasure.com
 +.asoti.net
 +.aspanteras.net
 +.ass-time.com
@@ -1124,6 +1143,7 @@
 +.atkmodels.com
 +.atkpetites.com
 +.atkpremium.com
++.atlaq.com
 +.atlasescorts.com
 +.atoananet.com.br
 +.atrocidades18.net
@@ -1223,6 +1243,7 @@
 +.babehub.com
 +.babehump.com
 +.babeimpact.com
++.babeland.com
 +.babeporn.org
 +.babeporn.pics
 +.babepump.com
@@ -1326,6 +1347,7 @@
 +.banlaseksabhidio.com
 +.bannedsextapes.com
 +.baobua.com
++.baolongan.vn
 +.baraag.net
 +.bare.live
 +.barebackbastards.com
@@ -1412,10 +1434,12 @@
 +.bdsmx.tube
 +.bdsmxxx-videos.com
 +.bdsmyou.com
++.bdsmzaken.nl
 +.bdsmzone.com
 +.bdxvideohd.com
 +.be-mail.it
 +.be88.pro
++.bear411.com
 +.bearforest.com
 +.bearfront.com
 +.beargayvideos.com
@@ -1482,6 +1506,7 @@
 +.belamionline.com
 +.bellesa.co
 +.bellesaplus.co
++.bellezashot.com
 +.belochki24.info
 +.belowporn.com
 +.belswing.com
@@ -1766,6 +1791,7 @@
 +.blonde.photos
 +.bloomstories.com
 +.blovjob.com
++.blowboobs.com
 +.blowingwind.io
 +.blowjobit.com
 +.blowjobs.pro
@@ -1817,6 +1843,7 @@
 +.bokepindo13.tattoo
 +.bokepindo18.online
 +.bokepindo77.online
++.bokepjilbab.cc
 +.bokeplay.com
 +.bokeprare.com
 +.bokepviral.live
@@ -1905,6 +1932,7 @@
 +.bonporn.com
 +.bonsporn.com
 +.bonusvid.com
++.boobboob.top
 +.boobcritic.com
 +.boobgoddess.com
 +.boobieblog.com
@@ -2014,6 +2042,7 @@
 +.brazzers.com
 +.brazzers.xxx
 +.brazzersnetwork.com
++.brazzfan.com
 +.brdgirls.com
 +.brdmedia.com
 +.brdteengal.com
@@ -2028,6 +2057,7 @@
 +.brokenlatinawhores.com
 +.brokensilenze.one
 +.brokestraightboys.com
++.bropornvideos.com
 +.broxnxx.com
 +.broxxx.com
 +.brunette.pics
@@ -2083,6 +2113,7 @@
 +.bustyworld.com
 +.butchermovies.com
 +.buttmix.com
++.buttsmithy.com
 +.buzzav.com
 +.bw7.com
 +.bwin.it
@@ -2278,6 +2309,7 @@
 +.capitalporn.com
 +.capitalsexy.com.br
 +.captaincams.com
++.car.blog
 +.caramelbbw.com
 +.caramelmature.com
 +.carameltube.com
@@ -2363,6 +2395,7 @@
 +.celebritymoviearchive.com
 +.celebritymovieblog.com
 +.celebritynakeds.com
++.celebs-place.com
 +.celebs.live
 +.celebsheight.org
 +.celebsnudeworld.com
@@ -2387,6 +2420,7 @@
 +.chaika.moe
 +.changeporn.com
 +.character-tavern.com
++.chastityforums.com
 +.chastnoeporno.best
 +.chat-fr.org
 +.chat-rulet-18.com
@@ -2455,6 +2489,7 @@
 +.cherry.tv
 +.cherryaffair.com
 +.cherrypimps.com
++.chez-alice.fr
 +.chezcathy.com
 +.chicafruta.com
 +.chicagospankingreview.org
@@ -2643,6 +2678,7 @@
 +.condomfish.com
 +.conejitashot.com
 +.conejox.com
++.confessionstories.org
 +.congdongmassage.com
 +.contactetflirt.com
 +.contactoysexo.com
@@ -2660,6 +2696,7 @@
 +.coolip.icu
 +.coolporns.com
 +.coolsexnew.com
++.coolvintageporn.com
 +.coom.tech
 +.coomeet.chat
 +.coomeet.com
@@ -2696,6 +2733,7 @@
 +.crashpadseries.com
 +.craveu.ai
 +.cravingmilfs.com
++.cravingwives.com
 +.crazedporn.com
 +.crazedsexy.com
 +.crazedxxx.com
@@ -2857,6 +2895,7 @@
 +.darkcruising.com
 +.darkegy.com
 +.darkegysex.com
++.darkero.com
 +.darkfans.com
 +.darknaija.com
 +.darknessporn.com
@@ -2897,12 +2936,15 @@
 +.ddeva.info
 +.ddfcash.com
 +.ddfnetwork.com
++.de.vu
 +.deadhouse.org
 +.deadhouse.xyz
 +.deadsexyclips.com
 +.dearlady.us
++.decadencescans.com
 +.decorativemodels.com
 +.deegx.com
++.deeline.de
 +.deep-nudes.com
 +.deep-xxx.com
 +.deepcoin.com
@@ -2926,6 +2968,7 @@
 +.definefetish.com
 +.defloration.com
 +.defloration.tv
++.deflowered.net
 +.dehatibf.com
 +.deinesexfilme.com
 +.deinseitensprung.com
@@ -3080,6 +3123,7 @@
 +.dewafilm.xyz
 +.dexhentai.com
 +.dexnxx.com
++.dezinfo.net
 +.dezyred.com
 +.dfamosas.net
 +.dfxtra.com
@@ -3118,6 +3162,7 @@
 +.dirty.com
 +.dirty.games
 +.dirtyauditions.com
++.dirtycode.io
 +.dirtyfans.com
 +.dirtyflix.com
 +.dirtygfs.net
@@ -3268,6 +3313,7 @@
 +.drhmonegyi.cc
 +.drillanalbabes.com
 +.driveprontube.com
++.drivevideo.xyz
 +.drklive.xyz
 +.droch.pro
 +.drochi.net
@@ -3322,6 +3368,7 @@
 +.eastboys.com
 +.eastguys.net
 +.easy-rencontres.com
++.easyflirt.com
 +.easyhotpics.com
 +.easymaturewomen.com
 +.easyporn.xxx
@@ -3340,7 +3387,6 @@
 +.eblkn.com
 +.eblog.hu
 +.eboblack.com
-+.ebony.one
 +.ebony8.com
 +.ebonyfantasies.com
 +.ebonyflirt.com
@@ -3381,6 +3427,7 @@
 +.egyporn.org
 +.ehentai.ai
 +.ehentai.to
++.ehgt.org
 +.ehotpics.com
 +.ehtracker.org
 +.einsames-vergnuegen.at
@@ -3430,6 +3477,7 @@
 +.encontrosintimos.pt
 +.encuentroadulto.com
 +.encuentros-sexuales.mx
++.encuentrosmilf.com
 +.ener.ru
 +.englishlads.com
 +.engorgedtits.com
@@ -3457,6 +3505,7 @@
 +.eporno.ro
 +.epornz.com
 +.erettszex.com
++.erfahreneladies.de
 +.ericvideos.com
 +.erito.com
 +.erkiss.click
@@ -3494,6 +3543,7 @@
 +.eroganso.com
 +.erogarga.com
 +.erogen.ai
++.erogeschichten.com
 +.eroguide.dk
 +.erohive.com
 +.erokomiksi.com
@@ -3519,6 +3569,7 @@
 +.eros.ws
 +.erosberry.com
 +.eroscripts.com
++.erosdubaiescort.com
 +.erosexus.com
 +.erosguia.com
 +.erosguia.com.br
@@ -3549,6 +3600,7 @@
 +.eroticjuggs.com
 +.erotickekontakty.com
 +.erotickykontakt.cz
++.eroticlab.ink
 +.eroticlinks.net
 +.eroticlove.top
 +.eroticmetart.com
@@ -3628,6 +3680,7 @@
 +.escorts69.lu
 +.escortsandbabes.com.au
 +.escortsbabes.com
++.escortskart.com
 +.escortsnairobi.com
 +.escortsnearby.com
 +.escortsromania.net
@@ -3767,6 +3820,7 @@
 +.familysex.io
 +.familysinners.com
 +.familystrokes.com
++.familystrokes.org
 +.familyswap.xxx
 +.familytherapyxxx.com
 +.familyxtube.com
@@ -3879,6 +3933,7 @@
 +.faphub.me
 +.fapinstructor.com
 +.fapix.porn
++.fapjerks.com
 +.fapjunk.com
 +.faplenka.com
 +.faplex.to
@@ -3955,6 +4010,7 @@
 +.fchat.net
 +.fcjav.com
 +.fck5.com
++.feeld.co
 +.feelxvideos.com
 +.feet9.com
 +.feetfinder.com
@@ -4370,6 +4426,7 @@
 +.freexcafe.com
 +.freexmovs.com
 +.freexvideossex.com
++.freexxx.lol
 +.freexxxhindi.com
 +.freexxxmovies.biz
 +.freexxxmovies.link
@@ -4393,6 +4450,7 @@
 +.freshporno.net
 +.freshpornos.com
 +.freshpornworld.com
++.freshptv.com
 +.freshsexpics.com
 +.freshsroom.com
 +.freshxxxpics.com
@@ -4467,6 +4525,7 @@
 +.fuckhdtube.com
 +.fuckindianporn.mobi
 +.fuckindiantube.mobi
++.fucking-galleries.com
 +.fuckingglasses.com
 +.fuckingharder.com
 +.fuckingmachines.com
@@ -4495,6 +4554,7 @@
 +.fuckxxx.video
 +.fuckyoucash.com
 +.fuckyoung.net
++.fuegodevida.com
 +.fuegoporno.com
 +.fukxl.com
 +.fukxx.com
@@ -4603,6 +4663,7 @@
 +.gatagold.com
 +.gatasdacapital.com
 +.gatavirtual.com
++.gaudi.dating
 +.gavno.net
 +.gay-fetish-xxx.com
 +.gay-male-celebs.com
@@ -4665,6 +4726,7 @@
 +.gayjuice.com
 +.gaykinkystories.com
 +.gaykras3.xyz
++.gayleaktv.com
 +.gaylove.pro
 +.gaymaletube.com
 +.gaymaletube.name
@@ -4677,8 +4739,10 @@
 +.gaymobile.fr
 +.gaynetwork.com
 +.gayomsk3.xyz
++.gayonlygay.link
 +.gaypage.com
 +.gayperv.com
++.gayplatform.de
 +.gayporn.com
 +.gayporn.de
 +.gayporn.fm
@@ -4922,6 +4986,7 @@
 +.goldpornsite.com
 +.goldtantriclondon.com
 +.goldtits.com
++.goloeporno.name
 +.golove.ai
 +.golubok.mobi
 +.gomenakia.com
@@ -5015,6 +5080,7 @@
 +.greengayporn.com
 +.greenguysboard.com
 +.gridhost.com
++.grinderboy.com
 +.grindr.com
 +.grometsplaza.net
 +.grooby.com
@@ -5049,6 +5115,7 @@
 +.gwasi.com
 +.gyrls.com
 +.gyutto.com
++.h-flash.com
 +.h0930.com
 +.h2porn.com
 +.h4610.com
@@ -5072,6 +5139,7 @@
 +.hairypornok.com
 +.hairypornpics.net
 +.hairypornpictures.com
++.hairypornwoman.com
 +.hairypussyfetish.com
 +.hairyteenpics.com
 +.hairytouch.com
@@ -5115,6 +5183,7 @@
 +.hardcore-girls-fuck.com
 +.hardcore-hd-movies.com
 +.hardcore-hd-videos.com
++.hardcore-sex-videos.net
 +.hardcore-video-tube.com
 +.hardcore.gallery
 +.hardcore.red
@@ -5165,6 +5234,7 @@
 +.hd-sex.quest
 +.hd-sexfilme.com
 +.hd-teen-xxx.com
++.hd-x-art.com
 +.hd-x-arts.com
 +.hd21.com
 +.hd21.net
@@ -5208,6 +5278,7 @@
 +.hdpornmax.net
 +.hdpornmovies.xxx
 +.hdporno.cam
++.hdporno.sk
 +.hdporno.tv
 +.hdporno720.info
 +.hdpornochief.com
@@ -5255,6 +5326,7 @@
 +.hdxnxx.xxx
 +.hdxxporno.com
 +.hdxxx.co
++.hdxxx.photos
 +.hdxxx.tube
 +.hdxxxtubes.com
 +.hdxxxu.com
@@ -5376,6 +5448,7 @@
 +.hentaihorizon.com
 +.hentaijk.com
 +.hentaijuggs.com
++.hentaikai.com
 +.hentaikey.com
 +.hentaikun.com
 +.hentaila.online
@@ -5405,6 +5478,7 @@
 +.hentaiseason.com
 +.hentaiser.com
 +.hentaisex.tv
++.hentaisexo.com
 +.hentaisites.com
 +.hentaismile.com
 +.hentaistream.com
@@ -5430,6 +5504,7 @@
 +.hentaixxx.me
 +.hentaixxxmanga.net
 +.hentaiz.bid
++.hentaiz.ceo
 +.hentaiz.group
 +.hentaiz.org
 +.hentaizilla.com
@@ -5600,10 +5675,13 @@
 +.honeyteens.biz
 +.hoodamateurs.com
 +.hookup.com
++.hookupdate.net
++.hookupdates.net
 +.hookuphangout.com
 +.hookuphorny.com
 +.hookuphotshot.com
 +.hookuplover.com
++.hookupreviews.net
 +.hookupwebsites.org
 +.hooligapps.com
 +.hoostory.ru
@@ -5667,6 +5745,7 @@
 +.hotbrazil.app.br
 +.hotbustymoms.com
 +.hotcast.fr
++.hotcelebshome.com
 +.hotchat.ai
 +.hotcomics.io
 +.hotcomics.me
@@ -5674,6 +5753,7 @@
 +.hotdesifuck.pro
 +.hotdesigirlsfuck.com
 +.hotdesileaks.com
++.hotdreams.com.br
 +.hotebonytube.com
 +.hotel-rus.net
 +.hotfairies.net
@@ -5844,6 +5924,7 @@
 +.hqwo.cc
 +.hqxxx-videos.com
 +.hriesnetuzby.com
++.hrifunesguesthouse.is
 +.hsck123.com
 +.hsex.icu
 +.hsex.men
@@ -5851,6 +5932,7 @@
 +.hsjav.com
 +.hstream.moe
 +.htmwrestling.com
++.hto.to
 +.htube.com
 +.huangse.love
 +.hubetubex.com
@@ -5884,6 +5966,7 @@
 +.hunsex.hu
 +.hunszex.hu
 +.hunt4k.com
++.hurenberlin.com
 +.hurenkartei.com
 +.hushpass.com
 +.hussiepass.com
@@ -5915,8 +5998,11 @@
 +.iamnaughty.com
 +.iamsissy.com
 +.iamxxx.com
++.ibabes.com
 +.ibbb.me
 +.ibizababes.com
++.icanhazchat.com
++.ice-gay.com
 +.iceflix.tv
 +.icegay.tv
 +.icegayporn.com
@@ -6002,6 +6088,7 @@
 +.incest.download
 +.incest.guru
 +.incest.pro
++.incest.rip
 +.incest.science
 +.incest.stream
 +.incest.trade
@@ -6066,6 +6153,7 @@
 +.indianosex.com
 +.indianporn.cam
 +.indianporn.pictures
++.indianporn.site
 +.indianporn360.com
 +.indianporn365.xyz
 +.indianporna.com
@@ -6213,6 +6301,7 @@
 +.intim.guru
 +.intimcity-msk.club
 +.intimcity.at
++.intimcity.com
 +.intporn.com
 +.invernessescort.com
 +.invisionfree.com
@@ -6227,6 +6316,7 @@
 +.iplayboy.com
 +.iporn88.net
 +.ipornbase.xyz
++.iporngay.com
 +.iporno.hu
 +.iporntv.info
 +.iporntv.me
@@ -6260,6 +6350,7 @@
 +.israelnightclub.com
 +.israelxclub.co.il
 +.ist34ajans3.com
++.istanbulescorttr.net
 +.istanbuleskort.net
 +.istripper.com
 +.isuxhd.com
@@ -6315,6 +6406,7 @@
 +.jablehk.com
 +.jablex.com
 +.jackandjilladult.com
++.jackinworld.com
 +.jackoffit.com
 +.jackofftome.com
 +.jacquieetmichel.net
@@ -6399,6 +6491,7 @@
 +.javbangers.com
 +.javbee.vip
 +.javbest.to
++.javbim.com
 +.javbit.net
 +.javbooks.com
 +.javbraze.com
@@ -6415,6 +6508,7 @@
 +.javcup.com
 +.javdaddy.com
 +.javdb.com
++.javdb456.com
 +.javdb459.com
 +.javdesu.com
 +.javdock.com
@@ -6462,6 +6556,7 @@
 +.javheroine.com
 +.javhey.com
 +.javhidef.com
++.javhiv.com
 +.javholic.com
 +.javhub.com
 +.javhub.net
@@ -6631,6 +6726,7 @@
 +.joporn.tv
 +.joporn.xyz
 +.joppovideos.com
++.jordangrayconsulting.com
 +.josex.biz
 +.josporn.club
 +.josporn.com
@@ -6703,6 +6799,7 @@
 +.k20io.com
 +.k2s.cc
 +.k2s.club
++.k2sporn.com
 +.k2sporn.net
 +.k9vidz.com
 +.ka4nem.ru
@@ -6766,6 +6863,7 @@
 +.kazanova.shop
 +.kazgay2.xyz
 +.kbj.so
++.kbjav.com
 +.kbjfree.com
 +.kbnmnl.com
 +.keap.app
@@ -6787,6 +6885,7 @@
 +.kemono.su
 +.kentaweb.com
 +.kenxxx.com
++.kenyaadultblog.com
 +.kenyanporn.org
 +.keptsecret.xxx
 +.kh-ksa.com
@@ -6929,6 +7028,7 @@
 +.labporn.cc
 +.labporn.info
 +.labporn.org
++.lacomics.net
 +.ladies-forum.de
 +.ladies.de
 +.ladraodepacks.com
@@ -6960,11 +7060,13 @@
 +.largeporntube.com
 +.largesexyvideos.com
 +.largetube.net
++.latanime.org
 +.latestleaks.co
 +.latestpornvideo.com
 +.latestpornvideos.com
 +.latinapleasure.com
 +.latinas.monster
++.latinawomen.net
 +.latinawomenbrides.com
 +.latinboyz.com
 +.latineuro.com
@@ -6995,6 +7097,7 @@
 +.leakedmodels.com
 +.leakedzone.com
 +.leakimedia.com
++.leaknudes.com
 +.leakshaven.com
 +.leakslove.com
 +.leaktubenet.com
@@ -7051,6 +7154,7 @@
 +.lesbianstate.com
 +.lesbiantube.club
 +.lesbianx.com
++.lesbianxnxxvideos.com
 +.lesbify.com
 +.lesbosland.com
 +.lesexcitant.com
@@ -7104,6 +7208,7 @@
 +.lilollipop.com
 +.limeporn.com
 +.linasextube.com
++.linduu.com
 +.lingbokep.com
 +.linkdolls.com
 +.linkmetoporn.com
@@ -7373,6 +7478,7 @@
 +.mallusexvideos.net
 +.maltepeo.com
 +.maltepeokul.com
++.mamachki.info
 +.mamacitaz.com
 +.mamaisinok.com
 +.mamapornovideo.cc
@@ -7382,6 +7488,7 @@
 +.mamefutute.com
 +.mammetroie.org
 +.mamuski.de
++.mancox.com
 +.mancrushes.com
 +.mandiriqq.space
 +.mandygirls.com
@@ -7506,6 +7613,7 @@
 +.mature.eu
 +.mature.live
 +.mature.nl
++.mature.szex.hu
 +.mature3.tv
 +.mature4k.com
 +.mature4you.com
@@ -7623,6 +7731,7 @@
 +.meetmilfy.com
 +.meetsweetmeet.com
 +.meetwives.com
++.meetzur.com
 +.mefode.net
 +.mega-porn.video
 +.mega-porno.club
@@ -7684,6 +7793,7 @@
 +.mensporn.org
 +.menstoy.in
 +.menzcountylive.com
++.meo.de
 +.meoden.net
 +.mersin24.com
 +.mersinescorthot.com
@@ -7797,6 +7907,7 @@
 +.minasdivinas.com
 +.mindbrowse.com
 +.mindcontrolcomics.com
++.mindmix.ru
 +.mingky.net
 +.minhamulher.com
 +.minioppai.org
@@ -8004,6 +8115,7 @@
 +.mpon.info
 +.mporn.pro
 +.mpreviews.com
++.mr3.pw
 +.mrdeepfakes.com
 +.mrdeepfakes.xyz
 +.mrgay.com
@@ -8072,6 +8184,7 @@
 +.mvideoporno.xxx
 +.mvideoroom.org
 +.mvideos.pro
++.mxload.org
 +.mxporn.net
 +.my-ladies.ch
 +.my-local-escorts.co.uk
@@ -8144,6 +8257,7 @@
 +.myhubhd.org
 +.myindianporn.net
 +.myjavbay.com
++.myladyboydate.com
 +.mylf.com
 +.mylked.com
 +.mylove.ru
@@ -8228,6 +8342,7 @@
 +.mzansipornvideos.com
 +.mzporn.com
 +.naaktkrant.nl
++.nabomatch.com
 +.nacionalporno.com
 +.nacknaija.com
 +.nacktefoto.com
@@ -8268,6 +8383,7 @@
 +.nakedtube.com
 +.nakedwifepics.com
 +.nakedwomenpics.com
++.nakenprat.com
 +.nakentid.no
 +.namethatporn.com
 +.namethatpornad.com
@@ -8283,6 +8399,7 @@
 +.napiszex.com
 +.napiszex.hu
 +.naralsex.com
++.narod.ru
 +.narutohentaidb.com
 +.nashepornovideo.com
 +.nastia.ai
@@ -8462,6 +8579,7 @@
 +.nishakapoor.com
 +.nishinegi.com
 +.niteflirt.com
++.nitroflare-porn.com
 +.niverafansub.org
 +.niyaniya.moe
 +.nizipescort.com
@@ -8471,6 +8589,7 @@
 +.nlcafe.hu
 +.nlsexfilms.net
 +.nlthub.pk
++.nlvpro.com
 +.nnforum.gr
 +.nnmh.cc
 +.nnmh.info
@@ -8614,6 +8733,7 @@
 +.nudevista.pro
 +.nudevista.tv
 +.nudevista.vip
++.nudeworldorder.net
 +.nudexxx.pics
 +.nudexxxpictures.com
 +.nudeyoung.info
@@ -8646,6 +8766,7 @@
 +.numovs.com
 +.nungxxx.net
 +.nunsextube.com
++.nunuav.com
 +.nunude.com
 +.nunuporn.com
 +.nursexfilme.com
@@ -8670,11 +8791,13 @@
 +.nyloner.com
 +.nympho.com
 +.nymphs.bz
++.nzpersonals.com
 +.o-be.com
 +.oas.me
 +.obmenvsem.net
 +.obmenvsem.org
 +.oboteen.com
++.obutecao.com
 +.ocabare.com
 +.ochevidets.ru
 +.oclamor.com
@@ -8760,6 +8883,7 @@
 +.omg.sexy
 +.omg.xxx
 +.omgbigboobs.com
++.omgsexcams.com
 +.omgyes.com
 +.omorashi.org
 +.omsk.com
@@ -8859,6 +8983,7 @@
 +.oosex.xyz
 +.ooxxx.com
 +.openadultdirectory.com
++.openerotik.com
 +.openfans.video
 +.openmatureporn.com
 +.opentgc.com
@@ -8880,6 +9005,7 @@
 +.oriental-porno.com
 +.originalindianporn.pro
 +.orioporn.com
++.oronova.com
 +.orsm.net
 +.orthobiotics.uk
 +.osexlove.com
@@ -8915,6 +9041,7 @@
 +.paheal.net
 +.paidpornguide.com
 +.painfullanal.com
++.paipancon.com
 +.pakistaniporn.tv
 +.pakistaniporns.com
 +.pakistaniporntv.com
@@ -9075,6 +9202,7 @@
 +.phim18hd.one
 +.phim18vip.vip
 +.phimguru.com
++.phimnguoilon1.com
 +.phimsec.info
 +.phimsech.me
 +.phimsex.bot
@@ -9246,6 +9374,7 @@
 +.pooping.red
 +.pooprip.com
 +.pop.xxx
++.pop6.com
 +.popbitch.com
 +.popblockergold.com
 +.popcreep.com
@@ -9511,6 +9640,7 @@
 +.porngames.com
 +.porngames.games
 +.porngameshub.com
++.porngameshub.net
 +.porngamesverse.com
 +.porngangs.com
 +.porngash.com
@@ -9597,6 +9727,7 @@
 +.pornhug.net
 +.pornhun.xyz
 +.pornhuts.one
++.pornhwa.me
 +.pornhwa.pro
 +.pornici.monster
 +.pornicivideo.sbs
@@ -9748,7 +9879,6 @@
 +.porno365.xxx
 +.porno365s.cc
 +.porno365s.name
-+.porno365x.info
 +.porno365x.live
 +.porno365x.me
 +.porno365x.mobi
@@ -9806,6 +9936,7 @@
 +.pornobomba.link
 +.pornobomba.online
 +.pornoborshch.com
++.pornobrand.com
 +.pornobrasil.blog.br
 +.pornobrasil.com
 +.pornobrazzers.biz
@@ -9895,6 +10026,7 @@
 +.pornohub24.ru
 +.pornohui.top
 +.pornohyeah.com
++.pornoimperia.net
 +.pornoincreible.com
 +.pornoincrivel.com
 +.pornoingyen.hu
@@ -10090,6 +10222,7 @@
 +.pornpics.com
 +.pornpics.day
 +.pornpics.de
++.pornpics.gallery
 +.pornpics.hair
 +.pornpics.photo
 +.pornpics.photos
@@ -10386,6 +10519,7 @@
 +.proporn.cc
 +.proporn.club
 +.proporn.com
++.propornclips.com
 +.proporno.org
 +.proportion2009.jp
 +.prostasex.cc
@@ -10433,6 +10567,7 @@
 +.puckerporn.com
 +.puffynetwork.com
 +.puh.lv
++.pulandit.asia
 +.pulpo69.com
 +.pulptoon.com
 +.pulseandcocktails.co.uk
@@ -10449,6 +10584,7 @@
 +.puporn.com
 +.pure-ts.com
 +.purecfnm.com
++.purefreeporn.com
 +.pureleaks.net
 +.pureloli-hentai.co
 +.purelovers.com
@@ -10751,6 +10887,7 @@
 +.rentosuhde.com
 +.renzy.in
 +.reprint-kh.com
++.rerape.com
 +.rerola.com
 +.resao.com
 +.reseau-naturiste.org
@@ -10949,6 +11086,7 @@
 +.sachiepvien.net
 +.saddlegirls.com
 +.sadistic.pl
++.sadomaso-chat.de
 +.sadpandastudios.com
 +.safeboy.net
 +.saggytitsporn.com
@@ -11046,6 +11184,7 @@
 +.secondlove.nl
 +.secretarypics.com
 +.secretbenefits.com
++.secretcity.de
 +.secretdesires.ai
 +.secretflirtsnearby.com
 +.secretfriends.com
@@ -11107,6 +11246,7 @@
 +.seniorfriendfinder.com
 +.seniorsexpartner.com
 +.seniorsizzle.com
++.sensationalcash.com
 +.sensualagenda.com
 +.sensualgirls.org
 +.sensualpepper.com
@@ -11179,7 +11319,9 @@
 +.sex-videos.cc
 +.sex-vn.com
 +.sex-xxx.fun
++.sex-xxx.rest
 +.sex-xxx.rodeo
++.sex-xxxl.com
 +.sex-young.com
 +.sex.com
 +.sex.su
@@ -11192,6 +11334,7 @@
 +.sex2n8.com
 +.sex3.com
 +.sex303.com
++.sex3dcomix.com
 +.sex3x.info
 +.sex4.tv
 +.sex4arab.xxx
@@ -11275,6 +11418,7 @@
 +.sexdolltech.com
 +.sexdom.cc
 +.sexdots.com
++.sexdug.net
 +.sexe911.com
 +.sexeclinic.com
 +.sexedchat.com
@@ -11590,6 +11734,7 @@
 +.sexxxnudepics.com
 +.sexxxsurgut.life
 +.sexxxvideo.org
++.sexxxvolg.one
 +.sexxxx.click
 +.sexxxx.com
 +.sexxxx.observer
@@ -11648,6 +11793,7 @@
 +.sexynude.pics
 +.sexynudes.tv
 +.sexypedia.it
++.sexyphoto.es
 +.sexyporn.tv
 +.sexypornpictures.org
 +.sexypussypic.com
@@ -11791,6 +11937,7 @@
 +.silesto.com
 +.silicongirls.store
 +.siliconwives.com
++.silkengirl.com
 +.sillysexual.com
 +.silver-movies.com
 +.silverdaddies.com
@@ -11864,6 +12011,7 @@
 +.slipshine.net
 +.slivfoto.top
 +.slixa.com
++.slots.io
 +.slowxh.xyz
 +.sls.com
 +.slushy.com
@@ -11969,6 +12117,7 @@
 +.spankbang.party
 +.spankbang1.com
 +.spankbanglive.com
++.spankingblog.com
 +.spankingboysvideo.com
 +.spankingchat.com
 +.spankingtube.com
@@ -12077,6 +12226,7 @@
 +.strandbeest.com
 +.strangercam.com
 +.strangercamgirls.com
++.strangervideochat.tv
 +.straplez.com
 +.strategyanalytics.com
 +.stream-leak.com
@@ -12132,6 +12282,7 @@
 +.suckinghat.com
 +.sugar.xxx
 +.sugarbabes.tv
++.sugardaddie.com
 +.sugardaddymeet.com
 +.sugarelite.com
 +.sugarinstant.com
@@ -12179,6 +12330,7 @@
 +.suwaneeortho.com
 +.suzycams.com
 +.svensk.xyz
++.svetaci.info
 +.svideos.xxx
 +.svscomics.com
 +.swaeras.com
@@ -12242,6 +12394,7 @@
 +.szexrandi.hu
 +.szextortenetek.hu
 +.szextortenetek.info
++.szexvital.hu
 +.szon.hu
 +.szorospina.net
 +.t0x.net
@@ -12465,6 +12618,7 @@
 +.thaigirlswild.com
 +.thaimassagejasmine.com
 +.thaipornhd.com
++.thaiwhitebook.xyz
 +.thaixtube.com
 +.thanhlau2.cc
 +.thatfetishgirl.com
@@ -12485,7 +12639,9 @@
 +.thebarchive.com
 +.thebestfetishsites.com
 +.theblank.net
++.theblowers.com
 +.theboobsblog.com
++.thecage.co
 +.thecambabes.com
 +.thecamgirl.net
 +.thecamgirls.net
@@ -12569,6 +12725,7 @@
 +.theporny.com
 +.thepovgod.com
 +.theraped.net
++.thereporn.com
 +.therialtoreport.com
 +.thesexcloud.com
 +.thesexier.net
@@ -12648,6 +12805,7 @@
 +.tightpussypics.com
 +.tightpussysex.com
 +.tightsexteens.com
++.tightteenpussy.online
 +.tightteensxxx.com
 +.tik-tok.porn
 +.tik.cam
@@ -12737,6 +12895,7 @@
 +.top-xxx-videos.com
 +.top10datingreviews.org
 +.top4fans.com
++.top5-casualdating-us.com
 +.topadulttubies.com
 +.topanasex.com
 +.topbiki.com
@@ -12753,6 +12912,7 @@
 +.topfreshporn.com
 +.tophentaicomics.com
 +.tophindixxx.com
++.tophotp.com
 +.tophotporn.com
 +.tophqcam.com
 +.tophqporn.com
@@ -12787,6 +12947,7 @@
 +.torchemada.net
 +.torn-porn.com
 +.toroporno.com
++.tortenetek.hu
 +.totalfreeporn.com
 +.totalfucktube.com
 +.totemcash.com
@@ -12901,6 +13062,7 @@
 +.truyencogiaothao.info
 +.truyengay.com
 +.truyensex.blog
++.truyensextv.com
 +.truyensexvn.com
 +.tryasianporn.com
 +.tryfansme.com
@@ -13202,6 +13364,7 @@
 +.undressbaby.com
 +.undressbae.com
 +.undressherapp.net
++.union.fr
 +.unipelfurs.com
 +.universblack.com
 +.unlimdate.com
@@ -13300,6 +13463,7 @@
 +.vegasmpegs.mobi
 +.vegatube.net
 +.vends-ta-culotte.com
++.venuslovedolls.com
 +.veopornogratis.xxx
 +.veporn.net
 +.veporno.net
@@ -13504,6 +13668,7 @@
 +.viralxxxporn.com
 +.virdate.net
 +.virdate.ru
++.virt-chat.com
 +.virtsexchat.com
 +.virtuagirl.info
 +.virtualgf.com
@@ -13550,6 +13715,7 @@
 +.vlxx.rocks
 +.vlxx69.top
 +.vndb.org
++.vnpocket.com
 +.vodafone.hu
 +.voffka.com
 +.voglioporno.com
@@ -13623,6 +13789,7 @@
 +.vuelasw.com
 +.vuku.icu
 +.vulvapornpics.com
++.vuxenlekar.com
 +.vxnxx.pro
 +.vxxx.com
 +.vynovel.com
@@ -13893,6 +14060,7 @@
 +.xbato.net
 +.xberryx.com
 +.xbiz.com
++.xblog.tv
 +.xblognetwork.com
 +.xbokepindoh.com
 +.xbondage.porn
@@ -14097,6 +14265,7 @@
 +.xmaduras.com
 +.xmalay.net
 +.xmalay1.net
++.xmalayporn.com
 +.xmatch.com
 +.xmateur.com
 +.xmaturemix.com
@@ -14184,7 +14353,6 @@
 +.xn--m1abbbg.me
 +.xn--mgbf7fdim.com
 +.xn--mgbkt9eckr.net
-+.xn--ngbcrg3b.com
 +.xn--pixiv.net
 +.xn--r8jwklh769h2mc880dk1o431a.com
 +.xn--ygba1c.chat
@@ -14379,6 +14547,7 @@
 +.xpics.me
 +.xpinay.tv
 +.xpoleuno.com
++.xporn-gifs.com
 +.xporn.host
 +.xporn.space
 +.xporn.to
@@ -14436,6 +14605,7 @@
 +.xvds.mobi
 +.xvds.tv
 +.xvedio.org
++.xvedios.org
 +.xvedo.net
 +.xvideo-sexo.com
 +.xvideo.blog
@@ -14582,6 +14752,8 @@
 +.xxvideos.video
 +.xxvideos.xxx
 +.xxvideoss.org
++.xxvidsx.com
++.xxvn.mom
 +.xxx
 +.xxx-asiantube.ru
 +.xxx-cam.net
@@ -14668,6 +14840,7 @@
 +.xxxbigtits.com
 +.xxxbit.com
 +.xxxbkk.com
++.xxxblackbook.com
 +.xxxblowup.com
 +.xxxbold.com
 +.xxxbold25.online
@@ -14789,6 +14962,7 @@
 +.xxxnd.com
 +.xxxner.com
 +.xxxnu.com
++.xxxnung.tv
 +.xxxnx.icu
 +.xxxnxxx.org
 +.xxxo5.com
@@ -14839,6 +15013,7 @@
 +.xxxshame.com
 +.xxxshemaleporn.com
 +.xxxslam.com
++.xxxsnatch.com
 +.xxxsona.com
 +.xxxstreams.org
 +.xxxstrike.com
@@ -14972,6 +15147,7 @@
 +.yedboob.com
 +.yedheebo.com
 +.yedyub.com
++.yehporn.com
 +.yelive.tv
 +.yeni-porn.com
 +.yepporn.com
@@ -15003,6 +15179,7 @@
 +.ymhstudios.com
 +.yo-sex.com
 +.yobaporn.com
++.yobte.ru
 +.yodayo.com
 +.yohiporn.com
 +.yolopussy.com
