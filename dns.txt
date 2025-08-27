@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Aug 2025 07:53 UTC
-# Version: 2025.0827.0753.32
+# Last modified: 27 Aug 2025 15:53 UTC
+# Version: 2025.0827.1553.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1436
+# Number of entries: 1438
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,dns.asterimoon.com
 DOMAIN-SUFFIX,dandelionsprout.asuscomm.com
 DOMAIN-SUFFIX,dns.asysec.com
 DOMAIN-SUFFIX,adguardhome.atakorah.com
+DOMAIN-SUFFIX,atris.cyou
 DOMAIN-SUFFIX,dohtrial.att.net
 DOMAIN-SUFFIX,africa.avastdns.com
 DOMAIN-SUFFIX,secure.avastdns.com
@@ -562,6 +563,7 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
+DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns01.flm9.net
