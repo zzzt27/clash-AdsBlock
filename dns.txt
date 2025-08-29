@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Aug 2025 20:03 UTC
-# Version: 2025.0828.2003.00
+# Last modified: 28 Aug 2025 03:55 UTC
+# Version: 2025.0828.0355.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1436
+# Number of entries: 1435
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -497,6 +497,7 @@ DOMAIN-SUFFIX,takhtakh.domyah.net
 DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,ns1.dotls.org
 DOMAIN-SUFFIX,dns.dotnet.win
+DOMAIN-SUFFIX,family.dns.doubleangels.com
 DOMAIN-SUFFIX,dns.dremaxx.de
 DOMAIN-SUFFIX,droyd.top
 DOMAIN-SUFFIX,doh.dscloud.me
@@ -510,6 +511,7 @@ DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,resolver2.dyndnsinternetguide.com
+DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -518,7 +520,6 @@ DOMAIN-SUFFIX,dns.eddi.net
 DOMAIN-SUFFIX,doh.eddi.net
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
-DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -562,7 +563,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns01.flm9.net
@@ -905,7 +905,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,dns.n23.io
 DOMAIN-SUFFIX,doh-ca.naftalie.net
