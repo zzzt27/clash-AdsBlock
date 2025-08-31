@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 31 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15676
+# Domain Count: 15675
 #===============================================================
 
 +.0i0i0i0.com
@@ -14041,7 +14041,6 @@
 +.redevents-bigdata.redefine.pl
 +.redeye.international
 +.redir.metaservices.microsoft.com
-+.redirecting2.net
 +.redshell.io
 +.rees46.com
 +.reevoo.com
