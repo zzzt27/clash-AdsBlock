@@ -14,7 +14,7 @@ NAME | UPDATE | RULES COUNT |
 ### [ABPindo](https://github.com/ABPindo/indonesianadblockrules)
 NAME | UPDATE | RULES COUNT |
 ------------ | ------------- | ------------- |
-[ABPindo](#indo) | **01-09-25** | 124
+[ABPindo](#indo) | **02-09-25** | 124
 
 ## HOW TO
 
