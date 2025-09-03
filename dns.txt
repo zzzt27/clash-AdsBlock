@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Sep 2025 08:48 UTC
-# Version: 2025.0903.0848.26
+# Last modified: 03 Sep 2025 16:13 UTC
+# Version: 2025.0903.1613.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1480
+# Number of entries: 1477
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -308,7 +308,6 @@ DOMAIN-SUFFIX,dns.csswg.org
 DOMAIN-SUFFIX,cubedns.com
 DOMAIN-SUFFIX,qual.cuprum.ru
 DOMAIN-SUFFIX,dns.cwlys.com
-DOMAIN-SUFFIX,dns.cybertonic.tech
 DOMAIN-SUFFIX,cynntex.fun
 DOMAIN-SUFFIX,dns.cynthialabs.net
 DOMAIN-SUFFIX,dns.d365.in
@@ -581,7 +580,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -936,7 +934,6 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
-DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,dns.n23.io
 DOMAIN-SUFFIX,doh-ca.naftalie.net
