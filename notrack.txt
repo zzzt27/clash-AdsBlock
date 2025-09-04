@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 04 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15671
+# Domain Count: 15667
 #===============================================================
 
 +.0i0i0i0.com
@@ -907,7 +907,6 @@
 +.case.clmbtech.com
 +.catapultx.com
 +.cauly.co.kr
-+.causingguard.com
 +.cb-telemetry.academicmerit.com
 +.cbdatatracker.com
 +.ccmp.eu
@@ -1030,7 +1029,6 @@
 +.commandersact.com
 +.commonvivacious.com
 +.company-target.com
-+.compresssavvydetected.com
 +.comscore.com
 +.comscoreresearch.com
 +.concertads-configs.vox-cdn.com
@@ -1403,7 +1401,6 @@
 +.februaryinjectionproudly.com
 +.federatedml-pa.googleapis.com
 +.feedbackify.com
-+.feelsjet.com
 +.femetrics.grammarly.io
 +.fidelity-media.com
 +.fieldtest.cc
@@ -14176,7 +14173,6 @@
 +.securemetrics.apple.com
 +.securepaths.com
 +.seedtag.com
-+.seeyoufarm.com
 +.segment.com
 +.segment.io
 +.sekindo.com
