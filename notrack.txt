@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 06 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15667
+# Domain Count: 15665
 #===============================================================
 
 +.0i0i0i0.com
@@ -13628,7 +13628,6 @@
 +.nineanalytics.io
 +.ninjacat.io
 +.ninthdecimal.com
-+.nitschkeverlag.de
 +.nl00.net
 +.nl03.net
 +.nmp1.com
@@ -14783,7 +14782,6 @@
 +.smetrics.sainsburysbank.co.uk
 +.smetrics.saksoff5th.com
 +.smetrics.salliemae.com
-+.smetrics.salomon.com
 +.smetrics.samedelman.com
 +.smetrics.samsung.com
 +.smetrics.santander.co.uk
