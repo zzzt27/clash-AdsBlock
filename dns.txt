@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 08:31 UTC
-# Version: 2025.0907.0831.01
+# Last modified: 07 Sep 2025 20:16 UTC
+# Version: 2025.0907.2016.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1477
+# Number of entries: 1475
 #
 DOMAIN-SUFFIX,003153.xyz
 DOMAIN-SUFFIX,ns.00dani.me
@@ -526,7 +526,6 @@ DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,resolver2.dyndnsinternetguide.com
-DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -1190,7 +1189,6 @@ DOMAIN-SUFFIX,lion.dns.qwer.pw
 DOMAIN-SUFFIX,tiger.dns.qwer.pw
 DOMAIN-SUFFIX,resolver.r0cket.net
 DOMAIN-SUFFIX,r1bnc.com
-DOMAIN-SUFFIX,resolve2.r9x.cc
 DOMAIN-SUFFIX,dns.rabbitdns.org
 DOMAIN-SUFFIX,family.rabbitdns.org
 DOMAIN-SUFFIX,security.rabbitdns.org
