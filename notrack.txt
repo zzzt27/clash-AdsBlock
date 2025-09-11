@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 11 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15661
+# Domain Count: 15660
 #===============================================================
 
 +.0i0i0i0.com
@@ -194,7 +194,6 @@
 +.admixer.co.kr
 +.admixer.com
 +.admixer.net
-+.admixplay.com
 +.admjmp.com
 +.admo.tv
 +.admob.com
