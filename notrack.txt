@@ -6,7 +6,7 @@
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
 # Updated: 13 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15660
+# Domain Count: 15658
 #===============================================================
 
 +.0i0i0i0.com
@@ -13973,7 +13973,6 @@
 +.pussycash.com
 +.putrr7.com
 +.pvclouds.com
-+.pwieu.com
 +.px.spiceworks.com
 +.px.srvcs.tumblr.com
 +.px.staticfiles.at
@@ -14081,7 +14080,6 @@
 +.richmedia.cz
 +.richrelevance.com
 +.riotpixels.net
-+.ripewhining.com
 +.rivne.space
 +.rkdms.com
 +.rlcdn.com
