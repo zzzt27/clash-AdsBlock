@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Sep 2025 09:26 UTC
-# Version: 2025.0914.0926.11
+# Last modified: 15 Sep 2025 08:09 UTC
+# Version: 2025.0915.0809.07
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1480
 #
@@ -309,7 +309,7 @@ DOMAIN-SUFFIX,dns.csswg.org
 DOMAIN-SUFFIX,cubedns.com
 DOMAIN-SUFFIX,qual.cuprum.ru
 DOMAIN-SUFFIX,dns.cwlys.com
-DOMAIN-SUFFIX,dns.cybertonic.tech
+DOMAIN-SUFFIX,cynntex.fun
 DOMAIN-SUFFIX,dns.cynthialabs.net
 DOMAIN-SUFFIX,dns.d365.in
 DOMAIN-SUFFIX,dns.d4d.moe
@@ -531,7 +531,6 @@ DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dyn1.de
 DOMAIN-SUFFIX,ueni.dyndns.org
 DOMAIN-SUFFIX,resolver2.dyndnsinternetguide.com
-DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,dnscache.e-utp.net
 DOMAIN-SUFFIX,adguard.easez.net
@@ -541,6 +540,7 @@ DOMAIN-SUFFIX,doh.eddi.net
 DOMAIN-SUFFIX,dns.edgeburnmedia.com
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,adguard.ef67daisuki.club
+DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.elemental.software
 DOMAIN-SUFFIX,eliatofani.ovh
@@ -585,7 +585,6 @@ DOMAIN-SUFFIX,dot.ffmuc.net
 DOMAIN-SUFFIX,dns.ffnw.de
 DOMAIN-SUFFIX,fidelius.top
 DOMAIN-SUFFIX,dns.filipccz.eu
-DOMAIN-SUFFIX,dns.fizz.studio
 DOMAIN-SUFFIX,doh.flashstart.com
 DOMAIN-SUFFIX,dns.flatuslifir.is
 DOMAIN-SUFFIX,dns.flightspace.net
@@ -773,6 +772,7 @@ DOMAIN-SUFFIX,dns.kastner-online.de
 DOMAIN-SUFFIX,kavkaz.monster
 DOMAIN-SUFFIX,dns.kawa.tf
 DOMAIN-SUFFIX,dns.kebree.fr
+DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
@@ -898,7 +898,6 @@ DOMAIN-SUFFIX,dns.michelo.cl
 DOMAIN-SUFFIX,doh.micronets.in
 DOMAIN-SUFFIX,dns.mihanentalpo.me
 DOMAIN-SUFFIX,dns.mikeliu.org
-DOMAIN-SUFFIX,mikezhang.xyz
 DOMAIN-SUFFIX,dns.milkpie.one
 DOMAIN-SUFFIX,netcup.mismat.ch
 DOMAIN-SUFFIX,httpdns.browser.miui.com
@@ -940,6 +939,7 @@ DOMAIN-SUFFIX,paranoia.mydns.network
 DOMAIN-SUFFIX,blackhole.myon.lu
 DOMAIN-SUFFIX,area51.mywire.org
 DOMAIN-SUFFIX,fwgw.orangepipc.mywire.org
+DOMAIN-SUFFIX,dns.mzjtechnology.com
 DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,dns.n23.io
 DOMAIN-SUFFIX,doh-ca.naftalie.net
