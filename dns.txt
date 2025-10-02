@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Oct 2025 23:57 UTC
-# Version: 2025.1001.2357.37
+# Last modified: 01 Oct 2025 15:03 UTC
+# Version: 2025.1001.1503.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3248
+# Number of entries: 3250
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -200,6 +200,8 @@ DOMAIN-SUFFIX,dns.akbxr.com
 DOMAIN-SUFFIX,dns.alanpearce.eu
 DOMAIN-SUFFIX,dns.albony.xyz
 DOMAIN-SUFFIX,dnsnl.alekberg.net
+DOMAIN-SUFFIX,dnsnl-noads.alekberg.net
+DOMAIN-SUFFIX,dnsse-noads.alekberg.net
 DOMAIN-SUFFIX,agh.alematho.de
 DOMAIN-SUFFIX,ag.alexf.cc
 DOMAIN-SUFFIX,diskstation.alexpollard.net
