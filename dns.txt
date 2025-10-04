@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:02 UTC
-# Version: 2025.1003.2302.26
+# Last modified: 04 Oct 2025 11:51 UTC
+# Version: 2025.1004.1151.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3202
+# Number of entries: 3247
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,dns.0ooo.icu
 DOMAIN-SUFFIX,1.0rz.space
 DOMAIN-SUFFIX,2.0rz.space
 DOMAIN-SUFFIX,dns.0x55.net
+DOMAIN-SUFFIX,dns-revers.1-au.net
 DOMAIN-SUFFIX,hk.100992.xyz
 DOMAIN-SUFFIX,jp2.101818.xyz
 DOMAIN-SUFFIX,seoul.101818.xyz
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,1.11i.eu
 DOMAIN-SUFFIX,2.11i.eu
 DOMAIN-SUFFIX,3.11i.eu
 DOMAIN-SUFFIX,123000123.xyz
+DOMAIN-SUFFIX,d1.12342345.xyz
 DOMAIN-SUFFIX,dns.13evl.com
 DOMAIN-SUFFIX,dns1.13evl.com
 DOMAIN-SUFFIX,hk-nnss.150076.xyz
@@ -57,6 +59,7 @@ DOMAIN-SUFFIX,doh003.280blocker.net
 DOMAIN-SUFFIX,skynet.2bsafe.info
 DOMAIN-SUFFIX,doh.2kil.com
 DOMAIN-SUFFIX,dns.2poi.com
+DOMAIN-SUFFIX,lvpn.2rdp.ru
 DOMAIN-SUFFIX,dns.2t9.de
 DOMAIN-SUFFIX,doh.30x.me
 DOMAIN-SUFFIX,dns.320888.xyz
@@ -103,6 +106,7 @@ DOMAIN-SUFFIX,ns.77ll.ru
 DOMAIN-SUFFIX,dns.7vpn.com
 DOMAIN-SUFFIX,ad.800801.xyz
 DOMAIN-SUFFIX,dns.853852.xyz
+DOMAIN-SUFFIX,dns19.854000.xyz
 DOMAIN-SUFFIX,tyo.883933770.xyz
 DOMAIN-SUFFIX,dns.886886886.xyz
 DOMAIN-SUFFIX,dns.888654.xyz
@@ -116,6 +120,7 @@ DOMAIN-SUFFIX,tokyo.92-m.com
 DOMAIN-SUFFIX,de-passage.9273082020.ru
 DOMAIN-SUFFIX,jp.95576.app
 DOMAIN-SUFFIX,959818.xyz
+DOMAIN-SUFFIX,dd.961188.xyz
 DOMAIN-SUFFIX,cld.996969.xyz
 DOMAIN-SUFFIX,ddd.999369.xyz
 DOMAIN-SUFFIX,dns.9999.sg
@@ -191,6 +196,7 @@ DOMAIN-SUFFIX,dns.ahmgam.com
 DOMAIN-SUFFIX,ahoj.email
 DOMAIN-SUFFIX,dns.ahyxluo.ltd
 DOMAIN-SUFFIX,router.ahzol.com
+DOMAIN-SUFFIX,aicx99.shop
 DOMAIN-SUFFIX,adb.aiec.vn
 DOMAIN-SUFFIX,doh.aipps.vip
 DOMAIN-SUFFIX,dns.airmaxcloud.uk
@@ -233,6 +239,7 @@ DOMAIN-SUFFIX,blog2.amlegion.org
 DOMAIN-SUFFIX,mailer.amlegion.org
 DOMAIN-SUFFIX,resolver1.amlegion.org
 DOMAIN-SUFFIX,doh.amonsul.net
+DOMAIN-SUFFIX,amopython.shop
 DOMAIN-SUFFIX,adguard.amscenter.net
 DOMAIN-SUFFIX,an81dns.ru
 DOMAIN-SUFFIX,oradns.anbitech.com
@@ -305,6 +312,7 @@ DOMAIN-SUFFIX,adguard2.ayrespace.cc
 DOMAIN-SUFFIX,home.azagra.dev
 DOMAIN-SUFFIX,vdsn-nl-2.azatmutq.com
 DOMAIN-SUFFIX,dns.azcom.dev
+DOMAIN-SUFFIX,dns.azfar.my
 DOMAIN-SUFFIX,doh.azoris.ovh
 DOMAIN-SUFFIX,dns.azsopro.net
 DOMAIN-SUFFIX,sradg.eastus.cloudapp.azure.com
@@ -366,6 +374,7 @@ DOMAIN-SUFFIX,dns.bitservices.io
 DOMAIN-SUFFIX,adguard.bitteeinbyte.de
 DOMAIN-SUFFIX,dns.bitup.de
 DOMAIN-SUFFIX,dns-tls.bitwiseshift.net
+DOMAIN-SUFFIX,gate.blackboxdynamics.io
 DOMAIN-SUFFIX,dns1.blackrandcrf.ru
 DOMAIN-SUFFIX,fennec.blackyfox.net
 DOMAIN-SUFFIX,doh.de.blahdns.com
@@ -485,6 +494,7 @@ DOMAIN-SUFFIX,chaos-system.de
 DOMAIN-SUFFIX,cloudsrv.charitosnet.de
 DOMAIN-SUFFIX,adghome.charleschan.net
 DOMAIN-SUFFIX,dns.charraud.eu
+DOMAIN-SUFFIX,dns.chattalk.link
 DOMAIN-SUFFIX,adguard.chaudharyarnav.com
 DOMAIN-SUFFIX,dns.chenu.ch
 DOMAIN-SUFFIX,adguard.chestnov.ru
@@ -638,6 +648,7 @@ DOMAIN-SUFFIX,comss.one
 DOMAIN-SUFFIX,hk.conana.info
 DOMAIN-SUFFIX,dns1.conne.net
 DOMAIN-SUFFIX,dns.connect.fail
+DOMAIN-SUFFIX,dns.consoro.eu
 DOMAIN-SUFFIX,dns.containerpi.com
 DOMAIN-SUFFIX,dns.controld.com
 DOMAIN-SUFFIX,doh.controld.com
@@ -678,6 +689,7 @@ DOMAIN-SUFFIX,s2.d3mik.ru
 DOMAIN-SUFFIX,s3.d3mik.ru
 DOMAIN-SUFFIX,d3vy.ru
 DOMAIN-SUFFIX,dns.d4d.moe
+DOMAIN-SUFFIX,dns.d8e.ru
 DOMAIN-SUFFIX,dns.d94.xyz
 DOMAIN-SUFFIX,dns.d96.info
 DOMAIN-SUFFIX,dns.daarrk.tech
@@ -752,6 +764,7 @@ DOMAIN-SUFFIX,dedidl.com
 DOMAIN-SUFFIX,dns.dedsuts.com
 DOMAIN-SUFFIX,frank-web.dedyn.io
 DOMAIN-SUFFIX,k03.dedyn.io
+DOMAIN-SUFFIX,dns.skous.dedyn.io
 DOMAIN-SUFFIX,dns.deekshith.in
 DOMAIN-SUFFIX,doh.defaultroutes.de
 DOMAIN-SUFFIX,defendfrienddns.fyi
@@ -760,6 +773,7 @@ DOMAIN-SUFFIX,dehb.ru
 DOMAIN-SUFFIX,dns.dekedin.me
 DOMAIN-SUFFIX,adguard.dekonix.ru
 DOMAIN-SUFFIX,nas.delage.li
+DOMAIN-SUFFIX,dns.deldown.de
 DOMAIN-SUFFIX,vm.delfini.online
 DOMAIN-SUFFIX,dns.demon-inc.tw
 DOMAIN-SUFFIX,doh.denypradana.com
@@ -846,6 +860,7 @@ DOMAIN-SUFFIX,cph01.dnscry.pt
 DOMAIN-SUFFIX,cpt01.dnscry.pt
 DOMAIN-SUFFIX,cpt02.dnscry.pt
 DOMAIN-SUFFIX,cvt01.dnscry.pt
+DOMAIN-SUFFIX,dac01.dnscry.pt
 DOMAIN-SUFFIX,den01.dnscry.pt
 DOMAIN-SUFFIX,dfw02.dnscry.pt
 DOMAIN-SUFFIX,dtw01.dnscry.pt
@@ -865,6 +880,7 @@ DOMAIN-SUFFIX,geg01.dnscry.pt
 DOMAIN-SUFFIX,grr01.dnscry.pt
 DOMAIN-SUFFIX,gru01.dnscry.pt
 DOMAIN-SUFFIX,gva01.dnscry.pt
+DOMAIN-SUFFIX,gyd01.dnscry.pt
 DOMAIN-SUFFIX,gye01.dnscry.pt
 DOMAIN-SUFFIX,haf01.dnscry.pt
 DOMAIN-SUFFIX,han01.dnscry.pt
@@ -880,6 +896,7 @@ DOMAIN-SUFFIX,ind01.dnscry.pt
 DOMAIN-SUFFIX,isb01.dnscry.pt
 DOMAIN-SUFFIX,ist01.dnscry.pt
 DOMAIN-SUFFIX,jax01.dnscry.pt
+DOMAIN-SUFFIX,jen01.dnscry.pt
 DOMAIN-SUFFIX,jhb01.dnscry.pt
 DOMAIN-SUFFIX,jkt01.dnscry.pt
 DOMAIN-SUFFIX,jnb01.dnscry.pt
@@ -890,6 +907,8 @@ DOMAIN-SUFFIX,lax01.dnscry.pt
 DOMAIN-SUFFIX,lax02.dnscry.pt
 DOMAIN-SUFFIX,lim02.dnscry.pt
 DOMAIN-SUFFIX,lis01.dnscry.pt
+DOMAIN-SUFFIX,lis02.dnscry.pt
+DOMAIN-SUFFIX,lju01.dnscry.pt
 DOMAIN-SUFFIX,llk01.dnscry.pt
 DOMAIN-SUFFIX,lon01.dnscry.pt
 DOMAIN-SUFFIX,los01.dnscry.pt
@@ -1050,6 +1069,7 @@ DOMAIN-SUFFIX,dns.dualhosting.eu
 DOMAIN-SUFFIX,yukito.duanzx.top
 DOMAIN-SUFFIX,adgrm.duckdns.org
 DOMAIN-SUFFIX,adguardpi.duckdns.org
+DOMAIN-SUFFIX,blamb.duckdns.org
 DOMAIN-SUFFIX,jurre-home.duckdns.org
 DOMAIN-SUFFIX,kiwifunke.duckdns.org
 DOMAIN-SUFFIX,krtekvpn.duckdns.org
@@ -1058,6 +1078,8 @@ DOMAIN-SUFFIX,osefcorp.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
 DOMAIN-SUFFIX,tungdnsne.duckdns.org
 DOMAIN-SUFFIX,unixfox.duckdns.org
+DOMAIN-SUFFIX,vpich.duckdns.org
+DOMAIN-SUFFIX,test.zkwg.duckdns.org
 DOMAIN-SUFFIX,duii.de
 DOMAIN-SUFFIX,dukun.de
 DOMAIN-SUFFIX,dns.dumk.in
@@ -1096,6 +1118,7 @@ DOMAIN-SUFFIX,dns.efficientdocuments.com
 DOMAIN-SUFFIX,vpn.egorrko.ru
 DOMAIN-SUFFIX,doh.eieidns.com
 DOMAIN-SUFFIX,adguard.elashri.xyz
+DOMAIN-SUFFIX,dd.elashri.net
 DOMAIN-SUFFIX,hole.elbschloss.xyz
 DOMAIN-SUFFIX,dns.electrotm.org
 DOMAIN-SUFFIX,pdns.elecura.net
@@ -1127,6 +1150,7 @@ DOMAIN-SUFFIX,agh.ero-sayhi.com
 DOMAIN-SUFFIX,doh.ersei.net
 DOMAIN-SUFFIX,dns.esegece.com
 DOMAIN-SUFFIX,dns-family.esegece.com
+DOMAIN-SUFFIX,dns.esinc.xyz
 DOMAIN-SUFFIX,dns.esnube.es
 DOMAIN-SUFFIX,dns.internal.espresso-tasse.de
 DOMAIN-SUFFIX,essentiallyjay.com
@@ -1283,6 +1307,7 @@ DOMAIN-SUFFIX,cluster-0.gac.edu
 DOMAIN-SUFFIX,cluster-1.gac.edu
 DOMAIN-SUFFIX,dns.gamban.com
 DOMAIN-SUFFIX,d.gametechnet.com
+DOMAIN-SUFFIX,gammesfeld.eu
 DOMAIN-SUFFIX,dns.api.gandi.net
 DOMAIN-SUFFIX,dns.beta.gandi.net
 DOMAIN-SUFFIX,adguard.gattow.com
@@ -1300,6 +1325,7 @@ DOMAIN-SUFFIX,adguard.ghkyzz.us
 DOMAIN-SUFFIX,dns.ghost.pm
 DOMAIN-SUFFIX,gibblets.top
 DOMAIN-SUFFIX,adguard.maison.gifino.fr
+DOMAIN-SUFFIX,gigatapbot.top
 DOMAIN-SUFFIX,bvo.giize.com
 DOMAIN-SUFFIX,lamdtl.giize.com
 DOMAIN-SUFFIX,dns.ginovs.nl
@@ -1328,6 +1354,7 @@ DOMAIN-SUFFIX,ux.go20.cf
 DOMAIN-SUFFIX,privacydns.go6lab.si
 DOMAIN-SUFFIX,dns.goertz.digital
 DOMAIN-SUFFIX,eime.goip.de
+DOMAIN-SUFFIX,dohsg.goitoi.co
 DOMAIN-SUFFIX,dns.goldplate.org
 DOMAIN-SUFFIX,golegana.de
 DOMAIN-SUFFIX,dev.gonnadive.com
@@ -1403,6 +1430,7 @@ DOMAIN-SUFFIX,dns.hellozhao.com
 DOMAIN-SUFFIX,dns.henek.ru
 DOMAIN-SUFFIX,dns.herkhof.nl
 DOMAIN-SUFFIX,adg.herry.dev
+DOMAIN-SUFFIX,dns.msk.hexagon1736.com
 DOMAIN-SUFFIX,hexxitcompany.com
 DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
 DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
@@ -1430,6 +1458,7 @@ DOMAIN-SUFFIX,pihole3.hoerli.net
 DOMAIN-SUFFIX,pihole4.hoerli.net
 DOMAIN-SUFFIX,dns.hoian.one
 DOMAIN-SUFFIX,socolov.home.ro
+DOMAIN-SUFFIX,adguard.home-lab-network.com
 DOMAIN-SUFFIX,home-server.store
 DOMAIN-SUFFIX,pi.homeanywhere.org
 DOMAIN-SUFFIX,admin.homedns.uk
@@ -1449,6 +1478,7 @@ DOMAIN-SUFFIX,dns.internal.hosmatic.com
 DOMAIN-SUFFIX,v1552270.hosted-by-vdsina.ru
 DOMAIN-SUFFIX,resolver1.hosting-cloud.net
 DOMAIN-SUFFIX,resolver2.hosting-cloud.net
+DOMAIN-SUFFIX,adg.hostingab.ru
 DOMAIN-SUFFIX,dns.hostingim.com
 DOMAIN-SUFFIX,dns.hostux.net
 DOMAIN-SUFFIX,dns.hotta.page
@@ -1470,6 +1500,7 @@ DOMAIN-SUFFIX,ads.hunga1k47.com
 DOMAIN-SUFFIX,huntllcx.cn
 DOMAIN-SUFFIX,doth.huque.com
 DOMAIN-SUFFIX,dns.huseynov.work
+DOMAIN-SUFFIX,dns.huth.nu
 DOMAIN-SUFFIX,v2-1.huwenqiang.xyz
 DOMAIN-SUFFIX,ad.huyct.net
 DOMAIN-SUFFIX,dns.huyhoangit.net
@@ -1487,6 +1518,11 @@ DOMAIN-SUFFIX,opennic.i2pd.xyz
 DOMAIN-SUFFIX,opennic2.i2pd.xyz
 DOMAIN-SUFFIX,az.i81.ru
 DOMAIN-SUFFIX,hr.i81.ru
+DOMAIN-SUFFIX,amigo.px.i81.ru
+DOMAIN-SUFFIX,derevnya.px.i81.ru
+DOMAIN-SUFFIX,home.px.i81.ru
+DOMAIN-SUFFIX,vasya-sad.px.i81.ru
+DOMAIN-SUFFIX,vovale.px.i81.ru
 DOMAIN-SUFFIX,vd.i81.ru
 DOMAIN-SUFFIX,vpn.i81.ru
 DOMAIN-SUFFIX,dns.iamanuragh.in
@@ -1526,6 +1562,7 @@ DOMAIN-SUFFIX,dns.immanuelschaffer.de
 DOMAIN-SUFFIX,doh.immerda.ch
 DOMAIN-SUFFIX,http-dns.imoim.net
 DOMAIN-SUFFIX,imperio.top
+DOMAIN-SUFFIX,hk.imtsui.com
 DOMAIN-SUFFIX,host8.248.cloudhost.in.th
 DOMAIN-SUFFIX,adguard.dbase.in.rs
 DOMAIN-SUFFIX,dns1.in-berlin.de
@@ -1561,6 +1598,7 @@ DOMAIN-SUFFIX,dns.ipoac.nl
 DOMAIN-SUFFIX,dns.iqiyi.com
 DOMAIN-SUFFIX,doh.iqiyi.com
 DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
+DOMAIN-SUFFIX,dns.irk38.net
 DOMAIN-SUFFIX,irrelevant.cc
 DOMAIN-SUFFIX,dns.irumatech.com
 DOMAIN-SUFFIX,dns1.irumatech.com
@@ -1683,6 +1721,7 @@ DOMAIN-SUFFIX,doh.kekew.info
 DOMAIN-SUFFIX,doh.kel.pe
 DOMAIN-SUFFIX,kellerbier-home.com
 DOMAIN-SUFFIX,dns.kellys.pw
+DOMAIN-SUFFIX,dns.kempkens.org
 DOMAIN-SUFFIX,kennethhuang.com
 DOMAIN-SUFFIX,dns.kerekes.xyz
 DOMAIN-SUFFIX,dns.kernel-error.de
@@ -1805,6 +1844,7 @@ DOMAIN-SUFFIX,dns.lilith.cloud
 DOMAIN-SUFFIX,dns.linkr.ninja
 DOMAIN-SUFFIX,africadns1.liquidtelecom.net
 DOMAIN-SUFFIX,africadns2.liquidtelecom.net
+DOMAIN-SUFFIX,sers.lirlab.su
 DOMAIN-SUFFIX,dns.liruz.fr
 DOMAIN-SUFFIX,dns.listo.click
 DOMAIN-SUFFIX,dns.lithvik.com
@@ -1862,6 +1902,7 @@ DOMAIN-SUFFIX,dns.mafyuh.io
 DOMAIN-SUFFIX,guard.magic-pics.tk
 DOMAIN-SUFFIX,maherhost.uk
 DOMAIN-SUFFIX,adhome.maige.fun
+DOMAIN-SUFFIX,dns.mailcastle.in
 DOMAIN-SUFFIX,dnsserver.mailchan.eu
 DOMAIN-SUFFIX,mailkyb.co
 DOMAIN-SUFFIX,maincloud.ir
@@ -1943,7 +1984,9 @@ DOMAIN-SUFFIX,rwkdwpwsyv48.mikopono.nl
 DOMAIN-SUFFIX,ukns.milangas2.top
 DOMAIN-SUFFIX,dns.milkpie.one
 DOMAIN-SUFFIX,aitkcrev.minhduc.pw
+DOMAIN-SUFFIX,miniapp.global
 DOMAIN-SUFFIX,minilla.store
+DOMAIN-SUFFIX,guard.miracloud.fr
 DOMAIN-SUFFIX,miskoss.fun
 DOMAIN-SUFFIX,netcup.mismat.ch
 DOMAIN-SUFFIX,httpdns.browser.miui.com
@@ -2181,7 +2224,6 @@ DOMAIN-SUFFIX,dns2.nordvpn.com
 DOMAIN-SUFFIX,1.dns.noridev.moe
 DOMAIN-SUFFIX,2.dns.noridev.moe
 DOMAIN-SUFFIX,3.local-dns.noridev.moe
-DOMAIN-SUFFIX,dns.norvig.dk
 DOMAIN-SUFFIX,adguard.nostaloogia.ir
 DOMAIN-SUFFIX,dns.notjakob.com
 DOMAIN-SUFFIX,dns.novali.date
@@ -2190,6 +2232,7 @@ DOMAIN-SUFFIX,dns.novg.net
 DOMAIN-SUFFIX,dns.npe.bz
 DOMAIN-SUFFIX,adguard.npglocal.com
 DOMAIN-SUFFIX,dns.npsolution.it
+DOMAIN-SUFFIX,ns.cd
 DOMAIN-SUFFIX,xpen.ns01.info
 DOMAIN-SUFFIX,x.ns1net.com
 DOMAIN-SUFFIX,ns3.com
@@ -2213,10 +2256,12 @@ DOMAIN-SUFFIX,dot.occ.top
 DOMAIN-SUFFIX,dns.ocedric.net
 DOMAIN-SUFFIX,dns.octoworld.fr
 DOMAIN-SUFFIX,oculta.me
+DOMAIN-SUFFIX,vpn.odeccit.com
 DOMAIN-SUFFIX,dns.odinpl.com
 DOMAIN-SUFFIX,dns.odirf.de
 DOMAIN-SUFFIX,adguard.odysseusnetwork.com
 DOMAIN-SUFFIX,dns.ofdoom.net
+DOMAIN-SUFFIX,adguard.ohmhv57.org
 DOMAIN-SUFFIX,okado.online
 DOMAIN-SUFFIX,adh.olesgroup.com
 DOMAIN-SUFFIX,dns.oliverweinhold.de
@@ -2264,7 +2309,6 @@ DOMAIN-SUFFIX,dns.us-ashburn-1.oraclecloud.com
 DOMAIN-SUFFIX,dns.us-phoenix-1.oraclecloud.com
 DOMAIN-SUFFIX,noads.api.org.pl
 DOMAIN-SUFFIX,resolver.dnsprivacy.org.uk
-DOMAIN-SUFFIX,kendentil.org.uk
 DOMAIN-SUFFIX,teslacoils.org.uk
 DOMAIN-SUFFIX,artemis.orionnexus.top
 DOMAIN-SUFFIX,ortudns.com
@@ -2280,7 +2324,6 @@ DOMAIN-SUFFIX,dns.ours.luxe
 DOMAIN-SUFFIX,dns.ourvau.lt
 DOMAIN-SUFFIX,outdoorchair.site
 DOMAIN-SUFFIX,vps-1f675aa1.vps.ovh.us
-DOMAIN-SUFFIX,dns.oxystin.online
 DOMAIN-SUFFIX,1a.ns.ozer.im
 DOMAIN-SUFFIX,1b.ns.ozer.im
 DOMAIN-SUFFIX,doh.p2cdn.cn
@@ -2366,7 +2409,6 @@ DOMAIN-SUFFIX,adguard.pmoebi.xyz
 DOMAIN-SUFFIX,dns.pmxu.link
 DOMAIN-SUFFIX,muppy.pnamae.com
 DOMAIN-SUFFIX,dns.pointless.chat
-DOMAIN-SUFFIX,polisitogel.accountant
 DOMAIN-SUFFIX,polisitogel.beauty
 DOMAIN-SUFFIX,polisitogel.builders
 DOMAIN-SUFFIX,polisitogel.contractors
@@ -2404,20 +2446,12 @@ DOMAIN-SUFFIX,virga.pp.ua
 DOMAIN-SUFFIX,dns.xxxxxxxx.pp.ua
 DOMAIN-SUFFIX,zxcvb.pp.ua
 DOMAIN-SUFFIX,adguard.ppfeufer.de
-DOMAIN-SUFFIX,hk-nnss.ppleg.icu
-DOMAIN-SUFFIX,hkcf-nnss.ppleg.icu
-DOMAIN-SUFFIX,js-nnss.ppleg.icu
-DOMAIN-SUFFIX,la-nnss.ppleg.icu
-DOMAIN-SUFFIX,lacf-nnss.ppleg.icu
-DOMAIN-SUFFIX,nnss.ppleg.icu
-DOMAIN-SUFFIX,pr-nnss.ppleg.icu
 DOMAIN-SUFFIX,dns.pragmasec.nl
 DOMAIN-SUFFIX,mail.pragmasec.nl
 DOMAIN-SUFFIX,new.pragmasec.nl
 DOMAIN-SUFFIX,server.pragmasec.nl
 DOMAIN-SUFFIX,webmeel.pragmasec.nl
 DOMAIN-SUFFIX,dns2.prima-solusindo.com
-DOMAIN-SUFFIX,dns.princex.net
 DOMAIN-SUFFIX,princez.uk
 DOMAIN-SUFFIX,agh.printk.info
 DOMAIN-SUFFIX,hungary.privacy-dns.pw
@@ -2434,11 +2468,12 @@ DOMAIN-SUFFIX,oury.privado.ovh
 DOMAIN-SUFFIX,privatebard.com
 DOMAIN-SUFFIX,lmc.privatedns.org
 DOMAIN-SUFFIX,lmc1.privatedns.org
+DOMAIN-SUFFIX,test.privatenode.ru
 DOMAIN-SUFFIX,dns.privateservices.pro
 DOMAIN-SUFFIX,de.dns.privex.io
 DOMAIN-SUFFIX,nl.dns.privex.io
 DOMAIN-SUFFIX,project-evoex.de
-DOMAIN-SUFFIX,dns.propheci.xyz
+DOMAIN-SUFFIX,adg.proprietarypenguin.com
 DOMAIN-SUFFIX,dns.proprietarypenguin.com
 DOMAIN-SUFFIX,psociety.de
 DOMAIN-SUFFIX,bit.psyk.fr
@@ -2449,6 +2484,7 @@ DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,dns-privacy.puregeni.us
 DOMAIN-SUFFIX,dns-uk.puregeni.us
 DOMAIN-SUFFIX,adguard.pushedv.de
+DOMAIN-SUFFIX,owa.pvmedia.ru
 DOMAIN-SUFFIX,pygos.space
 DOMAIN-SUFFIX,doh.pyry.me
 DOMAIN-SUFFIX,at.pzhg.me
@@ -2512,6 +2548,7 @@ DOMAIN-SUFFIX,dns.rayarksb.fun
 DOMAIN-SUFFIX,rayneau.fr
 DOMAIN-SUFFIX,azure.razor1911.xyz
 DOMAIN-SUFFIX,dns.rbn.gr
+DOMAIN-SUFFIX,searxng.rcxpony.name
 DOMAIN-SUFFIX,adguard.rdekuyper.nl
 DOMAIN-SUFFIX,dns.readlook.tk
 DOMAIN-SUFFIX,agh.realwap.net
@@ -2713,6 +2750,7 @@ DOMAIN-SUFFIX,dns.smartguard.io
 DOMAIN-SUFFIX,singy.smartq.dev
 DOMAIN-SUFFIX,lux.sn0w.nl
 DOMAIN-SUFFIX,home.snow-sugar.net
+DOMAIN-SUFFIX,ag.snrka.ru
 DOMAIN-SUFFIX,guard.sntrk.ru
 DOMAIN-SUFFIX,vpn.snxi.de
 DOMAIN-SUFFIX,clientdns3.softcom.net
@@ -3003,6 +3041,7 @@ DOMAIN-SUFFIX,dns.virtual-qr.ir
 DOMAIN-SUFFIX,ad.visbran.fr
 DOMAIN-SUFFIX,dns.vishalk.com
 DOMAIN-SUFFIX,dns.vk09.ru
+DOMAIN-SUFFIX,dns.vkhudyakov.ru
 DOMAIN-SUFFIX,vladpro.ru
 DOMAIN-SUFFIX,dns.vlo.cc
 DOMAIN-SUFFIX,dns.vmisch.tech
@@ -3044,6 +3083,7 @@ DOMAIN-SUFFIX,dns.warma.me
 DOMAIN-SUFFIX,dns.warpnine.de
 DOMAIN-SUFFIX,dns.warrior.fr
 DOMAIN-SUFFIX,domeq.waw.pl
+DOMAIN-SUFFIX,waydnes.ru
 DOMAIN-SUFFIX,dns.wdnts.eu
 DOMAIN-SUFFIX,dns.engineer.web.id
 DOMAIN-SUFFIX,h4g3z1-doh.web.app
@@ -3052,6 +3092,7 @@ DOMAIN-SUFFIX,panser.web.id
 DOMAIN-SUFFIX,s.rafiadinata.web.id
 DOMAIN-SUFFIX,doh.this.web.id
 DOMAIN-SUFFIX,web-rated.ie
+DOMAIN-SUFFIX,quadrogramma.vps.webdock.cloud
 DOMAIN-SUFFIX,dns.webfork.in
 DOMAIN-SUFFIX,doh.webnmail.de
 DOMAIN-SUFFIX,zuhause.webteufel.net
@@ -3061,6 +3102,7 @@ DOMAIN-SUFFIX,resov.wehao.net
 DOMAIN-SUFFIX,dns.weibo.cn
 DOMAIN-SUFFIX,home.weisbrod.me
 DOMAIN-SUFFIX,dns.wellstsai.com
+DOMAIN-SUFFIX,zhang.wenru.xyz
 DOMAIN-SUFFIX,doh.wewitro.net
 DOMAIN-SUFFIX,doh-rs.whalebone.io
 DOMAIN-SUFFIX,whatcaniplay.com
@@ -3100,6 +3142,7 @@ DOMAIN-SUFFIX,adguard.x88x.xyz
 DOMAIN-SUFFIX,adguard.xandersalarie.com
 DOMAIN-SUFFIX,adb-home.xaoimoon.fr
 DOMAIN-SUFFIX,adb-wan.xaoimoon.fr
+DOMAIN-SUFFIX,dns.xcapenet.ru
 DOMAIN-SUFFIX,doh.xcom.pro
 DOMAIN-SUFFIX,xenergy.cc
 DOMAIN-SUFFIX,vsrv15195.customer.xenway.de
@@ -3121,9 +3164,11 @@ DOMAIN-SUFFIX,xn--durhre-yxa.de
 DOMAIN-SUFFIX,xomadns.com
 DOMAIN-SUFFIX,xorbiadns.com
 DOMAIN-SUFFIX,doh.xorlet.ru
+DOMAIN-SUFFIX,look.xshentx.org
 DOMAIN-SUFFIX,dns.xuming.studio
 DOMAIN-SUFFIX,dns.xusqui.com
 DOMAIN-SUFFIX,dns.xv.fi
+DOMAIN-SUFFIX,kvps01.xvps.jp
 DOMAIN-SUFFIX,dns.xwdmw.xyz
 DOMAIN-SUFFIX,v2.xx3210766.live
 DOMAIN-SUFFIX,dns.xydustc.me
@@ -3230,7 +3275,7 @@ IP-CIDR,101.236.69.43/32
 IP-CIDR,101.33.46.108/32
 IP-CIDR,101.34.229.193/32
 IP-CIDR,101.6.6.6/32
-IP-CIDR,102.113.114.2/32
+IP-CIDR,102.113.123.152/32
 IP-CIDR,102.222.106.96/32
 IP-CIDR,102.37.148.2/32
 IP-CIDR,103.1.223.110/32
@@ -3240,7 +3285,6 @@ IP-CIDR,103.114.162.65/32
 IP-CIDR,103.117.102.19/32
 IP-CIDR,103.124.106.233/32
 IP-CIDR,103.131.189.74/32
-IP-CIDR,103.135.250.17/32
 IP-CIDR,103.135.250.44/32
 IP-CIDR,103.135.250.45/32
 IP-CIDR,103.135.250.46/32
@@ -3331,8 +3375,9 @@ IP-CIDR,109.205.61.98/32
 IP-CIDR,109.223.193.147/32
 IP-CIDR,109.236.119.2/32
 IP-CIDR,109.236.120.2/32
-IP-CIDR,109.250.197.97/32
+IP-CIDR,109.250.196.152/32
 IP-CIDR,109.250.204.155/32
+IP-CIDR,109.70.74.38/32
 IP-CIDR,109.74.205.250/32
 IP-CIDR,109.94.170.14/32
 IP-CIDR,111.20.254.35/32
@@ -3366,6 +3411,7 @@ IP-CIDR,120.24.213.35/32
 IP-CIDR,120.53.53.53/32
 IP-CIDR,122.117.222.121/32
 IP-CIDR,122.254.0.63/32
+IP-CIDR,123.27.227.143/32
 IP-CIDR,124.217.247.170/32
 IP-CIDR,124.219.110.49/32
 IP-CIDR,124.70.37.233/32
@@ -3377,7 +3423,7 @@ IP-CIDR,128.140.89.73/32
 IP-CIDR,128.210.6.106/32
 IP-CIDR,128.254.207.50/32
 IP-CIDR,128.93.162.64/32
-IP-CIDR,129.146.13.150/32
+IP-CIDR,129.146.12.195/32
 IP-CIDR,129.146.238.240/32
 IP-CIDR,129.151.162.166/32
 IP-CIDR,129.153.224.48/32
@@ -3407,14 +3453,14 @@ IP-CIDR,130.226.161.34/32
 IP-CIDR,130.59.31.248/32
 IP-CIDR,130.59.31.251/32
 IP-CIDR,130.59.31.80/32
+IP-CIDR,130.61.0.178/32
 IP-CIDR,130.61.121.181/32
 IP-CIDR,130.61.173.117/32
 IP-CIDR,130.61.24.160/32
-IP-CIDR,130.61.4.165/32
 IP-CIDR,130.61.51.39/32
 IP-CIDR,131.186.19.137/32
 IP-CIDR,131.186.63.141/32
-IP-CIDR,132.145.4.175/32
+IP-CIDR,132.145.0.172/32
 IP-CIDR,132.145.83.120/32
 IP-CIDR,132.145.97.178/32
 IP-CIDR,132.145.98.168/32
@@ -3437,7 +3483,6 @@ IP-CIDR,135.181.248.48/32
 IP-CIDR,135.181.83.162/32
 IP-CIDR,136.243.156.176/32
 IP-CIDR,136.244.65.20/32
-IP-CIDR,137.220.48.110/32
 IP-CIDR,137.220.51.178/32
 IP-CIDR,137.66.7.89/32
 IP-CIDR,137.74.29.10/32
@@ -3457,7 +3502,6 @@ IP-CIDR,139.59.219.245/32
 IP-CIDR,139.59.48.222/32
 IP-CIDR,139.84.164.110/32
 IP-CIDR,139.99.44.3/32
-IP-CIDR,14.181.164.238/32
 IP-CIDR,140.112.29.207/32
 IP-CIDR,140.238.10.79/32
 IP-CIDR,140.238.14.191/32
@@ -3563,7 +3607,7 @@ IP-CIDR,151.236.24.190/32
 IP-CIDR,151.240.0.211/32
 IP-CIDR,151.242.64.36/32
 IP-CIDR,151.243.222.94/32
-IP-CIDR,151.64.172.125/32
+IP-CIDR,151.30.88.122/32
 IP-CIDR,151.80.145.143/32
 IP-CIDR,152.53.119.76/32
 IP-CIDR,152.53.130.105/32
@@ -3602,7 +3646,6 @@ IP-CIDR,155.248.176.107/32
 IP-CIDR,155.248.185.73/32
 IP-CIDR,155.248.232.226/32
 IP-CIDR,155.254.28.98/32
-IP-CIDR,155.94.241.150/32
 IP-CIDR,157.131.42.41/32
 IP-CIDR,157.20.105.115/32
 IP-CIDR,157.20.83.135/32
@@ -3663,6 +3706,7 @@ IP-CIDR,168.235.111.72/32
 IP-CIDR,168.75.105.49/32
 IP-CIDR,168.95.1.1/32
 IP-CIDR,168.95.192.1/32
+IP-CIDR,169.150.236.106/32
 IP-CIDR,169.239.128.124/32
 IP-CIDR,169.48.27.179/32
 IP-CIDR,17.132.84.10/32
@@ -4055,9 +4099,9 @@ IP-CIDR,18.208.255.25/32
 IP-CIDR,18.235.250.51/32
 IP-CIDR,18.252.156.1/32
 IP-CIDR,18.254.96.167/32
-IP-CIDR,181.214.35.150/32
-IP-CIDR,181.41.213.131/32
-IP-CIDR,181.41.213.157/32
+IP-CIDR,181.214.35.151/32
+IP-CIDR,181.214.35.153/32
+IP-CIDR,181.41.213.156/32
 IP-CIDR,183.171.200.162/32
 IP-CIDR,185.107.169.23/32
 IP-CIDR,185.109.168.44/32
@@ -4123,6 +4167,7 @@ IP-CIDR,185.64.79.5/32
 IP-CIDR,185.69.161.122/32
 IP-CIDR,185.70.9.10/32
 IP-CIDR,185.71.138.138/32
+IP-CIDR,185.93.1.245/32
 IP-CIDR,185.95.218.42/32
 IP-CIDR,185.95.218.43/32
 IP-CIDR,185.95.219.170/32
@@ -4216,7 +4261,6 @@ IP-CIDR,195.201.21.251/32
 IP-CIDR,195.201.39.149/32
 IP-CIDR,195.244.44.44/32
 IP-CIDR,195.244.44.45/32
-IP-CIDR,195.26.26.23/32
 IP-CIDR,195.38.160.7/32
 IP-CIDR,195.4.132.2/32
 IP-CIDR,195.80.119.101/32
@@ -4234,6 +4278,7 @@ IP-CIDR,198.58.111.139/32
 IP-CIDR,199.119.137.74/32
 IP-CIDR,199.119.65.94/32
 IP-CIDR,199.58.83.33/32
+IP-CIDR,199.59.243.228/32
 IP-CIDR,2.135.147.99/32
 IP-CIDR,2.58.59.12/32
 IP-CIDR,2.59.169.204/32
@@ -4315,7 +4360,7 @@ IP-CIDR,216.45.53.119/32
 IP-CIDR,216.73.156.52/32
 IP-CIDR,216.73.159.26/32
 IP-CIDR,217.0.43.114/32
-IP-CIDR,217.0.43.50/32
+IP-CIDR,217.0.43.162/32
 IP-CIDR,217.11.58.196/32
 IP-CIDR,217.154.118.152/32
 IP-CIDR,217.154.180.176/32
@@ -4326,6 +4371,7 @@ IP-CIDR,217.169.20.22/32
 IP-CIDR,217.169.20.23/32
 IP-CIDR,217.182.75.26/32
 IP-CIDR,217.197.91.153/32
+IP-CIDR,217.255.218.87/32
 IP-CIDR,217.61.98.63/32
 IP-CIDR,217.91.179.72/32
 IP-CIDR,218.75.4.130/32
@@ -4347,8 +4393,6 @@ IP-CIDR,23.178.72.76/32
 IP-CIDR,23.184.48.19/32
 IP-CIDR,23.191.80.72/32
 IP-CIDR,23.230.253.98/32
-IP-CIDR,23.239.10.192/32
-IP-CIDR,23.239.3.190/32
 IP-CIDR,23.251.158.202/32
 IP-CIDR,23.81.246.121/32
 IP-CIDR,23.88.6.31/32
@@ -4413,7 +4457,6 @@ IP-CIDR,37.252.231.163/32
 IP-CIDR,37.27.218.33/32
 IP-CIDR,37.59.103.226/32
 IP-CIDR,38.107.232.115/32
-IP-CIDR,38.142.94.218/32
 IP-CIDR,38.186.42.90/32
 IP-CIDR,38.207.7.71/32
 IP-CIDR,38.242.157.80/32
@@ -4487,7 +4530,6 @@ IP-CIDR,45.79.102.67/32
 IP-CIDR,45.79.104.153/32
 IP-CIDR,45.79.155.173/32
 IP-CIDR,45.79.156.126/32
-IP-CIDR,45.79.17.103/32
 IP-CIDR,45.79.208.98/32
 IP-CIDR,45.79.248.146/32
 IP-CIDR,45.79.33.43/32
@@ -4572,7 +4614,7 @@ IP-CIDR,49.212.207.51/32
 IP-CIDR,5.11.11.11/32
 IP-CIDR,5.11.11.5/32
 IP-CIDR,5.134.118.198/32
-IP-CIDR,5.15.65.251/32
+IP-CIDR,5.15.76.167/32
 IP-CIDR,5.161.191.104/32
 IP-CIDR,5.161.43.197/32
 IP-CIDR,5.180.59.37/32
@@ -4598,6 +4640,7 @@ IP-CIDR,51.158.147.92/32
 IP-CIDR,51.158.99.7/32
 IP-CIDR,51.159.138.172/32
 IP-CIDR,51.159.67.129/32
+IP-CIDR,51.161.115.44/32
 IP-CIDR,51.178.29.75/32
 IP-CIDR,51.178.82.98/32
 IP-CIDR,51.222.16.174/32
@@ -4614,6 +4657,7 @@ IP-CIDR,52.221.192.61/32
 IP-CIDR,52.230.84.146/32
 IP-CIDR,52.246.182.50/32
 IP-CIDR,52.29.2.17/32
+IP-CIDR,52.3.3.35/32
 IP-CIDR,52.63.91.105/32
 IP-CIDR,52.80.248.44/32
 IP-CIDR,54.147.106.74/32
@@ -4727,7 +4771,6 @@ IP-CIDR,79.143.240.7/32
 IP-CIDR,79.143.240.77/32
 IP-CIDR,79.143.240.79/32
 IP-CIDR,79.143.240.81/32
-IP-CIDR,79.250.79.172/32
 IP-CIDR,79.252.205.49/32
 IP-CIDR,8.130.86.134/32
 IP-CIDR,8.138.100.213/32
@@ -4873,6 +4916,7 @@ IP-CIDR,91.217.86.4/32
 IP-CIDR,91.239.100.100/32
 IP-CIDR,91.239.27.199/32
 IP-CIDR,91.239.96.35/32
+IP-CIDR,91.7.44.131/32
 IP-CIDR,91.99.154.175/32
 IP-CIDR,91.99.249.235/32
 IP-CIDR,92.118.188.53/32
@@ -4882,7 +4926,6 @@ IP-CIDR,92.63.169.45/32
 IP-CIDR,93.177.64.13/32
 IP-CIDR,93.190.126.69/32
 IP-CIDR,93.200.18.27/32
-IP-CIDR,93.231.25.25/32
 IP-CIDR,93.4.84.37/32
 IP-CIDR,93.95.115.21/32
 IP-CIDR,94.130.135.203/32
@@ -4919,11 +4962,10 @@ IP-CIDR,95.217.11.63/32
 IP-CIDR,95.217.25.217/32
 IP-CIDR,95.217.6.67/32
 IP-CIDR,95.229.168.3/32
-IP-CIDR,96.106.7.232/32
+IP-CIDR,96.106.7.234/32
 IP-CIDR,96.113.151.145/32
 IP-CIDR,96.9.213.120/32
 IP-CIDR,96.9.228.27/32
-IP-CIDR,98.80.38.59/32
 IP-CIDR,98.80.62.6/32
 IP-CIDR,98.86.12.42/32
 IP-CIDR,98.86.95.252/32
