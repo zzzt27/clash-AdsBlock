@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:02 UTC
-# Version: 2025.1003.2302.26
+# Last modified: 03 Oct 2025 11:57 UTC
+# Version: 2025.1003.1157.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3202
+# Number of entries: 3209
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -1533,6 +1533,7 @@ DOMAIN-SUFFIX,dns2.in-berlin.de
 DOMAIN-SUFFIX,incaseineeditoneday.com
 DOMAIN-SUFFIX,dns.inclusioproject.com
 DOMAIN-SUFFIX,adblock.indianets.net
+DOMAIN-SUFFIX,dns.indust.me
 DOMAIN-SUFFIX,dns.indybanipal.com
 DOMAIN-SUFFIX,dns.inforlogia.com
 DOMAIN-SUFFIX,doh.infracell.net
@@ -1550,12 +1551,14 @@ DOMAIN-SUFFIX,inpssh.online
 DOMAIN-SUFFIX,qlf-doh.inria.fr
 DOMAIN-SUFFIX,d1.insec.link
 DOMAIN-SUFFIX,srv.insec.link
+DOMAIN-SUFFIX,dns.insigne.solutions
 DOMAIN-SUFFIX,premiumtier-network.instadart.net
 DOMAIN-SUFFIX,dns.interhub.cc
 DOMAIN-SUFFIX,intertop.link
 DOMAIN-SUFFIX,dns.invent.hr
 DOMAIN-SUFFIX,ion.pm
 DOMAIN-SUFFIX,dns.cloud.ionutl.ro
+DOMAIN-SUFFIX,dns.ios.so
 DOMAIN-SUFFIX,iozoi.cn
 DOMAIN-SUFFIX,dns.ipoac.nl
 DOMAIN-SUFFIX,dns.iqiyi.com
@@ -1625,6 +1628,7 @@ DOMAIN-SUFFIX,layer1.jnraptor.net
 DOMAIN-SUFFIX,pi4.jnraptor.net
 DOMAIN-SUFFIX,home.jobytan.com
 DOMAIN-SUFFIX,dns.joey01245.nl
+DOMAIN-SUFFIX,adguard.johanliebert.top
 DOMAIN-SUFFIX,dns.johndave.me
 DOMAIN-SUFFIX,johneldenring.lol
 DOMAIN-SUFFIX,child.joindns4.eu
@@ -1732,6 +1736,7 @@ DOMAIN-SUFFIX,dart.kpsn.org
 DOMAIN-SUFFIX,dns.kpsn.dev
 DOMAIN-SUFFIX,pips.kpsn.org
 DOMAIN-SUFFIX,adblock.krctech.dev
+DOMAIN-SUFFIX,dns.kremzein.com
 DOMAIN-SUFFIX,dns.kriswerry.nl
 DOMAIN-SUFFIX,xray.krnl.eu
 DOMAIN-SUFFIX,dns.krol.cloud
@@ -1744,6 +1749,7 @@ DOMAIN-SUFFIX,dns.kukal.cz
 DOMAIN-SUFFIX,agh.kul-lippek.de
 DOMAIN-SUFFIX,dns.kusoneko.moe
 DOMAIN-SUFFIX,dns.kuuhaku.moe
+DOMAIN-SUFFIX,kx-97795-tr.xyz
 DOMAIN-SUFFIX,dns.kxy.ink
 DOMAIN-SUFFIX,dn.kyay006.cn
 DOMAIN-SUFFIX,agh.kyusang.win
@@ -1917,6 +1923,7 @@ DOMAIN-SUFFIX,ovhcloud.mehmetarikan.tech
 DOMAIN-SUFFIX,httpdns.meituan.com
 DOMAIN-SUFFIX,httpdnsvip.meituan.com
 DOMAIN-SUFFIX,dns.melvin2204.nl
+DOMAIN-SUFFIX,mendozasdelivery.com
 DOMAIN-SUFFIX,meowless.club
 DOMAIN-SUFFIX,testaghome.meshkov.info
 DOMAIN-SUFFIX,dns.mestdag.fr
