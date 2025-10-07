@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 23:38 UTC
-# Version: 2025.1006.2338.13
+# Last modified: 06 Oct 2025 11:40 UTC
+# Version: 2025.1006.1140.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3352
+# Number of entries: 3350
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -77,7 +77,6 @@ DOMAIN-SUFFIX,xjpdns.354688.xyz
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,dot.360.cn
 DOMAIN-SUFFIX,dns.3dcapitaltrust.net
-DOMAIN-SUFFIX,3dcosas.xyz
 DOMAIN-SUFFIX,3dns.eu
 DOMAIN-SUFFIX,3jjxxl.tech
 DOMAIN-SUFFIX,adg.3k.work
@@ -3076,7 +3075,6 @@ DOMAIN-SUFFIX,doh.ibr.cs.tu-bs.de
 DOMAIN-SUFFIX,dns.tuankhaiit.com
 DOMAIN-SUFFIX,tuantran.cloud
 DOMAIN-SUFFIX,tujenasnaszato.xyz
-DOMAIN-SUFFIX,tuskythehusky.tech
 DOMAIN-SUFFIX,nat64.tuxis.nl
 DOMAIN-SUFFIX,dns.twnic.tw
 DOMAIN-SUFFIX,adguard.twotigers.xyz
