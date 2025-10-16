@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:46 UTC
-# Version: 2025.1015.2346.40
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3423
+# Number of entries: 3417
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -1353,8 +1353,6 @@ DOMAIN-SUFFIX,us-ny.foxyfy.net
 DOMAIN-SUFFIX,us-sj.foxyfy.net
 DOMAIN-SUFFIX,fptdns.site
 DOMAIN-SUFFIX,dns.family.fraiss.at
-DOMAIN-SUFFIX,v7.frame-one.cc
-DOMAIN-SUFFIX,v8.frame-one.cc
 DOMAIN-SUFFIX,resolver.frank-ruan.com
 DOMAIN-SUFFIX,wandana.franklinfamily.au
 DOMAIN-SUFFIX,agent.frankutils.xyz
@@ -1491,7 +1489,6 @@ DOMAIN-SUFFIX,dns.gupthabrothers.in
 DOMAIN-SUFFIX,dns.gussguss.ovh
 DOMAIN-SUFFIX,dns.gutwe.in
 DOMAIN-SUFFIX,nas.guyifei.cn
-DOMAIN-SUFFIX,adguard.guyot.group
 DOMAIN-SUFFIX,hkns.gzelvis.com
 DOMAIN-SUFFIX,gztech.me
 DOMAIN-SUFFIX,dns.h0schi.cloud
@@ -1614,14 +1611,11 @@ DOMAIN-SUFFIX,dns.huseynov.work
 DOMAIN-SUFFIX,dns.huth.nu
 DOMAIN-SUFFIX,v2-1.huwenqiang.xyz
 DOMAIN-SUFFIX,ad.huyct.net
-DOMAIN-SUFFIX,dns.huyhoangit.net
 DOMAIN-SUFFIX,dns.huyizhou.com
-DOMAIN-SUFFIX,dns.huynd.click
 DOMAIN-SUFFIX,dns.hva.li
 DOMAIN-SUFFIX,dns.hwtwco.uk
 DOMAIN-SUFFIX,d.hxhd.cc
 DOMAIN-SUFFIX,dns.hyas.com
-DOMAIN-SUFFIX,dns.hypercute.eu
 DOMAIN-SUFFIX,hkg.hytec.org
 DOMAIN-SUFFIX,ur.hytec.org
 DOMAIN-SUFFIX,ns1.i-evolve.net
