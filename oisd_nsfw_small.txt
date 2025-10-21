@@ -1,9 +1,9 @@
-# Version: 202510211527
+# Version: 202510211928
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20851
-# Last modified: 2025-10-21T15:27:52+0000
+# Entries: 20853
+# Last modified: 2025-10-21T19:28:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3445,6 +3445,7 @@
 +.cinepoptv.net
 +.cinepornogratis.com
 +.cinetecagay.com
++.cineville.nl
 +.circusporn.com
 +.cirillas.com
 +.cita-caliente.com
@@ -16307,6 +16308,7 @@
 +.sick-r.com
 +.sickjunk.com
 +.sierrascalientes.com
++.sieukhung.fan
 +.sihteeriopisto.com
 +.sikwap.mobi
 +.silencescan.com.br
