@@ -1,9 +1,9 @@
-# Version: 202510211428
+# Version: 202510211527
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20850
-# Last modified: 2025-10-21T14:28:28+0000
+# Entries: 20851
+# Last modified: 2025-10-21T15:27:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2748,6 +2748,7 @@
 +.bravotube.com
 +.bravotube.net
 +.bravotube.tv
++.bravotv.com
 +.bravovids.com
 +.brazilian-transsexuals.com
 +.brazilianhotwife.com
@@ -4537,6 +4538,7 @@
 +.eastguys.net
 +.eastrader.net
 +.easy-rencontres.com
++.easyflirt.com
 +.easygaychat.com
 +.easyporn.xxx
 +.easyrencontre.com
@@ -9654,7 +9656,6 @@
 +.largehdtube.com
 +.largepornfilms.com
 +.largeporntube.com
-+.largesexyvideos.com
 +.largetube.net
 +.lasip.net
 +.lasl.ru
