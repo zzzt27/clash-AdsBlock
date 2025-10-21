@@ -1,9 +1,9 @@
-# Version: 202510212127
+# Version: 202510212227
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21051
-# Last modified: 2025-10-21T21:27:23+0000
+# Entries: 21053
+# Last modified: 2025-10-21T22:27:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15134,6 +15134,7 @@
 +.runthegauntlet.org
 +.ruperttube.net
 +.rupertxtube.com
++.ruporno.cloud
 +.rupornohub.ru
 +.rus-massage.com
 +.rus-ozvuchka.ru
@@ -19095,6 +19096,7 @@
 +.webpornhub.com
 +.webpshow.com
 +.webpussi.com
++.webself.net
 +.webseriessex.com
 +.websexfilms.com
 +.websexx.com
