@@ -1,9 +1,9 @@
-# Version: 202510211327
+# Version: 202510211428
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20849
-# Last modified: 2025-10-21T13:27:01+0000
+# Entries: 20850
+# Last modified: 2025-10-21T14:28:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -967,6 +967,7 @@
 +.amateurstate.com
 +.amateursxxxtube.com
 +.amateurvoyeurforum.com
++.amateurx.com
 +.amateurxxxgay.com
 +.amateuryoungpics.com
 +.amatoralbum.hu
