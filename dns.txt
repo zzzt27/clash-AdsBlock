@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 23:26 UTC
-# Version: 2025.1019.2326.37
+# Last modified: 21 Oct 2025 11:30 UTC
+# Version: 2025.1021.1130.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3394
+# Number of entries: 3400
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -227,6 +227,7 @@ DOMAIN-SUFFIX,management.alexpollard.net
 DOMAIN-SUFFIX,httpdns.alicdn.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,dns.aliyun.com
+DOMAIN-SUFFIX,resolvers-cn.httpdns.aliyuncs.com
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
 DOMAIN-SUFFIX,alleesph.online
@@ -2082,6 +2083,8 @@ DOMAIN-SUFFIX,dns.megaong.com
 DOMAIN-SUFFIX,v2202405224322270920.megasrv.de
 DOMAIN-SUFFIX,ovhcloud.mehmetarikan.tech
 DOMAIN-SUFFIX,httpdns.meituan.com
+DOMAIN-SUFFIX,httpdnsmultiapi.meituan.com
+DOMAIN-SUFFIX,httpdnsmultiapivip.meituan.com
 DOMAIN-SUFFIX,httpdnsvip.meituan.com
 DOMAIN-SUFFIX,dns.melvin2204.nl
 DOMAIN-SUFFIX,meowless.club
@@ -2629,6 +2632,7 @@ DOMAIN-SUFFIX,dns.qpt.one
 DOMAIN-SUFFIX,dns2.qpt.one
 DOMAIN-SUFFIX,httpdns.kg.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,udns.weixin.qq.com
 DOMAIN-SUFFIX,ns1.qquack.org
 DOMAIN-SUFFIX,log.qrsoft.ru
 DOMAIN-SUFFIX,dns.qrtz.club
@@ -3243,6 +3247,7 @@ DOMAIN-SUFFIX,doh.webnmail.de
 DOMAIN-SUFFIX,zuhause.webteufel.net
 DOMAIN-SUFFIX,webteufel-it.solutions
 DOMAIN-SUFFIX,dns.wechat.com
+DOMAIN-SUFFIX,paydns.wechatpay.cn
 DOMAIN-SUFFIX,resov.wehao.net
 DOMAIN-SUFFIX,dns.weibo.cn
 DOMAIN-SUFFIX,home.weisbrod.me
@@ -3379,6 +3384,7 @@ DOMAIN-SUFFIX,d.zhanchuraevv.ru
 DOMAIN-SUFFIX,zhengkaiyun.top
 DOMAIN-SUFFIX,dns140.zhhz.cc
 DOMAIN-SUFFIX,dns168.zhhz.cc
+DOMAIN-SUFFIX,httpdns.zhihu.com
 DOMAIN-SUFFIX,doh.zhongbr.uk
 DOMAIN-SUFFIX,res.zijji.com
 DOMAIN-SUFFIX,adguard01.zitronen-server.de
