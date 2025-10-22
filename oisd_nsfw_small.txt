@@ -1,9 +1,9 @@
-# Version: 202510221025
+# Version: 202510221525
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21069
-# Last modified: 2025-10-22T10:25:07+0000
+# Entries: 21070
+# Last modified: 2025-10-22T15:25:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -228,6 +228,7 @@
 +.33winsex.com
 +.33yr.com
 +.35p-cheap-phone-sex.com
++.35photo.ru
 +.365fucks.com
 +.365pornmovs.com
 +.365porno-onlain.net
