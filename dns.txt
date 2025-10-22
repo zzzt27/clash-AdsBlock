@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 23:30 UTC
-# Version: 2025.1021.2330.34
+# Last modified: 21 Oct 2025 11:30 UTC
+# Version: 2025.1021.1130.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3403
+# Number of entries: 3400
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -2630,10 +2630,8 @@ DOMAIN-SUFFIX,dns.qkc.fr
 DOMAIN-SUFFIX,dot.qooqle.date
 DOMAIN-SUFFIX,dns.qpt.one
 DOMAIN-SUFFIX,dns2.qpt.one
-DOMAIN-SUFFIX,dns.qq.com
 DOMAIN-SUFFIX,httpdns.kg.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
-DOMAIN-SUFFIX,paydns.weixin.qq.com
 DOMAIN-SUFFIX,udns.weixin.qq.com
 DOMAIN-SUFFIX,ns1.qquack.org
 DOMAIN-SUFFIX,log.qrsoft.ru
@@ -3084,7 +3082,6 @@ DOMAIN-SUFFIX,adguard.titov.es
 DOMAIN-SUFFIX,dns.titov.cz
 DOMAIN-SUFFIX,tk31z.com
 DOMAIN-SUFFIX,dns.tkhome.nl
-DOMAIN-SUFFIX,sdkconfig.tlivedns.com
 DOMAIN-SUFFIX,dns.tls-data.de
 DOMAIN-SUFFIX,tlz.asia
 DOMAIN-SUFFIX,adguard.tmdproject.nl
