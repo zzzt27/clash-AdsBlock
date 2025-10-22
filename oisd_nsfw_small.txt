@@ -1,9 +1,9 @@
-# Version: 202510220224
+# Version: 202510220423
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21063
-# Last modified: 2025-10-22T02:24:35+0000
+# Entries: 21064
+# Last modified: 2025-10-22T04:23:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -829,6 +829,7 @@
 +.alldesiporn.com
 +.alldojki.pw
 +.allebonygals.com
++.allepaginas.nl
 +.allesoverseks.be
 +.allfatpics.com
 +.allfet.net
