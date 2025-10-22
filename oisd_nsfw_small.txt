@@ -1,9 +1,9 @@
-# Version: 202510212227
+# Version: 202510212327
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21053
-# Last modified: 2025-10-21T22:27:03+0000
+# Entries: 21056
+# Last modified: 2025-10-21T23:27:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -324,6 +324,7 @@
 +.5-a-7.com
 +.502porn.com
 +.505xxx.net
++.50megs.com
 +.50plusmilfs.com
 +.51-cg.com
 +.51porn1.com
@@ -5626,6 +5627,7 @@
 +.fim-sex.com
 +.fimitere.com.tr
 +.fimsex.blog
++.finance.blog
 +.find-singles-online.com
 +.find-your-slut.com
 +.findadeath.com
@@ -11254,6 +11256,7 @@
 +.musclegrowth.net
 +.musculoduro.net
 +.mushusei4.top
++.music.blog
 +.mustvideos.com
 +.musyuuseiland.com
 +.mutterfickt.com
