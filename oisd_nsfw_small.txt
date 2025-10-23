@@ -1,9 +1,9 @@
-# Version: 202510222224
+# Version: 202510222324
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21120
-# Last modified: 2025-10-22T22:24:06+0000
+# Entries: 21121
+# Last modified: 2025-10-22T23:24:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -20378,6 +20378,7 @@
 +.xxxahlam.com
 +.xxxamadores.com
 +.xxxanalweb.com
++.xxxanimehentai24.com
 +.xxxanimesex.net
 +.xxxarabgirls.com
 +.xxxasianporn245.com
