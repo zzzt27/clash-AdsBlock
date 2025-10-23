@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 23:30 UTC
-# Version: 2025.1021.2330.34
+# Last modified: 22 Oct 2025 23:30 UTC
+# Version: 2025.1022.2330.17
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3403
+# Number of entries: 3397
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -685,7 +685,6 @@ DOMAIN-SUFFIX,hk.conana.info
 DOMAIN-SUFFIX,dns1.conne.net
 DOMAIN-SUFFIX,dns.connect.fail
 DOMAIN-SUFFIX,dns.consoro.eu
-DOMAIN-SUFFIX,dns.containerpi.com
 DOMAIN-SUFFIX,dns.controld.com
 DOMAIN-SUFFIX,doh.controld.com
 DOMAIN-SUFFIX,freedns.controld.com
@@ -1137,7 +1136,6 @@ DOMAIN-SUFFIX,krtekvpn.duckdns.org
 DOMAIN-SUFFIX,ldaman.duckdns.org
 DOMAIN-SUFFIX,leoadguard.duckdns.org
 DOMAIN-SUFFIX,nas1403.duckdns.org
-DOMAIN-SUFFIX,nqh-dns.duckdns.org
 DOMAIN-SUFFIX,o--o.duckdns.org
 DOMAIN-SUFFIX,osefcorp.duckdns.org
 DOMAIN-SUFFIX,punono.duckdns.org
@@ -1174,7 +1172,6 @@ DOMAIN-SUFFIX,flyloadguard.dynu.net
 DOMAIN-SUFFIX,oostelbos.dynu.com
 DOMAIN-SUFFIX,quangdo92.dynu.net
 DOMAIN-SUFFIX,saomai.dynu.com
-DOMAIN-SUFFIX,gustamadh.dynv6.net
 DOMAIN-SUFFIX,dns.dynx.pro
 DOMAIN-SUFFIX,adg.dz.ax
 DOMAIN-SUFFIX,az.dz4fun.top
@@ -2273,7 +2270,6 @@ DOMAIN-SUFFIX,dns.native.cat
 DOMAIN-SUFFIX,dns.ndo.dev
 DOMAIN-SUFFIX,tk2-404-43267.vs.sakura.ne.jp
 DOMAIN-SUFFIX,dns.neeb.it
-DOMAIN-SUFFIX,dns.nefret.net
 DOMAIN-SUFFIX,dns.nekofish.cc
 DOMAIN-SUFFIX,nelsonleung.org
 DOMAIN-SUFFIX,adguard.neotix.net
@@ -2508,8 +2504,6 @@ DOMAIN-SUFFIX,dns.pgnhatrang.com
 DOMAIN-SUFFIX,phantom3c.net
 DOMAIN-SUFFIX,dns.phillipjberry.net
 DOMAIN-SUFFIX,philqoo.com
-DOMAIN-SUFFIX,doh.pi-dns.com
-DOMAIN-SUFFIX,doh.westeu.pi-dns.com
 DOMAIN-SUFFIX,adg.pidns.de
 DOMAIN-SUFFIX,adguard.piekacz.pl
 DOMAIN-SUFFIX,dns.pierzchlewicz.pl
