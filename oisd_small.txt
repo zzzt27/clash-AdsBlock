@@ -1,9 +1,9 @@
-# Version: 202510240120
+# Version: 202510240219
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 47351
-# Last modified: 2025-10-24T01:20:24+0000
+# Entries: 47348
+# Last modified: 2025-10-24T02:19:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10403,7 +10403,6 @@
 +.cf-pixelfront-analytics.widencdn.net
 +.cf.adxcel.com
 +.cf.overblog.com
-+.cf6fae15c3.com
 +.cf852ff956.eef857d1fa.com
 +.cf9e554a8a.4353740d36.com
 +.cfa-js.cafe24.com
@@ -14865,7 +14864,6 @@
 +.digestivebackwards.com
 +.digestivepresenceclimb.com
 +.digestsolicitorpolar.com
-+.diget.xyz
 +.digi.vinut.com.vn
 +.digiads.tv
 +.digital-ads.s3.amazonaws.com
@@ -16109,7 +16107,6 @@
 +.e8d7.icu
 +.e9093193fa.8111f7e70e.com
 +.e91ab5975e.623efad9ac.com
-+.e92c130c8b.com
 +.e993.wlky.com
 +.e9a5ed7d7a.com
 +.ea.auchantelecom.fr
