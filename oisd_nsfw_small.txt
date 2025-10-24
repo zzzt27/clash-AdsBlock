@@ -1,9 +1,9 @@
-# Version: 202510240923
+# Version: 202510241023
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21089
-# Last modified: 2025-10-24T09:23:35+0000
+# Entries: 21090
+# Last modified: 2025-10-24T10:23:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17347,6 +17347,7 @@
 +.temagay.org.es
 +.temancoli.org
 +.tempocams.com
++.temporary.site
 +.temptingangels.org
 +.temptingtown.com
 +.tenderbang.com
