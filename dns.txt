@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 23:30 UTC
-# Version: 2025.1022.2330.17
+# Last modified: 23 Oct 2025 21:31 UTC
+# Version: 2025.1023.2131.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3397
+# Number of entries: 3398
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -2235,6 +2235,7 @@ DOMAIN-SUFFIX,de-fsn-w-p-1.nashkan.net
 DOMAIN-SUFFIX,fi-hel-w-f-2.nashkan.net
 DOMAIN-SUFFIX,fi-hel-w-p-1.nashkan.net
 DOMAIN-SUFFIX,fr-gra-w-p-1.nashkan.net
+DOMAIN-SUFFIX,gb-cov-w-f-1.nashkan.net
 DOMAIN-SUFFIX,gb-cov-w-f-2.nashkan.net
 DOMAIN-SUFFIX,gb-cov-w-p-1.nashkan.net
 DOMAIN-SUFFIX,gb-lon-w-f-1.nashkan.net
