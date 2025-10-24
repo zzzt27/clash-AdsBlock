@@ -1,9 +1,9 @@
-# Version: 202510241524
+# Version: 202510241724
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21091
-# Last modified: 2025-10-24T15:24:17+0000
+# Entries: 21092
+# Last modified: 2025-10-24T17:24:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12643,6 +12643,7 @@
 +.pensamentodeprazer.com
 +.penthouse.com
 +.penthousegold.com
++.penthousetv.video
 +.peopleenespanol.com
 +.pepeporn.com
 +.pephop.ai
