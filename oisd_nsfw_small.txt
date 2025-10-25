@@ -1,9 +1,9 @@
-# Version: 202510251525
+# Version: 202510251826
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21078
-# Last modified: 2025-10-25T15:25:17+0000
+# Entries: 21079
+# Last modified: 2025-10-25T18:26:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2429,6 +2429,7 @@
 +.bleachbooru.org
 +.bleachmyeyes.com
 +.blissbox.com
++.blissos.org
 +.blockbuster.com
 +.blog.hu
 +.blog4ever.com

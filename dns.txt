@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:46 UTC
-# Version: 2025.1025.1646.26
+# Last modified: 25 Oct 2025 09:03 UTC
+# Version: 2025.1025.0903.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3399
+# Number of entries: 3400
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -569,6 +569,7 @@ DOMAIN-SUFFIX,cloudbenders.fun
 DOMAIN-SUFFIX,dns.cloudfiction.eu
 DOMAIN-SUFFIX,dns.233py.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,dns.cloudflare.com
+DOMAIN-SUFFIX,ada.ns.cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-gateway.com
 DOMAIN-SUFFIX,api.cloudflareclient.com
