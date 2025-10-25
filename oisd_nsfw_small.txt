@@ -1,9 +1,9 @@
-# Version: 202510250223
+# Version: 202510250423
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21074
-# Last modified: 2025-10-25T02:23:39+0000
+# Entries: 21077
+# Last modified: 2025-10-25T04:23:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1600,6 +1600,7 @@
 +.avgo.tv
 +.avhd101.com
 +.avhu.com
++.avhwa.com
 +.aviasales.ru
 +.avideos.xxx
 +.avidolpics.com
@@ -6822,6 +6823,7 @@
 +.goit.global
 +.gojav-hd.com
 +.goladivka.com
++.golapristan.com
 +.gold-gay.com
 +.goldasiantits.com
 +.goldenbbw.com
@@ -20725,6 +20727,7 @@
 +.yaoimangaonline.com
 +.yapatube.com
 +.yapfiles.ru
++.yapl2.com
 +.yapornoham.vip
 +.yareel.com
 +.yaroslavlsm.com
