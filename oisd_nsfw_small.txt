@@ -1,9 +1,9 @@
-# Version: 202510250423
+# Version: 202510251525
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21077
-# Last modified: 2025-10-25T04:23:32+0000
+# Entries: 21078
+# Last modified: 2025-10-25T15:25:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13915,6 +13915,7 @@
 +.pornorusskoe365.fans
 +.pornorusskoe365.today
 +.pornorusskoe365.zip
++.pornorusskoe369.center
 +.pornorusskoe369.fans
 +.pornos245.com
 +.pornosaitebi.com
