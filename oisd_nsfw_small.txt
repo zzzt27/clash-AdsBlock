@@ -1,9 +1,9 @@
-# Version: 202510242223
+# Version: 202510250029
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21071
-# Last modified: 2025-10-24T22:23:18+0000
+# Entries: 21073
+# Last modified: 2025-10-25T00:29:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1553,6 +1553,7 @@
 +.auntynights.com
 +.aus99forum.com
 +.autoblow.com
++.autolinkweb.com
 +.autostraddle.com
 +.av-mad.com
 +.av-matome.jp
@@ -20893,6 +20894,7 @@
 +.yumatu.net
 +.yummypornos.com
 +.yuri.live
++.yuriscenes.com
 +.yurivideo.com
 +.yuvideos.com
 +.yuvutu.com
