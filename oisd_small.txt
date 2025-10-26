@@ -1,9 +1,9 @@
-# Version: 202510261020
+# Version: 202510261158
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 47388
-# Last modified: 2025-10-26T10:20:29+0000
+# Entries: 47365
+# Last modified: 2025-10-26T11:58:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1092,7 +1092,6 @@
 +.57883.net
 +.579eede9ca.com
 +.5812afc7cb.com
-+.58686728.xyz
 +.58745.clicknplay.to
 +.58rfnch2yq.com
 +.58shuz.com
@@ -3497,6 +3496,7 @@
 +.ads-server.mxplay.com
 +.ads-service.api.linkme.global
 +.ads-sg.tiktok.com
++.ads-static.conde.digital
 +.ads-static.recon.com
 +.ads-thanhnien-vn.cdn.ampproject.org
 +.ads-tracking.collectiveaudience.co
@@ -4677,7 +4677,6 @@
 +.afzueoruiqlx.online
 +.agaarvusbarpp.space
 +.agaenteitor.com
-+.agagolemon.com
 +.againandagain.biz
 +.againboundless.com
 +.againdivine.com
@@ -4957,7 +4956,6 @@
 +.aktivator-windows10.blogspot.com
 +.akucord.com
 +.akuhni.by
-+.akuleamazona.shop
 +.akupmhxbzdhau.space
 +.akusherok.ru
 +.akutapro.com
@@ -5328,7 +5326,6 @@
 +.amidoxytabagie.casa
 +.amillionads.com
 +.amindedtallero.click
-+.amjknftppxtd.com
 +.amjoltiktor.com
 +.aml.valuecommerce.com
 +.amlumineona.com
@@ -5401,7 +5398,6 @@
 +.amusingsnow.pro
 +.amvbwleayvabj.top
 +.amvbwleayvoba.top
-+.amvbwlerkyejb.top
 +.amwatching.com
 +.amwgisnagixqe.store
 +.amwoukrkskillso.com
@@ -8667,7 +8663,6 @@
 +.blushingbackup.com
 +.blusterflintbig.com
 +.blusterhawspontaneous.com
-+.blwqcufrbzjym.space
 +.blwviknoqfpij.online
 +.blypesusanne.help
 +.blyqvidllwukv.website
@@ -11633,7 +11628,6 @@
 +.concludelivingshowman.com
 +.concord.systems
 +.concurfortunes.com
-+.conde.digital
 +.condemnfundraiserjune.com
 +.conditioneavesdroppingbarter.com
 +.condles-temark.com
@@ -15524,7 +15518,6 @@
 +.dpuz3hexyabm1.cloudfront.net
 +.dpvztnqfkmlbs.store
 +.dpxadf.icu
-+.dpxbxhqx.net
 +.dq06u9lt5akr2.cloudfront.net
 +.dq3yxnlzwhcys.cloudfront.net
 +.dq95d35.com
@@ -18030,8 +18023,6 @@
 +.ffswithabras.com
 +.fft.delovoemesto.ru
 +.fftwljklhkigm.site
-+.fgeivosgjk.com
-+.fghjpxqwpwlug.website
 +.fgip.rosehosting.com
 +.fgjaelzvzxtdq.rocks
 +.fgk-jheepn.site
@@ -19808,6 +19799,7 @@
 +.globalinteractive.com
 +.globalismedia.com
 +.globaloffers.link
++.globalservices.conde.digital
 +.globaltakeoff.net
 +.globaltraffico.com
 +.globalwoldsinc.com
@@ -20417,9 +20409,7 @@
 +.gsp1.baidu.com
 +.gspkethascafr.online
 +.gspubterc.site
-+.gsqwjyws.com
 +.gsrctroclqloz.tech
-+.gssfbchkisidg.com
 +.gsspat.jp
 +.gsspcln.jp
 +.gsurl.in
@@ -21264,7 +21254,6 @@
 +.hippobulse.com
 +.hiprofitnetworks.com
 +.hipub.hiwit.org
-+.hirurdou.net
 +.hisisathlle.com
 +.histats.com
 +.histi.co
@@ -23418,7 +23407,6 @@
 +.jitterspauperusher.com
 +.jitterystation.com
 +.jiuyic.top
-+.jiwtwaogh.com
 +.jixdwtlveqhrl.online
 +.jixurt.icu
 +.jizzarchives.com
@@ -23988,7 +23976,6 @@
 +.kbygma.icu
 +.kbylvuaxsrtoi.site
 +.kbzevgvukgueg.store
-+.kbzrymmgfsimc.space
 +.kc3mmffdbt.com
 +.kccmesbbwdvbr.space
 +.kcdnbeczdhqea.space
@@ -26226,7 +26213,6 @@
 +.lvvbqeaqvrmvy.top
 +.lvwytobyemady.online
 +.lvyowwkqevjm.top
-+.lvyrokjbvverj.top
 +.lvyrokjbvvoor.top
 +.lvyrokjljvbvk.top
 +.lvyrokjljvqrm.top
@@ -28736,7 +28722,6 @@
 +.nhcgucgrsnupg.online
 +.nheopaobzlrqc.site
 +.nhgpidvhdzm.vip
-+.nhgqvqfwb.com
 +.nhkstivqaqwvz.store
 +.nhlrspxvdmuea.site
 +.nhqkijpqeguuh.store
@@ -29837,7 +29822,6 @@
 +.omomku7r4n3vo55rp5k.xyz
 +.omoonsih.net
 +.omoscmh.studio
-+.ompdzjlsiqmlv.site
 +.ompe2.7u6h8.xyz
 +.omphacyyolk.shop
 +.omqdqupnwbqow.space
@@ -32530,7 +32514,6 @@
 +.prx.wayfair.com
 +.prxuapqwdrdin.website
 +.pryingcavemen.cfd
-+.prylmgvesdsm.com
 +.pryqzoejbfxro.store
 +.ps1.reallifecam.to
 +.ps2.camcaps.to
@@ -32829,7 +32812,6 @@
 +.pushadvert.bid
 +.pushaffiliate.net
 +.pushagim.com
-+.pushamir.com
 +.pushance.com
 +.pushatomic.com
 +.pushazam.com
@@ -33150,7 +33132,6 @@
 +.qerkbejkbqojj.top
 +.qernnbahzjdjf.online
 +.qesrnpogpignd.store
-+.qetacmekjf.com
 +.qeugcdcjr000.fun
 +.qevseeymcpxby.click
 +.qeyeaglxcfpvi.space
@@ -41102,7 +41083,6 @@
 +.track.sunmedia.tv
 +.track.taimi.com
 +.track.tel1mekar.com
-+.track.tenjin.com
 +.track.thebase.in
 +.track.thefunpost.com
 +.track.tomwx.net
@@ -42728,7 +42708,6 @@
 +.up-banner.wavecdn.net
 +.up-hl.3g.qq.com
 +.up.admoxi.com
-+.upacrlrjucyx.net
 +.upajstaevojkf.website
 +.upalytics.com
 +.uparceuson.com
@@ -44515,7 +44494,6 @@
 +.wgoto.xyz
 +.wgvmzdmasfoyu.store
 +.wgvqa.club
-+.wgwiylazhokva.website
 +.wgzaprexwmzki.site
 +.whackclumsiness.com
 +.whackedburdon.com
@@ -46641,7 +46619,6 @@
 +.yntherplunge.com
 +.yntvrgqkwlwag.site
 +.ynurfigldblbt.online
-+.ynusrfcfba.com
 +.ynvtepiimtshs.store
 +.ynzhby.com
 +.yoads.net
