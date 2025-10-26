@@ -1,9 +1,9 @@
-# Version: 202510252224
+# Version: 202510260427
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21099
-# Last modified: 2025-10-25T22:24:56+0000
+# Entries: 21098
+# Last modified: 2025-10-26T04:27:16+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4364,7 +4364,6 @@
 +.dochki.net
 +.docs-lab.com
 +.doctruyen14.vip
-+.doctruyen69vn.com
 +.documentingreality.com
 +.doeda.com
 +.doeda.one
