@@ -1,9 +1,9 @@
-# Version: 202510270211
+# Version: 202510270426
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21011
-# Last modified: 2025-10-27T02:11:23+0000
+# Entries: 21010
+# Last modified: 2025-10-27T04:26:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5576,7 +5576,6 @@
 +.fetside.com
 +.fetster.com
 +.fewporn.pro
-+.feyanovisib.net
 +.feysam.net
 +.ffetish.photos
 +.ffetish.video
