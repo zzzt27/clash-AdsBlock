@@ -1,9 +1,9 @@
-# Version: 202510270624
+# Version: 202510271025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21010
-# Last modified: 2025-10-27T06:24:13+0000
+# Entries: 21009
+# Last modified: 2025-10-27T10:25:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17375,7 +17375,6 @@
 +.the-pornflix.cfd
 +.the-redtube.bond
 +.the-sexy-tube.online
-+.the-tube8.cfd
 +.the-vulgar-tube.ru
 +.the-vulgar-tube.site
 +.the-xnxx.click
