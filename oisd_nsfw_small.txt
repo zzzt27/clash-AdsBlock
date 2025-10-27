@@ -1,9 +1,9 @@
-# Version: 202510271025
+# Version: 202510271125
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21009
-# Last modified: 2025-10-27T10:25:04+0000
+# Entries: 21011
+# Last modified: 2025-10-27T11:25:06+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5729,6 +5729,7 @@
 +.fistingtwisting.com
 +.fit.porn
 +.fitnakedgirls.com
++.fitness.blog
 +.fitting-room.com
 +.fivestarpornsites.com
 +.fkbae.to
@@ -10205,6 +10206,7 @@
 +.lustfulebony.com
 +.lustfulporno.com
 +.lustgames.org
++.lustgirlsplay.com
 +.lustgoddess.com
 +.lusthaus.cc
 +.lusthaus.live

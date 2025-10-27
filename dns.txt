@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 22:27 UTC
-# Version: 2025.1026.2227.04
+# Last modified: 27 Oct 2025 10:29 UTC
+# Version: 2025.1027.1029.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3400
+# Number of entries: 3401
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -1185,6 +1185,7 @@ DOMAIN-SUFFIX,dns.eddi.net
 DOMAIN-SUFFIX,doh.eddi.net
 DOMAIN-SUFFIX,dns.edgeburnmedia.com
 DOMAIN-SUFFIX,dns.edgeworkssystems.ca
+DOMAIN-SUFFIX,edgy-dns.com
 DOMAIN-SUFFIX,agh.amber.edu.vn
 DOMAIN-SUFFIX,adblocker.institutobancario.edu.mx
 DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
