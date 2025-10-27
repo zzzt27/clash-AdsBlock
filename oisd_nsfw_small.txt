@@ -1,9 +1,9 @@
-# Version: 202510271626
+# Version: 202510271826
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21011
-# Last modified: 2025-10-27T16:26:20+0000
+# Entries: 21009
+# Last modified: 2025-10-27T18:26:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -717,7 +717,6 @@
 +.afroromance.com
 +.afspraakjes.be
 +.afspraakjes.com
-+.againgay.com
 +.agama-sex.cz
 +.agat-tech.com
 +.agaysex.com
@@ -13170,7 +13169,6 @@
 +.pornarabi.net
 +.pornarch.com
 +.pornasia.net
-+.pornati.com
 +.pornav.co
 +.pornav.net
 +.pornavhd.com
