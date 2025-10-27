@@ -1,9 +1,9 @@
-# Version: 202510271826
+# Version: 202510272026
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21009
-# Last modified: 2025-10-27T18:26:23+0000
+# Entries: 21008
+# Last modified: 2025-10-27T20:26:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15991,7 +15991,6 @@
 +.sexstalk.com
 +.sexstories.com
 +.sexstories69.com
-+.sexstoriespost.com
 +.sexstoryking.com
 +.sexstunner.com
 +.sexsub5.lol
