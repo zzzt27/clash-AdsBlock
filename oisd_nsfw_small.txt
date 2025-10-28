@@ -1,9 +1,9 @@
-# Version: 202510272226
+# Version: 202510272328
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20979
-# Last modified: 2025-10-27T22:26:37+0000
+# Entries: 20978
+# Last modified: 2025-10-27T23:28:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13967,7 +13967,6 @@
 +.pornoxo.com
 +.pornoxo3.com
 +.pornoxota.com
-+.pornoxxx.com
 +.pornoxxx.vip
 +.pornoxxx.wtf
 +.pornoxxxworld.com
