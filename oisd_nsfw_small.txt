@@ -1,9 +1,9 @@
-# Version: 202510272328
+# Version: 202510280125
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20978
-# Last modified: 2025-10-27T23:28:50+0000
+# Entries: 20977
+# Last modified: 2025-10-28T01:25:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15704,7 +15704,6 @@
 +.sexhoundlinks.com
 +.sexhqvideo.com
 +.sexhub.dk
-+.sexhub1.com
 +.sexhunt.dk
 +.sexic.net
 +.sexier.com
