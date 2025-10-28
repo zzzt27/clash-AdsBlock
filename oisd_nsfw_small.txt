@@ -1,9 +1,9 @@
-# Version: 202510280125
+# Version: 202510280724
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20977
-# Last modified: 2025-10-28T01:25:08+0000
+# Entries: 20978
+# Last modified: 2025-10-28T07:24:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8123,6 +8123,7 @@
 +.huivpizde.com
 +.humaniplex.com
 +.humidorshop.at
++.humor-blog.com
 +.humoron.com
 +.humpaki.com
 +.humpinglife.com
