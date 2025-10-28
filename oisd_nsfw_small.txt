@@ -1,9 +1,9 @@
-# Version: 202510281225
+# Version: 202510281526
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 20977
-# Last modified: 2025-10-28T12:25:39+0000
+# Entries: 20978
+# Last modified: 2025-10-28T15:26:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1327,6 +1327,7 @@
 +.arousingdates.com
 +.arousr.com
 +.arporn.com
++.arporncam.com
 +.arquivoporno.net
 +.artdeseduire.com
 +.artfile.ru
