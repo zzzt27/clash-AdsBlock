@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:34 UTC
-# Version: 2025.1203.1834.29
+# Last modified: 03 Dec 2025 10:36 UTC
+# Version: 2025.1203.1036.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3368
+# Number of entries: 3371
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -2093,6 +2093,7 @@ DOMAIN-SUFFIX,mikewaddick.com
 DOMAIN-SUFFIX,mikezhang.xyz
 DOMAIN-SUFFIX,dns.mikopono.nl
 DOMAIN-SUFFIX,rwkdwpwsyv48.mikopono.nl
+DOMAIN-SUFFIX,ukns.milangas2.top
 DOMAIN-SUFFIX,dns.milkpie.one
 DOMAIN-SUFFIX,aitkcrev.minhduc.pw
 DOMAIN-SUFFIX,minilla.store
@@ -2200,6 +2201,7 @@ DOMAIN-SUFFIX,dns.mzrme.cn
 DOMAIN-SUFFIX,dns.n23.io
 DOMAIN-SUFFIX,n8nmegapixar.online
 DOMAIN-SUFFIX,doh-ca.naftalie.net
+DOMAIN-SUFFIX,najiakeji.top
 DOMAIN-SUFFIX,dns.nako.kr
 DOMAIN-SUFFIX,chungocoai.name.vn
 DOMAIN-SUFFIX,adguard.quydang.name.vn
@@ -2236,6 +2238,7 @@ DOMAIN-SUFFIX,pl-waw-w-p-2.nashkan.net
 DOMAIN-SUFFIX,ro-buc-w-f-1.nashkan.net
 DOMAIN-SUFFIX,ro-buc-w-p-1.nashkan.net
 DOMAIN-SUFFIX,sg-w-f-1.nashkan.net
+DOMAIN-SUFFIX,sg-w-f-2.nashkan.net
 DOMAIN-SUFFIX,sg-w-p-1.nashkan.net
 DOMAIN-SUFFIX,tr-ist-w-p-2.nashkan.net
 DOMAIN-SUFFIX,us-ash-w-f-1.nashkan.net
