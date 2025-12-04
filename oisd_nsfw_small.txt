@@ -1,9 +1,9 @@
-# Version: 202512041809
+# Version: 202512041924
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19757
-# Last modified: 2025-12-04T18:09:00+0000
+# Entries: 19755
+# Last modified: 2025-12-04T19:24:30+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3625,7 +3625,6 @@
 +.conexionescercanas.com
 +.confrariars.com.br
 +.congdongmassage.com
-+.congress.gov
 +.contactetflirt.com
 +.contactmusic.com
 +.contactossex.com
@@ -18906,7 +18905,6 @@
 +.wtfpass.com
 +.wtfpeople.com
 +.wuiwui.com
-+.wuxiaworld.com
 +.wvids.com
 +.wvt24.top
 +.wwddd.buzz
