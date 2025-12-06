@@ -1,9 +1,9 @@
-# Version: 202512060309
+# Version: 202512060446
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19726
-# Last modified: 2025-12-06T03:09:31+0000
+# Entries: 19725
+# Last modified: 2025-12-06T04:46:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10752,7 +10752,6 @@
 +.miyueav.tv
 +.miyuhot.com
 +.mizinov.net
-+.mjh.nz
 +.mjporn.org
 +.mkiska.cc
 +.mkiska.net
