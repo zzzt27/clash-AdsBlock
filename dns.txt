@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 10:36 UTC
-# Version: 2025.1207.1036.38
+# Last modified: 07 Dec 2025 14:40 UTC
+# Version: 2025.1207.1440.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3346
+# Number of entries: 3347
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -309,6 +309,7 @@ DOMAIN-SUFFIX,dns.asysec.com
 DOMAIN-SUFFIX,adguardhome.atakorah.com
 DOMAIN-SUFFIX,next.atomix.in
 DOMAIN-SUFFIX,vps.atomix.in
+DOMAIN-SUFFIX,atris.cyou
 DOMAIN-SUFFIX,atsilva.link
 DOMAIN-SUFFIX,atsssgo.xyz
 DOMAIN-SUFFIX,dohtrial.att.net
