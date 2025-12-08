@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 02:40 UTC
-# Version: 2025.1208.0240.31
+# Last modified: 08 Dec 2025 10:37 UTC
+# Version: 2025.1208.1037.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3362
+# Number of entries: 3365
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -1572,6 +1572,7 @@ DOMAIN-SUFFIX,dns.hoian.one
 DOMAIN-SUFFIX,cloud2.holzmannclouddns.de
 DOMAIN-SUFFIX,socolov.home.ro
 DOMAIN-SUFFIX,adguard.home-lab-network.com
+DOMAIN-SUFFIX,home-server.store
 DOMAIN-SUFFIX,pi.homeanywhere.org
 DOMAIN-SUFFIX,admin.homedns.uk
 DOMAIN-SUFFIX,isolacje.homeip.net
@@ -1906,6 +1907,7 @@ DOMAIN-SUFFIX,dns.kukal.cz
 DOMAIN-SUFFIX,agh.kul-lippek.de
 DOMAIN-SUFFIX,dns.kusoneko.moe
 DOMAIN-SUFFIX,dns.kuuhaku.moe
+DOMAIN-SUFFIX,kx-97795-tr.xyz
 DOMAIN-SUFFIX,dns.kxy.ink
 DOMAIN-SUFFIX,dn.kyay006.cn
 DOMAIN-SUFFIX,agh.kyusang.win
@@ -1945,6 +1947,7 @@ DOMAIN-SUFFIX,externalmobiel.lekdijk.online
 DOMAIN-SUFFIX,lelux.fi
 DOMAIN-SUFFIX,dns.lepilleur.com
 DOMAIN-SUFFIX,dns.lermer.nl
+DOMAIN-SUFFIX,lesuo.top
 DOMAIN-SUFFIX,dns.levonet.sk
 DOMAIN-SUFFIX,lewsha.lol
 DOMAIN-SUFFIX,br2.lezainski.com
