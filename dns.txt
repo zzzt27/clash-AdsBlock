@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jan 2026 02:38 UTC
-# Version: 2026.0117.0238.53
+# Last modified: 16 Jan 2026 17:56 UTC
+# Version: 2026.0116.1756.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3473
+# Number of entries: 3475
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -2546,6 +2546,7 @@ DOMAIN-SUFFIX,adguard.pancybertronics.com
 DOMAIN-SUFFIX,adguard.pangerl.it
 DOMAIN-SUFFIX,dns.panszelescik.pl
 DOMAIN-SUFFIX,dns-ovh.panszelescik.pl
+DOMAIN-SUFFIX,paradise-human.shop
 DOMAIN-SUFFIX,dns.pari.network
 DOMAIN-SUFFIX,pashagame456.com
 DOMAIN-SUFFIX,paskam.xyz
@@ -2585,6 +2586,7 @@ DOMAIN-SUFFIX,dns.pieterdherde.com
 DOMAIN-SUFFIX,dns1.pietjacobs.be
 DOMAIN-SUFFIX,dns.pine-home.de
 DOMAIN-SUFFIX,pingbi.xyz
+DOMAIN-SUFFIX,pioko.net
 DOMAIN-SUFFIX,dns.pizzari.me
 DOMAIN-SUFFIX,doh.plaawan.uk
 DOMAIN-SUFFIX,helios.plan9-dns.com
