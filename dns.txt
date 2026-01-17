@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jan 2026 17:56 UTC
-# Version: 2026.0116.1756.28
+# Last modified: 16 Jan 2026 10:40 UTC
+# Version: 2026.0116.1040.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3475
+# Number of entries: 3477
 #
 DOMAIN-SUFFIX,ss.0001.xyz
 DOMAIN-SUFFIX,003153.xyz
@@ -2344,6 +2344,7 @@ DOMAIN-SUFFIX,dns.neeb.it
 DOMAIN-SUFFIX,adguard.neelyha.tk
 DOMAIN-SUFFIX,dns.nekofish.cc
 DOMAIN-SUFFIX,nelsonleung.org
+DOMAIN-SUFFIX,adguard.neotix.net
 DOMAIN-SUFFIX,dns.aa.net.uk
 DOMAIN-SUFFIX,positif4.cross.net.id
 DOMAIN-SUFFIX,guard-jkt-225.glosindo.net.id
@@ -2520,6 +2521,7 @@ DOMAIN-SUFFIX,noads.api.org.pl
 DOMAIN-SUFFIX,resolver.dnsprivacy.org.uk
 DOMAIN-SUFFIX,teslacoils.org.uk
 DOMAIN-SUFFIX,artemis.orionnexus.top
+DOMAIN-SUFFIX,ortudns.com
 DOMAIN-SUFFIX,dns.oryxlabs.com
 DOMAIN-SUFFIX,oscnl.site
 DOMAIN-SUFFIX,dns.osmenoga.com
